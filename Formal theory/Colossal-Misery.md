@@ -1,6 +1,10 @@
 # Theory of Colossal Misery
 ## By Shimon Mikhaelovich-Rabbinovich Lerman (Sam Lerman)
 
+(There are some really good ideas in this, it's just poorly written and not meant for sharing)
+
+I present to you notes I took unedited:
+
 ### Introduction
 
 We are on the surface of a 4D sphere (hyper-sphere). Like the Earth, every direction on that sphere leads back to itself.
