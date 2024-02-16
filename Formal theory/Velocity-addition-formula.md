@@ -1,4 +1,4 @@
-### Disproving experimental evidence
+## Disproving experimental evidence
 
 The velocity addition formula derivable from the Lorentz transformation, used as corroboration for the theory in subsequent experiments (e.g. Fizeau), derives a contradictory term for
 
@@ -16,7 +16,7 @@ $\frac{\partial x}{\partial t} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + 
 
 for pretty much all experimentally tested velocities $W = \frac{\partial x}{\partial t} \neq c$.
 
-### Deriving the velocity addition formula
+## Deriving the velocity addition formula
 
 Assume the Lorentz transformation. We have:
 
@@ -34,17 +34,29 @@ $x = \frac{x' + v t'}{\sqrt{1 - \frac{v^2}{c^2}}}$
 
 $t = \frac{t' + \frac{v x'}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}$
 
-Let's also define the following terms:
+Define the following terms:
 
-$\Delta x = \lim\limits_{h \to 0} x_{t + h} - x_{t} = \frac{x_{t' + h'}' + v (t' + h')}{\sqrt{1 - \frac{v^2}{c^2}}} - \frac{x_{t'}' + v t'}{\sqrt{1 - \frac{v^2}{c^2}}} = \frac{x_{t' + h'}' - x_{t'}' + v (t' + h') - v t'}{\sqrt{1 - \frac{v^2}{c^2}}} = \frac{x_{t' + h'}' - x_{t'}' + vh'}{\sqrt{1 - \frac{v^2}{c^2}}} = \frac{\Delta x' + v \Delta t'}{\sqrt{1 - \frac{v^2}{c^2}}}$
+$\Delta x = \lim\limits_{h \to 0} x_{t + h} - x_{t}$
 
-$\Delta t = \lim_{h \to 0} h$
-
-where
+$\Delta t = \lim\limits_{h \to 0} h$
 
 $\Delta x' = x_{t' + h'}' - x_{t'}'$
 
+where
+
 $\Delta t' = h' = \frac{h + \frac{v x_h}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}$
+
+by the Lorentz transformation.
+
+By the definition of derivative, we have:
+
+$\frac{\partial x}{\partial t} = \lim\limits_{h \to 0} \frac{x_{t + h} - x_{t}}{h} = \frac{\lim\limits_{h \to 0} x_{t + h} - x_{t}}{\lim\limits_{h \to 0} h} = \frac{\Delta x}{\Delta t}$
+
+$\frac{\partial x'}{\partial t'} = \lim\limits_{h' \to 0} \frac{x_{t' + h'}' - x_{t'}}{h'} = \frac{\lim\limits_{h' \to 0} x_{t + h}' - x_{t'}'}{\lim\limits_{h' \to 0} h'} =  \frac{\Delta x'}{\Delta t'}$
+
+Via the Lorentz transformation, we have:
+
+$\Delta x = \lim\limits_{h \to 0} x_{t + h} - x_{t} = \frac{x_{t' + h'}' + v (t' + h')}{\sqrt{1 - \frac{v^2}{c^2}}} - \frac{x_{t'}' + v t'}{\sqrt{1 - \frac{v^2}{c^2}}} = \frac{x_{t' + h'}' - x_{t'}' + v (t' + h') - v t'}{\sqrt{1 - \frac{v^2}{c^2}}} = \frac{x_{t' + h'}' - x_{t'}' + vh'}{\sqrt{1 - \frac{v^2}{c^2}}} = \frac{\Delta x' + v \Delta t'}{\sqrt{1 - \frac{v^2}{c^2}}}$
 
 Then we have:
 
