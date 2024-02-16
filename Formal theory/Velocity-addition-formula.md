@@ -44,7 +44,7 @@ $\Delta x' = x_{t' + h'}' - x_{t'}'$
 
 where
 
-$\Delta t' = h' = \frac{h + \frac{v x_h}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}$
+$\Delta t' = h' = \frac{h - \frac{v x_h}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}$
 
 by the Lorentz transformation.
 
@@ -52,7 +52,9 @@ By the definition of derivative, we have:
 
 $\frac{\partial x}{\partial t} = \lim\limits_{h \to 0} \frac{x_{t + h} - x_{t}}{h} = \frac{\lim\limits_{h \to 0} x_{t + h} - x_{t}}{\lim\limits_{h \to 0} h} = \frac{\Delta x}{\Delta t}$
 
-$\frac{\partial x'}{\partial t'} = \lim\limits_{h' \to 0} \frac{x_{t' + h'}' - x_{t'}}{h'} = \frac{\lim\limits_{h' \to 0} x_{t + h}' - x_{t'}'}{\lim\limits_{h' \to 0} h'} =  \frac{\Delta x'}{\Delta t'}$
+$\frac{\partial x'}{\partial t'} = \lim\limits_{h' \to 0} \frac{x_{t' + h'}' - x_{t'}}{h'} = \lim\limits_{h \to 0} \frac{x_{t' + h'}' - x_{t'}}{h'} = \frac{\lim\limits_{h \to 0} x_{t' + h'}' - x_{t'}'}{\lim\limits_{h \to 0} h'} =  \frac{\Delta x'}{\Delta t'}$
+
+since $h'$ and $h$ are strictly monotonic (as one approaches $0$, so does the other).
 
 Via the Lorentz transformation, we have:
 
