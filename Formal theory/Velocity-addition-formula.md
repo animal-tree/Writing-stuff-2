@@ -1,4 +1,4 @@
-## Disproving experimental evidence
+# Disproving experimental evidence
 
 The velocity addition formula derivable from the Lorentz transformation, used as corroboration for the theory in subsequent experiments (e.g. Fizeau), derives a contradictory term for
 
@@ -16,7 +16,7 @@ $\frac{\partial x}{\partial t} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + 
 
 for pretty much all experimentally tested velocities $W = \frac{\partial x}{\partial t} \neq c$.
 
-## Deriving the velocity addition formula
+# Deriving the velocity addition formula
 
 Assume the Lorentz transformation. We have:
 
@@ -45,8 +45,6 @@ $\Delta x' = x_{t' + h'}' - x_{t'}'$
 where
 
 $\Delta t' = h' = \frac{h - \frac{v x_h}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}$
-
-by the Lorentz transformation.
 
 By the definition of derivative, we have:
 
