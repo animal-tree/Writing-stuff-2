@@ -84,7 +84,7 @@ This is assumed in special relativity.
 
 **(4) $x_{0}^{(i)} = 0$.**
 
-This is assumed in special relativity and derivable from the constancy of light postulate $x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0$. Physical experiments can be designed to synchronize the clock counter with the initial position, so assuming Einstein's first postulate isn't exactly required.
+This is assumed in special relativity and derivable from the constancy of light postulate $x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0$. Physical experiment canconform the space origin of a given reference frame to the time origin, so assuming Einstein's first postulate isn't exactly required.
 
 ### Theorems
 
