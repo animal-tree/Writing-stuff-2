@@ -12,7 +12,7 @@ However, this contradicts the velocity addition formula:
 
 $\frac{\partial x}{\partial t} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + \frac{v}{c^2}\frac{\partial x'}{\partial t'}}$
 
-for pretty much all experimentally tested velocities $\frac{\partial x}{\partial t} < c$, e.g. an electron or light through a medium.
+for pretty much all experimentally tested velocities $\frac{\partial x}{\partial t} < c$, e.g. an electron or light through a medium, due to the requirement that $\frac{\partial x}{\partial t} = c$.
 
 ## Deriving the velocity addition formula 
 
