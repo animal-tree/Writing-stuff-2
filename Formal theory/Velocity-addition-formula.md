@@ -12,9 +12,9 @@ $x' = ct'$
 
 $\rightarrow \frac{\partial x'}{\partial t'} = c$.
 
-However, this contradicts pretty much all experimentally tested velocities $\frac{\partial x}{\partial t} \neq c$, e.g. an electron or light through a medium, since $\frac{\partial x}{\partial t} = c$.
+However, this contradicts pretty much all experimentally tested velocities $\frac{\partial x}{\partial t} \neq c$, e.g. an electron or light through a medium.
 
-The Fizeau experiment, for example, used the velocity addition formula and computed both $\frac{\partial x}{\partial t} \neq c$ and $\frac{\partial x'}{\partial t'} \neq c$.
+The Fizeau experiment, for example, one of the main corroborations of the theory, used the velocity addition formula and computed both $\frac{\partial x}{\partial t} \neq c$ and $\frac{\partial x'}{\partial t'} \neq c$.
 
 ## Deriving the velocity addition formula 
 
