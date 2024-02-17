@@ -6,17 +6,15 @@ $\frac{\partial x}{\partial t}$
 
 to the constancy of light postulate Einstein uses to derive the Lorentz transformation.
 
-$x = ct \rightarrow \frac{x}{t} = c$.
-
-Then $\frac{\partial x}{\partial t} = c$ assuming uniform motion.
+$x = ct \rightarrow \frac{\partial x}{\partial t} = c$
 
 However, this contradicts the velocity addition formula:
 
 $\frac{\partial x}{\partial t} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + \frac{v}{c^2}\frac{\partial x'}{\partial t'}}$
 
-for pretty much all experimentally tested velocities $W = \frac{\partial x}{\partial t} \neq c$.
+for pretty much all experimentally tested velocities $\frac{\partial x}{\partial t} < c$, e.g. an electron or light through a medium.
 
-## Deriving the velocity addition formula - Rigorously
+## Deriving the velocity addition formula 
 
 Assume the Lorentz transformation. We have:
 
