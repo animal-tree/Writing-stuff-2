@@ -26,11 +26,11 @@ $\partial t = \frac{\partial t' + \frac{v \partial x'}{c^2}}{\sqrt{1 - \frac{v^2
 
 $\frac{\partial x}{\partial t} = \frac{\frac{\partial x' + v \partial t'}{\sqrt{1 - \frac{v^2}{c^2}}}}{\frac{\partial t' + \frac{v \partial x'}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}} = \frac{\partial x' + v \partial t'}{\partial t' + \frac{v \partial x'}{c^2}} = \frac{\frac{1}{\partial t'}(\partial x' + v \partial t')}{\frac{1}{\partial t'}(\partial t' + \frac{v \partial x'}{c^2})} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + \frac{v}{c^2}\frac{\partial x'}{\partial t'}}$
 
-This commonly used formula therefore serves no purpose in combination with Einstein's first postulate since the latter requires $\frac{\partial x}{\partial t}  = \frac{\partial x'}{\partial t'} = c$ always.
+This commonly used formula therefore is meaningless in combination with Einstein's first postulate since the latter requires $\frac{\partial x}{\partial t}  = \frac{\partial x'}{\partial t'} = c$ always.
 
 # Deriving the velocity addition formula - Most rigorously
 
-In case the above derivation of the velocity addition formula doesn't satisfy one's preference of rigor, here is a derivation of the velocity addition formula from absolute scratch. This derivation is besides the point of the earlier disproof, and is constructed just as a simple but rigorous derivation of the velocity addition formula, for education and organization-sake.
+In case the above derivation of the velocity addition formula doesn't satisfy one's preference of rigor, here is a derivation of the velocity addition formula from absolute scratch. This derivation is besides the point of the earlier disproof, and is constructed just as a simple but rigorous derivation of the velocity addition formula, for educating and organizating's-sake.
 
 ### Definitions.
 
@@ -86,7 +86,7 @@ This is assumed in special relativity.
 
 **(4) $x_{0}^{(i)} = 0$.**
 
-The origin of the theoretical reference frame is conformed with wherever $x_{0}^{(i)}$ is. The reference frame can always be defined or redefined such that $x_{0}^{(i)} = 0$ in the general case. Alternatively, $x_{0}^{(i)} = 0$ may also be derived directly as a necessary consequence of the constancy of light postulate, which states that $x_{t^{(i)}}^{(i)} = ct^{(i)}$: 
+The origin of any theoretical reference frame $K^{(i)}$ is conformed with wherever $x_{0}^{(i)}$ is. The reference frame $K^{(i)}$ can always be defined or redefined such that $x_{0}^{(i)} = 0$ in the general case, since this only requires a fixed translation in space of the measuring system and is therefore always physically possible, at least theoretically, and has no effect on relative velocities $v^{(i,j)}$ or $v^{(j,i)}$ between reference frames. Alternatively, if this isn't satisfying, $x_{0}^{(i)} = 0$ may also be derived directly as a necessary consequence of the constancy of light postulate, which states that $x_{t^{(i)}}^{(i)} = ct^{(i)}$: 
 
 $x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0$.
 
