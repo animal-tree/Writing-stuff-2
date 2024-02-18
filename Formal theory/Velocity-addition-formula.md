@@ -121,7 +121,13 @@ $x_{0}^{(i)} = 0$ means that the origin ($0$-point) of reference frame $K^{(i)}$
 
 $x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0 \rightarrow x_{0}^{(i)} = 0$.
 
-> !&#x20DD; Note however: fixed spatial translations of the measuring system for a reference frame don't affect any relative velocities or rates of change measured from observers stationary on that reference frame, meaning any results obtained from the translated reference frame generalize to the original. Therefore an assumption isn't needed. Can just operate in translated space via $\hat{x_{t^{(i)}}}^{(i)} = x_{t^{(i)}}^{(i)} - x_{0}^{(i)}$ in the proof itself, and then transfer all obtained results w.l.o.g. to original space, since velocity-addition formula only needs results about velocities / rates of change, and those are invariant to fixed spatial translations as long as the reference frames are stationary relative to one another.
+> !&#x20DD; Note however: fixed spatial translations of the measuring system for a reference frame don't affect any relative velocities or rates of change measured from observers stationary on that reference frame, meaning any results obtained from the translated reference frame generalize to the original. Therefore an assumption isn't needed. Can just operate in translated space via $\hat{x}_{t^{(i)}}^{(i)}$
+>
+> $= x_{t^{(i)}}^{(i)} - x_{0}^{(i)}$ in the proof itself, and then transfer all obtained results w.l.o.g. to original space, since velocity-addition formula only needs results about velocities / rates of change, and those are invariant to fixed spatial translations as long as the reference frames are stationary relative to one another.
+>
+> Simply owing to the fact that $\frac{\partial \hat{x}_{t^{(i)}}^{(i)}}{\partial t^{(i)}} =$
+>
+> $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$.
 
 ## Theorems
 
