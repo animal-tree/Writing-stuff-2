@@ -49,11 +49,11 @@ In case the above derivation of the velocity addition formula doesn't satisfy on
 
 **(1) Speed of light constant *in vacuo*, reference frame, and spacetime.**
 
-Let $c \coloneqq 299,792,458$ be the speed of light constant.
+Let $c \coloneqq 299,792,458$ be the speed of light constant *in vacuo*.
 
 A body on reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) has time points $t^{(i)}  \in \mathbb{R}$ and corresponding spatial coordinates $x_{t^{(i)}}^{(i)} \in \mathbb{R}$.
 
-$v^{(i, j)} \in \mathbb{R}$ is the velocity of $K^{(j)}$ measured by a stationary observer on $K^{(i)}$.
+$v^{(i, j)} \in \mathbb{R}$ is the velocity of any stationary body on $K^{(j)}$ measured by any stationary observer on $K^{(i)}$.
 
 **(2) Lorentz transformation.**
 
@@ -91,11 +91,15 @@ $x_{t^{(i)}}^{(i)} = c t^{(i)}$
 As assumed in most experimentally tested setups, e.g., Fizeau.
 -->
 
-**(3) Uniform motion ($K^{(i)}$ is an inertial reference frame).**
+**(3) Uniform motion.**
 
-$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constant.
+$K^{(i)}$ is an inertial reference frame:
 
-This is assumed in special relativity.
+$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constant, or equivalently, $\frac{\partial^2 x_{t^{(i)}}^{(i)}}{\partial {t^{(i)}}^2} = 0$.
+
+This is always assumed in special relativity.
+
+A necessary consequence of this is that $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} = \frac{x_{t^{(i)}}^{(i)} - x_{0}^{(i)}}{t^{(i)} - 0}$.
 
 **(4) $x_{0}^{(i)} = 0$.**
 
