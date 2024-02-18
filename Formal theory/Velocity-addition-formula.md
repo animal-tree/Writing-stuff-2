@@ -14,7 +14,7 @@ $\rightarrow \frac{\partial x'}{\partial t'} = c$.
 
 However, for pretty much all experimentally tested and applied bodies representing $x$, *e.g.*, an electron or light propagating through a medium, the body's velocity is measurably below the speed of light *in vacuo* constant: $\frac{\partial x}{\partial t} < c$.
 
-The Fizeau experiment, for example, one of the main corroborations of the theory, used the velocity addition formula on light traveling through the medium of water, where it was assumed and computed both: $\frac{\partial x}{\partial t} \neq c$ and $\frac{\partial x'}{\partial t'} \neq c$.
+The Fizeau experiment, for example, one of the main corroborations of the special theory of relativity, used the velocity addition formula on light traveling through the medium of water, where it was assumed and computed both: $\frac{\partial x}{\partial t} \neq c$ and $\frac{\partial x'}{\partial t'} \neq c$.
 
 ### Deriving the velocity addition formula 
 
@@ -26,7 +26,20 @@ $\partial t = \frac{\partial t' + \frac{v \partial x'}{c^2}}{\sqrt{1 - \frac{v^2
 
 $\frac{\partial x}{\partial t} = \frac{\frac{\partial x' + v \partial t'}{\sqrt{1 - \frac{v^2}{c^2}}}}{\frac{\partial t' + \frac{v \partial x'}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}} = \frac{\partial x' + v \partial t'}{\partial t' + \frac{v \partial x'}{c^2}} = \frac{\frac{1}{\partial t'}(\partial x' + v \partial t')}{\frac{1}{\partial t'}(\partial t' + \frac{v \partial x'}{c^2})} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + \frac{v}{c^2}\frac{\partial x'}{\partial t'}}$
 
-This commonly used formula therefore is meaningless in combination with Einstein's first postulate since the latter requires $\frac{\partial x}{\partial t}  = \frac{\partial x'}{\partial t'} = c$ always.
+This commonly used formula therefore cannot in principle be usable in combination with Einstein's first postulate since the latter requires $\frac{\partial x}{\partial t}  = \frac{\partial x'}{\partial t'} = c$ always. Substituting as such the above gives us:
+
+$$
+\begin{align}
+&\frac{\partial x}{\partial t} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + \frac{v}{c^2}\frac{\partial x'}{\partial t'}} \\
+&\rightarrow c = \frac{c + v}{1 + \frac{v}{c^2}c} \\
+&\rightarrow c = \frac{c + v}{1 + \frac{v}{c}} \\
+&\rightarrow c(1 + \frac{v}{c}) = c + v \\
+&\rightarrow c + v = c + v \\
+&\rightarrow 1 = 1, \\
+\end{align}
+$$
+
+rendering the formula useless.
 
 # Deriving the velocity addition formula - Most rigorously
 
@@ -88,7 +101,7 @@ This is assumed in special relativity.
 
 The origin of any theoretical reference frame $K^{(i)}$ is conformed with wherever $x_{0}^{(i)}$ is. The reference frame $K^{(i)}$ can always be defined or redefined such that $x_{0}^{(i)} = 0$ in the general case, since this only requires a fixed translation in space of the measuring system and is therefore always physically possible, at least theoretically, and has no effect on relative velocities $v^{(i,j)}$ or $v^{(j,i)}$ between reference frames. Alternatively, if this isn't satisfying, $x_{0}^{(i)} = 0$ may also be derived directly as a necessary consequence of the constancy of light postulate, which states that $x_{t^{(i)}}^{(i)} = ct^{(i)}$: 
 
-$x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0$.
+$x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0 \rightarrow x_{0}^{(i)} = 0$.
 
 ### Theorems
 
