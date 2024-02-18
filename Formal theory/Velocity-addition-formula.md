@@ -57,6 +57,8 @@ In case the above derivation of the velocity-addition formula doesn't satisfy on
 
 ### (1) Speed of light constant *in vacuo*, reference frame, and spacetime.
 
+> Number these 1a, 1b, etc. Define $K^{(i)}$ as an inertial reference frame.
+
 Let $c \coloneqq 299,792,458$ be the speed of light constant *in vacuo*.
 
 Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system that is potentially in motion relative to other reference frames (coordinate systems likewise potentially in motion, for example $K^{(j)}$).
