@@ -12,11 +12,11 @@ $x' = ct'$
 
 $\rightarrow \frac{\partial x'}{\partial t'} = c$.
 
-However, for pretty much all bodies described by $x$ in experiment and application, *e.g.*, an electron or light propagating through a medium, the body's velocity $\frac{\partial x}{\partial t}$ is measurably below the speed of light *in vacuo* constant: $\frac{\partial x}{\partial t} < c$. These use cases cannot be valid at the same time as $x = ct \rightarrow \frac{\partial x}{\partial t} = c$ is necessitated, as by Einstein's first postulate; but without Einstein's first postulate, the Lorentz transformation and subsequently velocity-addition formula can't be derived via Einstein's theory.
+However, for pretty much all bodies described by $x$ in experiment and application, *e.g.*, an electron or light propagating through a medium, the body's velocity $\frac{\partial x}{\partial t}$ is measurably below the speed of light *in vacuo* constant: $\frac{\partial x}{\partial t} < c$. These use cases cannot be valid at the same time as $x = ct \rightarrow \frac{\partial x}{\partial t} = c$ is necessitated, as by Einstein's first postulate; but without Einstein's first postulate, the Lorentz transformation and subsequently velocity-addition formula can't be derived within Einstein's theory.
 
 The Fizeau experiment, for example, one of the main corroborations of the special theory of relativity, used the velocity-addition formula on light's position as it traveled through a tube of flowing water, describing light's position in the respective reference frames of the tube as $x$ and the contained flowing water medium as $x'$, with $\frac{\partial x}{\partial t} \neq c$ measured, and $\frac{\partial x'}{\partial t'} \neq c$ assumed due to water's refraction of light.
 
-These use cases can't be valid at the same time as Einstein's first postulate, unless the object in motion is traveling at exactly the speed of light, *e.g.*, not an electron, any experimentally tested massive object, or even light traveling through a medium.
+Such use cases can't be valid at the same time as Einstein's first postulate, unless the object in motion is traveling at exactly the speed of light, *e.g.*, not an electron, any experimentally tested massive object, or even light traveling through a medium.
 
 > Einstein necessitated $x$ and $x'$ to be the spatial coordinate points (for reference frames $K$ and $K'$ respectively) of a single light beam, *in vacuo* —  or otherwise of some object traveling at speed $c$, independent to reference frame — in the first postulate. There is no circumventing that, despite the ubiquitous misunderstanding. Below, the misunderstanding is emphasized via this postulate's implication to the velocity-addition formula.
 
