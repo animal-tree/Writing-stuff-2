@@ -23,7 +23,8 @@ However, if $x_{0}^{(i)} = 0$, then the two infinitesimalities might be substitu
 $$
 \begin{align}
 \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} &= \lim\limits_{h \to 0} \frac{x_{t^{(j)} + h}^{(j)} - x_{t^{(j)}}^{(j)}}{h}\\
-&= \lim\limits_{h \to 0} \frac{\Bigg(\frac{x_{\hat{t}}^{(i)} - v^{(i, j)} \hat{t}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}} - \frac{x_{t^{(i)}}^{(i)} - v^{(i, j)} t^{(i)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)}{\sqrt{\frac{h - v^{(i,j)} x_{h}^{(i)}}{1 - \frac{{v^{(i,j)}}^2}{c^2}}}} \\
+&= \lim\limits_{h \to 0} \frac{\Bigg(\frac{x_{\hat{t}}^{(i)} - v^{(i, j)} \hat{t}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}} - \frac{x_{t^{(i)}}^{(i)} - v^{(i, j)} t^{(i)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)}{\frac{h - v^{(i,j)} x_{h}^{(i)}}{\sqrt{1 - \frac{{v^{(i,j)}}^2}{c^2}}}} \\
+&= \lim\limits_{h \to 0} \frac{x_{\hat{t}}^{(i)} - v^{(i, j)} \hat{t} - (x_{t^{(i)}}^{(i)} - v^{(i, j)} t^{(i)})}{h - v^{(i,j)} x_{h}^{(i)}} \\
 \ldots
 \end{align}
 $$
