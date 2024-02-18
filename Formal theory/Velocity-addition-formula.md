@@ -143,6 +143,10 @@ The velocity-addition formula describes a transformation of a body's velocity ac
 
 **Proof.**
 
+$ Can add "Let \hat{x}_{t^{(i)}}^{(i)}$
+>
+> $= x_{t^{(i)}}^{(i)} - x_{0}^{(i)}$."
+
 $$
 \begin{align}
   \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \frac{x_{t^{(i)}}^{(i)} - x_{0}^{(i)}}{t^{(i)} - 0} \quad\quad \text{(Assumption 3)}\\
