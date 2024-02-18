@@ -119,6 +119,20 @@ $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^
 
 > !&#x20DD; This is more of a definition of $K^{(i)}$ than an assumption. Can derive the last equation as a Corollary.
 
+### (4) $x_{0}^{(i)} = 0$.
+
+$x_{0}^{(i)} = 0$ means that the origin ($0$-point) of reference frame $K^{(i)}$ is conformed with wherever the body (whose spatial coordinate is represented by $x_{t^{(i)}}^{(i)}$) is at time $t^{(i)} = 0$, denoted by $x_{0}^{(i)}$. If this conformation isn't already the case, then reference frame $K^{(i)}$ can be redefined such that $x_{0}^{(i)} = 0$ by means of a fixed translation in space of the measuring system, simply by subtracting the previous value of $x_{0}^{(i)}$ from all measurements of $x_{t^{(i)}}^{(i)}$. Such a re-centering has no effect on relative velocities $v^{(i,j)}$ or $v^{(j,i)}$ between observers and bodies on and across reference frames, including for those velocities referred to by the velocity-addition formula. Alternatively, if this isn't satisfying, $x_{0}^{(i)} = 0$ may also be derived directly as a necessary consequence of the constancy of light postulate, which states that $x_{t^{(i)}}^{(i)} = ct^{(i)}$: 
+
+$x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0 \rightarrow x_{0}^{(i)} = 0$.
+
+> !&#x20DD; Note however: fixed spatial translations of the measuring system for a reference frame don't affect any relative velocities or rates of change measured from observers stationary on that reference frame, meaning any results obtained from the translated reference frame generalize to the original. Therefore an assumption isn't needed. Can just operate in translated space via $\widehat{x_{t^{(i)}}^{(i)}} = x_{t^{(i)}}^{(i)} - x_{0}^{(i)}$ in the proof itself, and then transfer all obtained results w.l.o.g. to original space, since velocity-addition formula only needs results about velocities / rates of change, and those are invariant to fixed spatial translations as long as the reference frames are stationary relative to one another.
+>
+> Simply owing to the fact that $\frac{\partial \widehat{x_{t^{(i)}}^{(i)}}}{\partial t^{(i)}} = \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$.
+>
+> (This can be derived easily: $\frac{\partial \widehat{x_{t^{(i)}}^{(i)}}}{\partial t^{(i)}} = \frac{\partial (x_{t^{(i)}}^{(i)} - x_{0}^{(i)})}{\partial t^{(i)}} = \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ by definition and since $x_{0}^{(i)}$ is a constant).
+>
+> Can derive this as a Corolary from the definition of reference frame velocities as being the same from all observers stationary on that reference frame, and noting that both of those terms are velocities refering from and to the same reference frames.
+
 ## Theorems
 
 ### (1) Velocity-addition formula.
@@ -129,37 +143,31 @@ The velocity-addition formula describes a transformation of a body's velocity ac
 
 **Proof.**
 
-As beautiful as this is, the flaw is that $x_{0}^{(i)}$ does not necessarily equal $\mathcal{X}(x_{0}^{(j)}, 0, v^{(j, i)})$  since a different $x_{\hat{t}}^{(j)}$ might transform as such.
+> Can add "Let $\widehat{x_{t^{(i)}}^{(i)}} = x_{t^{(i)}}^{(i)} - x_{0}^{(i)}$."
 
 $$
 \begin{align}
-  \quad \quad \quad \quad \text{ }\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \frac{x_{t^{(i)}}^{(i)} - x_{0}^{(i)}}{t^{(i)}} \quad\quad \text{(Assumption 3)}\\
-  &= \frac{\mathcal{X}(x_{t^{(j)}}^{(j)}, t^{(j)}, v^{(j, i)}) - \mathcal{X}(x_{0}^{(j)}, 0, v^{(j, i)})}{\mathcal{T}( x_{t^{(j)}}^{(j)}, t^{(j)}, v^{(j, i)})} \quad\quad \text{(Assumption 1)}\\
-  &= \frac{\mathcal{X}(x_{t^{(j)}}^{(j)}, t^{(j)}, -v^{(i, j)}) - \mathcal{X}(x_{0}^{(j)}, 0, -v^{(i, j)})}{\mathcal{T}( x_{t^{(j)}}^{(j)}, t^{(j)}, -v^{(i, j)})} \quad\quad \text{(Assumption 2)}\\
+  \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \frac{x_{t^{(i)}}^{(i)} - x_{0}^{(i)}}{t^{(i)} - 0} \quad\quad \text{(Assumption 3)}\\
+  &= \frac{x_{t^{(i)}}^{(i)}}{t^{(i)}} \quad\quad \text{(Assumption 4)}\\
+  &= \frac{\mathcal{X}(x_{t^{(j)}}^{(j)}, t^{(j)}, v^{(j, i)})}{\mathcal{T}( x_{t^{(j)}}^{(j)}, t^{(j)}, v^{(j, i)})} \quad\quad \text{(Assumption 1)}\\
+  &= \frac{\mathcal{X}(x_{t^{(j)}}^{(j)}, t^{(j)}, -v^{(i, j)})}{\mathcal{T}( x_{t^{(j)}}^{(j)}, t^{(j)}, -v^{(i, j)})} \quad\quad \text{(Assumption 2)}\\
 \end{align}
 $$
 
 $$
 \begin{align}
-  \quad &= \frac{\Bigg(\frac{x_{t^{(j)}}^{(j)} + v^{(i, j)} t^{(j)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}} - \frac{x_{0}^{(j)} + v^{(i, j)} (0)}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)}{\Bigg(\frac{t^{(j)} + \frac{v^{(i, j)} x_{t^{(j)}}^{(j)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)} \quad\quad \text{(Definition 2)}\\
-  &= \frac{x_{t^{(j)}}^{(j)} + v^{(i, j)} t^{(j)} - x_{0}^{(j)}}{t^{(j)} + \frac{v^{(i, j)} x_{t^{(j)}}^{(j)}}{c^2}} \\
-  &= \frac{(\frac{1}{t^{(j)}})(x_{t^{(j)}}^{(j)} + v^{(i, j)} t^{(j)} - x_{0}^{(j)})}{(\frac{1}{t^{(j)}})(t^{(j)} + \frac{v^{(i, j)} x_{t^{(j)}}^{(j)}}{c^2})}\\
+  &= \frac{\Bigg(\frac{x_{t^{(j)}}^{(j)} + v^{(i, j)} t^{(j)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)}{\Bigg(\frac{t^{(j)} + \frac{v^{(i, j)} x_{t^{(j)}}^{(j)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)} \quad\quad \text{(Definition 2)}\\
+  &= \frac{x_{t^{(j)}}^{(j)} + v^{(i, j)} t^{(j)}}{t^{(j)} + \frac{v^{(i, j)} x_{t^{(j)}}^{(j)}}{c^2}} \\
+  &= \frac{(\frac{1}{t^{(j)}})(x_{t^{(j)}}^{(j)} + v^{(i, j)} t^{(j)})}{(\frac{1}{t^{(j)}})(t^{(j)} + \frac{v^{(i, j)} x_{t^{(j)}}^{(j)}}{c^2})}\\
 \end{align}
 $$
 
 
 $$
 \begin{align}
-\text{ } \text{ } \text{ } &= \frac{\frac{x_{t^{(j)}}^{(j)}}{t^{(j)}} + v^{(i, j)} - \frac{x_{0}^{(j)}}{t^{(j)}}}{1 + \frac{v^{(i, j)}}{c^2}\frac{x_{t^{(j)}}^{(j)}}{t^{(j)}}} \\
-&= \frac{\frac{x_{t^{(j)}}^{(j)} - x_{0}^{(j)}}{t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}(\frac{x_{t^{(j)}}^{(j)} + x_{0}^{(j)}}{t^{(j)}} - \frac{2x_{0}^{(j)} - x_{0}^{(j)}}{t^{(j)}})} \\
-&= \frac{\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}(\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} - \frac{\partial (2x_{0}^{(j)})}{\partial t^{(j)}})} \quad\quad \text{(Assumption 3)}\\
-\end{align}
-$$
-
-$$
-\begin{align}
-\quad \quad &= \frac{\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}(\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} - 0)}  \quad\quad \text{(Since $x_{0}^{(j)}$ is a constant)}\\
-&= \frac{\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}}\\
+\quad \quad \quad \quad \text{ }&= \frac{\frac{x_{t^{(j)}}^{(j)}}{t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{x_{t^{(j)}}^{(j)}}{t^{(j)}}} \\
+&= \frac{\frac{x_{t^{(j)}}^{(j)} - x_{0}^{(j)}}{t^{(j)} - 0} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{x_{t^{(j)}}^{(j)}- x_{0}^{(j)}}{t^{(j)} - 0}} \quad\quad \text{(Assumption 4)} \\
+&= \frac{\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}} \quad\quad \text{(Assumption 3)}\\
 &= \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}). \quad\quad \text{(Definition 3)} \quad\quad\quad \square
 \end{align}
 $$
