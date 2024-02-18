@@ -19,3 +19,15 @@ $$
 This is the "average-velocity"-addition formula. Converting this into partial derivatives isn't as easy as taking the limit to an infinitesimal delta, because that infinitesimal delta might not be the same value (or even infinitesimal) when translated across reference frames.
 
 However, if $x_{0}^{(i)} = 0$, then the two infinitesimalities might be substitutable even under translation since both terms infinitesimally approach $0$ as the infinitesimality approaches $0$. Can't this spatial translation always be considered without loss of generality since velocities are invariant to collinearly moving reference frames?
+
+$$
+\begin{align}
+\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} &= \lim\limits_{h \to 0} \frac{x_{t^{(j)} + h}^{(j)} - x_{t^{(j)}}^{(j)}}{h}\\
+&= \lim\limits_{h \to 0} \frac{\Bigg(\frac{x_{\hat{t}}^{(i)} - v^{(i, j)} \hat{t}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}} - \frac{x_{t^{(i)}}^{(i)} - v^{(i, j)} t^{(i)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)}{\sqrt{\frac{h - v^{(j, i)} x_{h}^{(i)}}{1 - \frac{{v^{(j, i)}}^2}{c^2}}}} \\
+\ldots
+\end{align}
+$$
+
+where $\hat{t} = \mathcal{T}(x_{t^{(j)} + h}^{(j)}, t^{(j)} + h, v^{(j,i)})$.
+
+
