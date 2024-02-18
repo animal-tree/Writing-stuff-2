@@ -182,8 +182,9 @@ Einstein's first postulate, the constancy of the speed of light *in vacuo* acros
 
 $$
 \begin{align}
-x_{t^{(i)}}^{(i)} &= ct^{(i)} \\
-\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= c, \\
+\quad \quad \quad & x_{t^{(i)}}^{(i)} = ct^{(i)} \\
+&\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = c \\
+&\rightarrow c = \mathcal{V}(v^{(i, j)}, c), \\
 \end{align}
 $$
 
