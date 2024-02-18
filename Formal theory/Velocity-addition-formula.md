@@ -20,7 +20,7 @@ Such applications of Einstein's theory can't be valid at the same time as Einste
 
 ## Velocity-addition formula 
 
-In the first postulate, Einstein defined $x$ and $x'$ as spatial coordinates in two reference frames $K$ and $K'$ respectively such that the body whose position is represented by these spatial coordinates is always measured as traveling at speed $c$, independent to reference frame. Namely, he described a beam of light, *in vacuo*,  emitting from the intersecting origins of the reference frames. Generally, the referent body of $x$ and $x'$ must have speed $c$ in both reference frames, despite the ubiquitous misuse, according to the first postulate. Below, the misunderstanding is emphasized via this postulate's implication to the velocity-addition formula.
+In the first postulate, Einstein defined $x$ and $x'$ as spatial coordinates in two reference frames $K$ and $K'$ respectively such that the body whose position is represented by these spatial coordinates is always measured as traveling at speed $c$, independent to reference frame. Namely, he described a beam of light, *in vacuo*,  emitting from the intersecting origins of the reference frames. Generally, the referent body of $x$ and $x'$ must have speed $c$ in both reference frames, despite the ubiquitous misuse, according to the first postulate. Below, the misunderstanding is derived via this postulate's implication to the commonly-used velocity-addition formula.
 
 ### Deriving the velocity-addition formula 
 
