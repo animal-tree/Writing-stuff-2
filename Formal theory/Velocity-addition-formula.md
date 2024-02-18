@@ -117,7 +117,7 @@ Since average velocity is equal to displacement over time, a necessary consequen
 
 $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} = \frac{x_{t^{(i)}}^{(i)} - x_{0}^{(i)}}{t^{(i)} - 0}$.
 
-> !&#x20DD; This is more of a definition of $K^{(i)}$ than an assumption. Can derive the last equation as a Corollary.
+> !&#x20DD; This is more of a definition of $K^{(i)}$ than an assumption. Can derive the last equation as a Corollary. TODO: Check if this is teh definition of an inertial reference frame. While the velocities $v^{(i,j)}$ must be constant, must $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ also be constant?
 
 ### (4) $x_{0}^{(i)} = 0$.
 
@@ -176,9 +176,13 @@ $$
 
 **Proof. (V2)** (In-progress)
 
-Let $k \in \mathbb{N}$ and $K^{(k)}$ be a reference frame such that $v^{(k, j)} = v^{(i, j)}$ and $x_{t^{(k)}}^{(k)} = x_{t^{(i)}}^{(i)} - x_{0}^{(i)}$. In other words, reference frame $K^{(k)}$ moves collinearly with (at the same velocity as) reference frame $K^{(i)}$ but with spatial coordinates translated such that the body represented by $x_{t^{(i)}}^{(i)}$ is positioned at the origin (0-point) of $K^{(k)}$ at time $t^{(i)} = 0$. 
+Let $k \in \mathbb{N}$ and $K^{(k)}$ be an inertial reference frame such that $v^{(k, j)} = v^{(i, j)}$ and $x_{t^{(k)}}^{(k)} = x_{t^{(i)}}^{(i)} - x_{0}^{(i)}$. In other words, inertial reference frame $K^{(k)}$ moves collinearly with (at the same velocity as) inertial reference frame $K^{(i)}$ but with spatial coordinates translated such that the body represented by $x_{t^{(i)}}^{(i)}$ is positioned at the origin (0-point) of $K^{(k)}$ at time $t^{(i)} = 0$. 
 
 As consequence: $x_{0}^{(k)} = x_{0}^{(i)} - x_{0}^{(i)} = 0$.
+
+Since the reference frame is inertial (meaning velocity is uniform/constant), 
+
+Since average velocity is displacement over time, and the reference frame is inertial (meaning velocity is uniform/constant)
 
 $$
 \begin{align}
