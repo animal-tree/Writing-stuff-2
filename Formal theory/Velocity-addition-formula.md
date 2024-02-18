@@ -154,7 +154,7 @@ $$
 \end{align}
 $$
 
-> Note: the velocity-addition formula can't actually be true at the same time as Einstein's first postulate, unless the object in motion is traveling at exactly the speed of light, e.g., not an electron or any experimentally tested massive object, or even light traveling through a medium. One or the other has to go.
+> Note: The velocity-addition formula can't actually be true at the same time as Einstein's first postulate, unless the object in motion is traveling at exactly the speed of light, e.g., not an electron or any experimentally tested massive object, or even light traveling through a medium. One or the other has to go.
 >
 > Einstein's first postulate, the constancy of the speed of light *in vacuo* across reference frames, states: $x_{t^{(i)}}^{(i)} = ct^{(i)}$.
 >
