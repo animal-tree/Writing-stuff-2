@@ -86,7 +86,7 @@ This is assumed in special relativity.
 
 This is derivable from the constancy of light postulate $x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0$. 
 
-The origin of the theoretical reference frame can be conformed with wherever $x_{0}^{(i)}$ is. As a result, the constancy of light postulate doesn't explicitly need to be assumed.
+However, the origin of the theoretical reference frame can be conformed with wherever $x_{0}^{(i)}$ is. As a result, the constancy of light postulate doesn't explicitly need to be assumed.
 
 ### Theorems
 
