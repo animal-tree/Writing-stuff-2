@@ -14,4 +14,4 @@ $$
 \end{align}
 $$
 
-This is the "average-velocity"-addition formula. Converting this into partial derivatives isn't as easy as taking the limit to an infinitesimal delta, because that infinitesimal delta might not be the same value (or even infinitsimal) when translated across reference frames.
+This is the "average-velocity"-addition formula. Converting this into partial derivatives isn't as easy as taking the limit to an infinitesimal delta, because that infinitesimal delta might not be the same value (or even infinitesimal) when translated across reference frames.
