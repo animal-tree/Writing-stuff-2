@@ -77,7 +77,7 @@ $x_{t^{(j)}}^{(j)} \coloneqq \mathcal{X}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})
 
 $t^{(j)} \coloneqq \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$
 
-The Lorentz transformation describes reference frame transformations in physical spacetime.
+The Lorentz transformation describes reference frame transformations of a body's position and corresponding time in physical spacetime.
 
 ### (2) Mutual velocity perspective.
 
@@ -107,7 +107,7 @@ A necessary consequence of this is that $\frac{\partial x_{t^{(i)}}^{(i)}}{\part
 
 ### (4) $x_{0}^{(i)} = 0$.
 
-The origin of any theoretical reference frame $K^{(i)}$ is conformed with wherever $x_{0}^{(i)}$ is. The reference frame $K^{(i)}$ can always be defined or redefined such that $x_{0}^{(i)} = 0$ in the general case, since this only requires a fixed translation in space of the measuring system and is therefore always physically possible, at least theoretically, and has no effect on relative velocities $v^{(i,j)}$ or $v^{(j,i)}$ between reference frames. Alternatively, if this isn't satisfying, $x_{0}^{(i)} = 0$ may also be derived directly as a necessary consequence of the constancy of light postulate, which states that $x_{t^{(i)}}^{(i)} = ct^{(i)}$: 
+The origin of any theoretical reference frame $K^{(i)}$ is conformed with wherever $x_{0}^{(i)}$ is. The reference frame $K^{(i)}$ can always be defined or redefined such that $x_{0}^{(i)} = 0$ in the general case, since this only requires a fixed translation in space of the measuring system and is therefore always physically possible, at least theoretically, and has no effect on relative velocities $v^{(i,j)}$ or $v^{(j,i)}$ between stationary bodies and observers on reference frames. Alternatively, if this isn't satisfying, $x_{0}^{(i)} = 0$ may also be derived directly as a necessary consequence of the constancy of light postulate, which states that $x_{t^{(i)}}^{(i)} = ct^{(i)}$: 
 
 $x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0 \rightarrow x_{0}^{(i)} = 0$.
 
@@ -117,7 +117,7 @@ $x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0 \rightarrow x_{
 
 $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}})$.
 
-The velocity-addition formula describes reference frame velocity transformations in physical spacetime.
+The velocity-addition formula describes reference frame transformations of a body's velocity in physical spacetime.
 
 **Proof.**
 
