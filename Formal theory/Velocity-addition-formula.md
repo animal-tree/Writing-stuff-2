@@ -1,6 +1,6 @@
 # Disproving experimental evidence
 
-The constancy of light postulate Einstein uses to derive the Lorentz transformation necessitates:
+Einstein used his first postulate, the constancy of the speed of light *in vacuo* across reference frames, to derive the Lorentz transformation. This postulate states and necessitates the following:
 
 $x = ct$
 
@@ -12,11 +12,11 @@ $x' = ct'$
 
 $\rightarrow \frac{\partial x'}{\partial t'} = c$.
 
-However, this contradicts pretty much all experimentally tested velocities $\frac{\partial x}{\partial t} \neq c$, e.g. an electron or light through a medium.
+However, for pretty much all experimentally tested and applied bodies representing $x$, *e.g.*, an electron or light propagating through a medium, the body's velocity is measurably below the speed of light *in vacuo* constant: $\frac{\partial x}{\partial t} < c$.
 
-The Fizeau experiment, for example, one of the main corroborations of the theory, used the velocity addition formula and computed both $\frac{\partial x}{\partial t} \neq c$ and $\frac{\partial x'}{\partial t'} \neq c$.
+The Fizeau experiment, for example, one of the main corroborations of the theory, used the velocity addition formula on light traveling through the medium of water, where it was assumed and computed both: $\frac{\partial x}{\partial t} \neq c$ and $\frac{\partial x'}{\partial t'} \neq c$.
 
-## Deriving the velocity addition formula 
+### Deriving the velocity addition formula 
 
 Assume the Lorentz transformation. We have:
 
@@ -26,9 +26,11 @@ $\partial t = \frac{\partial t' + \frac{v \partial x'}{c^2}}{\sqrt{1 - \frac{v^2
 
 $\frac{\partial x}{\partial t} = \frac{\frac{\partial x' + v \partial t'}{\sqrt{1 - \frac{v^2}{c^2}}}}{\frac{\partial t' + \frac{v \partial x'}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}} = \frac{\partial x' + v \partial t'}{\partial t' + \frac{v \partial x'}{c^2}} = \frac{\frac{1}{\partial t'}(\partial x' + v \partial t')}{\frac{1}{\partial t'}(\partial t' + \frac{v \partial x'}{c^2})} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + \frac{v}{c^2}\frac{\partial x'}{\partial t'}}$
 
-## Deriving the velocity addition formula - Most rigorously
+This commonly used formula therefore serves no purpose in combination with Einstein's first postulate since the latter requires $\frac{\partial x}{\partial t}  = \frac{\partial x'}{\partial t'} = c$ always.
 
-In case the above doesn't satisfy one's preference of rigor, here is a derivation from absolute scratch.
+# Deriving the velocity addition formula - Most rigorously
+
+In case the above derivation of the velocity addition formula doesn't satisfy one's preference of rigor, here is a derivation of the velocity addition formula from absolute scratch. This derivation is besides the point of the earlier disproof, and is constructed just as a simple but rigorous derivation of the velocity addition formula, for education and organization-sake.
 
 ### Definitions.
 
