@@ -14,13 +14,13 @@ $\rightarrow \frac{\partial x'}{\partial t'} = c$.
 
 However, for pretty much all experimentally tested and applied bodies representing $x$, *e.g.*, an electron or light propagating through a medium, the body's velocity is measurably below the speed of light *in vacuo* constant: $\frac{\partial x}{\partial t} < c$.
 
-The Fizeau experiment, for example, one of the main corroborations of the special theory of relativity, used the velocity addition formula on light traveling through the medium of water, where it was assumed and computed both: $\frac{\partial x}{\partial t} \neq c$ and $\frac{\partial x'}{\partial t'} \neq c$.
+The Fizeau experiment, for example, one of the main corroborations of the special theory of relativity, used the velocity-addition formula on light traveling through the medium of water, where it was assumed and computed both: $\frac{\partial x}{\partial t} \neq c$ and $\frac{\partial x'}{\partial t'} \neq c$.
 
-> Einstein assumed $x$ and $x'$ to be the spatial coordinate points (for reference frames $K$ and $K'$ respectively) of a single light beam, *in vacuo* —  or otherwise of some object traveling at speed $c$, independent to reference frame — in the first postulate. There is no circumventing that, despite the ubiquitous misunderstanding. Below, the misunderstanding is emphasized via this postulate's implication to the velocity addition formula.
+> Einstein assumed $x$ and $x'$ to be the spatial coordinate points (for reference frames $K$ and $K'$ respectively) of a single light beam, *in vacuo* —  or otherwise of some object traveling at speed $c$, independent to reference frame — in the first postulate. There is no circumventing that, despite the ubiquitous misunderstanding. Below, the misunderstanding is emphasized via this postulate's implication to the velocity-addition formula.
 
-## Velocity addition formula 
+## Velocity-addition formula 
 
-### Deriving the velocity addition formula 
+### Deriving the velocity-addition formula 
 
 Assume the Lorentz transformation. We have:
 
@@ -30,7 +30,7 @@ $\partial t = \frac{\partial t' + \frac{v \partial x'}{c^2}}{\sqrt{1 - \frac{v^2
 
 $\frac{\partial x}{\partial t} = \frac{\frac{\partial x' + v \partial t'}{\sqrt{1 - \frac{v^2}{c^2}}}}{\frac{\partial t' + \frac{v \partial x'}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}} = \frac{\partial x' + v \partial t'}{\partial t' + \frac{v \partial x'}{c^2}} = \frac{\frac{1}{\partial t'}(\partial x' + v \partial t')}{\frac{1}{\partial t'}(\partial t' + \frac{v \partial x'}{c^2})} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + \frac{v}{c^2}\frac{\partial x'}{\partial t'}}$.
 
-### Utility of the velocity addition formula 
+### Utility of the velocity-addition formula 
 
 This commonly used formula therefore cannot in principle be usable in combination with Einstein's first postulate since the latter requires $\frac{\partial x}{\partial t}  = \frac{\partial x'}{\partial t'} = c$ always. Substituting as such the above gives us:
 
@@ -47,9 +47,9 @@ $$
 
 rendering the formula useless.
 
-# Deriving the velocity addition formula (most rigorously)
+# Deriving the velocity-addition formula (most rigorously)
 
-In case the above derivation of the velocity addition formula doesn't satisfy one's preference of rigor, here is a derivation of the velocity addition formula from absolute scratch. This derivation is besides the point of the earlier disproof, and is constructed just as a simple but rigorous derivation of the velocity addition formula, for educating and organizing's-sake.
+In case the above derivation of the velocity-addition formula doesn't satisfy one's preference of rigor, here is a derivation of the velocity-addition formula from absolute scratch. This derivation is besides the point of the earlier disproof, and is constructed just as a simple but rigorous derivation of the velocity-addition formula, for educating and organizing's-sake.
 
 ## Definitions.
 
@@ -57,9 +57,9 @@ In case the above derivation of the velocity addition formula doesn't satisfy on
 
 Let $c \coloneqq 299,792,458$ be the speed of light constant *in vacuo*.
 
-A body on reference frame $K^{(i)}$, for any $i \in \mathbb{N}$, has time points $t^{(i)}  \in \mathbb{R}$ and corresponding spatial coordinates $x_{t^{(i)}}^{(i)} \in \mathbb{R}$.
+Any observer stationary in reference frame $K^{(i)}$, for some $i \in \mathbb{N}$, measures the corresponding time and space coordinates of a body, as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
 
-$v^{(i, j)} \in \mathbb{R}$ is the velocity of any stationary body on $K^{(j)}$ measured by any stationary observer on $K^{(i)}$.
+$v^{(i, j)} \in \mathbb{R}$ is the velocity of any body stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
 
 ### (2) Lorentz transformation.
 
@@ -79,7 +79,7 @@ $x_{t^{(j)}}^{(j)} \coloneqq \mathcal{X}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})
 
 $t^{(j)} \coloneqq \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$.
 
-The Lorentz transformation describes reference frame transformations of a body's position and corresponding time in physical spacetime.
+The Lorentz transformation describes a transformation of a body's correponding space and time coordinates across reference frames in physical spacetime.
 
 ### (2) Mutual velocity perspective.
 
@@ -111,7 +111,7 @@ $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^
 
 ### (4) $x_{0}^{(i)} = 0$.
 
-The origin of any reference frame $K^{(i)}$ is conformed with wherever $x_{0}^{(i)}$ is. If not already the case, reference frame $K^{(i)}$ can be redefined such that $x_{0}^{(i)} = 0$ by means of a fixed translation in space of the measuring system. Such a re-centering has no effect on relative velocities $v^{(i,j)}$ or $v^{(j,i)}$ between observers and bodies on and across reference frames. Alternatively, if this isn't satisfying, $x_{0}^{(i)} = 0$ may also be derived directly as a necessary consequence of the constancy of light postulate, which states that $x_{t^{(i)}}^{(i)} = ct^{(i)}$: 
+$x_{0}^{(i)} = 0$ means that the origin ($0$-point) of reference frame $K^{(i)}$ is conformed with wherever the body (whose spatial coordinate is represented by $x_{t^{(i)}}^{(i)}$) is at time $t^{(i)} = 0$, denoted by $x_{0}^{(i)}$. If this conformation isn't already the case, then reference frame $K^{(i)}$ can be redefined such that $x_{0}^{(i)} = 0$ by means of a fixed translation in space of the measuring system, simply by subtracting the previous value of $x_{0}^{(i)}$ from all measurements of $x_{t^{(i)}}^{(i)}$. Such a re-centering has no effect on relative velocities $v^{(i,j)}$ or $v^{(j,i)}$ between observers and bodies on and across reference frames. Alternatively, if this isn't satisfying, $x_{0}^{(i)} = 0$ may also be derived directly as a necessary consequence of the constancy of light postulate, which states that $x_{t^{(i)}}^{(i)} = ct^{(i)}$: 
 
 $x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0 \rightarrow x_{0}^{(i)} = 0$.
 
@@ -121,7 +121,7 @@ $x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0 \rightarrow x_{
 
 $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}})$.
 
-The velocity-addition formula describes reference frame transformations of a body's velocity in physical spacetime.
+The velocity-addition formula describes a transformation of a body's velocity across reference frames in physical spacetime.
 
 **Proof.**
 
