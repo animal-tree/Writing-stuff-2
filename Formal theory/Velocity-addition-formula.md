@@ -57,9 +57,7 @@ In case the above derivation of the velocity-addition formula doesn't satisfy on
 
 Let $c \coloneqq 299,792,458$ be the speed of light constant *in vacuo*.
 
-Let $i, j \in \mathbb{N}$.
-
-Reference frame $K^{(i)}$ is a coordinate system that is potentially in motion relative to other reference frames (coordinate systems likewise potentially in motion, for example $K^{(j)}$).
+Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system that is potentially in motion relative to other reference frames (coordinate systems likewise potentially in motion, for example $K^{(j)}$).
 
 Any observer stationary in reference frame $K^{(i)}$ measures the corresponding time and space coordinates of a body, as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
 
