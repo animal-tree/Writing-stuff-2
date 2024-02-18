@@ -16,7 +16,7 @@ However, for pretty much all bodies described by $x$ in experiment and applicati
 
 The Fizeau experiment, for example, one of the main corroborations of the special theory of relativity, used the velocity-addition formula on light's position as it traveled through a tube of flowing water, describing light's position in the respective reference frames of the tube as $x$ and the contained flowing water medium as $x'$, with $\frac{\partial x}{\partial t} \neq c$ measured, and $\frac{\partial x'}{\partial t'} \neq c$ assumed due to water's refraction of light.
 
-Such applications of Einstein's theory can't be valid at the same time as Einstein's first postulate, unless the object in motion is traveling at exactly the speed of light. Without Einstein's first postulate, the Lorentz transformation and subsequently velocity-addition formula can't be derived via Einstein's theory.
+Such applications of Einstein's theory can't be valid at the same time as Einstein's first postulate, unless the object in motion is defined to travel at exactly the speed of light: $\frac{\partial x}{\partial t} = \frac{\partial x'}{\partial t'} = c$. Without Einstein's first postulate, the Lorentz transformation and subsequently velocity-addition formula can't be derived via Einstein's theory.
 
 > Einstein necessitated $x$ and $x'$ to be the spatial coordinate points (for reference frames $K$ and $K'$ respectively) of a single light beam, *in vacuo* —  or otherwise of some object traveling at speed $c$, independent to reference frame — in the first postulate. There is no circumventing that, despite the ubiquitous misunderstanding. Below, the misunderstanding is emphasized via this postulate's implication to the velocity-addition formula.
 
