@@ -18,7 +18,7 @@ The Fizeau experiment, for example, one of the main corroborations of the specia
 
 #
 
-To be clear, Einstein assumes $x$ and $x'$ to be the spatial coordinate points (for reference frames $K$ and $K'$ respectively) of a single light beam, *in vacuo* —  or otherwise of some object traveling at speed $c$ — in the first postulate. There is no circumventing that, despite the ubiquitous misunderstanding.
+To be clear, Einstein assumes $x$ and $x'$ to be the spatial coordinate points (for reference frames $K$ and $K'$ respectively) of a single light beam, *in vacuo* —  or otherwise of some object traveling at speed $c$ independent of reference frame — in the first postulate. There is no circumventing that, despite the ubiquitous misunderstanding.
 
 ## Velocity addition formula 
 
