@@ -117,7 +117,9 @@ Since average velocity is equal to displacement over time, a necessary consequen
 
 $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} = \frac{x_{t^{(i)}}^{(i)} - x_{0}^{(i)}}{t^{(i)} - 0}$.
 
-> !&#x20DD; This is more of a definition of $K^{(i)}$ than an assumption. Can derive the last equation as a Corollary. TODO: Check if this is teh definition of an inertial reference frame. While the velocities $v^{(i,j)}$ must be constant, must $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ also be constant?
+> !&#x20DD; This is more of a definition of $K^{(i)}$ than an assumption. Can derive the last equation as a Corollary.
+>
+> TODO: Check if this is the definition of an inertial reference frame. While the velocities $v^{(i,j)}$ must be constant, must $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ also be constant?
 
 ### (4) $x_{0}^{(i)} = 0$.
 
