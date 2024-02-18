@@ -85,7 +85,7 @@ $x_{t^{(j)}}^{(j)} \coloneqq \mathcal{X}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})
 
 $t^{(j)} \coloneqq \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$.
 
-The Lorentz transformation describes a transformation of a body's correponding space and time coordinates across reference frames in physical spacetime.
+The Lorentz transformation describes a transformation of a body's corresponding space and time coordinates across reference frames in physical spacetime.
 
 ### (2) Mutual velocity perspective.
 
