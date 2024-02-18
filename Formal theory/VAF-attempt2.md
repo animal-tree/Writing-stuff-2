@@ -17,3 +17,5 @@ $$
 $$
 
 This is the "average-velocity"-addition formula. Converting this into partial derivatives isn't as easy as taking the limit to an infinitesimal delta, because that infinitesimal delta might not be the same value (or even infinitesimal) when translated across reference frames.
+
+However, if $x_{0}^{(i)} = 0$, then the two infinitesimalities might be substitutable even under translation since both terms infinitesimally approach $0$ as the infinitesimality approaches $0$. Can't this spatial translation always be considered without loss of generality since velocities are invariant to collinearly moving reference frames?
