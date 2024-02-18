@@ -16,6 +16,8 @@ However, for pretty much all experimentally tested and applied bodies representi
 
 The Fizeau experiment, for example, one of the main corroborations of the special theory of relativity, used the velocity addition formula on light traveling through the medium of water, where it was assumed and computed both: $\frac{\partial x}{\partial t} \neq c$ and $\frac{\partial x'}{\partial t'} \neq c$.
 
+## Velocity addition formula 
+
 ### Deriving the velocity addition formula 
 
 Assume the Lorentz transformation. We have:
@@ -25,6 +27,8 @@ $\partial x = \frac{\partial x' + v \partial t'}{\sqrt{1 - \frac{v^2}{c^2}}}$
 $\partial t = \frac{\partial t' + \frac{v \partial x'}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}$
 
 $\frac{\partial x}{\partial t} = \frac{\frac{\partial x' + v \partial t'}{\sqrt{1 - \frac{v^2}{c^2}}}}{\frac{\partial t' + \frac{v \partial x'}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}} = \frac{\partial x' + v \partial t'}{\partial t' + \frac{v \partial x'}{c^2}} = \frac{\frac{1}{\partial t'}(\partial x' + v \partial t')}{\frac{1}{\partial t'}(\partial t' + \frac{v \partial x'}{c^2})} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + \frac{v}{c^2}\frac{\partial x'}{\partial t'}}$
+
+### Utility of the velocity addition formula 
 
 This commonly used formula therefore cannot in principle be usable in combination with Einstein's first postulate since the latter requires $\frac{\partial x}{\partial t}  = \frac{\partial x'}{\partial t'} = c$ always. Substituting as such the above gives us:
 
@@ -41,13 +45,13 @@ $$
 
 rendering the formula useless.
 
-# Deriving the velocity addition formula - Most rigorously
+# Deriving the velocity addition formula (most rigorously)
 
 In case the above derivation of the velocity addition formula doesn't satisfy one's preference of rigor, here is a derivation of the velocity addition formula from absolute scratch. This derivation is besides the point of the earlier disproof, and is constructed just as a simple but rigorous derivation of the velocity addition formula, for educating and organizating's-sake.
 
-### Definitions.
+## Definitions.
 
-**(1) Speed of light constant *in vacuo*, reference frame, and spacetime.**
+### (1) Speed of light constant *in vacuo*, reference frame, and spacetime.
 
 Let $c \coloneqq 299,792,458$ be the speed of light constant *in vacuo*.
 
@@ -55,19 +59,19 @@ A body on reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) has time points
 
 $v^{(i, j)} \in \mathbb{R}$ is the velocity of any stationary body on $K^{(j)}$ measured by any stationary observer on $K^{(i)}$.
 
-**(2) Lorentz transformation.**
+### (2) Lorentz transformation.
 
 $\mathcal{X}(X, T, V) \coloneqq \frac{X - VT}{\sqrt{1 - \frac{V^2}{c^2}}}$
 
 $\mathcal{T}(X, T, V) \coloneqq \frac{T - \frac{XV}{c^2}}{\sqrt{1 - \frac{V^2}{c^2}}}$
 
-**(3) Velocity-addition formula.** 
+### (3) Velocity-addition formula.
 
 $\mathcal{V}(V, W) \coloneqq \frac{W + V}{1 + \frac{V}{c^2}W}$.
 
-### Assumptions
+## Assumptions
 
-**(1) Lorentz transformation.**
+### (1) Lorentz transformation.
 
 $x_{t^{(j)}}^{(j)} \coloneqq \mathcal{X}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$
 
@@ -75,7 +79,7 @@ $t^{(j)} \coloneqq \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$
 
 The Lorentz transformation describes reference frame transformations in physical spacetime.
 
-**(2) Mutual velocity perspective.**
+### (2) Mutual velocity perspective.
 
 $v^{(i, j)} \coloneqq -v^{(j, i)}$
 
@@ -91,7 +95,7 @@ $x_{t^{(i)}}^{(i)} = c t^{(i)}$
 As assumed in most experimentally tested setups, e.g., Fizeau.
 -->
 
-**(3) Uniform motion.**
+### (3) Uniform motion.
 
 $K^{(i)}$ is an inertial reference frame:
 
@@ -101,15 +105,15 @@ This is always assumed in special relativity.
 
 A necessary consequence of this is that $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} = \frac{x_{t^{(i)}}^{(i)} - x_{0}^{(i)}}{t^{(i)} - 0}$.
 
-**(4) $x_{0}^{(i)} = 0$.**
+### (4) $x_{0}^{(i)} = 0$.
 
 The origin of any theoretical reference frame $K^{(i)}$ is conformed with wherever $x_{0}^{(i)}$ is. The reference frame $K^{(i)}$ can always be defined or redefined such that $x_{0}^{(i)} = 0$ in the general case, since this only requires a fixed translation in space of the measuring system and is therefore always physically possible, at least theoretically, and has no effect on relative velocities $v^{(i,j)}$ or $v^{(j,i)}$ between reference frames. Alternatively, if this isn't satisfying, $x_{0}^{(i)} = 0$ may also be derived directly as a necessary consequence of the constancy of light postulate, which states that $x_{t^{(i)}}^{(i)} = ct^{(i)}$: 
 
 $x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0 \rightarrow x_{0}^{(i)} = 0$.
 
-### Theorems
+## Theorems
 
-**(1) Velocity-addition formula.** 
+### (1) Velocity-addition formula.
 
 $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}})$.
 
