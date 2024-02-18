@@ -49,7 +49,7 @@ rendering the formula useless.
 
 # Deriving the velocity addition formula (most rigorously)
 
-In case the above derivation of the velocity addition formula doesn't satisfy one's preference of rigor, here is a derivation of the velocity addition formula from absolute scratch. This derivation is besides the point of the earlier disproof, and is constructed just as a simple but rigorous derivation of the velocity addition formula, for educating and organizating's-sake.
+In case the above derivation of the velocity addition formula doesn't satisfy one's preference of rigor, here is a derivation of the velocity addition formula from absolute scratch. This derivation is besides the point of the earlier disproof, and is constructed just as a simple but rigorous derivation of the velocity addition formula, for educating and organizing's-sake.
 
 ## Definitions.
 
@@ -57,7 +57,7 @@ In case the above derivation of the velocity addition formula doesn't satisfy on
 
 Let $c \coloneqq 299,792,458$ be the speed of light constant *in vacuo*.
 
-A body on reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) has time points $t^{(i)}  \in \mathbb{R}$ and corresponding spatial coordinates $x_{t^{(i)}}^{(i)} \in \mathbb{R}$.
+A body on reference frame $K^{(i)}$, for any $i \in \mathbb{N}$, has time points $t^{(i)}  \in \mathbb{R}$ and corresponding spatial coordinates $x_{t^{(i)}}^{(i)} \in \mathbb{R}$.
 
 $v^{(i, j)} \in \mathbb{R}$ is the velocity of any stationary body on $K^{(j)}$ measured by any stationary observer on $K^{(i)}$.
 
@@ -109,7 +109,7 @@ A necessary consequence of this is that $\frac{\partial x_{t^{(i)}}^{(i)}}{\part
 
 ### (4) $x_{0}^{(i)} = 0$.
 
-The origin of any theoretical reference frame $K^{(i)}$ is conformed with wherever $x_{0}^{(i)}$ is. The reference frame $K^{(i)}$ can always be defined or redefined such that $x_{0}^{(i)} = 0$ in the general case, since this only requires a fixed translation in space of the measuring system and is therefore always physically possible, at least theoretically, and has no effect on relative velocities $v^{(i,j)}$ or $v^{(j,i)}$ between stationary bodies and observers on reference frames. Alternatively, if this isn't satisfying, $x_{0}^{(i)} = 0$ may also be derived directly as a necessary consequence of the constancy of light postulate, which states that $x_{t^{(i)}}^{(i)} = ct^{(i)}$: 
+The origin of any theoretical reference frame $K^{(i)}$ is conformed with wherever $x_{0}^{(i)}$ is. The reference frame $K^{(i)}$ can always be defined or redefined such that $x_{0}^{(i)} = 0$ in the general case, since this only requires a fixed translation in space of the theoretical measuring system, and has no effect on relative velocities $v^{(i,j)}$ or $v^{(j,i)}$ between stationary bodies and observers on reference frames. Alternatively, if this isn't satisfying, $x_{0}^{(i)} = 0$ may also be derived directly as a necessary consequence of the constancy of light postulate, which states that $x_{t^{(i)}}^{(i)} = ct^{(i)}$: 
 
 $x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0 \rightarrow x_{0}^{(i)} = 0$.
 
