@@ -12,7 +12,7 @@ $x' = ct'$
 
 $\rightarrow \frac{\partial x'}{\partial t'} = c$.
 
-However, for pretty much all bodies described by $x$ in experiment and application, *e.g.*, an electron or light propagating through a medium, the body's velocity $\frac{\partial x}{\partial t}$ is measurably below the speed of light *in vacuo* constant: $\frac{\partial x}{\partial t} < c$. This defies $x = ct$.
+However, for pretty much all bodies described by $x$ in experiment and application, *e.g.*, an electron or light propagating through a medium, the body's velocity $\frac{\partial x}{\partial t}$ is measurably below the speed of light *in vacuo* constant: $\frac{\partial x}{\partial t} < c$. These use cases cannot be valid at the same time as the necessary $x = ct \rightarrow \frac{\partial x}{\partial t} = c$ of Einstein's first postulate.
 
 The Fizeau experiment, for example, one of the main corroborations of the special theory of relativity, used the velocity-addition formula on light traveling through the medium of water, where it was assumed and computed both: $\frac{\partial x}{\partial t} \neq c$ and $\frac{\partial x'}{\partial t'} \neq c$.
 
