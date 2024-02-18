@@ -109,7 +109,7 @@ A necessary consequence of this is that $\frac{\partial x_{t^{(i)}}^{(i)}}{\part
 
 ### (4) $x_{0}^{(i)} = 0$.
 
-The origin of any reference frame $K^{(i)}$ is conformed with wherever $x_{0}^{(i)}$ is. A reference frame $K^{(i)}$ can be defined or redefined such that $x_{0}^{(i)} = 0$. This requires a fixed translation in space of the measuring system, and has no effect on relative velocities $v^{(i,j)}$ or $v^{(j,i)}$ between stationary bodies and observers on reference frames. Alternatively, if this isn't satisfying, $x_{0}^{(i)} = 0$ may also be derived directly as a necessary consequence of the constancy of light postulate, which states that $x_{t^{(i)}}^{(i)} = ct^{(i)}$: 
+The origin of any reference frame $K^{(i)}$ is conformed with wherever $x_{0}^{(i)}$ is. A reference frame $K^{(i)}$ can be defined or redefined such that $x_{0}^{(i)} = 0$. If not already the case, this requires a fixed translation in space of the measuring system, and has no effect on relative velocities $v^{(i,j)}$ or $v^{(j,i)}$ between stationary bodies and observers on reference frames. Alternatively, if this isn't satisfying, $x_{0}^{(i)} = 0$ may also be derived directly as a necessary consequence of the constancy of light postulate, which states that $x_{t^{(i)}}^{(i)} = ct^{(i)}$: 
 
 $x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0 \rightarrow x_{0}^{(i)} = 0$.
 
