@@ -13,3 +13,5 @@ $$
 &= \frac{\frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} - v^{(i, j)}}{1 - \frac{v^{(i, j)}}{c^2} \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}} \\
 \end{align}
 $$
+
+This is the "average-velocity"-addition formula. Converting this into partial derivatives isn't as easy as taking the limit to an infinitesimal delta, because that infinitesimal delta might not be the same value (or even infinitsimal) when translated across reference frames.
