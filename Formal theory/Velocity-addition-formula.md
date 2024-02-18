@@ -107,11 +107,11 @@ As assumed in most experimentally tested setups, e.g., Fizeau.
 
 ### (3) Uniform motion.
 
-$K^{(i)}$ is an inertial reference frame:
+~$K^{(i)}$ is an inertial reference frame:~
 
 $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constant, or equivalently, $\frac{\partial^2 x_{t^{(i)}}^{(i)}}{\partial {t^{(i)}}^2} = 0$.
 
-This is always assumed in special relativity.
+~This is always assumed in special relativity.~
 
 Since average velocity is equal to displacement over time, a necessary consequence of constant $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is:
 
