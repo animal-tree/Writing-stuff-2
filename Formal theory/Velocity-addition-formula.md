@@ -16,6 +16,8 @@ However, for pretty much all experimentally tested and applied bodies representi
 
 The Fizeau experiment, for example, one of the main corroborations of the special theory of relativity, used the velocity addition formula on light traveling through the medium of water, where it was assumed and computed both: $\frac{\partial x}{\partial t} \neq c$ and $\frac{\partial x'}{\partial t'} \neq c$.
 
+In fact, Einstein assumes $x$ and $x'$ to be the spatial coordinate points (for reference frames $K$ and $K'$ respectively) of a single light beam, *in vacuo*, or otherwise some object traveling at speed $c$, in the first postulate. There is no circumventing that, despite the ubiquitous misunderstanding.
+
 ## Velocity addition formula 
 
 ### Deriving the velocity addition formula 
