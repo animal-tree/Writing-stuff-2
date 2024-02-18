@@ -53,7 +53,7 @@ Let $c \coloneqq 299,792,458$ be the speed of light constant.
 
 A body on reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) has time points $t^{(i)}  \in \mathbb{R}$ and corresponding spatial coordinates $x_{t^{(i)}}^{(i)} \in \mathbb{R}$.
 
-$v^{(i, j)} \in \mathbb{R}$ is the velocity of $K^{(j)}$ measured by an observer on $K^{(i)}$.
+$v^{(i, j)} \in \mathbb{R}$ is the velocity of $K^{(j)}$ measured by a stationary observer on $K^{(i)}$.
 
 **(2) Lorentz transformation.**
 
