@@ -129,6 +129,8 @@ The velocity-addition formula describes a transformation of a body's velocity ac
 
 **Proof.**
 
+As beautiful as this is, the flaw is that $x_{0}^{(i)}$ does not necessarily equal $\mathcal{X}(x_{0}^{(j)}, 0, v^{(j, i)})$  since a different $x_{\hat{t}}^{(j)}$ might transform as such.
+
 $$
 \begin{align}
   \quad \quad \quad \quad \text{ }\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \frac{x_{t^{(i)}}^{(i)} - x_{0}^{(i)}}{t^{(i)}} \quad\quad \text{(Assumption 3)}\\
