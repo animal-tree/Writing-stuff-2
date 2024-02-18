@@ -34,7 +34,7 @@ $\frac{\partial x}{\partial t} = \frac{\frac{\partial x' + v \partial t'}{\sqrt{
 
 ### Utility of the velocity-addition formula 
 
-This commonly used formula therefore cannot in principle be usable in combination with Einstein's first postulate since the latter requires $\frac{\partial x}{\partial t}  = \frac{\partial x'}{\partial t'} = c$ always. Substituting as such the above gives us:
+This commonly used formula cannot in principle be usable in combination with Einstein's first postulate since the latter requires $\frac{\partial x}{\partial t}  = \frac{\partial x'}{\partial t'} = c$ always. Substituting as such the above gives us:
 
 $$
 \begin{align}
