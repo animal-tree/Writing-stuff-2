@@ -16,6 +16,10 @@ $$
 \end{align}
 $$
 
+---
+
+**Tangent:**
+
 This is the "average-velocity"-addition formula. Converting this into partial derivatives isn't as easy as taking the limit to an infinitesimal delta, because that infinitesimal delta might not be the same value (or even infinitesimal) when translated across reference frames.
 
 However, if $x_{0}^{(i)} = 0$, then the two infinitesimalities might be substitutable even under translation since both terms infinitesimally approach $0$ as the infinitesimality approaches $0$. Can't this spatial translation always be considered without loss of generality since velocities are invariant to collinearly moving reference frames?
@@ -30,5 +34,32 @@ $$
 $$
 
 where $\hat{t} = \mathcal{T}(x_{t^{(j)} + h}^{(j)}, t^{(j)} + h, v^{(i,j)})$.
+
+---
+
+**Resume:**
+
+Picking $t_2^{(j)}, t_1^{(j)}$ in a small enough range that the velocity in that range can be said to be "uniform" or constant, we have the following equivalence relationship:
+
+$\frac{\Delta x_{t^{(j)}}^{(j)}}{\Delta t^{(j)}} = \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}$
+
+due to the fact that a constant-velocity is always equal to its average-velocity.
+
+Then, we have:
+
+$\frac{\Delta x_{t^{(i)}}^{(j)}}{\Delta t^{(i)}} = \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$,
+
+since a constant velocity from one inertial reference frame is always a constant velocity in another inertial reference frame.
+
+Thus:
+
+$$
+\begin{align}
+\frac{\Delta x_{t^{(j)}}^{(j)}}{\Delta t^{(j)}} &= \\
+\frac{\Delta x_{t^{(j)}}^{(j)}}{\Delta t^{(j)}} &= \frac{x_{t_2^{(j)}}^{(j)} - x_{t_1^{(j)}}^{(j)}}{t_2^{(j)} - t_1^{(j)}}\\
+&= \frac{\frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} - v^{(i, j)}}{1 - \frac{v^{(i, j)}}{c^2} \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}} \\
+&= \frac{\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} - v^{(i, j)}}{1 - \frac{v^{(i, j)}}{c^2} \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}} \\
+\end{align}
+$$.
 
 
