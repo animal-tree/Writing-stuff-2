@@ -143,7 +143,7 @@ The velocity-addition formula describes a transformation of a body's velocity ac
 
 **Proof.**
 
-$ Can add "Let \hat{x}_{t^{(i)}}^{(i)}$
+> Can add "Let $\hat{x}_{t^{(i)}}^{(i)}$
 >
 > $= x_{t^{(i)}}^{(i)} - x_{0}^{(i)}$."
 
