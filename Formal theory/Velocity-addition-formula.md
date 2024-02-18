@@ -18,9 +18,9 @@ The Fizeau experiment, for example, one of the main corroborations of the specia
 
 Such applications of Einstein's theory can't be valid at the same time as Einstein's first postulate. The object in motion must be defined to travel at exactly the speed of light: $\frac{\partial x}{\partial t} = \frac{\partial x'}{\partial t'} = c$ by implication of Einstein's first postulate. Einstein's first postulate is necessary to his derivation of the Lorentz transformation, and the latter is necessary to the derivation of the velocity-addition formula.
 
-> Einstein assumed $x$ and $x'$ to be the spatial coordinate points (for reference frames $K$ and $K'$ respectively) of a single light beam, *in vacuo* —  or, more specifically, of some object traveling at speed $c$, independent to reference frame — in the first postulate. There is no circumventing that, despite the ubiquitous misunderstanding. Below, the misunderstanding is emphasized via this postulate's implication to the velocity-addition formula.
-
 ## Velocity-addition formula 
+
+In the first postulate, Einstein defined $x$ and $x'$ as spatial coordinates in two reference frames $K$ and $K'$ respectively such that the body whose position is represented by these spatial coordinates is always measured as traveling at speed $c$, independent to reference frame. Namely, he described a beam of light, *in vacuo*,  emitting from the intersecting origins of the reference frames. Whatever beam, particle, or body is chosen as the referent of $x$ and $x'$, there is no circumventing the constraint of satisfying this property in the first postulate within the special theory of relativity, despite the ubiquitous misunderstanding. Below, the misunderstanding is emphasized via this postulate's implication to the velocity-addition formula.
 
 ### Deriving the velocity-addition formula 
 
@@ -174,13 +174,15 @@ $$
 \end{align}
 $$
 
-> Einstein's first postulate, the constancy of the speed of light *in vacuo* across reference frames, states: $x_{t^{(i)}}^{(i)} = ct^{(i)}$.
->
-> $$
-> \begin{align}
-> x_{t^{(i)}}^{(i)} &= ct^{(i)} \\
-> \rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= c, \\
-> \end{align}
-> $$
->
-> rendering the velocity-addition formula useless.
+#
+
+Einstein's first postulate, the constancy of the speed of light *in vacuo* across reference frames, states: $x_{t^{(i)}}^{(i)} = ct^{(i)}$.
+
+$$
+\begin{align}
+x_{t^{(i)}}^{(i)} &= ct^{(i)} \\
+\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= c, \\
+\end{align}
+$$
+
+rendering the velocity-addition formula useless.
