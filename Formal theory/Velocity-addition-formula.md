@@ -101,6 +101,8 @@ $x_{t^{(i)}}^{(i)} = c t^{(i)}$
 As assumed in most experimentally tested setups, e.g., Fizeau.
 -->
 
+> !&#x20DD; Necessary for $\mathcal{V}(\cdot)$, but maybe can derive a different velocity-addition formula $\mathcal{W}(\cdot)$ without this assumption needed.
+
 ### (3) Uniform motion.
 
 $K^{(i)}$ is an inertial reference frame:
