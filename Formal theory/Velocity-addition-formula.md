@@ -218,7 +218,7 @@ This means that if the velocity of a reference frame doesn't change within a tim
 
 What about the average velocity?
 
-If so, this means that if an infinitesimal delta is the average velocity within an infinitesimal time window and equals the partial derivative, then the average velocity within that infinitesimal time window in another reference frame equals the partial derivative for that reference frame. Then partials from deltas can be derived.
+If so, this means that if an infinitesimal delta is the average velocity within an infinitesimal time window and equals the partial derivative, then the average velocity within that infinitesimal time window in another reference frame equals a constant as well for that reference frame and therefore the partial derivative for that reference frame. Then partials from deltas can be derived.
 
 #
 
