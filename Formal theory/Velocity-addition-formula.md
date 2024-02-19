@@ -182,7 +182,7 @@ Change velocity-addition formula to subtraction version, derive corollary from a
 
 $$
 \begin{align}
-\quad \quad \quad \quad \quad \quad \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} &= \frac{\Delta x_{t^{(j)}}^{(j)}}{\Delta t^{(j)}} \quad\quad \text{(Corollary 1)} \\
+\quad \quad \quad \quad \quad \text{ } \text{ } \text{ } \text{ } \text{ } \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} &= \frac{\Delta x_{t^{(j)}}^{(j)}}{\Delta t^{(j)}} \quad\quad \text{(Corollary 1)} \\
 &= \frac{x_{t_2^{(j)}}^{(j)} - x_{t_1^{(j)}}^{(j)}}{t_2^{(j)} - t_1^{(j)}} \quad\quad \text{(Definition 4)}\\
 &= \frac{\mathcal{X}(x_{t_2^{(i)}}^{(i)}, t_2^{(i)}, v^{(i, j)}) - \mathcal{X}(x_{t_1^{(i)}}^{(i)}, t_1^{(i)}, v^{(i, j)})}{\mathcal{T}(x_{t_2^{(i)}}^{(i)}, t_2^{(i)}, v^{(i, j)}) - \mathcal{T}(x_{t_1^{(i)}}^{(i)}, t_1^{(i)}, v^{(i, j)})} \quad\quad \text{(Assumption 1)}\\
 \end{align}
@@ -190,7 +190,7 @@ $$
 
 $$
 \begin{align}
-\quad \quad \quad \quad &= \frac{\Bigg(\frac{x_{t_2^{(i)}}^{(i)} - v^{(i, j)} t_2^{(i)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}} - \frac{x_{t_1^{(i)}}^{(i)} - v^{(i, j)} t_1^{(i)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)}{\Bigg(\frac{t_2^{(i)} - \frac{v^{(i, j)} x_{t_2^{(i)}}^{(i)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}} - \frac{t_1^{(i)} - \frac{v^{(i, j)} x_{t_1^{(i)}}^{(i)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)} \quad\quad \text{(Definition 2)}\\
+\quad \quad \quad \text{ } \text{ } \text{ } \text{ } \text{ } &= \frac{\Bigg(\frac{x_{t_2^{(i)}}^{(i)} - v^{(i, j)} t_2^{(i)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}} - \frac{x_{t_1^{(i)}}^{(i)} - v^{(i, j)} t_1^{(i)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)}{\Bigg(\frac{t_2^{(i)} - \frac{v^{(i, j)} x_{t_2^{(i)}}^{(i)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}} - \frac{t_1^{(i)} - \frac{v^{(i, j)} x_{t_1^{(i)}}^{(i)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)} \quad\quad \text{(Definition 2)}\\
 \end{align}
 $$
 
