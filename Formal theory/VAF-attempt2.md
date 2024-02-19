@@ -49,7 +49,7 @@ Then, we have:
 
 $\frac{\Delta x_{t^{(i)}}^{(j)}}{\Delta t^{(i)}} = \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$,
 
-since a constant velocity from one inertial reference frame is always a constant velocity in another inertial reference frame.
+since a constant-velocity from one inertial reference frame is always a constant-velocity in another inertial reference frame.
 
 Thus:
 
@@ -61,5 +61,7 @@ $$
 &= \frac{\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} - v^{(i, j)}}{1 - \frac{v^{(i, j)}}{c^2} \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}} \\
 \end{align}
 $$.
+
+If there exists no small enough range of $t_2^{(j)}, t_1^{(j)}$ such that the velocity in that range can be said to be "uniform" or constant, then I don't know how to get this into partial derivative form.
 
 
