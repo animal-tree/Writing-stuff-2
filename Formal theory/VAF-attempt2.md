@@ -64,4 +64,6 @@ $$
 
 If there exists no small enough range of $t_2^{(j)}, t_1^{(j)}$ such that the velocity in that range can be said to be "uniform" or constant, then I don't know how to get this into partial derivative form.
 
+If there exists a planck time unit however, then this can always hold since such a small enough range always exists.
+
 
