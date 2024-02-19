@@ -210,6 +210,8 @@ $$
 \end{align}
 $$
 
+If I set $t_2 = t^{(j)} + h$ and $t_1 = t^{(j)}$, then $\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} = \frac{\Delta x_{t^{(j)}}^{(j)}}{\Delta t^{(j)}}$ even without Corollary 1 / Assumption 2. However, this doesn't guarantee $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}$.
+
 #
 
 Einstein's first postulate, the constancy of the speed of light *in vacuo* across reference frames, states: $x_{t^{(i)}}^{(i)} = ct^{(i)}$.
