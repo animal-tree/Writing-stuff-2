@@ -178,7 +178,7 @@ $$
 
 **Proof. (V2)** (In-progress)
 
-Change velocity-addition formula to subtraction version, derive corollary from assumption 3, get rid of assumptions 2 and 4, add definition of deltas.
+Change velocity-addition formula to subtraction version, derive corollary from assumption 3, get rid of assumptions 2 and 4, add definition of deltas, update below and above uses of addition-based velocity-addition formula.
 
 $$
 \begin{align}
@@ -206,7 +206,7 @@ $$
 \begin{align}
 \quad \quad \text{ } \text{ } &= \frac{\frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} - v^{(i, j)}}{1 - \frac{v^{(i, j)}}{c^2} \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}} \\
 &= \frac{\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} - v^{(i, j)}}{1 - \frac{v^{(i, j)}}{c^2} \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}}. \quad\quad \text{(Corollary 1)}\\
-&= \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}). \quad\quad \text{(Definition 3)} \quad\quad\quad \square
+&= \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}). \quad\quad \text{(Definition 3)} \quad\quad\quad \square
 \end{align}
 $$
 
