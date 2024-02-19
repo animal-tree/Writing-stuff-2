@@ -210,7 +210,11 @@ $$
 \end{align}
 $$
 
-If I set $t_2 = \lim\limits_{h \to 0} t^{(j)} + h$ and $t_1 = t^{(j)}$, then $\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} = \frac{\Delta x_{t^{(j)}}^{(j)}}{\Delta t^{(j)}}$ even without Corollary 1 / Assumption 2. However, this doesn't guarantee $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}$.
+If I set $t_2^{(j)} = \lim\limits_{h \to 0} t^{(j)} + h$ and $t_1^{(j)} = t^{(j)}$, then $\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} = \frac{\Delta x_{t^{(j)}}^{(j)}}{\Delta t^{(j)}}$ even without Corollary 1 / Assumption 2. However, this doesn't guarantee $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}$.
+
+$\lim\limits_{h \to 0} t^{(j)} + h = t^{(j)} + \lim\limits_{h \to 0} h$.
+
+If $\lim\limits_{h \to 0} \mathcal{T}(\cdot, h, v^{(i,j}) = \lim\limits_{h \to 0} h$, then $t_2^{(i)} = \lim\limits_{h \to 0} t^{(i)} + h$, then $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}$.
 
 #
 
