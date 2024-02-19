@@ -178,7 +178,7 @@ $$
 
 **Proof. (V2)** (In-progress)
 
-Change velocity-addition formula to subtraction version, derive corollary from assumption 3, get rid of assumptions 2 and 4, add definition of deltas, update below and above uses of addition-based velocity-addition formula.
+Change velocity-addition formula to subtraction version, derive corollary from assumption 3, get rid of assumptions 2 and 4, add definition of deltas, update below and above uses of addition-based velocity-addition formula. (Instead of Corollary 1 can just make current Assumption 3 $\rightarrow$ Assumption 2.)
 
 $$
 \begin{align}
