@@ -210,16 +210,6 @@ $$
 \end{align}
 $$
 
-An inertial reference frame is inertial from all inertial reference frames.
-
-This means that if the velocity of a reference frame doesn't change from one reference frame, then it doesn't change from any other reference frame.
-
-This means that if the velocity of a reference frame doesn't change within a time window from one reference frame, then it doesn't change within that time window from any other reference frame.
-
-What about the average velocity?
-
-If so, this means that if an infinitesimal delta is the average velocity within an infinitesimal time window and equals the partial derivative, then the average velocity within that infinitesimal time window in another reference frame equals a constant as well for that reference frame and therefore the partial derivative for that reference frame. Then partials from deltas can be derived.
-
 #
 
 Einstein's first postulate, the constancy of the speed of light *in vacuo* across reference frames, states: $x_{t^{(i)}}^{(i)} = ct^{(i)}$.
