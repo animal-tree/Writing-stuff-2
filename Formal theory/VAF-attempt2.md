@@ -47,7 +47,7 @@ due to the fact that a constant-velocity is always equal to its average-velocity
 
 Then, we have:
 
-$\frac{\Delta x_{t^{(i)}}^{(j)}}{\Delta t^{(i)}} = \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$,
+$\frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} = \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$,
 
 since a constant-velocity from one inertial reference frame is always a constant-velocity in another inertial reference frame.
 
