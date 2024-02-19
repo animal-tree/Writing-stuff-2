@@ -37,8 +37,6 @@ where $\hat{t} = \mathcal{T}(x_{t^{(j)} + h}^{(j)}, t^{(j)} + h, v^{(i,j)})$.
 
 ---
 
-**Resume:**
-
 Picking $t_2^{(j)}, t_1^{(j)}$ in a small enough range that the velocity in that range can be said to be "uniform" or constant, we have the following equivalence relationship:
 
 $\frac{\Delta x_{t^{(j)}}^{(j)}}{\Delta t^{(j)}} = \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}$
