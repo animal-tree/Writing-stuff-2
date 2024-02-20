@@ -64,6 +64,6 @@ If there exists no small enough range of $t_2^{(j)}, t_1^{(j)}$ such that the ve
 
 If there exists a planck time unit however, then this can always hold since such a small enough range always exists, e.g. the time traversed one planck length.
 
-A constant-velocity assumption or proof isn't needed if $x_{t^{(i)}}^{(i)}}$ refers to an inertial reference frame, or a body stationary in an inertial reference frame, since such a reference frame or body has a constant-velocity by definition, and thus the partial derivative version of the velocity-addition formula can be derived with only the Lorentz transformation as assumption.
+A constant-velocity assumption or proof isn't needed if $x_{t^{(i)}}^{(i)}$ refers to an inertial reference frame, or a body stationary in an inertial reference frame, since such a reference frame or body has a constant-velocity by definition, and thus the partial derivative version of the velocity-addition formula can be derived with only the Lorentz transformation as assumption.
 
 
