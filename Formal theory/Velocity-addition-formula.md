@@ -170,6 +170,6 @@ rendering the velocity-addition formula useless.
 
 What!? A commonly used and/or useful formula can be proven useless?
 
-## !&#x20DD; Answer
+## !&#x20DD; Conclusively derived answer to interrogation
 
-Either the postulate ($x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$), or the formula's usefulness, is false. One or the other has to go.
+Yes. Either the postulate ($x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$), or the formula's usefulness, is false. One or the other has to go.
