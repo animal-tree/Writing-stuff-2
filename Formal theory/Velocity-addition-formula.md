@@ -166,10 +166,10 @@ rendering the velocity-addition formula useless.
 
 #
 
-## � Interrogation
+## � Question
 
 What!? A commonly used and/or useful formula can be proven useless?
 
-## !&#x20DD; Conclusively derived answer to interrogation
+## !&#x20DD; Conclusively derived answer to question
 
 Deduced, not proven. Either Einstein's first postulate (notated without loss of generality as $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$ here, or above as $\text{``}x = ct \text{ and } x' = ct'\text{''}$), or the formula's usefulness, is false. One or the other has to go.
