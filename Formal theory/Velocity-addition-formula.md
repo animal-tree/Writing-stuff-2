@@ -49,7 +49,7 @@ $$
 
 rendering the formula useless.
 
-However, this formula is commonly used, proving that a misuse, misunderstanding, or outright contradiction exists.
+However, this formula is commonly used, proving that a misuse or misunderstanding exists.
 
 # Deriving the velocity-addition formula (most rigorously)
 
