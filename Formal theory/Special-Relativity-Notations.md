@@ -1,6 +1,6 @@
 # Special Relativity Notations
 
-## Definitions.
+## Definitions
 
 ### (1) Speed of light constant *in vacuo*, reference frame, and spacetime.
 
@@ -22,7 +22,7 @@ $\mathcal{T}(X, T, V) \coloneqq \frac{T - \frac{XV}{c^2}}{\sqrt{1 - \frac{V^2}{c
 
 $\mathcal{V}(V, W) \coloneqq \frac{W + V}{1 + \frac{V}{c^2}W}$.
 
-## Assumptions.
+## Assumptions
 
 ### (1) Lorentz transformation.
 
@@ -62,7 +62,7 @@ $x_{0}^{(i)} = 0$ means that the origin ($0$-point) of reference frame $K^{(i)}$
 
 $x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0 \rightarrow x_{0}^{(i)} = 0$.
 
-## Theorems.
+## Theorems
 
 ### (1) Velocity-addition formula.
 
@@ -102,7 +102,7 @@ $$
 \end{align}
 $$
 
-## Disproofs.
+## Disproofs
 
 ### (1) Joint Einstein's first postulate and velocity-addition formula usefulness
 
