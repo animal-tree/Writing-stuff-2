@@ -55,6 +55,8 @@ In case the above derivation of the velocity-addition formula doesn't satisfy on
 
 The misuse/misunderstanding is shown again at the end with this new notation.
 
+How can a commonly used and/or useful formula be proven useless? Well, either the postulate or the formula's usefulness must be false. One or the other has to go.
+
 ## Definitions.
 
 ### (1) Speed of light constant *in vacuo*, reference frame, and spacetime.
