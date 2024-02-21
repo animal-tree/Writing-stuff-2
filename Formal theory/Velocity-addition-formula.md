@@ -53,7 +53,7 @@ rendering the formula useless.
 
 In case the above derivation of the velocity-addition formula doesn't satisfy one's preference of rigor, here is a derivation of the velocity-addition formula from absolute scratch. This derivation is besides the point of the earlier disproof (of the validness of its utility with Einstein's first postulate), and is constructed just as a simple but rigorous derivation of the velocity-addition formula, for educating and organizing's-sake.
 
-## Definitions.
+## Definitions
 
 ### (1) Speed of light constant *in vacuo*, reference frame, and spacetime.
 
@@ -150,7 +150,9 @@ $$
 $$
 -->
 
-#
+## Disproofs
+
+### (1) Joint Einstein's first postulate and velocity-addition formula usefulness
 
 Einstein's first postulate, the constancy of the speed of light *in vacuo* across reference frames, states: $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$.
 
@@ -163,13 +165,3 @@ x_{t^{(i)}}^{(i)} = ct^{(i)} &\text{ and } x_{t^{(j)}}^{(j)} = ct^{(j)}  \quad\q
 $$
 
 rendering the velocity-addition formula useless.
-
-# Q & A
-
-## ? Interrogation
-
-"What!? A commonly used and/or useful formula can be proven useless?"
-
-## !&#x20DD; Conclusively derived answer to interrogation
-
-Well, either Einstein's first postulate (notated without loss of generality as $x_{t^{(i)}}^{(i)} = ct^{(i)}, \forall i \in \mathbb{N}$ here, or above as $\text{``}x = ct \text{ and } x' = ct'\text{''}$), or the formula's usefulness, is false. One or the other has to go.
