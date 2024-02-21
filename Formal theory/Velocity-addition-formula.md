@@ -53,7 +53,7 @@ rendering the formula useless.
 
 In case the above derivation of the velocity-addition formula doesn't satisfy one's preference of rigor, here is a derivation of the velocity-addition formula from absolute scratch. This derivation is besides the point of the earlier disproof (of the triplet validity of the formula as a consequence of Einstein's theory, and his first postulate, and its utility), and is constructed just as a simple but rigorous derivation of the velocity-addition formula, for educating and organizing's-sake.
 
-At the bottom, the misuse/misunderstanding is again shown except with a more rigorous notation and formalism.
+At the bottom, the misuse/misunderstanding is still shown again except with a more rigorous notation and formalism.
 
 ## Definitions.
 
