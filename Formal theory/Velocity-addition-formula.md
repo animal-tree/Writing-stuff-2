@@ -20,17 +20,17 @@ Such applications of Einstein's theory can't be valid at the same time as Einste
 
 ## Velocity-addition formula 
 
-In the first postulate, Einstein defined $x$ and $x'$ as spatial coordinates in two reference frames $K$ and $K'$ respectively such that the body whose position is represented by these spatial coordinates is always measured as traveling at speed $c$, independent to reference frame. Namely, he described a beam of light, *in vacuo*,  emitting from the intersecting origins of the reference frames. The referent body of $x$ and $x'$ must have speed $c$ in both reference frames. The ubiquitous misuse and misunderstanding is shown via this postulate's implication to the commonly used velocity-addition formula:
+In the first postulate, Einstein defined $x$ and $x'$ as spatial coordinates in two reference frames $K$ and $K'$ respectively such that the body whose position is represented by these spatial coordinates is always measured as traveling at speed $c$, independent to reference frame. Namely, he described a beam of light, *in vacuo*, emitting from the intersecting origins of the reference frames. The referent body of $x$ and $x'$ must have speed $c$ in both reference frames. Popularly, this principle is known as the "constancy of light", but mathematically it's known as $x = ct$ and $x' = ct'$. This principle, despite the popular knowledge of it, somehow has escaped the notice of other theorists, experimentalists, and practitioners for an embaressing century; and the ubiquity of the misuse and misunderstanding can be shown, as is done below, via the velocity-addition formula, a commonly-used formula that is rendered meaningless as such.
 
 ### Deriving the velocity-addition formula 
 
 Assume the Lorentz transformation. We have:
 
-$\partial x = \frac{\partial x' + v \partial t'}{\sqrt{1 - \frac{v^2}{c^2}}}$
+$\partial x' = \frac{\partial x - v \partial t}{\sqrt{1 - \frac{v^2}{c^2}}}$
 
-$\partial t = \frac{\partial t' + \frac{v \partial x'}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}$
+$\partial t' = \frac{\partial t - \frac{v \partial x}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}$
 
-$\frac{\partial x}{\partial t} = \frac{\frac{\partial x' + v \partial t'}{\sqrt{1 - \frac{v^2}{c^2}}}}{\frac{\partial t' + \frac{v \partial x'}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}} = \frac{\partial x' + v \partial t'}{\partial t' + \frac{v \partial x'}{c^2}} = \frac{\frac{1}{\partial t'}(\partial x' + v \partial t')}{\frac{1}{\partial t'}(\partial t' + \frac{v \partial x'}{c^2})} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + \frac{v}{c^2}\frac{\partial x'}{\partial t'}}$.
+$\frac{\partial x'}{\partial t'} = \frac{\frac{\partial x - v \partial t}{\sqrt{1 - \frac{v^2}{c^2}}}}{\frac{\partial t - \frac{v \partial x}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}} = \frac{\partial x - v \partial t}{\partial t - \frac{v \partial x}{c^2}} = \frac{\frac{1}{\partial t}(\partial x - v \partial t)}{\frac{1}{\partial t}(\partial t - \frac{v \partial x}{c^2})} = \frac{\frac{\partial x}{\partial t} - v}{1 - \frac{v}{c^2}\frac{\partial x}{\partial t}}$.
 
 ### Utility of the velocity-addition formula 
 
@@ -38,11 +38,11 @@ This commonly used formula cannot in principle be usable in combination with Ein
 
 $$
 \begin{align}
-&\frac{\partial x}{\partial t} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + \frac{v}{c^2}\frac{\partial x'}{\partial t'}} \\
-&\rightarrow c = \frac{c + v}{1 + \frac{v}{c^2}c} \\
-&\rightarrow c = \frac{c + v}{1 + \frac{v}{c}} \\
-&\rightarrow c(1 + \frac{v}{c}) = c + v \\
-&\rightarrow c + v = c + v \\
+&\frac{\partial x'}{\partial t'} = \frac{\frac{\partial x}{\partial t} - v}{1 - \frac{v}{c^2}\frac{\partial x}{\partial t}} \\
+&\rightarrow c = \frac{c - v}{1 - \frac{v}{c^2}c} \\
+&\rightarrow c = \frac{c - v}{1 - \frac{v}{c}} \\
+&\rightarrow c(1 - \frac{v}{c}) = c - v \\
+&\rightarrow c - v = c - v \\
 &\rightarrow 1 = 1, \\
 \end{align}
 $$
@@ -53,11 +53,11 @@ rendering the formula useless.
 
 In case the above derivation of the velocity-addition formula doesn't satisfy one's preference of rigor, here is a derivation of the velocity-addition formula from absolute scratch. This derivation is besides the point of the earlier disproof, and is constructed just as a simple but rigorous derivation of the velocity-addition formula, for educating and organizing's-sake.
 
+At the bottom, the embaressment is again shown except with a more rigorous notation and formalism.
+
 ## Definitions.
 
 ### (1) Speed of light constant *in vacuo*, reference frame, and spacetime.
-
-> Number these 1a, 1b, etc. Define $K^{(i)}$ as an inertial reference frame.
 
 Let $c \coloneqq 299,792,458$ be the speed of light constant *in vacuo*.
 
@@ -87,53 +87,13 @@ $t^{(j)} \coloneqq \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$.
 
 The Lorentz transformation describes a transformation of a body's corresponding space and time coordinates across reference frames in physical spacetime.
 
-### (2) Mutual velocity perspective.
-
-$v^{(i, j)} \coloneqq -v^{(j, i)}$.
-
-This is assumed generally as well as in Einstein's second postulate ("the principle of relativity").
-
-<!--
-**(3) Einstein's first postulate: The speed of light *in vacuo* across all reference frames is constant.**
-
-$x_{t^{(i)}}^{(i)} = c t^{(i)}$
-
-**(4)** $\frac{\partial x}{\partial t} \neq c$.
-
-As assumed in most experimentally tested setups, e.g., Fizeau.
--->
-
-> !&#x20DD; Necessary for $\mathcal{V}(\cdot)$, but maybe can derive a different velocity-addition formula $\mathcal{W}(\cdot)$ without this assumption needed.
-
-### (3) Uniform motion.
-
-~$K^{(i)}$ is an inertial reference frame:~
+### (2) Uniform motion.
 
 $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constant, or equivalently, $\frac{\partial^2 x_{t^{(i)}}^{(i)}}{\partial {t^{(i)}}^2} = 0$.
-
-~This is always assumed in special relativity.~
 
 Since average velocity is equal to displacement over time, a necessary consequence of constant $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is:
 
 $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} = \frac{x_{t^{(i)}}^{(i)} - x_{0}^{(i)}}{t^{(i)} - 0}$.
-
-> !&#x20DD; This is more of a definition of $K^{(i)}$ than an assumption. Can derive the last equation as a Corollary.
->
-> TODO: Check if this is the definition of an inertial reference frame. While the velocities $v^{(i,j)}$ must be constant, must $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ also be constant?
-
-### (4) $x_{0}^{(i)} = 0$.
-
-$x_{0}^{(i)} = 0$ means that the origin ($0$-point) of reference frame $K^{(i)}$ is conformed with wherever the body (whose spatial coordinate is represented by $x_{t^{(i)}}^{(i)}$) is at time $t^{(i)} = 0$, denoted by $x_{0}^{(i)}$. If this conformation isn't already the case, then reference frame $K^{(i)}$ can be redefined such that $x_{0}^{(i)} = 0$ by means of a fixed translation in space of the measuring system, simply by subtracting the previous value of $x_{0}^{(i)}$ from all measurements of $x_{t^{(i)}}^{(i)}$. Such a re-centering has no effect on relative velocities $v^{(i,j)}$ or $v^{(j,i)}$ between observers and bodies on and across reference frames, including for those velocities referred to by the velocity-addition formula. Alternatively, if this isn't satisfying, $x_{0}^{(i)} = 0$ may also be derived directly as a necessary consequence of the constancy of light postulate, which states that $x_{t^{(i)}}^{(i)} = ct^{(i)}$: 
-
-$x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0 \rightarrow x_{0}^{(i)} = 0$.
-
-> !&#x20DD; Note however: fixed spatial translations of the measuring system for a reference frame don't affect any relative velocities or rates of change measured from observers stationary on that reference frame, meaning any results obtained from the translated reference frame generalize to the original. Therefore an assumption isn't needed. Can just operate in translated space via $\widehat{x_{t^{(i)}}^{(i)}} = x_{t^{(i)}}^{(i)} - x_{0}^{(i)}$ in the proof itself, and then transfer all obtained results w.l.o.g. to original space, since velocity-addition formula only needs results about velocities / rates of change, and those are invariant to fixed spatial translations as long as the reference frames are stationary relative to one another.
->
-> Simply owing to the fact that $\frac{\partial \widehat{x_{t^{(i)}}^{(i)}}}{\partial t^{(i)}} = \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$.
->
-> (This can be derived easily: $\frac{\partial \widehat{x_{t^{(i)}}^{(i)}}}{\partial t^{(i)}} = \frac{\partial (x_{t^{(i)}}^{(i)} - x_{0}^{(i)})}{\partial t^{(i)}} = \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ by definition and since $x_{0}^{(i)}$ is a constant).
->
-> Can derive this as a Corolary from the definition of reference frame velocities as being the same from all observers stationary on that reference frame, and noting that both of those terms are velocities refering from and to the same reference frames.
 
 ## Theorems
 
@@ -145,45 +105,10 @@ The velocity-addition formula describes a transformation of a body's velocity ac
 
 **Proof.**
 
-> Can add "Let $\widehat{x_{t^{(i)}}^{(i)}} = x_{t^{(i)}}^{(i)} - x_{0}^{(i)}$."
-
 $$
 \begin{align}
-  \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \frac{x_{t^{(i)}}^{(i)} - x_{0}^{(i)}}{t^{(i)} - 0} \quad\quad \text{(Assumption 3)}\\
-  &= \frac{x_{t^{(i)}}^{(i)}}{t^{(i)}} \quad\quad \text{(Assumption 4)}\\
-  &= \frac{\mathcal{X}(x_{t^{(j)}}^{(j)}, t^{(j)}, v^{(j, i)})}{\mathcal{T}( x_{t^{(j)}}^{(j)}, t^{(j)}, v^{(j, i)})} \quad\quad \text{(Assumption 1)}\\
-  &= \frac{\mathcal{X}(x_{t^{(j)}}^{(j)}, t^{(j)}, -v^{(i, j)})}{\mathcal{T}( x_{t^{(j)}}^{(j)}, t^{(j)}, -v^{(i, j)})} \quad\quad \text{(Assumption 2)}\\
-\end{align}
-$$
-
-$$
-\begin{align}
-  &= \frac{\Bigg(\frac{x_{t^{(j)}}^{(j)} + v^{(i, j)} t^{(j)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)}{\Bigg(\frac{t^{(j)} + \frac{v^{(i, j)} x_{t^{(j)}}^{(j)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)} \quad\quad \text{(Definition 2)}\\
-  &= \frac{x_{t^{(j)}}^{(j)} + v^{(i, j)} t^{(j)}}{t^{(j)} + \frac{v^{(i, j)} x_{t^{(j)}}^{(j)}}{c^2}} \\
-  &= \frac{(\frac{1}{t^{(j)}})(x_{t^{(j)}}^{(j)} + v^{(i, j)} t^{(j)})}{(\frac{1}{t^{(j)}})(t^{(j)} + \frac{v^{(i, j)} x_{t^{(j)}}^{(j)}}{c^2})}\\
-\end{align}
-$$
-
-
-$$
-\begin{align}
-\quad \quad \quad \quad \text{ }&= \frac{\frac{x_{t^{(j)}}^{(j)}}{t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{x_{t^{(j)}}^{(j)}}{t^{(j)}}} \\
-&= \frac{\frac{x_{t^{(j)}}^{(j)} - x_{0}^{(j)}}{t^{(j)} - 0} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{x_{t^{(j)}}^{(j)}- x_{0}^{(j)}}{t^{(j)} - 0}} \quad\quad \text{(Assumption 4)} \\
-&= \frac{\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}} \quad\quad \text{(Assumption 3)}\\
-&= \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}). \quad\quad \text{(Definition 3)} \quad\quad\quad \square
-\end{align}
-$$
-
-#
-
-**Proof. (V2)** (In-progress)
-
-Change velocity-addition formula to subtraction version, derive corollary from assumption 3, get rid of assumptions 2 and 4, add definition of deltas, update below and above uses of addition-based velocity-addition formula. (Instead of Corollary 1 can just make current Assumption 3 $\rightarrow$ Assumption 2.)
-
-$$
-\begin{align}
-\quad \quad \quad \quad \quad \text{ } \text{ } \text{ } \text{ } \text{ } \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} &= \frac{\Delta x_{t^{(j)}}^{(j)}}{\Delta t^{(j)}} \quad\quad \text{(Corollary 1)} \\
-&= \frac{x_{t_2^{(j)}}^{(j)} - x_{t_1^{(j)}}^{(j)}}{t_2^{(j)} - t_1^{(j)}} \quad\quad \text{(Definition 4)}\\
+\quad \quad \quad \quad \quad \text{ } \text{ } \text{ } \text{ } \text{ } \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} &= \frac{\Delta x_{t^{(j)}}^{(j)}}{\Delta t^{(j)}} \quad\quad \text{(Assumption 2)} \\
+&= \frac{x_{t_2^{(j)}}^{(j)} - x_{t_1^{(j)}}^{(j)}}{t_2^{(j)} - t_1^{(j)}} \\
 &= \frac{\mathcal{X}(x_{t_2^{(i)}}^{(i)}, t_2^{(i)}, v^{(i, j)}) - \mathcal{X}(x_{t_1^{(i)}}^{(i)}, t_1^{(i)}, v^{(i, j)})}{\mathcal{T}(x_{t_2^{(i)}}^{(i)}, t_2^{(i)}, v^{(i, j)}) - \mathcal{T}(x_{t_1^{(i)}}^{(i)}, t_1^{(i)}, v^{(i, j)})} \quad\quad \text{(Assumption 1)}\\
 \end{align}
 $$
@@ -197,7 +122,7 @@ $$
 $$
 \begin{align}
 &= \frac{\Bigg(x_{t_2^{(i)}}^{(i)} - v^{(i, j)} t_2^{(i)} - (x_{t_1^{(i)}}^{(i)} - v^{(i, j)} t_1^{(i)})\Bigg)}{\Bigg(t_2^{(i)} - \frac{v^{(i, j)} x_{t_2^{(i)}}^{(i)}}{c^2} - (t_1^{(i)} - \frac{v^{(i, j)} x_{t_1^{(i)}}^{(i)}}{c^2})\Bigg)} \\
-&= \frac{\Delta x_{t^{(i)}}^{(i)} - v^{(i, j)} \Delta t^{(i)}}{\Delta t^{(i)} - \frac{v^{(i, j)} \Delta x_{t^{(i)}}^{(i)}}{c^2}} \quad\quad \text{(Definition 4)}\\
+&= \frac{\Delta x_{t^{(i)}}^{(i)} - v^{(i, j)} \Delta t^{(i)}}{\Delta t^{(i)} - \frac{v^{(i, j)} \Delta x_{t^{(i)}}^{(i)}}{c^2}} \\
 &= \frac{(\frac{1}{\Delta t^{(i)}})(\Delta x_{t^{(i)}}^{(i)} - v^{(i, j)} \Delta t^{(i)})}{(\frac{1}{\Delta t^{(i)}})(\Delta t^{(i)} - \frac{v^{(i, j)} \Delta x_{t^{(i)}}^{(i)}}{c^2})} \\
 \end{align}
 $$
@@ -205,7 +130,7 @@ $$
 $$
 \begin{align}
 \quad \quad \text{ } \text{ } &= \frac{\frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} - v^{(i, j)}}{1 - \frac{v^{(i, j)}}{c^2} \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}} \\
-&= \frac{\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} - v^{(i, j)}}{1 - \frac{v^{(i, j)}}{c^2} \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}}. \quad\quad \text{(Corollary 1)}\\
+&= \frac{\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} - v^{(i, j)}}{1 - \frac{v^{(i, j)}}{c^2} \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}}. \quad\quad \text{(Assumption 2)}\\
 &= \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}). \quad\quad \text{(Definition 3)} \quad\quad\quad \square
 \end{align}
 $$
@@ -218,22 +143,23 @@ $\lim\limits_{h \to 0} t^{(j)} + h = t^{(j)} + \lim\limits_{h \to 0} h$.
 If $\lim\limits_{h \to 0} \mathcal{T}(\cdot, h, v^{(i,j}) = \lim\limits_{h \to 0} h$, then $t_2^{(i)} = \lim\limits_{h \to 0} t^{(i)} + h$, then $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}$.
 -->
 
-
+<!--
 $$
 \begin{align}
 \lim\limits_{h \to 0} t^{(j)} + h &= t^{(j)} + \lim\limits_{h \to 0} h \\
 &= \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i,j)}) + \lim\limits_{h \to 0} h \\
 \end{align}
 $$
+-->
 
 #
 
-Einstein's first postulate, the constancy of the speed of light *in vacuo* across reference frames, states: $x_{t^{(i)}}^{(i)} = ct^{(i)}$.
+Einstein's first postulate, the constancy of the speed of light *in vacuo* across reference frames, states: $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$.
 
 $$
 \begin{align}
-x_{t^{(i)}}^{(i)} &= ct^{(i)}  \quad\quad \text{(Einstein's first postulate)} \\
-&\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = c \\
+x_{t^{(i)}}^{(i)} = ct^{(i)} &\text{ and } x_{t^{(j)}}^{(j)} = ct^{(j)}  \quad\quad \text{(Einstein's first postulate)} \\
+&\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} = c \\
 &\rightarrow c = \mathcal{V}(v^{(i, j)}, c),  \quad\quad \text{(Theorem 1)} \\
 \end{align}
 $$
