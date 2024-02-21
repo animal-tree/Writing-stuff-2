@@ -35,6 +35,16 @@ $$
 
 where $\hat{t} = \mathcal{T}(x_{t^{(j)} + h}^{(j)}, t^{(j)} + h, v^{(i,j)})$.
 
+Might work by using a translated space where the $h \to 0$ means $h' \to 0$ because $x_{0}^{(j)} = 0$:
+
+> !&#x20DD; Note however: fixed spatial translations of the measuring system for a reference frame don't affect any relative velocities or rates of change measured from observers stationary on that reference frame, meaning any results obtained from the translated reference frame generalize to the original. Therefore an assumption isn't needed. Can just operate in translated space via $\widehat{x_{t^{(i)}}^{(i)}} = x_{t^{(i)}}^{(i)} - x_{0}^{(i)}$ in the proof itself, and then transfer all obtained results w.l.o.g. to original space, since velocity-addition formula only needs results about velocities / rates of change, and those are invariant to fixed spatial translations as long as the reference frames are stationary relative to one another.
+>
+> Simply owing to the fact that $\frac{\partial \widehat{x_{t^{(i)}}^{(i)}}}{\partial t^{(i)}} = \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$.
+>
+> (This can be derived easily: $\frac{\partial \widehat{x_{t^{(i)}}^{(i)}}}{\partial t^{(i)}} = \frac{\partial (x_{t^{(i)}}^{(i)} - x_{0}^{(i)})}{\partial t^{(i)}} = \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ by definition and since $x_{0}^{(i)}$ is a constant).
+>
+> Can derive this as a Corolary from the definition of reference frame velocities as being the same from all observers stationary on that reference frame, and noting that both of those terms are velocities refering from and to the same reference frames.
+
 ---
 
 Picking $t_2^{(j)}, t_1^{(j)}$ in a small enough range that the velocity in that range can be said to be "uniform" or constant, we have the following equivalence relationship:
