@@ -168,7 +168,7 @@ rendering the velocity-addition formula useless.
 
 ## � Question
 
-How can a commonly used and/or useful formula be proven useless?
+How is a commonly used and/or useful formula proven useless?
 
 ## !&#x20DD; Answer
 
