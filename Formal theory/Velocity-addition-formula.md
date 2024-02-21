@@ -172,4 +172,4 @@ How can a commonly used and/or useful formula be proven useless?
 
 ## !&#x20DD; Answer
 
-Either the postulate, as it connects to the formula's variables, or the formula's usefulness, is false. One or the other has to go.
+Either the postulate ($x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$), or the formula's usefulness, is false. One or the other has to go.
