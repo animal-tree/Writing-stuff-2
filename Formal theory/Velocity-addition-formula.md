@@ -172,4 +172,4 @@ What!? A commonly used and/or useful formula can be proven useless?
 
 ## !&#x20DD; Conclusively derived answer to interrogation
 
-Yes. Either the postulate ($x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$), or the formula's usefulness, is false. One or the other has to go.
+Deduced, not proven. Either the postulate ($x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$), or the formula's usefulness, is false. One or the other has to go.
