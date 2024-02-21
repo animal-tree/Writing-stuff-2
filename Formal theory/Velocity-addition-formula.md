@@ -172,4 +172,4 @@ rendering the velocity-addition formula useless.
 
 ## !&#x20DD; Conclusively derived answer to interrogation
 
-Deduced, not proven. Either Einstein's first postulate (notated without loss of generality as $x_{t^{(i)}}^{(i)} = ct^{(i)}, \forall i \in \mathbb{N}$ here, or above as $\text{``}x = ct \text{ and } x' = ct'\text{''}$), or the formula's usefulness, is false. One or the other has to go.
+Well, either Einstein's first postulate (notated without loss of generality as $x_{t^{(i)}}^{(i)} = ct^{(i)}, \forall i \in \mathbb{N}$ here, or above as $\text{``}x = ct \text{ and } x' = ct'\text{''}$), or the formula's usefulness, is false. One or the other has to go.
