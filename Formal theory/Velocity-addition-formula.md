@@ -20,7 +20,7 @@ Such applications of Einstein's theory can't be valid at the same time as Einste
 
 ## Velocity-addition formula 
 
-In the first postulate, Einstein defined $x$ and $x'$ as spatial coordinates in two reference frames $K$ and $K'$ respectively such that the body whose position is represented by these spatial coordinates is always measured as traveling at speed $c$, independent to reference frame. Namely, he described a beam of light, *in vacuo*, emitting from the intersecting origins of the reference frames. The referent body of $x$ and $x'$ must have speed $c$ in both reference frames. Popularly, this principle is known as the "constancy of light", but mathematically it's known as $x = ct$ and $x' = ct'$. This principle's direct implication ($\frac{\partial x}{\partial t} = \frac{\partial x'}{\partial t'} = c$), together with the velocity-addition formula and its ubiquitous usage, will make this point for me, that there is a huge, ubiquitous misuse and misunderstanding between the theory in practice and *at least* one of the principles on which it's based.
+In the first postulate, Einstein defined $x$ and $x'$ as spatial coordinates in two reference frames $K$ and $K'$ respectively such that the body whose position is represented by these spatial coordinates is always measured as traveling at speed $c$, independent to reference frame. Namely, he described a beam of light, *in vacuo*, emitting from the intersecting origins of the reference frames. The referent body of $x$ and $x'$ must have speed $c$ in both reference frames. Popularly, this principle is known as the "constancy of light", but mathematically it's known as $x = ct$ and $x' = ct'$. This principle's direct implication ($\frac{\partial x}{\partial t} = \frac{\partial x'}{\partial t'} = c$), together with the velocity-addition formula and its ubiquitous usage, will make this point for me, that there is a huge, ubiquitous misuse and misunderstanding between the theory in practice and principle.
 
 ### Deriving the velocity-addition formula 
 
@@ -164,12 +164,12 @@ $$
 
 rendering the velocity-addition formula useless.
 
-#
+# Q & A
 
-## � Question
+## ? Interrogation
 
-What!? A commonly used and/or useful formula can be proven useless?
+"What!? A commonly used and/or useful formula can be proven useless?"
 
-## !&#x20DD; Conclusively derived answer to question
+## !&#x20DD; Conclusively derived answer to interrogation
 
-Deduced, not proven. Either Einstein's first postulate (notated without loss of generality as $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$ here, or above as $\text{``}x = ct \text{ and } x' = ct'\text{''}$), or the formula's usefulness, is false. One or the other has to go.
+Deduced, not proven. Either Einstein's first postulate (notated without loss of generality as $x_{t^{(i)}}^{(i)} = ct^{(i)}, \forall i \in \mathbb{N}$ here, or above as $\text{``}x = ct \text{ and } x' = ct'\text{''}$), or the formula's usefulness, is false. One or the other has to go.
