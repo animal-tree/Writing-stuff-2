@@ -22,7 +22,7 @@ $\mathcal{T}(X, T, V) \coloneqq \frac{T - \frac{XV}{c^2}}{\sqrt{1 - \frac{V^2}{c
 
 $\mathcal{V}(V, W) \coloneqq \frac{W + V}{1 + \frac{V}{c^2}W}$.
 
-## Assumptions
+## Assumptions.
 
 ### (1) Lorentz transformation.
 
@@ -62,17 +62,7 @@ $x_{0}^{(i)} = 0$ means that the origin ($0$-point) of reference frame $K^{(i)}$
 
 $x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0 \rightarrow x_{0}^{(i)} = 0$.
 
-## Theorems
-
-### (1) Velocity-addition formula.
-
-$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}})$.
-
-The velocity-addition formula describes a transformation of a body's velocity across reference frames in physical spacetime.
-
-**Proof.**
-
-## Theorems
+## Theorems.
 
 ### (1) Velocity-addition formula.
 
@@ -112,7 +102,7 @@ $$
 \end{align}
 $$
 
-# Disproofs
+## Disproofs.
 
 ### (1) Joint Einstein's first postulate and velocity-addition formula usefulness
 
