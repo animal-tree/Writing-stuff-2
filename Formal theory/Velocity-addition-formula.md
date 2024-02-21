@@ -49,7 +49,7 @@ $$
 
 rendering the formula useless.
 
-How can a commonly used and/or useful formula be proven useless? Well, either the postulate or the formula's usefulness is false. One or the other has to go.
+How can a commonly used and/or useful formula be proven useless? Well, either the postulate, as it connects to the formula's variables, or the formula's usefulness, is false. One or the other has to go.
 
 # Deriving the velocity-addition formula (most rigorously)
 
