@@ -120,6 +120,7 @@ $$
 $$
 \begin{align}
 &= \frac{\Bigg(x_{t_2^{(i)}}^{(i)} - v^{(i, j)} t_2^{(i)} - (x_{t_1^{(i)}}^{(i)} - v^{(i, j)} t_1^{(i)})\Bigg)}{\Bigg(t_2^{(i)} - \frac{v^{(i, j)} x_{t_2^{(i)}}^{(i)}}{c^2} - (t_1^{(i)} - \frac{v^{(i, j)} x_{t_1^{(i)}}^{(i)}}{c^2})\Bigg)} \\
+&= \frac{\Bigg((x_{t_2^{(i)}}^{(i)} - x_{t_1^{(i)}}^{(i)}) - v^{(i, j)}(t_2^{(i)} - t_1^{(i)})\Bigg)}{\Bigg((t_2^{(i)} - t_1^{(i)}) - \frac{v^{(i, j)} (x_{t_2^{(i)}}^{(i)} - x_{t_1^{(i)}}^{(i)})}{c^2}\Bigg)} \\
 &= \frac{\Delta x_{t^{(i)}}^{(i)} - v^{(i, j)} \Delta t^{(i)}}{\Delta t^{(i)} - \frac{v^{(i, j)} \Delta x_{t^{(i)}}^{(i)}}{c^2}} \\
 &= \frac{(\frac{1}{\Delta t^{(i)}})(\Delta x_{t^{(i)}}^{(i)} - v^{(i, j)} \Delta t^{(i)})}{(\frac{1}{\Delta t^{(i)}})(\Delta t^{(i)} - \frac{v^{(i, j)} \Delta x_{t^{(i)}}^{(i)}}{c^2})} \\
 \end{align}
