@@ -15,6 +15,10 @@ Any observer stationary in reference frame $K^{(i)}$ measures the corresponding 
 $v^{(i, j)} \in \mathbb{R}$ is the velocity of any body stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
 
 > Can specify $v_{t^{(i)}}^{(i, j)}$ in case of acceleration of either $K^{(i)}$ or $K^{(j)}$.
+>
+> e.g.
+>
+> $v^{(i, j)} \in \mathbb{R}$ is the velocity of any body stationary in $K^{(j)}$ measured by any observer with time coordinate $t^{(i)}$ stationary in $K^{(i)}$.
 
 ### (2) Lorentz transformation.
 
