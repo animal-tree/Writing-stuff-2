@@ -172,4 +172,4 @@ What!? A commonly used and/or useful formula can be proven useless?
 
 ## !&#x20DD; Conclusively derived answer to interrogation
 
-Deduced, not proven. Either Einstein's first postulate (notated without loss of generality as $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$ here, or above as "$x = ct$ and $x' = ct'$"), or the formula's usefulness, is false. One or the other has to go.
+Deduced, not proven. Either Einstein's first postulate (notated without loss of generality as $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$ here, or above as $\text{``}x = ct \text{ and } x' = ct'\text{''}$), or the formula's usefulness, is false. One or the other has to go.
