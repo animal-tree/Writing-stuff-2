@@ -12,6 +12,6 @@ No radiance fields. Actual physics. e.g. maybe Gaussian splatting (read paper) b
 
 ---
 
-just saving since had this idea before Gaussian splatting came out (still haven't read the paper), described with a much larger scope in mind elsewhere in this repo [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Formal%20theory/Old-summaries/Differentiable-universe-my-old-MHDPA-concept.md), [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Old-summaries/Theory-of-everything.md), and [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Formal%20theory/Colossal-Misery.md).
+just saving since had this idea before Gaussian splatting came out (still haven't read the paper), described with a much larger scope in mind elsewhere in this repo [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Old-summaries/Differentiable-universe-my-old-MHDPA-concept.md), [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Old-summaries/Theory-of-everything.md), and [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Colossal-Misery.md).
 
 (haven't read any NeRF papers either. I was conceptualizing the Gaussian version of this before NeRFs became popularized)
