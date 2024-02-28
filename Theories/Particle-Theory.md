@@ -24,4 +24,5 @@ Polarities of neutrinos scaled by proximity-weighted average of amplitudes=frequ
 
 ---
 
-> Later stuff in notes includes local and Markovian multi-slit diffraction via photon memory traces, and more. It's all really cool.
+> Later/other stuff in notes includes local and Markovian multi-slit diffraction via photon memory traces, and more. It's all really cool if appreciated. Wave-particle duality, sampling/collapse, special and perhaps general relativity, gravity propagation, entanglement, conservation laws (to the extent they hold between fermions, Newton's 3rd law doesn't between photons and mass), and more.
+
