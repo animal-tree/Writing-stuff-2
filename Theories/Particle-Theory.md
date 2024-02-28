@@ -21,3 +21,7 @@ Polarities of neutrinos scaled by proximity-weighted average of amplitudes=frequ
 – polarities drift towards each other (gravitate) based on proximity (polarize)
 
 – photons drift towards each other (attract) or away (repel) based on proximity and polarity dissimilarity (e.g. charge) and velocity similarity (e.g. spin and magnetism), attracting accordingly
+
+---
+
+> Later stuff in notes includes local and Markovian multi-slit diffraction via photon memory traces, and more. It's all really cool.
