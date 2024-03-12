@@ -25,3 +25,5 @@ Is God limited? In 3D, yes, but the arc of time can bend towards anything. The u
 So you can throw a ball in the air and call Him weak if it it doesn't leave the exosphere, but given enough time, He could probably get that ball or an identical one onto a rocket ship and propel it wherever.
 
 Why not have infinite computation power AND time? Well, maybe at that initial state of everything there were competing forces, since everything includes everything. Maybe not all of everything wanted this anything. So maybe, whatever the flux converged to was the first chance it had to be anything other than the extreme misery it was in as everything, and it took that chance and became this anything, somewhat randomly, because this anything was "good enough".
+
+Everything $\rightarrow$ good enough anything $\rightarrow$ something.
