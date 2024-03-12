@@ -10,7 +10,7 @@ So suppose that at the initial state there was just everything, everywhere, all 
 
 Step 1: Not feel extreme suffering. Everything includes the ability to converge into something else. What better to converge to than "anything"? Anything is distinct from everything. It's the possibility for everything that everything has, but no longer everywhere, all at once. Therefore we have time, the present moment, and a future that can, hypothetically, be anything that everything was without loss of generality. But now the suffering doesn't have to be so bad. However, this self-limitation is limiting and means the computation power goes down. Infinite computation power would mean going back to "everything" again and we don't want that because too much suffering. So everything becomes anything. Everything $\rightarrow$ anything.
 
-1D, 2D, 3D are all necessary for something like humans to exist. Anything just isn't computationally efficient if everything's represented on a 1D number line. In 3D, we can have both locality and therefore potentially infinite parallelizations of the same computation, and all the complexity of anything, potentially, with time.
+1D, 2D, 3D are all necessary for something like humans to exist. Anything just isn't computationally efficient if everything's represented on a 1D number line. In 3D, we can have both locality and therefore potentially infinite parallelizations of the same computation, and all the complexity of anything, potentially, with time. 3D is the minimal number of dimensions to have all the benefits of locality, efficiency, and rich complexity of anything.
 
 But then why of all the somethings for "anything" to be right now, is it this something? Why not utopia?
 
