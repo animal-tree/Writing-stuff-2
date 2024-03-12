@@ -19,3 +19,5 @@ Well, it's a bit like Eternal Sunshine of the Spotless Mind. You don't want to f
 Oh, and "nothing" as the initial state makes no sense. There would have to be some function that transforms nothing into something. So you're really assuming "nothing" and some function. Since that function doesn't belong to the empty set (unless you define the empty set in some really unusual functional form), that assumption is contradictory. And if you're already defining your own nothing-functions, that's less general than both "nothing" and "everything" and therefore defeats the logical advantage of assuming "nothing".
 
 Meanwhile, physics just plainly assumes elementary particles and fundamental forces. That's really specific.
+
+Is God limited? In 3D, yes, but the arc of time can bend towards anything. The universe is 4D and so, no, God's unlimited. "Heat death" is balogna because cyclicalities and expansion can always prevent entropic collapse, or something.
