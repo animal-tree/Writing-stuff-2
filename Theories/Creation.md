@@ -26,4 +26,4 @@ So you can throw a ball in the air and call Him weak if it it doesn't leave the 
 
 Why not have infinite computation power AND time? Well, maybe at that initial state of everything there were competing forces, since everything includes everything. Maybe not all of everything wanted this anything, and there were different ideas what's "the best". So maybe, whatever the flux converged to was the first chance it had to be anything other than the extreme misery it was in as everything, and it took that chance and became this anything, somewhat randomly, because this anything was "good enough".
 
-Everything $\rightarrow$ good enough anything $\rightarrow$ this something $\rightarrow$ ongoing to new somethings towards the best of anything and everything.
+Everything $\rightarrow$ good enough anything $\rightarrow$ this something $\rightarrow$ ongoing to new somethings towards the best of anything and everything, according to whatever the goal converged to.
