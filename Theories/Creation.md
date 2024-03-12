@@ -20,4 +20,4 @@ Oh, and "nothing" as the initial state makes no sense. There would have to be so
 
 Meanwhile, physics just plainly assumes elementary particles and fundamental forces. That's really specific.
 
-Is God limited? In 3D, yes, but the arc of time can bend towards anything. The universe is 4D and so, no, God's unlimited. "Heat death" is balogna because cyclicalities and expansion can always prevent entropic collapse, or something.
+Is God limited? In 3D, yes, but the arc of time can bend towards anything. The universe is 4D and so, no, taking time into account, God's unlimited. "Heat death" is balogna because cyclicalities and expansion can always prevent entropic collapse, or something.
