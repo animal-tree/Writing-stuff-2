@@ -1,1 +1,1 @@
-Photon probabilities as multi-head 2D unit vectors with memory traces. Local, Markovian.
+Photon probabilities as multi-head oscillators with memory traces. Local, Markovian.
