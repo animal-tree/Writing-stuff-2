@@ -65,3 +65,5 @@ Since the heads are point particles, we have teh advantage of tractability (and 
 However, without this regular oscillation assumption (e.g. sunlight, right?), then the photon distribution pattern remains mystified, as each photon contibutes to potentially conflicting components of the total distribution, as visualized above with two photons in-phase vs. out-of-phase, and the post-hoc Schrodinger/Dirac explanation is no longer satisfactory.
 
 Perhaps sunlight and tested experiment light sources satisfy this criterium, in which case we have a solid unification of photons/quantum mechanics/field theory with SR/GR.
+
+However, that seems unlikely, since why would photons always be evenly spaced out, especially with sunlight.
