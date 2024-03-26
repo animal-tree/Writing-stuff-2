@@ -59,3 +59,7 @@ The question is, why the inner proba oscillation corresponds to the crystal osci
 Can explain this more conventionally by $p=h\lambda$ (more crystal acceleration means more photon quanta but also more momentum from those photons and therefore proportional frequency). So the faster the perceived oscillation/wavelength, the faster the inner one of the heads, making all predictive computations proportional.
 
 Since the heads are point particles, we have teh advantage of tractability (and depending on what the Schrodinger equation describes, localizability and Markov property). Such an oscillating point wave is also closer to the one typically visualized in EM/electrodynamics (and capable of polarization), and lends itself easier (hypothetically) to unification with special/general relativity, without the need for spinnors, since point particles can just be given the same treatment as larger masses in their relativistic behavior without contradiction or further unification needed (except to perhaps explain the existence of antimatter, which was previously derived via Dirac's wave equation with spinnors).
+
+---
+
+However, without this regular oscillation assumption (e.g. sunlight, right?), then the photon distribution pattern remains mystified, as each photon contibutes to potentially conflicting components of the total distribution, as visualized above with two photons in-phase vs. out-of-phase.
