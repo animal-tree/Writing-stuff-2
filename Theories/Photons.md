@@ -62,4 +62,4 @@ Since the heads are point particles, we have teh advantage of tractability (and 
 
 ---
 
-However, without this regular oscillation assumption (e.g. sunlight, right?), then the photon distribution pattern remains mystified, as each photon contibutes to potentially conflicting components of the total distribution, as visualized above with two photons in-phase vs. out-of-phase.
+However, without this regular oscillation assumption (e.g. sunlight, right?), then the photon distribution pattern remains mystified, as each photon contibutes to potentially conflicting components of the total distribution, as visualized above with two photons in-phase vs. out-of-phase, and the post-hoc Schrodinger/Dirac explanation is no longer satisfactory.
