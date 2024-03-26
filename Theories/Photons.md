@@ -72,4 +72,4 @@ Maybe their phases align when they interact with the slits. But the interaction 
 
 I guess they're just excitations of the sea, no quantity defined (until later interaction with projection screen, depending on excitation). How is single- vs. multi- photon determined?
 
-Then again, frequency [is measured by interference patterns](https://qr.ae/pssSe1) so we migt have the concept backwards and simple multi-head oscillator probabilities with head-sampling would suffice to reproduce all of this. Frequency would have to be discounted as just momentum, which is consistent with $p=f\lambda$.
+Then again, frequency [is measured by interference patterns](https://qr.ae/pssSe1) so we might have the concept backwards and simple multi-head oscillator probabilities with head-sampling would suffice to reproduce all of this. Frequency would have to be discounted as just momentum, which is consistent with $p=f\lambda$.
