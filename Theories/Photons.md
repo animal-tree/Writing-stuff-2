@@ -68,4 +68,4 @@ Perhaps sunlight and tested experiment light sources satisfy this criterium, in 
 
 However, that seems unlikely, since why would photons always be evenly spaced out, especially with sunlight.
 
-Maybe their phases align when they interact with the slits.
+Maybe their phases align when they interact with the slits. But the interaction with the inner edges of the slits doesn't necessarily happen.
