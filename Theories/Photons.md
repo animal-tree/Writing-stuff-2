@@ -67,3 +67,5 @@ However, without this regular oscillation assumption (e.g. sunlight, right?), th
 Perhaps sunlight and tested experiment light sources satisfy this criterium, in which case we have a solid unification of photons/quantum mechanics/field theory with SR/GR.
 
 However, that seems unlikely, since why would photons always be evenly spaced out, especially with sunlight.
+
+Maybe their phases align when they interact with the slits.
