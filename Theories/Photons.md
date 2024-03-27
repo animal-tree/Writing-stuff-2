@@ -80,4 +80,4 @@ So I guess this conclusive unification is possible if we accept all instances of
 
 But maybe assuming this criterium of regular photon-quantity oscillation is reasonable to some extent as well, even for sunlight. 
 
-That being said, the most likely answer is that photons are just excitations in this wave (quantum field) and are effectively [sampled as point-dots from throughout that wave in proportion to the energy contained in that wave.](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Quantum-sampling.md)
+That being said, the most likely answer is that photons are just excitations in this wave (quantum field) and are effectively [sampled as point-dots from throughout that wave in quantity-proportion to the energy contained in that wave.](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Quantum-sampling.md)
