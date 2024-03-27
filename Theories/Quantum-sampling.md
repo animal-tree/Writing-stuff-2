@@ -21,7 +21,7 @@ For example, photons as multi-heads with oscillating logit amplitudes that have 
  - "Multi-heads" and "memory traces" are terms I repurpose over from AI, since these mechanisms also could lend to "intelligent physics", rational mechanisms for a literal God.
  - Instead of oscillating logits, angular probas might make more sense so as not to have 0-probabilities at the double-slit mid-points depending on the projection screen's distance.
  - Perhaps each one of these photons emits an EM wave that is independent from what is measured by the projection screen, but is what cellphone antennas/receivers pick up on.
- - The photons/multi-heads have to be at least in-phase when they reach the slits, which I suppose is the case if they're emitted from the same source location with the same starting logit/proba/amplitude/angle.
+ - The photons/multi-heads have to be at least in-phase when they reach the slits, which I suppose is the case if they're emitted from the same source location with the same starting logit/proba/amplitude/angle/phase.
 
 But this still poses a difficulty for unification with SR/GR, since, although unifying the multi-heads is easy and they can be treated essentially like one would larger masses, the EM wave is still mystified by the specifications of SR/GR perhaps, unless its lack of quantum units can be thought of as a resolution to the conflict/contradiction between quantum and relativity in itself.
 
