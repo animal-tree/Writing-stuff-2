@@ -14,7 +14,7 @@ The Schrodinger equation helps predict the resulting interference pattern in mul
 
 But here I make some key critical obsrevations. Though this wave explanation makes sense post-hoc, the actual logistics are mystified. I asked myself, is each photon a ripple expanding outwards, or does each photon represent all of the ripples as they all expand outwards? In either case, I reach the following conundrum: if photons are being emitted from a source at sporadic irregular rates in large numbers, then these ripples wouldn't be evenly spaced. One wave distribution upon another would produce a different pattern than explained post-hoc by measurement. Therefore the source must emit photons either (1) concurrently, and/or (2) at exactly the phase interval of the wavelength, so as the unique wave distributions of the photon can supercede atop each other in the ordered pattern that explains the measured result.
 
-However, by assuming tehse 2 restrictions, as well as answering why they might be, we can reach a much simpler theory of light and quantum field distributions, one that is (a) easier to program and simulate, and (b) more intuitive due to its absolutely-localizable and Markovian properties, at least from a given reference frame (so as not to involve special relativity considerations quite yet).
+However, by assuming these 2 restrictions, as well as answering why they might be, we can reach a much simpler theory of light and quantum field distributions, one that is (a) easier to program and simulate, and (b) more intuitive due to its absolutely-localizable and Markovian properties, at least from a given reference frame (so as not to involve special relativity considerations quite yet).
 
 If (2) is satisfied:
 
