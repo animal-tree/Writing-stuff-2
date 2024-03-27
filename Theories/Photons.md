@@ -62,7 +62,7 @@ Since the heads are point particles, we have teh advantage of tractability (and 
 
 ---
 
-However, without this regular oscillation assumption (e.g. sunlight, right?), then the photon distribution pattern remains mystified, as each photon contibutes to potentially conflicting components of the total distribution, as visualized above with two photons in-phase vs. out-of-phase, and the post-hoc Schrodinger/Dirac explanation is no longer satisfactory.
+However, without this regular oscillation assumption (e.g. sunlight, right?), then the photon distribution pattern remains mystified, as each photon contibutes to potentially conflicting components of the total distribution, as visualized above with two photons in-phase vs. out-of-phase, and the post-hoc Schrodinger/Dirac explanation is no longer satisfactory since the individual quanta can no longer be identified except maybe [like this](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Quantum-sampling.md).
 
 Perhaps sunlight and tested experiment light sources satisfy this criterium, in which case we have a solid unification of photons/quantum mechanics/field theory with SR/GR.
 
