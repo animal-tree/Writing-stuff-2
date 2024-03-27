@@ -33,6 +33,7 @@ For example, photons as multi-heads with oscillating logit amplitudes that have 
        - I don't think this is how it works.
        - Maybe there are no waves and the ripples themselves carry this "inner velocity"/momentum/frequency. But then there's no explanation for Doppler effect again.
        - All I can speculate is potentially some relativistic adaptation responsible for both Doppler effect and SR.
+       - Or that this EM wave literally propagates through an aether or in its standard conceptualization somehow correspondent with the photons but how becomes uncertain.
     - So in this model, charges literally have to emit photons upon acceleration, or move and respond in their presence. Materialized photons have ripples, inner velocity/momentum/frequency, and color on impact of multi-head but based on impact frequency/quantity-rate. Unmaterialized are distributed in multi-heads with memory traces. Heads materialize by sampling based on oscillating logits/probabilities.
 
 But this still poses a difficulty for unification with SR/GR, since, although unifying the multi-heads is easy and they can be treated essentially like one would larger masses, the EM wave is still mystified by the specifications of SR/GR perhaps, unless its lack of quantum units can be thought of as a resolution to the conflict/contradiction between quantum and relativity in itself.
