@@ -8,3 +8,5 @@ Generally speaking, that sampling gives a possible mechanism for "God's action",
 </br>(For example, a wave distribution consists of a discrete quanta of energy, e.g. photons, and where they're sampled can be modulated by God hypothetically as long as the KL divergence from the actual wave distribution is low, though this latent God manipulator is distinct from whatever cellphones might do to bias the sampling).
 
 If a light wave consists of one photon, and there's a literal bullseye somewhere in that wave's uniform distribution, perhaps God can sample that photon there at will, since that's sufficiently plausible according to / with respect to the wave distribution.
+
+But to be clear, that's not what phones rely on. Somehow photons are sampled with loss of information/data at the bullseye of your phone despite their probabilities being distributed uniformly in all directions. I think the cellphone's antenna/receiver mechanism somehow biases the sampling.
