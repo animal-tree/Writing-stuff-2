@@ -6,3 +6,5 @@ Possible answer: your phone biases the sampling (whereas a projection screen in 
 
 Generally speaking, that sampling gives a possible mechanism for "God's action", within some limit of "karmic standard deviation." 
 </br>(For example, a wave distribution consists of a discrete quanta of energy, e.g. photons, and where they're sampled can be modulated by God hypothetically as long as the KL divergence from the actual wave distribution is low, though this latent God manipulator is distinct from whatever cellphones might do to bias the sampling).
+
+If a light wave consists of one photon, and there's a literal bullseye somewhere in that wave's uniform distribution, perhaps God can sample that photon there at will, since that's sufficiently plausible according to / with respect to the wave distribution.
