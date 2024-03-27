@@ -32,6 +32,8 @@ $\mathcal{V}(V, W) \coloneqq \frac{W + V}{1 + \frac{V}{c^2}W}$.
 
 ## Assumptions
 
+This is a running list of popular, common, or possibly useful asumptions. Not all of them are used in the following theorems and diproofs.
+
 ### (1) Lorentz transformation.
 
 $x_{t^{(j)}}^{(j)} \coloneqq \mathcal{X}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$.
