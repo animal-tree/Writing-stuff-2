@@ -4,7 +4,7 @@ Technically any entangled composition of matter.
 
 Entanglement (due to interactions, e.g., non-zero derivatives) as consciousness singularization model.
 
-Can use fermion (W), photon (_/\\\_), and oscillating logit to model.
+Can use fermion (W), photon (_/\\\_), and oscillating logit "heads" to model.
 
 Works for single photon interference case and varying projection screen distances.
 
