@@ -14,3 +14,7 @@ But to be clear, that's not what cellphones rely on. Somehow photons are sampled
 Alternatively, a likely possible explanation is that whatever's being interacted with on/by the projection screen is different from whatever's being interacted with on/by the cellphone's receiver/antenna: one picks up on those discrete photon quanta, the other picks up on the literal wave, and the two aren't equivalent, and no "sampling" is involved in the latter scenario.
 
 But in that case, EM waves $\neq$ photons, and rather than a duality, photons might be epiphenomena of EM waves detected distinctly and uniquely from how EM waves are picked up by cellphone antennas/receivers.
+
+Alternatively, they might be separate but coinciding phenomena altogether, or EM waves somehow are epiphenomena of photons. In any of these 3 cases, this separation of the duality makes it possible to theorize perhaps alternate simpler models of light...... 
+
+For example, photons as multi-heads with oscillating logit amplitudes that have momentum and can "bounce"/"collide" with matter and EM waves as uniformly directioned radiation that emit perhaps from photons with behavior essentially like an ordinary wave.
