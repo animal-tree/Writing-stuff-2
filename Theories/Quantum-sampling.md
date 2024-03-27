@@ -27,4 +27,4 @@ But this still poses a difficulty for unification with SR/GR, since, although un
 
 Much of SR/GR can be attributed to measurements from atomic clocks, which supposedly work based on these light frequencies. So then the question would become, is it the multi-head photons or the EM waves that affect the cesium atoms specifically to do the time-keeping? Depending on the answer, I might be able to conceive a mechanistic explanation for measured SR/GR results.
 
-The main advantage of multi-heads is entanglement, wave function collapse, coherence/decoherence become easier to program/simulate/theorize about, as well as using that concept model as the model of singularized consciousness.
+The main advantage of multi-heads is entanglement, wave function collapse, coherence/decoherence become easier to program/simulate/theorize about, as well as using that concept model as a formal way to define singularized consciousness.
