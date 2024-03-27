@@ -62,3 +62,5 @@ And in my opinion is inelegant due to something about the universe as a sea of p
 And this paragraph, that is rather poetic, is too.
 
 The influence we have on that sea, seeing as it's everywhere around us, is not like the influence I'd imagine with quantized multi-heads. Multi-heads are direct interactions that change and hack the probability landscape. That sea is excitations where the manner of interaction between sea and matter, and sea and other sea and other sea and other sea and other sea, is loosely defined. Each particle has its own sea, and each excitation instance of it is like a head, but that head's power with respect to the sea is not real. Something real is missing. The problem is, the sea isn't matter. It's not even ephemera. This is inelegant for the root of the universe, that matter is emergent from something that doesn't.
+
+I can imagine a sea with more interaction on the universe, but it's so complicated, and though that's not inelegant on the part of the universe, the physics of it become despairingly oppressive.
