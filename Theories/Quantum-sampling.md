@@ -45,4 +45,4 @@ The main advantage of multi-heads is entanglement, wave function collapse, coher
 
 ---
 
-If instead "Possible answer" is true, then perhaps the sensitive electrons of the antenna/receiver bias the sampling of the ordinary Schrodinger wave distribution in order for that bullseye of the antenna/receiver to be hit consistently/reliably by the uniformly directed distribution.
+If instead "Possible answer" is true, then perhaps the sensitive electrons of the cellphone's antenna/receiver bias the sampling of the ordinary Schrodinger wave distribution in order for that bullseye of the antenna/receiver to be hit consistently/reliably by the uniformly directed distribution.
