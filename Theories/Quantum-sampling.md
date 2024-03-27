@@ -56,3 +56,5 @@ Or, there are so many photons in that distribution that they actually hit everyt
 That is, they get sampled in quantity-proportion to the energy of the distribution wave and that quantity-proportion covers pretty much everything uniformly enough within a certain distance to serve as a reliable information propagator for cellular service.
 
 The downside of this answer is it doesn't give us anything new for unifying QFT with GR.
+
+And in my opinion is inelegant due to something about the universe as a sea of probabilities or quantum fields is too complicated of a soup and unsatisfyng compared to multi-heads, for me anyway.
