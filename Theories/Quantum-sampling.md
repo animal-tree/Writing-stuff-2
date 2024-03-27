@@ -53,4 +53,6 @@ If instead "Possible answer" is true, then perhaps the sensitive electrons of th
 
 Or, there are so many photons in that distribution that they actually hit everything pretty much. $\leftarrow$ most likely answer.
 
-That is, they get sampled in quantity-proportion to the energy of the distribution wave and that quantity-proportion covers retty much everything uniformly enough within a certain distance to serve as a reliable information propagator for cellular service.
+That is, they get sampled in quantity-proportion to the energy of the distribution wave and that quantity-proportion covers pretty much everything uniformly enough within a certain distance to serve as a reliable information propagator for cellular service.
+
+The downside of this answer is it doesn't give us anything new for unifying QFT with GR.
