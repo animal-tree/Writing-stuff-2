@@ -13,4 +13,4 @@ But to be clear, that's not what cellphones rely on. Somehow photons are sampled
 
 Alternatively, a likely possible explanation is that whatever's being interacted with on/by the projection screen is different from whatever's being interacted with on/by the cellphone's receiver/antenna: one picks up on those discrete photon quanta, the other picks up on the literal wave, and the two aren't equivalent, and no "sampling" is involved in the latter scenario.
 
-But in that case, EM waves $\neq$ photons.
+But in that case, EM waves $\neq$ photons, and rather than a duality, photons might be epiphenomena of EM waves detected distinctly and uniquely from how EM waves are picked up by cellphone antennas/receivers.
