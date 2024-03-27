@@ -57,4 +57,4 @@ That is, they get sampled in quantity-proportion to the energy of the distributi
 
 The downside of this answer is it doesn't give us anything new for unifying QFT with GR.
 
-And in my opinion is inelegant due to something about the universe as a sea of probabilities or quantum fields is too complicated of a soup and unsatisfyng compared to multi-heads, for me anyway.
+And in my opinion is inelegant due to something about the universe as a sea of probabilities or quantum fields is too complicated of a soup and unsatisfying compared to multi-heads, for me anyway.
