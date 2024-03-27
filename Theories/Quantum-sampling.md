@@ -12,3 +12,5 @@ If a light wave consists of one photon, and there's a literal bullseye somewhere
 But to be clear, that's not what cellphones rely on. Somehow photons are sampled with all the precise frequency modulations and without much loss of information/data at the bullseye of your cellphone's antenna/receiver despite their probabilities being distributed uniformly in all directions. I think the cellphone's antenna/receiver mechanism must somehow bias the sampling... unless what's being interacted with aren't the discrete wave packets/quanta/photons, but the wave itself — though that's not what the point-dots on the projection screen on the other side of a double-slit barrier seem to show happens.
 
 Alternatively, a likely possible explanation is that whatever's being interacted with on/by the projection screen is different from whatever's being interacted with on/by the cellphone's receiver/antenna: one picks up on those discrete photon quanta, the other picks up on the literal wave, and the two aren't equivalent, and no "sampling" is involved in the latter scenario.
+
+But in that case, EM waves $\neq$ photons.
