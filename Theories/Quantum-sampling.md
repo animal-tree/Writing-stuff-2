@@ -2,4 +2,4 @@ If a light wave collides with matter at discrete excitation points (like a parti
 
 Possible answer: your phone biases the sampling (whereas a projection screen in a multi-slit diffraction experiment samples according to the unbiased wave distribution only).
 
-Generally speaking, that sampling gives a possible mechanism for "God's action."
+Generally speaking, that sampling gives a possible mechanism for "God's action", within some limit of "karmic standard deviation."
