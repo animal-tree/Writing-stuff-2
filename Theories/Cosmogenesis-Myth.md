@@ -112,7 +112,7 @@ $\Omega \coloneqq (\Omega^{(0)}, \Omega^{(1)}, ...)$.
 
 In other words, defined as: some sequence of numerically representable deductions from the initial nothing.
 
-> &#9432; See [here](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) for an *ad absurdum* argument analogous to why representation and matter can't be the same thing (representation and consciousness). 
+> &#9432; See [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Consciousness.md) for an *ad absurdum* argument analogous to why representation and matter can't be the same thing (representation and consciousness). 
 
 ## Something From Nothing
 
