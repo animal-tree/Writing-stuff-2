@@ -2,13 +2,13 @@
 
 I am Chenliang, Sam's advisor. He writes this with telepathic interference from Josh, Sam's friend. Together, and this is Sam speaking, we shall derive the universe. Not derivatively of course. That would require ample physical sciences background. But sufficiently well-reasonedly, with made-up words here and there. Let's begin with a less exhausting setup. "I observe." It is true, therefore it is. At any rate, fading into sleep-deprivative exhaustion as I may be, I am reluctant to say this won't work. Largely because of the intensive time and money — "minimum wage" Josh chimes in — investment that has gone into this project. Well, so be it. The whole of the universe, in one shebang. It starts with time. But time exists as a physical construct not a mathematically deduced one. So let us find an incredibly stupid place to hide it. In equivalence.
 
-Alright. Given $A$ $=$ $B$, we know $A \rightarrow B$ and $B \rightarrow A$. We don't know *when* $A \rightarrow B$. Is it in $1$ deductive step $A \rightarrow_1 B$? Is it in $n$ deductive steps $A \rightarrow_n B$. From this, we get a cheap hacky way to derive something out of literally nothing.
+Alright. Given $A$ $=$ $B$, we know $A$ $\rightarrow$ $B$ and $B$ $\rightarrow$ $A$. We don't know *when* $A$ $\rightarrow$ $B$. Is it in $1$ deductive step $A$ $\rightarrow_1$ $B$? Is it in $n$ deductive steps $A$ $\rightarrow_n$ $B$. From this, we get a cheap hacky way to derive something out of literally nothing.
 
 Let us start with nothing $\emptyset$.
 
 Don't regard it as the empty set. Don't regard it at all.
 
-$\emptyset_0 = \emptyset_1 = \cdots$
+$\emptyset_0$ $=$ $\emptyset_1$ $=$ $\cdots$
 
 are all nothing, with just subscripts added.
 
