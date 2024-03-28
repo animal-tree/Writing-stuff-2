@@ -1,5 +1,3 @@
-> Huge disclaimer: this is in part humor, with a philosophical point about deduction and the "knowability" of any cosmogenesis theory.
-
 # Archetypal Madness
 
 I am Chenliang, Sam's advisor. He writes this with telepathic interference from Josh, Sam's friend. Together, and this is Sam speaking, we shall derive the universe. Not derivatively of course. That would require ample physical sciences background. But sufficiently well-reasonedly, with made-up words here and there. Let's begin with a less exhausting setup. "I observe." It is true, therefore it is. At any rate, fading into sleep-deprivative exhaustion as I may be, I am reluctant to say this won't work. Largely because of the intensive time and money — "minimum wage" Josh chimes in — investment that has gone into this project. Well, so be it. The whole of the universe, in one shebang. It starts with time. But time exists as a physical construct not a mathematically deduced one. So let us find an incredibly stupid place to hide it. In equivalence.
@@ -34,13 +32,19 @@ The "halt" can be cosmo-genocide, which we are not interested in solving. $\squa
 
 # Math
 
-Okay, we've gotten a construct for time and an unhalting Turing machine that presumably eventually (or somehow) cycles back to its origin starting state. We got this from hacking the definition of equivalence. We will take a step back now and derive it a little more formally. It is stupid, but perhaps there's nothing stopping us from doing this re-defining and obtaining a deductive logic from which cosmogenesis could theoretically make sense, noting: the Big Bang Theory is not a cosmogenesis theory but chronicles the early moments and evolution of the observable beginning of the universe. An un-mythological cosmogenesis theory has, perhaps, yet to be proposed in the scope of deduction. Myths, such as my favorite being Tolkien's cosmogenesis allegory (yes it is an allegory) of the universe arising from a musical theme, do exist.
+Admittedly, this was humor, but the point is more profound than it may appear. 
 
-Assuming nothing but math, I'll derive "something from nothing".
+Let's derive it formally and as strictly as possible to really make the case.
+
+Cosmogenesis myths usually aren't mathematically deduced. For example, the Tolkien myth of Middle Earth's cosmogenesis describes the Universe as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. Deductively, the Big Bang Theory makes it as far back as the earliest moments of the observable universe, though doesn't include the first moment — the one that's actually the cosmogenetic origin moment.
+
+In short, assuming nothing but math, I'll derive "something from nothing." I won't even assume the existence of nothing.
+
+Since nothing but math is assumed, we conclude there must be a missing component, or else this deduction would have to be true.
 
 ## Deduction
 
-> This is a succinct definition of deduction. It's consistent with historical uses, and permits the derivation of arbitrary representation from nothing without additional axiom.
+Let's succinctly define deduction in such a way that's consistent with historical uses.
 
 ### Proofs
 
@@ -108,7 +112,7 @@ $\Omega \coloneqq (\Omega^{(0)}, \Omega^{(1)}, ...)$.
 
 In other words, defined as: some sequence of numerically representable deductions from the initial nothing.
 
-> &#9432; See [here](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) for an *ad absurdum* argument why representation and matter can't be the same thing (nor representation and consciousness). 
+> &#9432; See [here](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) for an *ad absurdum* argument analogous to why representation and matter can't be the same thing (representation and consciousness). 
 
 ## Something From Nothing
 
@@ -116,7 +120,7 @@ In other words, defined as: some sequence of numerically representable deduction
 
 **Proof.**
 
-$(()) \rightarrow (\langle\rangle)$. (Definition 7)
+$() \rightarrow (\langle\rangle)$. (Definition 7)
 
 $(\langle\rangle)  \rightarrow (\langle\langle\rangle\rangle)$. (Axiom 1)
 
@@ -177,6 +181,11 @@ By Theorem 4. $\square$
 We thus obtain a strongly connected directed graph (potentially expanding in real-time) with nodes and edges that may be defined as non-deterministic and/or non-stationary, whose grammatical "word" is chosen by the un-specified deducer.
 
 > I've derived the representable universe without making any assumptions (except deduction itself), and therefore either this derivation is true, and we have just uncovered cosmogenesis, or representation and deduction cannot be all there is fundamentally in nature and the physical universe. For home-hitting's sake, here's a Q.E.D. symbol: $\square$.
+
+As for the existence of the un-specified deducer, usually this doesn't need proving in a derivation, but just for my satisfaction, here is proof to formalize that without further axiom: "You observe, therefore an observer (you) exists." $\square$ </br>
+&ensp;&ensp;&bull;&nbsp; Note: derivation doesn't depend on this point. The proof stands entirely without it.
+
+> One critique you can make is that the definition of math uses circular logic or infinite recursion, definitions that depend on definitions that cross-reference back to themselves. A dictionary always cross-references itself. Math is built on definitions. Every definition always points to another definition. A finite dictionary cannot exist without circular logic, an infinite dictionary cannot exist without infinite recursions, and math is built atop a dictionary. Therefore math has to be so, assuming it can theoretically consist of finite or infinite definitions. Therefore such definitions must be acceptable, or else math isn't. (I can't put a $\square$ symbol here because if math isn't acceptable, then neither is the notion of Q.E.D.).
 
 # Afterward
 
