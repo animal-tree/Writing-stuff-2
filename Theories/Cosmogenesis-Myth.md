@@ -14,9 +14,9 @@ are all nothing, with just subscripts added.
 
 There we now have causality, constrained only to a cyclical loop between every nothing and every other nothing. e.g.
 
-$\emptyset_0 \rightarrow \emptyset_1 \rightarrow \cdots$
+$\emptyset_0$ $\rightarrow$ $\emptyset_1$ $\rightarrow$ $\cdots$
 
-$\emptyset_0 \leftarrow \emptyset_1 \leftarrow \cdots$
+$\emptyset_0$ $\leftarrow$ $\emptyset_1$ $\leftarrow$ $\cdots$
 
 These nodes can connect in any number of ways and create a multi-branched graph. The ambiguities are not necessary. Let us define one such branch/construct that we can say is "Turing equivalent" and be done with it.
 
