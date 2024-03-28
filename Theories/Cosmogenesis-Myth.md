@@ -40,7 +40,7 @@ Cosmogenesis myths usually aren't mathematically deduced. For example, the Tolki
 
 In short, assuming nothing but math, I'll derive "something from nothing." I won't even assume the existence of nothing.
 
-Since nothing but math is assumed, we conclude there must be a missing component, or else this deduction would have to be true.
+Since nothing but math is assumed, we conclude there must be a missing component, or else this deduction is true.
 
 ## Deduction
 
