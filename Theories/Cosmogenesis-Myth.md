@@ -30,7 +30,7 @@ How about a tape of $\emptyset_{0,i}$ and $\emptyset_{1,i}$ (zeros and ones, or 
 
 The "halt" can be cosmo-genocide, which we are not interested in solving. $\square$
 
-# Deduction
+# Math
 
 Admittedly, this was humor, but the point is more profound than it may appear. 
 
@@ -42,7 +42,7 @@ In short, assuming nothing but math, I'll derive "something from nothing." I won
 
 Since nothing but math is assumed, we conclude there must be a missing component, or else this deduction is true.
 
-## Math
+## Deduction
 
 Let's succinctly define deduction in such a way that's consistent with historical uses.
 
