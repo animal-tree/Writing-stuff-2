@@ -187,7 +187,7 @@ As for the existence of the un-specified deducer, usually this doesn't need prov
 
 > One critique you can make is that the definition of math uses circular logic or infinite recursion, definitions that depend on definitions that cross-reference back to themselves. A dictionary always cross-references itself. Math is built on definitions. Every definition always points to another definition. A finite dictionary cannot exist without circular logic, an infinite dictionary cannot exist without infinite recursions, and math is built atop a dictionary. Therefore math has to be so, assuming it can theoretically consist of finite or infinite definitions. Therefore such definitions must be acceptable, or else math isn't. (I can't put a $\square$ symbol here because if math isn't acceptable, then neither is the notion of Q.E.D.).
 
-Another critique, I dare add, is that the cheap hack of time into equivalence has never been used before in defining equivalents, but mathematically speaking, this is internally consistent with the definition of deduction as having mandatory intermediary deductive steps, something that it universally does, though sometimes at branching paths.
+Another critique, I dare add, is that the cheap hack of time into equivalence has never been used before in defining equivalents, but mathematically speaking, this is internally consistent with the definition of deduction as having mandatory intermediary deductive steps, something that was always universally true.
 
 # Afterward
 
