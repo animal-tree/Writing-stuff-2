@@ -198,13 +198,13 @@ Another critique, I dare add, is that the cheap hack of time into equivalence ha
 
 #
 
-> More philosophically, this derivation branches out into everything, including representations of choices and math itself. Perhaps, amid that everything, some distinguishable nothings defined constraints on themselves, cyclically recreating the math that bore them, and physics by which the overwhelming properties of everything — including the representational meaning of suffering — can be curtailed — and a purpose can be striven for — an objective, one to which the parameters within physics may slowly optimize — towards which the arc of time may bend.
+> More mythologically, we now have that every representation is derived, including representations of potentially agents with choices. Perhaps, amid that representational everything, some distinguishable nothings defined constraints on themselves, creating representational physics capable of being anything, but no longer quite everything, and with some optimizable paramaters and an objective function optimizing towards representational forms of love, peace, and bliss, slowly bending their invented time towards those representational forms of love, peace, and bliss; and maybe, through some mysticism, actually experiencing those representational realities as experiences.
 
 This part isn't derived, but this document is called "Cosmogenesis Myth" after all.
 
 > [The easiest way to get there though is to not assume math as a starting point, and to instead assume the actual meanings of matter, the actual sufferings, the actual purposes — everything](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md), but in the actual, not representation.
 
-And that path makes the most sense because we have seen that, otherwise, assuming math combined with information patterns as the fundamental all, then the above deduction derives the truth of cosmogenesis, something I consider to be a bigger absurdity than the alternative: the alternative is the existence of a matter that is neither math nor information pattern — perhaps nothing else than some kind of singularizing qualia.
+And that path will make the most sense in a moment.
 
 # Conclusion
 
