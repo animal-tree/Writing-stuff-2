@@ -32,7 +32,7 @@ The "halt" can be cosmo-genocide, which we are not interested in solving. $\squa
 
 # Math
 
-Admittedly, this was humor, but the point is more profound than it may appear. 
+Admittedly, this was humor, but the point is more profound than it may appear.
 
 Let's derive it formally and as strictly as possible now.
 
@@ -54,11 +54,11 @@ $($ Axiom  $A ) \coloneqq (\exists A)$.
 
 **Definition 2.** Definition.
 
-$($ Definition $A \coloneqq B) \coloneqq (\exists (A \coloneqq B))$. 
+$($ Definition $A \coloneqq B) \coloneqq (\exists (A \coloneqq B))$.
 
 **Definition 3.** Equivalence.
 
-$($ Equivalence $A = B) \coloneqq (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N})$, where $n, m$ are deductive steps, meaning $n-1, m-1$ statements must be deduced between $A$ and $B$ and $B$ and $A$ respectively. 
+$($ Equivalence $A = B) \coloneqq (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N})$, where $n, m$ are deductive steps, meaning $n-1, m-1$ statements must be deduced between $A$ and $B$ and $B$ and $A$ respectively.
 
 Instantaneous equivalence $(A \coloneqq B) \coloneqq (A \rightarrow_1 B, B \rightarrow_1 A)$.
 
@@ -78,7 +78,7 @@ $($ Deduction/theorem/proof $A \rightarrow B) \coloneqq (A \rightarrow_n B) \col
 
 $($ Sets of anything defined... $(A, B, ...))$ $\coloneqq ((A, B, ...))$
 
-denoted by parentheticals. 
+denoted by parentheticals.
 
 $A$ is a single hypothetical.
 
@@ -112,7 +112,7 @@ $\Omega \coloneqq (\Omega^{(0)}, \Omega^{(1)}, ...)$.
 
 In other words, defined as: some sequence of numerically representable deductions from the initial nothing.
 
-> &#9432; See [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Consciousness.md) for an *ad absurdum* argument analogous to why representation and matter can't be the same thing (representation and consciousness). 
+> &#9432; See [here](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) for an *ad absurdum* argument analogous to why representation and matter can't be the same thing (representation and consciousness).
 
 ## Something From Nothing
 
@@ -140,19 +140,19 @@ $((\exists \emptyset), (\emptyset = \emptyset_K \forall K \subseteq \mathbb{N}))
 
 $((\exists \emptyset), (\Omega^{(0)} \coloneqq \emptyset)) \rightarrow (\exists \Omega^{(0)})$. (Theorem 1, Definition 10)
 
-$((\exists \emptyset_K \vert K \subseteq \mathbb{N}), (\exists \rightarrow_n)) \rightarrow \langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n \rangle$. (Theorem 2, Axiom 2, Definition 5, Axiom 1)
+$((\exists \emptyset_K \vert K \subseteq \mathbb{N}), (\exists \rightarrow_n)) \rightarrow \langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n \rangle$. (Theorem 2, Axiom 2, Definition 3, Definition 5, Axiom 1)
 
 $\langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n \rangle \rightarrow (\exists \Omega^{(n)})$. (Definition 10)
 
 $((\exists \Omega^{(0)}), (\exists \Omega^{(n)})) \rightarrow (\Omega^{(0)}, \Omega^{(1)}, ...) \rightarrow (\exists \Omega)$. (Definition 10) $\square$
 
-**Theorem 4.** The universe $\Omega$ is at least a non-halting Turing machine. 
+**Theorem 4.** The universe $\Omega$ is at least a non-halting Turing machine.
 
 **Proof.**
 
-Construct a tape of binary zeroes and ones $\emptyset_{0,i, t}, \emptyset_{1,i, t}$ where $i$ denotes the position on the tape and $t$ denotes the time point.
+Construct a tape of binary zeroes and ones $\emptyset_{0,i, t}, \emptyset_{1,i, t}$ of size $N$ where $i$ denotes the position on the tape and $t$ denotes the time point.
 
-$\emptyset \rightarrow_1 \emptyset_{\tau,i,0} \forall i \in \mathbb{N}, \tau \in (0, 1)$.
+$\emptyset \rightarrow_1 \emptyset_{\tau,i,0} \forall i \leq N \in \mathbb{N}, \tau \in (0, 1)$.
 
 This is the initial state, defined by $\tau$.
 
@@ -166,7 +166,7 @@ $\emptyset_{\tau,j,t} \rightarrow_1 \emptyset_{\tau,j,t+1}$.
 
 Now, complete the equivalence cycle required by Theorem 2 and Definitions 3 and 9 by the following limit:
 
-$\lim_{n\rightarrow\infty} \emptyset_{\tau,i,n} \rightarrow_1 \emptyset$. 
+$\lim_{n\rightarrow\infty} \emptyset_{\tau,i,n} \rightarrow_1 \emptyset$.
 
 The infinitum allows us to leave the potential cyclicality of the universe a mystery. $\square$
 
@@ -185,17 +185,38 @@ We thus obtain a strongly connected directed graph (potentially expanding in rea
 As for the existence of the un-specified deducer, usually this doesn't need proving in a derivation, but just for my satisfaction, here is proof to formalize that without further axiom: "You observe, therefore an observer (you) exists." $\square$ </br>
 &ensp;&ensp;&bull;&nbsp; Note: derivation doesn't depend on this point. The proof stands entirely without it.
 
-> One critique you can make is that the definition of math uses circular logic or infinite recursion, definitions that depend on definitions that cross-reference back to themselves. A dictionary always cross-references itself. Math is built on definitions. Every definition always points to another definition. A finite dictionary cannot exist without circular logic, an infinite dictionary cannot exist without infinite recursions, and math is built atop a dictionary. Therefore math has to be so, assuming it can theoretically consist of finite or infinite definitions. Therefore such definitions must be acceptable, or else math isn't. (I can't put a $\square$ symbol here because if math isn't acceptable, then neither is the notion of Q.E.D.).
+# Critiques
 
-Another critique, I dare add, is that the cheap hack of time into equivalence has never been used before in defining equivalents, but mathematically speaking, this is internally consistent with the definition of deduction as having mandatory intermediary deductive steps, something that was always universally true. This allows equivalents to be distinguished and not swappably interchangeable within a single deduction graph such as $\Omega$ due to the constraint on their possible positions in $\Omega$. That means their implied existence is shared between all of them, but their representational meaning (qualia?) is distinguishable by the deduction graph that they're in, or for that matter, different deduction graphs cannot substitute one another. Thus unique data structures may be created from equivalents (and there's no constraint saying those data structures can't grow and expand over time).
+One critique that can be made is that the definition of math uses circular logic or infinite recursion, definitions that depend on definitions that cross-reference back to themselves. A dictionary always cross-references itself. Math is built on definitions. Every definition always points to another definition. A finite dictionary cannot exist without circular logic, an infinite dictionary cannot exist without infinite recursions, and math is built atop a dictionary. Therefore math has to be so, since it can consist of finite or infinite definitions. Therefore such definitions must be acceptable, or else math isn't. (I can't put a $\square$ symbol here because if math isn't acceptable, then neither is the notion of Q.E.D.).
+
+Yet another critique: why go this roundabout way and not just represent the representational universe with some hypothetical decimal, e.g. $\pi$, that perhaps contains within it an encoding of the same constructed Turing machine? Well, the number line is a bigger assumption than the one I'm making, and requires specific definitions assumed as true, perhaps even about the physical universe. I have made no further assumptions than deduction itself. Though of course, a number line can be defined, e.g., with decimal integers and operators such as $\lt, \gt$. Their existence isn't immediately derived and would have to be assumed.
+
+That being said, there is now the critique of how I obtain the subscripts of the nothings if there is no a priori number line. First, the subscripts don't need to be numbers. For all intents and purposes, they can be any distinguishing variables. Deductively, it's debatable whether subscripts (as opposed to the variables/existences themselves) even need defining or existence. I think probably not. But suppose they have to be existing, distinguishing variables. Then such can be constructed as follows: (1) a hidden definition in the definition of definition is the existence of that definition, (2) then arbitrary definitons, bijective to a number line, can be constructed as placeholders for any such subscript variables, without actually assuming the content of those definitions (numbers) or any associated operators ($\lt, \gt$ for example) to exist. See [Afterward ](#Afterward) for how (1) can be exploited further.
+
+Another critique, I dare add, is that the cheap hack of time into equivalence has never been used before in defining equivalents, but mathematically speaking, this is internally consistent with the definition of deduction as having mandatory intermediary deductive steps, something that was always universally true. This allows equivalents to be distinguished and not swappably interchangeable within a single deduction graph such as $\Omega$ due to the constraint on their possible positions in $\Omega$. That means their implied existence is shared between all of them, but their representational meaning depends on the deduction graph that they're in, or for that matter, different deduction graphs cannot be inter-exchanged with one another. Thus unique data structures may be created from equivalents. They can even grow and expand over time, or have implications that step between deduction graphs dynamically to, for example, reuse nothing-subscripts to represent 0s and 1s with the same nothings rather than all with different nothings (Theorem 5 kind of simplifies this by using different nothings).</br>
+&ensp;&ensp;&bull;&nbsp; Heck, if I really wanted to construct a specific "Cosmogenesis Myth", I could define a stochastic recursive function through this mechanism, via a deduction graph that points stochastically from the original nothing to a binary bit (or some other encoding), that infinitely points to the original nothing of a next deduction graph which does the same thing, inductively bootstrapping a universe, one whose deduction is guided by the deducer's purpose and sensibilities regarding the feeling of the representations, with the deducer being an unstated self-proving axiom of any/the deduction.
+
+#
 
 > More philosophically, this derivation branches out into everything, including representations of choices and math itself. Perhaps, amid that everything, some distinguishable nothings defined constraints on themselves, cyclically recreating the math that bore them, and physics by which the overwhelming properties of everything — including the representational meaning of suffering — can be curtailed — and a purpose can be striven for — an objective, one to which the parameters within physics may slowly optimize — towards which the arc of time may bend.
 
 This part isn't derived, but this document is called "Cosmogenesis Myth" after all.
 
-> [The easiest way to get there though is to not assume math as a starting point, and to instead assume the actual meanings of matter, the actual sufferings, the actual purposes — everything](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Consciousness.md), but in the actual, not representation.
+> [The easiest way to get there though is to not assume math as a starting point, and to instead assume the actual meanings of matter, the actual sufferings, the actual purposes — everything](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md), but in the actual, not representation.
 
-And that path makes the most sense because we have seen that, otherwise, assuming math combined with information patterns as the fundamental all, then the above deduction is the truth of cosmogenesis, something I consider to be a bigger absurdity than the alternative.
+And that path makes the most sense because we have seen that, otherwise, assuming math combined with information patterns as the fundamental all, then the above deduction derives the truth of cosmogenesis, something I consider to be a bigger absurdity than the alternative: the alternative is the existence of a matter that is neither math nor information pattern — perhaps nothing else than some kind of singularizing qualia.
+
+# Conclusion
+
+Either:
+
+1. Math and information patterns are the sole fundamental properties of the universe.
+   - In which case, I have done the monumental work of deriving cosmogenesis.
+2. Math and information patterns are not the sole fundamental properties of the universe.
+    - In which case, I have done the monumental work of showing there must exist at least a third possibility to the fundamental properties of the universe besides math and information pattern.
+    - One might think to propose simply "matter" as the third possibility and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. The best running definition of "matter" is "particles". But information patterns are also particles (and/or interactions of particles) and particles are information patterns (defined typically by numerical quantum states). Therefore a different alternative is needed, something that cannot be defined as information pattern yet can coalesce into complexity. I propose ["singularizing-qualia"](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) is the only concrete third alternative, and an alternative definition to "matter". Since that's the only running definition that doesn't reduce to information pattern, I've now done the monumental work of evidencing a kind of primordial consciousness as a basis of the physical universe for the first time deductively.
+  
+— "at minimum wage", Josh chimes in.
 
 # Afterward
 
@@ -207,11 +228,11 @@ From that we can derive a variable $\emptyset = (A \coloneqq B)$, and its defini
 
 $\emptyset = \emptyset_K \vert K \subseteq \mathbb{N}$.
 
-So this together with Axiom 2 suffices to obtain $\Omega$. Then we can ask "what is definition?" Perhaps there is a set of all possible definitions. Each equivalent can be regarded as a unique number on the natural number scale $\mathbb{N}$ and each non-equivalent given its own dimension of equivalents $\mathbb{N}^\mathbb{N}$. We thus obtain the natural numbers and vector spaces. The way they relate to each other is by implication with respect to each dimension: some order, for example:
+So this together with Axiom 2 suffices to obtain $\Omega$. Then we can ask "what is definition?" Perhaps there is a set of all possible definitions. Each equivalent can be regarded as a unique number on the natural number scale $\mathbb{N}$ and each non-equivalent given its own dimension of equivalents $\mathbb{N}^\mathbb{N}$. We thus obtain an inoperable version of the natural numbers and vector spaces. The way they relate to each other is by implication with respect to each dimension: some order, for example:
 
 $1 \rightarrow_1 2 \rightarrow_1 3 \rightarrow_1 \cdots$
 
-with some connecting universal node $0 \coloneqq i \forall i \in \mathbb{N}$ to complete the strongly connected directed graph.
+with some connecting universal node $0 \coloneqq i \forall i \in \mathbb{N}$ to complete the strongly connected directed graph. This doesn't quite get us to Axiom 2 though.
 
 Instead, we could discard causality and Axiom 2.
 
@@ -229,7 +250,7 @@ Piecing these together, we could probably derive a non-axiomatic universe, but I
 
 ---
 
-Note: no matter what, as long as there is a definition or an axiom, there is *something* and so what we are actually deriving from is not *nothing* but a primordial something, and it can be defined to be something else e.g. a recursive self-duplicating observer function that encapsulates both definition and cause, e.g. $\mathrm{I}(x) = (\exists x, \mathrm{I}(\max\limits_{y\subseteq \Omega} Q(\Omega)))^\text{ \color{blue}[1.]}$, with a qualia to justify the development of that something into something specific. 
+Note: no matter what, as long as there is a definition or an axiom, there is *something* and so what we are actually deriving from is not *nothing* but a primordial something, and it can be defined to be something else e.g. a recursive self-duplicating observer function that encapsulates both definition and cause, e.g. $\mathrm{I}(x) = (\exists x, \mathrm{I}(\max\limits_{y\subseteq \Omega} Q(\Omega)))^\text{ \color{blue}[1.]}$, with a qualia to justify the development of that something into something specific.
 
 $\text{\color{blue}[1.]:}$ Just spitballing at this time.
 
@@ -251,7 +272,7 @@ $x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$.
 
 $\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert h^{(n)}, n \in \mathcal{N}, \mathrm{R}, x, h^{(0)})$
 
-where $\mathrm{R}$ is the rules of math. $y$ is a theorem or theorem set, $x$ is an axiom or axiom set. $\mathrm{R}$ is Turing-complete due its rewritable memory state $h$. Ordinarily, $\mathrm{R}$'s rules are deterministic, a side effect being that the probability of a theorem $y$ is also deterministic, $1$ or $0$. 
+where $\mathrm{R}$ is the rules of math. $y$ is a theorem or theorem set, $x$ is an axiom or axiom set. $\mathrm{R}$ is Turing-complete due its rewritable memory state $h$. Ordinarily, $\mathrm{R}$'s rules are deterministic, a side effect being that the probability of a theorem $y$ is also deterministic, $1$ or $0$.
 
 Non-deterministic math, e.g. an "Occam's razor" "theorem", we will refer to as epistemological math, rooted in belief.
 
@@ -259,15 +280,15 @@ Non-deterministic math, e.g. an "Occam's razor" "theorem", we will refer to as e
 
 $\mathbf{P}(B \vert E) = \frac{\mathbf{P}(E \vert B)\mathbf{P}(B)}{\mathbf{P}(E)}$
 
-Physics, causality, and math have utility and correlative predictiveness to our memories and senses, but beyond observing what's in front of us, these established beliefs are symbolic references within the brain, and the referents are memories, observations, and beliefs. As René Descartes derived with "*cogito, ergo sum*": "I doubt, therefore I am," we can further deduce inwardly. If I may: 
+Physics, causality, and math have utility and correlative predictiveness to our memories and senses, but beyond observing what's in front of us, these established beliefs are symbolic references within the brain, and the referents are memories, observations, and beliefs. As René Descartes derived with "*cogito, ergo sum*": "I doubt, therefore I am," we can further deduce inwardly. If I may:
 
-"I observe, therefore I am observing, therefore I am. 
+"I observe, therefore I am observing, therefore I am.
 
 I observe many referents to my observation, including memories, feelings, and viscera. There's also belief. I believe X, Y, Z. I justify X, Y, Z by reasons, another element of belief, X', Y', Z'."
 
 Each step is deeper into the psyche.
 
-Physics, causality, and math are beliefs. 
+Physics, causality, and math are beliefs.
 
 Philosophy includes these meta-beliefs as well as others.
 
