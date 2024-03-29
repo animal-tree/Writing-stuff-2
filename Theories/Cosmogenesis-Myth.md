@@ -34,7 +34,7 @@ The "halt" can be cosmo-genocide, which we are not interested in solving. $\squa
 
 Admittedly, this was humor, but the point is more profound than it may appear. 
 
-Let's derive it formally and as strictly as possible to really make the case.
+Let's derive it formally and as strictly as possible now.
 
 Cosmogenesis myths usually aren't mathematically deduced. For example, the Tolkien myth of Middle Earth's cosmogenesis describes the Universe as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. Deductively, the Big Bang Theory makes it as far back as the earliest moments of the observable universe, though doesn't include the first moment — the one that's actually the cosmogenetic origin moment.
 
