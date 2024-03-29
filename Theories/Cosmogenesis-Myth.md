@@ -193,6 +193,8 @@ Another critique, I dare add, is that the cheap hack of time into equivalence ha
 
 This part isn't derived, but this document is called "Cosmogenesis Myth" after all.
 
+> The easiest way to get there though is to not assume math as a staring point, and to instead assume the actual meanings of matter, the actual sufferings, the actual purposes — [everything](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Consciousness.md), but in the actual.
+
 # Afterward
 
 Hypothetically, how far can we get without axioms?
