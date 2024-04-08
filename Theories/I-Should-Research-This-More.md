@@ -14,7 +14,7 @@ Shouldn’t the Earth’s angular acceleration create a bigger centripetal force
 
 #
 
-It’s funny, centrifugal force, like along the equator, due to Earth’s rotation, is a well known phenomena that changes sensed gravity https://www.quora.com/Does-the-Earths-rotation-create-centrifugal-force-against-everything-on-its-surface-If-so-does-that-mean-we-arent-experiencing-gravity-as-strong-as-it-should-be
+It’s funny, centrifugal force, like along the equator, due to Earth’s rotation, is a well known phenomenon that changes sensed gravity https://www.quora.com/Does-the-Earths-rotation-create-centrifugal-force-against-everything-on-its-surface-If-so-does-that-mean-we-arent-experiencing-gravity-as-strong-as-it-should-be
 
 Why aren’t we considering Earth’s angular acceleration? That, fundamentally, is centripetal force. 
 
