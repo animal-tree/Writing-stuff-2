@@ -91,3 +91,5 @@ Ah, so the tether is the Earth. That centripital force is the gravitational forc
 Then no, there is not an extra fictional-mass due to centripital action.
 
 ### Back to no.
+
+Hmm, not quite. It's actually sort of complicated.
