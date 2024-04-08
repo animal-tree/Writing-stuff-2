@@ -69,7 +69,7 @@ It looks in fact to be by centripetal acceleration.
 
 So why would humans not feel this on Earth? 
 
-Let’s construct an artificial gravity simulator via a tennis ball being spun around on a string, and miniature humans hands onto that string together with the tennis ball. The human would be centripetally (like “gravitationally”) pulled towards the tennis ball, unless they held on really tight.
+Let’s construct an artificial gravity simulator via a tennis ball being spun around on a string, and miniature humans hang onto that string together with the tennis ball. The human would be centripetally (like “gravitationally”) pulled towards the tennis ball, unless they held on really tight.
 
 But humans don’t hold on really tight to gravity? Oh wait, they do. Humans experience the same gravity. They’re attached by the hip. They literally can’t separate from that tether any more than the Earth can.
 - So then that’s the answer.
