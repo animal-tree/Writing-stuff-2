@@ -106,4 +106,4 @@ The Earth's gravity and the sun's gravity balance out to pin the human comfortab
 
 And yes, that means slightly (perhaps below measurement precision levels) more perceived gravity at daytime than nighttime. 
 
-### Yes. There’s some extra effective-mass during daytime hours.
+### Yes. There’s some extra grvity-like force during daytime hours.
