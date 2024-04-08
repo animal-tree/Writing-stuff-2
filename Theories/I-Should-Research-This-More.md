@@ -110,14 +110,14 @@ And yes, that means slightly (perhaps below measurement precision levels) more p
 
 YouTube video idea: "Are you heavier during the day than at night?"
 
-Suppose the Earth was somehow frozenin its orbit. Due to its gravity on your relative to that of the sun's, you'd still be comfortably on its surface experiencing things about the same.
+Suppose the Earth was somehow frozen in its orbit. Due to its gravity on you relative to that of the sun's, you'd still be comfortably on its surface experiencing things about the same.
 
-But now, what if we resume that orbital motion gradually back to normal? Well, a big ball —  the Earth would now be accelerating towards you while pulling you along on an orbital trajectory.
+But now, what if we resume that orbital motion (gradually again) back to normal? Well, a big ball —  the Earth would now be accelerating towards you while pulling you along on an orbital trajectory.
 
-That acceration might be really small — like really small. Perhaps imperceptible.
+That acceleration might be really small — like really small. Perhaps imperceptible.
 
-But under your feet, the ground literally moves towards you. And for that reason, you're actually a bit heavier on that side ofthe Earth, the sun-facing side.
+But under your feet, the ground literally moves towards you. And for that reason, you're actually a bit heavier on that side of the Earth, the sun-facing side.
 
 But on the nighttime side, well, it's the opposite.
 
-So yes, surprisingly, by perhaps imperceptibly small margins, you're a bit heavier during the day.
+By perhaps imperceptibly small margins, you're a bit heavier during the day.
