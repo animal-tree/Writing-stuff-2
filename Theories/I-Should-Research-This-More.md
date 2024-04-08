@@ -84,4 +84,10 @@ So even attached at the hip to that string, the miniature human would still expe
 
 ### I re-conclude that physicists are dumb. But it’s tricky, and there’s some extra mass during daytime hours.
 
-- The human's momentum is also much smaller in the velocity direction than the Earth's (due to the lighter mass), meaning, if not for the Earth's gravity, the human would probably be sucked in by the sun (pulled in by the violent tether). The Earth meanwhile has a perfect balance of resistance due to its mass and velocity to keep a stable orbit.
+- The human's momentum is also much smaller in the velocity direction than the Earth's (due to the lighter mass), meaning, if not for the Earth's gravity, the human would probably be sucked in by the sun (pulled in by the violent tether). The Earth meanwhile has a perfect balance of resistance due to its mass and velocity to keep a stable orbit. In other words, that centripital action is quite heavily offset by the sun's gravity due to a human's much smaller momentum, with only the Earth serving as the centripital and gravitational actor and the sun violently pulling inwards.
+
+Ah, so the tether is the Earth. That centripital force is the gravitational force.
+
+Then no, there is not an extra fictional-mass due to centripital action.
+
+### Back to no.
