@@ -102,7 +102,7 @@ That angular acceleration in that case depends on distance from the sun, so ther
 
 #
 
-The Earth's gravity and the sun's gravity balance out to pin the human comfortably on the Earth. After that, the Earth's angular acceleration adds some extra pressure to the human's feet.
+**The Earth's gravity and the sun's gravity balance out to pin the human comfortably on the Earth. After that, the Earth's angular acceleration adds some extra pressure to the human's feet.**
 
 And yes, that means slightly (perhaps below measurement precision levels) more perceived gravity at daytime than nighttime. 
 
