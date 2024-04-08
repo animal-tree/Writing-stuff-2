@@ -93,3 +93,9 @@ Then no, there is not an extra fictional-mass due to centripital action.
 ### Back to no.
 
 Hmm, not quite. It's actually sort of complicated.
+
+The angular acceleration of the Earth should cause some small force on the human, independent from the gravitational force.
+
+However, the human's angular acceleration towards the sun is technically even heavier than the Earth's because of the lighter momentum, yet the human is tethered against it by the Earth's gravity.
+
+That angular acceleration in that case depends on distance from the sun, so there would still be a perceived-mass difference between day hours and night hours. (Maybe really small and hard to measure).
