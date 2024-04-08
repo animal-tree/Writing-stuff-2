@@ -108,7 +108,7 @@ And yes, that means slightly (perhaps below measurement precision levels) more p
 
 ### Yes. There’s some extra gravity-like force during daytime hours.
 
-YouTube video idea: "Are you heavier during the day than at night?"
+YouTube video idea: *"Are you heavier during the day than at night?"*
 
 Suppose the Earth was somehow frozen in its orbit. Due to its gravity on you relative to that of the sun's, you'd still be comfortably on its surface experiencing things about the same.
 
