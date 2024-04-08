@@ -19,7 +19,7 @@ It’s funny, centrifugal force, like along the equator, due to Earth’s rotati
 Why aren’t we considering Earth’s angular acceleration? That, fundamentally, is centripetal force. 
 
 This actually sort of answers it. https://www.reddit.com/r/AskPhysics/comments/qed9rx/comment/hhs96qh/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button </br>
-But clearly it’s not a well know/understood/appreciated phenomenon in physics.
+But clearly it’s not a well known/understood/appreciated phenomenon in physics.
 
 But then this makes a counterpoint: https://en.m.wikipedia.org/wiki/Proper_acceleration
 “Gravitation therefore does not cause proper acceleration, because the same gravity acts equally on the inertial observer.“</br>
