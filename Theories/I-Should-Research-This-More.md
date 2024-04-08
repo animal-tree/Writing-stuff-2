@@ -112,7 +112,7 @@ YouTube video idea: *"Are you heavier during the day than at night?"*
 
 Suppose the Earth was somehow frozen in its orbit. Due to its gravity on you relative to that of the sun's, you'd still be comfortably on its surface experiencing things about the same.
 
-But now, what if we resume that orbital motion (gradually again) back to normal? Well, a big ball —  the Earth would now be accelerating towards you while pulling you along on an orbital trajectory.
+But now, what if we resume that orbital motion (gradually again) back to normal? Well, a big ball — the Earth — would now be accelerating towards you while pulling you along on an orbital trajectory.
 
 That acceleration might be really small — like really small. Perhaps imperceptible.
 
