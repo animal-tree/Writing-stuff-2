@@ -107,3 +107,17 @@ That angular acceleration in that case depends on distance from the sun, so ther
 And yes, that means slightly (perhaps below measurement precision levels) more perceived gravity at daytime than nighttime. 
 
 ### Yes. There’s some extra gravity-like force during daytime hours.
+
+YouTube video idea: "Are you heavier during the day than at night?"
+
+Suppose the Earth was somehow frozenin its orbit. Due to its gravity on your relative to that of the sun's, you'd still be comfortably on its surface experiencing things about the same.
+
+But now, what if we resume that orbital motion gradually back to normal? Well, a big ball —  the Earth would now be accelerating towards you while pulling you along on an orbital trajectory.
+
+That acceration might be really small — like really small. Perhaps imperceptible.
+
+But under your feet, the ground literally moves towards you. And for that reason, you're actually a bit heavier on that side ofthe Earth, the sun-facing side.
+
+But on the nighttime side, well, it's the opposite.
+
+So yes, surprisingly, by perhaps imperceptibly small margins, you're a bit heavier during the day.
