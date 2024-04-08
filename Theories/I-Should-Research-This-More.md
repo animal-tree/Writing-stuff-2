@@ -99,3 +99,11 @@ The angular acceleration of the Earth should cause some small force on the human
 However, the human's angular acceleration towards the sun is technically even heavier than the Earth's because of the lighter momentum, yet the human is tethered against it by the Earth's gravity.
 
 That angular acceleration in that case depends on distance from the sun, so there would still be a perceived-mass difference between day hours and night hours. (Maybe really small and hard to measure).
+
+#
+
+The Earth's gravity and the sun's gravity balance out to pin the human comfortably on the Earth. After that, the Earth's angular acceleration adds some extra pressure to the human's feet.
+
+And yes, that means slightly (perhaps below measurement precision levels) more perceived gravity at daytime than nighttime. 
+
+### There’s some extra mass during daytime hours.
