@@ -134,7 +134,7 @@ $$
 
 ## Disproofs
 
-### (1) Joint Einstein's first postulate and velocity-addition formula usefulness
+### (1) Joint Einstein's first postulate and velocity-addition formula usefulness.
 
 **Disproof.**
 
@@ -150,7 +150,7 @@ $$
 
 rendering the velocity-addition formula useless. $\square$
 
-### (2) Joint Einstein's first postulate and below-light-speed usefulness
+### (2) Joint Einstein's first postulate and below-light-speed usefulness.
 
 **Disproof.**
 
