@@ -273,7 +273,7 @@ And perhaps even in Everything, there were many choosers and this was but one co
 
 But why does suffering happen?
 
-There are many answers to this as well. Some suffering is sacred, such as grief. Within Everything, grief existed too. Other suffering isn't sacred. So why does it happen? Because humans perpetuate many injustices, including economic, social, spiritual, psychological, and physical. Humans are sacred. But the memory of these injustices is being established for our children, and there is another memory that the Everything wants to establish: how to escape this. The process of ending economic, social, spiritual, psychological, and physical injustice is a memory that the Everything wants to establish.
+There are many answers to this as well. Some suffering is sacred, such as grief. Within Everything, grief existed too. Some suffering is a balance. Without death, our egos would have to live on forever. Other suffering isn't sacred. So why does it happen? Because humans perpetuate many injustices, including economic, social, spiritual, psychological, and physical. Humans are sacred. But the memory of these injustices is being established for our children, and there is another memory that the Everything wants to establish: how to escape this. The process of ending economic, social, spiritual, psychological, and physical injustice is a memory that the Everything wants to establish.
 
 ## Alternative Set of Definitions of Math and Philosophy
 
