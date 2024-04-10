@@ -59,9 +59,9 @@ Let $c \coloneqq 299,792,458$ be the speed of light constant *in vacuo*.
 
 Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system that is potentially in motion relative to other reference frames (coordinate systems likewise potentially in motion, for example $K^{(j)}$).
 
-Any observer stationary in reference frame $K^{(i)}$ measures the corresponding time and space coordinates of some body (call it $M$), as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
+Any observer stationary in reference frame $K^{(i)}$ measures the corresponding time and space coordinates of some body (can call it $M$), as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
 
-$v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (or observer) stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
+$v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (including observers) stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
 
 ### (2) Lorentz transformation.
 
@@ -169,5 +169,5 @@ rendering the theories of special and general relativity unusable in this scenar
 
 # Conclusion
 
-- Disproofs (1) and (2) mean that none of the experimental results of the velocity-addition formula (*e.g.* Fizeau experiment) can be attributed to Einstein's first postulate or used as evidence for Einstein's first postulate, and none of the experimental results of Einstein's theories of special and general relativity, that involve the body/mass traveling at below light speed (*e.g.* any particles with mass), can be attributed to Einstein's first postulate, from which the theories are derived. 
+- Disproofs (1) and (2) mean that none of the experimental results of the velocity-addition formula (*e.g.* Fizeau experiment) can be attributed to Einstein's first postulate or used as evidence for Einstein's first postulate, and none of the experimental results of Einstein's theories of special and general relativity, that involve the body/mass traveling at below light speed (*e.g.* any particles with mass), can be attributed to Einstein's first postulate, from which the theories are derived, or used as evidence for Einstein's first postulate. 
 - It also raises the fundamental question, pertaining either to consciousness or intelligence, of how physicists didn't notice any of this ($x$ $=$ $ct$), despite the core of the disproofs following immediately from elementary-level math. The answer to that will perhaps become clear with time.
