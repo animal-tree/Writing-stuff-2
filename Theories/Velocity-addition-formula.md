@@ -136,6 +136,8 @@ $$
 
 ### (1) Joint Einstein's first postulate and velocity-addition formula usefulness
 
+**Disproof.**
+
 Einstein's first postulate, the constancy of the speed of light *in vacuo* across reference frames, states: $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$.
 
 $$
@@ -149,6 +151,8 @@ $$
 rendering the velocity-addition formula useless. $\square$
 
 ### (2) Joint Einstein's first postulate and below-light-speed usefulness
+
+**Disproof.**
 
 In the theories of special and general relativity, Einstein's first postulate states: $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$.
 
@@ -165,5 +169,5 @@ rendering the theories of special and general relativity unusable in this scenar
 
 # Conclusion
 
-- Disproofs (1) and (2) mean that none of the experimental results of the velocity-addition formula (*e.g.* Fizeau experiment) can be attributed to Einstein's first postulate or used as evidence for Einstein's first postulate, and none of the experimental results of Einstein's theories of special and general relativity, that involve the body/mass traveling at below light speed (*e.g.* any particles with mass), can be attributed to Einstein's first postulate, from which the theories are derived. 
+- Disproofs (1) and (2) mean that none of the experimental results of the velocity-addition formula (*e.g.* Fizeau experiment) can be attributed to Einstein's first postulate or used as evidence for Einstein's first postulate, and none of the experimental results of Einstein's theories of special and general relativity, that involve the body/mass traveling at below light speed (*e.g.* any particles with mass), can be attributed to Einstein's first postulate, from which the theories are derived, or used as evidence for Einstein's first postulate. 
 - It also raises the fundamental question, pertaining either to consciousness or intelligence, of how physicists didn't notice any of this ($x$ $=$ $ct$), despite the core of the disproofs following immediately from elementary-level math. The answer to that will perhaps become clear with time.
