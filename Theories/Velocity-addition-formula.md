@@ -1,8 +1,8 @@
-# Disproving experimental evidence
+# Disproving standard use
 
 Einstein used his first postulate, the constancy of the speed of light *in vacuo* across reference frames, to derive the Lorentz transformation. This postulate states and necessitates the following:
 
-$x = ct$
+$x$ $=$ $ct$
 
 $\rightarrow \frac{\partial x}{\partial t} = c$
 
@@ -12,15 +12,15 @@ $x' = ct'$
 
 $\rightarrow \frac{\partial x'}{\partial t'} = c$.
 
-However, for pretty much all bodies described by $x$ in experiment and application, *e.g.*, an electron, the body's velocity $\frac{\partial x}{\partial t}$ is measured or presumed below the speed of light *in vacuo* constant: $\frac{\partial x}{\partial t} < c$. These use cases cannot be valid at the same time as $x = ct$ is necessitated by Einstein's first postulate, since $x = ct \rightarrow \frac{\partial x}{\partial t} = c$.
+However, for pretty much all bodies described by $x$ in experiment and application, *e.g.*, an electron, the body's velocity $\frac{\partial x}{\partial t}$ is measured or presumed below the speed of light *in vacuo* constant: $\frac{\partial x}{\partial t} < c$. These use cases cannot be valid at the same time as $x$ $=$ $ct$ is necessitated by Einstein's first postulate, since $x = ct \rightarrow \frac{\partial x}{\partial t} = c$.
 
 The Fizeau experiment, for example, one of the main corroborations of the special theory of relativity, used the velocity-addition formula on a light beam's position through a tube of flowing water, describing the light beam's position in the respective reference frames of the tube and the contained flowing water medium, with $\frac{\partial x}{\partial t} \neq c$ measured, and $\frac{\partial x'}{\partial t'} \neq c$ assumed.
 
-Such applications of Einstein's theory can't be valid at the same time as Einstein's first postulate. The object in motion must be defined to travel at exactly the speed of light: $\frac{\partial x}{\partial t} = \frac{\partial x'}{\partial t'} = c$ by implication of Einstein's first postulate. Einstein's first postulate is necessary to his derivation of the Lorentz transformation, and the latter is necessary to the derivation of the velocity-addition formula.
+Such applications of Einstein's theory can't be valid at the same time as Einstein's first postulate. The object in motion must be defined to travel at exactly the speed of light: $\frac{\partial x}{\partial t} = \frac{\partial x'}{\partial t'} = c$ by implication of Einstein's first postulate. Perhaps this holds, and the light beam is just bouncing around inside the medium at the required speed and only appears delayed, but it can't hold for an electron or other slower-than-light-speed mass/body. Einstein's first postulate is necessary to his derivation of the Lorentz transformation, and the latter is necessary to the derivation of the velocity-addition formula.
 
 ## Velocity-addition formula 
 
-In the first postulate, Einstein defined $x$ and $x'$ as spatial coordinates in two reference frames $K$ and $K'$ respectively such that the body whose position is represented by these spatial coordinates is always measured as traveling at speed $c$, independent to reference frame. Namely, he described a beam of light, *in vacuo*, emitting from the intersecting origins of the reference frames. The referent body of $x$ and $x'$ must have speed $c$ in both reference frames. Popularly, this principle is known as the "constancy of light", but mathematically it's known as $x = ct$ and $x' = ct'$. This principle's direct implication ($\frac{\partial x}{\partial t} = \frac{\partial x'}{\partial t'} = c$), together with the velocity-addition formula and its ubiquitous usage, will make this point for me, that there is a huge, ubiquitous misuse and misunderstanding between the theory in practice and principle.
+In the first postulate, Einstein defined $x$ and $x'$ as spatial coordinates in two reference frames $K$ and $K'$ respectively such that the body whose position is represented by these spatial coordinates is always measured as traveling at speed $c$, independent to reference frame. Namely, he described a beam of light, *in vacuo*, emitting from the intersecting origins of the reference frames. The referent body of $x$ and $x'$ must have speed $c$ in both reference frames. Popularly, this principle is known as the "constancy of light", but mathematically it's known as $x$ $=$ $ct$ and $x' = ct'$. This principle's direct implication ($\frac{\partial x}{\partial t} = \frac{\partial x'}{\partial t'} = c$), together with the velocity-addition formula and its ubiquitous usage, will make this point for me, that there is a huge, ubiquitous misuse and misunderstanding between the theory in practice and principle.
 
 ### Deriving the velocity-addition formula 
 
