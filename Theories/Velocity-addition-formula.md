@@ -1,4 +1,4 @@
-# Disproving experimental evidence
+# In theory and practice
 
 Einstein used his first postulate, the constancy of the speed of light *in vacuo* across reference frames, to derive the Lorentz transformation. This postulate states and necessitates the following:
 
@@ -49,9 +49,7 @@ $$
 
 rendering the formula useless.
 
-# Deriving the velocity-addition formula (most rigorously)
-
-In case the above derivation of the velocity-addition formula doesn't satisfy one's preference of rigor, here is a derivation of the velocity-addition formula from absolute scratch, as a simple but rigorous derivation of the velocity-addition formula, for educating and organizing's-sake.
+# Formally
 
 ## Definitions
 
@@ -165,7 +163,7 @@ $$
 
 rendering the theories of special and general relativity unusable in this scenario. $\square$
 
-## Conclusion
+# Conclusion
 
 - Disproofs (1) and (2) mean that none of the experimental results of the velocity-addition formula (*e.g.* Fizeau experiment) can be attributed to Einstein's first postulate or used as evidence for Einstein's first postulate, and none of the experimental results of Einstein's theories of special and general relativity, that involve the body/mass traveling at below light speed (*e.g.* any particles with mass), can be attributed to Einstein's first postulate, from which the theories are derived. 
 - It also raises the fundamental question, pertaining either to consciousness or intelligence, of how physicists didn't notice any of this ($x$ $=$ $ct$), despite the core of the disproofs following immediately from elementary-level math. The answer to that will perhaps become clear with time.
