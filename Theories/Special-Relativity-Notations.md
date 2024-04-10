@@ -123,7 +123,7 @@ $$
 \begin{align}
 x_{t^{(i)}}^{(i)} = ct^{(i)} &\text{ and } x_{t^{(j)}}^{(j)} = ct^{(j)}  \quad\quad \text{(Einstein's first postulate)} \\
 &\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} = c \\
-&\rightarrow c = \mathcal{V}(v^{(i, j)}, c).  \quad\quad \text{(Theorem 1)}
+&\rightarrow c = \mathcal{V}(v^{(i, j)}, c),  \quad\quad \text{(Theorem 1)}
 \end{align}
 $$
 
@@ -138,7 +138,7 @@ Assume a mass/body below light speed: $\frac{\partial x_{t^{(i)}}^{(i)}}{\partia
 $$
 \begin{align}
 &x_{t^{(i)}}^{(i)} = ct^{(i)} \quad\quad \text{(Einstein's first postulate)} \\
-&\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = c.
+&\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = c,
 \end{align}
 $$
 
