@@ -152,6 +152,8 @@ rendering the velocity-addition formula useless. $\square$
 
 ### (2) Joint Einstein's first postulate and below-light-speed usefulness
 
+In the theories of special and general relativity, Einstein's first postulate states: $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$.
+
 Assume a mass/body below light speed: $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} < c$. We obtain: 
 
 $$
