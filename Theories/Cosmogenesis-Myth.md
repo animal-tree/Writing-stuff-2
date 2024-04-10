@@ -115,7 +115,7 @@ $\Omega \coloneqq (\Omega^{(0)}, \Omega^{(1)}, ...)$.
 
 In other words, defined as: some sequence of numerically representable deductions from the initial nothing.
 
-> &#9432; See [here](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) for an *ad absurdum* argument analogous to why representation and matter can't be the same thing (representation and consciousness).
+> &#9432; See [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Consciousness.md) for an *ad absurdum* argument analogous to why representation and matter can't be the same thing (representation and consciousness).
 
 ## Something from Nothing
 
@@ -207,7 +207,7 @@ Another critique, I dare add, is that the cheap hack of time into equivalence ha
 
 This part isn't derived, but this document is called "Cosmogenesis Myth" after all.
 
-> [The easiest way to get there though is to not assume math as a starting point, and to instead assume the actual meanings of matter, the actual sufferings, the actual purposes — everything](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md), but in the actual, not representation.
+> [The easiest way to get there though is to not assume math as a starting point, and to instead assume the actual meanings of matter, the actual sufferings, the actual purposes — everything](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Consciousness.md), but in the actual, not representation.
 
 And that path will make the most sense in a moment.
 
@@ -219,7 +219,7 @@ Either:
    - In which case, I have done the monumental work of deriving cosmogenesis.
 2. Math and information patterns are not the sole fundamental properties of the universe.
     - In which case, I have done the monumental work of showing there must exist at least a third possibility to the fundamental properties of the universe besides math and information pattern.
-    - One might think to propose simply "matter" as the third possibility and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. The best running definition of "matter" is "particles". But information patterns are also particles (and/or interactions of particles) and particles are information patterns (defined typically by numerical quantum states). Therefore a different alternative is needed, something that cannot be defined as information pattern yet can coalesce into complexity. I propose ["singularizing-qualia"](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) is the only concrete third alternative, and an alternative definition to "matter". Since that's the only running definition that doesn't reduce to information pattern, I've now done the monumental work of evidencing a kind of primordial consciousness as a basis of the physical universe for the first time deductively.
+    - One might think to propose simply "matter" as the third possibility and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. The best running definition of "matter" is "particles". But information patterns are also particles (and/or interactions of particles) and particles are information patterns (defined typically by numerical quantum states). Therefore a different alternative is needed, something that cannot be defined as information pattern yet can coalesce into complexity. I propose ["singularizing-qualia"](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Consciousness.md) is the only concrete third alternative, and an alternative definition to "matter". Since that's the only running definition that doesn't reduce to information pattern, I've now done the monumental work of evidencing a kind of primordial consciousness as a basis of the physical universe for the first time deductively.
   
 — "at minimum wage", Josh chimes in.
 
