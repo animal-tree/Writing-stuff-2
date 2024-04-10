@@ -32,19 +32,20 @@ The "halt" can be cosmo-genocide, which we are not interested in solving. $\squa
 
 # Math
 
-Admittedly, this was humor, but the point is more profound than it may appear.
+All humor intended, but the point isn't made yet.
 
-Let's derive it formally and as strictly as possible now.
+Let's derive it formally.
 
-Cosmogenesis myths usually aren't mathematically deduced. For example, the Tolkien myth of Middle Earth's cosmogenesis describes the Universe as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. Deductively, the Big Bang Theory makes it as far back as the earliest moments of the observable universe, though doesn't include the first moment — the one that's actually the cosmogenetic origin moment.
+- The Tolkien myth of Middle Earth's cosmogenesis describes the universe Eä as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. I bring this up because there's some truth to the analogy of the universe as music, waves combining and interacting together to create beautiful compositions, and not just beautiful, but also dark, loud, tragic.
+- The Big Bang Theory deduces some of the earliest moments of the observable universe, but its cosmology doesn't include the first moment — the actual cosmogenetic origin point.
 
-In short, assuming nothing but math, I'll derive "something from nothing." I won't even assume the existence of nothing.
+Now, assuming nothing but math, I'll derive "something from nothing." I won't even assume the existence of nothing.
 
-Since nothing but math is assumed, we conclude there must be a missing component, or else this deduction is true.
+Since nothing but math is assumed, we'll conclude of a missing component that must physically exist, or else this deduction is true.
 
 ## Deduction
 
-Let's succinctly define deduction in such a way that's consistent with historical uses.
+Let's define deduction succinctly and in such a way that's consistent with historical use.
 
 ### Proofs
 
@@ -88,7 +89,9 @@ $(\langle X_1, X_2, ... \rangle) \coloneqq (\exists X_1, X_2, ...)$
 
 hypotheticals whose elements exist.
 
-**Axiom 1.** Existence exists. $\langle X_1, X_2, ... \rangle \coloneqq \langle\langle X_1, X_2, ... \rangle\rangle$.
+**Axiom 1.** Existence exists. $\langle X_1, X_2, ... \rangle \coloneqq \langle\langle X_1, X_2, ... \rangle\rangle$. 
+
+A.K.A. the existence of that which exists... exists.
 
 **Axiom 2.** Cause exists. $\exists \rightarrow$.
 
@@ -112,9 +115,11 @@ $\Omega \coloneqq (\Omega^{(0)}, \Omega^{(1)}, ...)$.
 
 In other words, defined as: some sequence of numerically representable deductions from the initial nothing.
 
-> &#9432; See [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Consciousness.md) for an *ad absurdum* argument analogous to why representation and matter can't be the same thing (representation and consciousness).
+> &#9432; See [here](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) for an *ad absurdum* argument analogous to why representation and matter can't be the same thing (representation and consciousness).
 
 ## Something From Nothing
+
+Let's now build something from nothing.
 
 **Theorem 1.** Nothing exists. $\exists \emptyset$.
 
@@ -191,7 +196,7 @@ One critique that can be made is that the definition of math uses circular logic
 
 Yet another critique: why go this roundabout way and not just represent the representational universe with some hypothetical decimal, e.g. $\pi$, that perhaps contains within it an encoding of the same constructed Turing machine? Well, the number line is a bigger assumption than the one I'm making, and requires specific definitions assumed as true, perhaps even about the physical universe. I have made no further assumptions than deduction itself. Though of course, a number line can be defined, e.g., with decimal integers and operators such as $\lt, \gt$. Their existence isn't immediately derived and would have to be assumed.
 
-That being said, there is now the critique of how I obtain the subscripts of the nothings if there is no a priori number line. First, the subscripts don't need to be numbers. For all intents and purposes, they can be any distinguishing variables. Deductively, it's debatable whether subscripts (as opposed to the variables/existences themselves) even need defining or existence. I think probably not. But suppose they have to be existing, distinguishing variables. Then such can be constructed as follows: (1) a hidden definition in the definition of definition is the existence of that definition, (2) then arbitrary definitons, bijective to a number line, can be constructed as placeholders for any such subscript variables, without actually assuming the content of those definitions (numbers) or any associated operators ($\lt, \gt$ for example) to exist. See [Afterward ](#Afterward) for how (1) can be exploited further.
+That being said, there is now the critique of how I obtain the subscripts of the nothings if there is no a priori number line. First, the subscripts don't need to be numbers. For all intents and purposes, they can be any distinguishing variables. Deductively, it's debatable whether subscripts (as opposed to the variables/existences themselves) even need defining or existence. I think probably not. But suppose they have to be existing, distinguishing variables. Then such can be constructed as follows: (1) a hidden definition in the definition of definition is the existence of that definition, (2) then arbitrary definitons, bijective to a number line, can be constructed as placeholders for any such subscript variables, without actually assuming the content of those definitions (numbers) to exist or any associated operators ($\lt, \gt$ for example). See [Afterward ](#Afterward) for how (1) can be exploited further.
 
 Another critique, I dare add, is that the cheap hack of time into equivalence has never been used before in defining equivalents, but mathematically speaking, this is internally consistent with the definition of deduction as having mandatory intermediary deductive steps, something that was always universally true. This allows equivalents to be distinguished and not swappably interchangeable within a single deduction graph such as $\Omega$ due to the constraint on their possible positions in $\Omega$. That means their implied existence is shared between all of them, but their representational meaning depends on the deduction graph that they're in, or for that matter, different deduction graphs cannot be inter-exchanged with one another. Thus unique data structures may be created from equivalents. They can even grow and expand over time, or have implications that step between deduction graphs dynamically to, for example, reuse nothing-subscripts to represent 0s and 1s with the same nothings rather than all with different nothings (Theorem 5 kind of simplifies this by using different nothings).</br>
 &ensp;&ensp;&bull;&nbsp; Heck, if I really wanted to construct a specific "Cosmogenesis Myth", I could define a stochastic recursive function through this mechanism, via a deduction graph that points stochastically from the original nothing to a binary bit (or some other encoding), that infinitely points to the original nothing of a next deduction graph which does the same thing, inductively bootstrapping a universe, one whose deduction is guided by the deducer's purpose and sensibilities regarding the feeling of the representations, with the deducer being an unstated self-proving axiom of any/the deduction.
@@ -202,7 +207,7 @@ Another critique, I dare add, is that the cheap hack of time into equivalence ha
 
 This part isn't derived, but this document is called "Cosmogenesis Myth" after all.
 
-> [The easiest way to get there though is to not assume math as a starting point, and to instead assume the actual meanings of matter, the actual sufferings, the actual purposes — everything](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Consciousness.md), but in the actual, not representation.
+> [The easiest way to get there though is to not assume math as a starting point, and to instead assume the actual meanings of matter, the actual sufferings, the actual purposes — everything](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md), but in the actual, not representation.
 
 And that path will make the most sense in a moment.
 
@@ -214,7 +219,7 @@ Either:
    - In which case, I have done the monumental work of deriving cosmogenesis.
 2. Math and information patterns are not the sole fundamental properties of the universe.
     - In which case, I have done the monumental work of showing there must exist at least a third possibility to the fundamental properties of the universe besides math and information pattern.
-    - One might think to propose simply "matter" as the third possibility and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. The best running definition of "matter" is "particles". But information patterns are also particles (and/or interactions of particles) and particles are information patterns (defined typically by numerical quantum states). Therefore a different alternative is needed, something that cannot be defined as information pattern yet can coalesce into complexity. I propose ["singularizing-qualia"](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Consciousness.md) is the only concrete third alternative, and an alternative definition to "matter". Since that's the only running definition that doesn't reduce to information pattern, I've now done the monumental work of evidencing a kind of primordial consciousness as a basis of the physical universe for the first time deductively.
+    - One might think to propose simply "matter" as the third possibility and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. The best running definition of "matter" is "particles". But information patterns are also particles (and/or interactions of particles) and particles are information patterns (defined typically by numerical quantum states). Therefore a different alternative is needed, something that cannot be defined as information pattern yet can coalesce into complexity. I propose ["singularizing-qualia"](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) is the only concrete third alternative, and an alternative definition to "matter". Since that's the only running definition that doesn't reduce to information pattern, I've now done the monumental work of evidencing a kind of primordial consciousness as a basis of the physical universe for the first time deductively.
   
 — "at minimum wage", Josh chimes in.
 
@@ -224,7 +229,7 @@ Hypothetically, how far can we get without axioms?
 
 Well, a hidden axiom contained in the definition of definition is the existence of all definitions. Any definition, given any pair of hypotheticals $A, B$, $A \coloneqq B$ "exists" (is true).
 
-From that we can derive a variable $\emptyset = (A \coloneqq B)$, and its definition equivalents:
+From that we can derive a variable $\emptyset = (A \coloneqq B)$, and its definition equivalents: $^\text{ \color{blue}[1.]}$
 
 $\emptyset = \emptyset_K \vert K \subseteq \mathbb{N}$.
 
@@ -232,27 +237,43 @@ So this together with Axiom 2 suffices to obtain $\Omega$. Then we can ask "what
 
 $1 \rightarrow_1 2 \rightarrow_1 3 \rightarrow_1 \cdots$
 
-with some connecting universal node $0 \coloneqq i \forall i \in \mathbb{N}$ to complete the strongly connected directed graph. This doesn't quite get us to Axiom 2 though.
+with some connecting universal node $0 \coloneqq i \ \forall i \in \mathbb{N}$ to complete the strongly connected directed graph. This doesn't quite get us to Axiom 2 though. We could discard Axiom 2 though. It's used in one step in the proof of Theorem 3, but that step doesn't require it since the implication is true by Definition 3 and 5. I realized this later, but it feels weird to remove it because then I can get these same results without axiom. Well, my only axiom would be that deduction as defined here is true. 
 
-Instead, we could discard causality and Axiom 2.
+As to the question of whether this definition of deduction is true, well, it's summarizable in half a page and generalizes to every historical use, so if one were to criticize it, I would challenge them to come up with a better one. The onus of that is on them, since I have provided a definition of deduction, perhaps the first, that serves every historical use, and is elegant.
 
-Instead, let's define existence as a recursive function. Its input is any definition, chosen by a deducer, and its output is the existence of that definition paired with a recursion to a new application of itself to a new definition.
+And every deduction herein, including of itself (its definition), is consistent to that definition.
 
-$\exists(\emptyset_i) = (\exists\emptyset_i, \exists(\emptyset_j))$,
+$\text{\color{blue}[1.]:}$ Note: no matter what, as long as there is a definition or an axiom, there is *something* and so what we are actually deriving from is not *nothing* but a primordial something.
 
-Thus creating a limited set of definitions at each recursive step $n$, not easily denoted in the expressivity of recursive functional form. We can denote that $n\text{th}$ recursive step set of existence, and perhaps each source and sink to each existence, as $\Omega^{(n)}$ PERHAPS allowing us to derive a universe from nothing but definition and the axiom that this existence function, as described, exists.
+## Confusion About Existence Operator
 
-Perhaps, further in consideration, Axiom 1 can "create" Axiom 2 and Axiom 2 can "create" Axiom 1, each depending only on the definition of definition, axiomatically assumed without axiom I guess.
+You can think of it like two categories: literal truth and hypothetical truth. Literal truth is like an axiom or something deduced. A definition is a literal truth automatically, but its contents aren’t necessarily literally true. For example, you can define “God” as “Wizard in the sky” and that definition becomes literally true (in your deductions/deduction-graphs) if you do so, but that doesn’t make the contents of that definition literally true. “God”, or “Wizard in the sky” are then still just hypothetical truths. That’s all there is, just two categories, no more. There’s no debate about that. Something is either hypothetically true or literally true. I guess you could add more categories if you like, but you gain no generality w.r.t. deduction. I make only two literal truth assumptions: existence (that “literal truth” exists) and causality (that one thing can imply another thing). Every proof in human history makes those assumptions, so if my deduction is internally wrong, then so is every proof in human history, lacking any better definition of deduction. So that’s all that the existence operator is saying: that whatever follows is literally true. But, unlike an axiom, it can be deduced as well, so this allows us to say a theorem is literally true as well (a theorem is just a deduced literal truth). Definition 4 makes it so that existence is transitive under equality/implication, making it possible to use literal truth for deduction (and making deduction overall possible). 
 
-As a matter of point, for a recursive function to be defined and it exist, it must be actively recursing.
+In order to define a number line, we can just define $\mathbb{R}$ and the relationships $<, >$, and so on. And that can be done by defining an infinite number of entities and extrapolating to infinity their relationships (operators). But in order to make that literally true, those numbers must be literally true, such as via axiom. 
 
-Piecing these together, we could probably derive a non-axiomatic universe, but I want to move on to the question of what the deducer is, that is, why THE laws of physics instead of some other laws of physics?
+### Existence of Definitions
 
----
+The existence of definitions in the definition of definition could perhaps be distinguished into two categories as well: one definition for definitions that are literally true and one definition for definitions that are hypothetically true. Then all definitions in human history would be in the latter camp in every proof, but it would give us a way to criticize this deduction formally (though in doing so, potentially all of those as well). In that case though, I'd argue that deduction assumes the literal truth of all definitions up to at least Definition 7. That suffices to derive $\Omega$ as a literal truth in either case, and allows us to distinguish the encoding derived from this deduction from, for example, one derivable from a number line. So assuming deduction as axiom is tantamount to assuming every definition up to Definition 7 as literally true, lacking any better definition for deduction. This gives us a stronger argument for a representational universe (information patterns of a universe that are literally true in the deduction) derived via these deduction graphs vs. from a number line, since a number line would require assuming the literal truth of numbers (or whatever entities represent them) as additional axiom. This definition of deduction only assumes two axioms: existence and causality, and of course its own definitions of itself.
 
-Note: no matter what, as long as there is a definition or an axiom, there is *something* and so what we are actually deriving from is not *nothing* but a primordial something, and it can be defined to be something else e.g. a recursive self-duplicating observer function that encapsulates both definition and cause, e.g. $\mathrm{I}(x) = (\exists x, \mathrm{I}(\max\limits_{y\subseteq \Omega} Q(\Omega)))^\text{ \color{blue}[1.]}$, with a qualia to justify the development of that something into something specific.
+## Cosmogenesis Myth
 
-$\text{\color{blue}[1.]:}$ Just spitballing at this time.
+Disclaimer: This is just a myth. ...That doesn't mean it's not true.
+
+All is originated from "Everything". Everything, is the most general default assumption (tied with “nothing”).
+
+Everything (including suffering and the choice to not be Everything) $\rightarrow$ Anything (without loss of generality, but no longer everything, that is: no longer necessarily, while still sufficient for, suffering) via the invention of time (a deductive graph towards possibilities, but not necessitating suffering, A.K.A. causal restrictions to deductive steps, A.K.A. derivations such as to suffering or to any other “something”) $\rightarrow$ each discrete “something”. Each discrete “something” in time gives rise to the next discrete “something” in time and so on. 
+
+Why would the “Anything” produced by Everything happen to be our universe’s physics? Why not some other physics? 
+
+There are many answers. Perhaps minimalism: only 3 spatial dimensions. Perhaps efficiency, so that Everything could be finite at each discrete "something": high parallelizability via translational/rotational equivariance. Perhaps evolutionary chance.
+
+Perhaps the simplest answer is, because the Everything loves you in the present, past, and future, loves your ancestors, loves all the people you know, and loves all the people who are yet to come — and just as you wouldn’t forget a second of memory of someone you love, nor of the grief of them — the sacredness you realize (in feeling and memory) — nor would perhaps Everything trade this “Anything” (including its future, and the memories it will hold of the present and past in the future, as well as the present and past and the memories we hold now dependent on the same physics as the future) for any other — somehow, maybe not yet but in its capacity of beings, this “Anything”, which includes the person you love most, is the best “Anything” — or, will be, some day, for future consciouses. 
+
+And perhaps even in Everything, there were many choosers and this was but one converged reality in its singularization of possibilities.
+
+But why does suffering happen?
+
+There are many answers to this as well. Some suffering is sacred, such as grief. Within Everything, grief existed too. Other suffering isn't sacred. So why does it happen? Because humans perpetuate many injustices, including economic, social, spiritual, psychological, and physical. Humans are sacred. But the memory of these injustices is being established for our children, and there is another memory that the Everything wants to establish: how to escape this. The process of ending economic, social, spiritual, psychological, and physical injustice is a memory that the Everything wants to establish.
 
 ## Alternative Set of Definitions of Math and Philosophy
 
