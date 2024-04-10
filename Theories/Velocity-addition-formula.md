@@ -77,9 +77,9 @@ $\mathcal{V}(V, W) \coloneqq \frac{W + V}{1 + \frac{V}{c^2}W}$.
 
 ### (1) Lorentz transformation.
 
-$x_{t^{(j)}}^{(j)} \coloneqq \mathcal{X}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$.
+$x_{t^{(j)}}^{(j)} = \mathcal{X}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$.
 
-$t^{(j)} \coloneqq \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$.
+$t^{(j)} = \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$.
 
 The Lorentz transformation describes a transformation of a body's corresponding space and time coordinates across reference frames in physical spacetime.
 
@@ -169,5 +169,5 @@ rendering the theories of special and general relativity unusable in this scenar
 
 # Conclusion
 
-- Disproofs (1) and (2) mean that none of the experimental results of the velocity-addition formula (*e.g.* Fizeau experiment) can be attributed to Einstein's first postulate or used as evidence for Einstein's first postulate, and none of the experimental results of Einstein's theories of special and general relativity, that involve the body/mass traveling at below light speed (*e.g.* any particles with mass), can be attributed to Einstein's first postulate, from which the theories are derived, or used as evidence for Einstein's first postulate. 
+- Disproofs (1) and (2) mean that none of the experimental results of the velocity-addition formula (*e.g.* Fizeau experiment) can be attributed to Einstein's first postulate or used as evidence for Einstein's first postulate, and none of the experimental results of Einstein's theories of special and general relativity, that involve the body/mass traveling at below light speed (*e.g.* any particles with mass), can be attributed to Einstein's first postulate, from which the theories are derived. 
 - It also raises the fundamental question, pertaining either to consciousness or intelligence, of how physicists didn't notice any of this ($x$ $=$ $ct$), despite the core of the disproofs following immediately from elementary-level math. The answer to that will perhaps become clear with time.
