@@ -36,15 +36,15 @@ This is a running list of popular, common, or possibly useful asumptions. Not al
 
 ### (1) Lorentz transformation.
 
-$x_{t^{(j)}}^{(j)} \coloneqq \mathcal{X}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$.
+$x_{t^{(j)}}^{(j)} = \mathcal{X}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$.
 
-$t^{(j)} \coloneqq \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$.
+$t^{(j)} = \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$.
 
 The Lorentz transformation describes a transformation of a body's corresponding space and time coordinates across reference frames in physical spacetime.
 
 ### (2) Mutual velocity perspective.
 
-$v^{(i, j)} \coloneqq -v^{(j, i)}$.
+$v^{(i, j)} = -v^{(j, i)}$.
 
 This is assumed generally as well as in Einstein's second postulate ("the principle of relativity").
 
