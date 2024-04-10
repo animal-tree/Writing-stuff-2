@@ -61,7 +61,7 @@ Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system th
 
 Any observer stationary in reference frame $K^{(i)}$ measures the corresponding time and space coordinates of some body (call it $M$), as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
 
-$v^{(i, j)} \in \mathbb{R}$ is the velocity of any body stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
+$v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (or observer) stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
 
 ### (2) Lorentz transformation.
 
