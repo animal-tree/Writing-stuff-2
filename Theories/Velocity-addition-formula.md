@@ -1,4 +1,4 @@
-# Disproving standard use
+# Disproved standard use
 
 Einstein used his first postulate, the constancy of the speed of light *in vacuo* across reference frames, to derive the Lorentz transformation. This postulate states and necessitates the following:
 
