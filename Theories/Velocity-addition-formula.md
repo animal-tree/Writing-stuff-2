@@ -59,7 +59,7 @@ Let $c \coloneqq 299,792,458$ be the speed of light constant *in vacuo*.
 
 Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system that is potentially in motion relative to other reference frames (coordinate systems likewise potentially in motion, for example $K^{(j)}$).
 
-Any observer stationary in reference frame $K^{(i)}$ measures the corresponding time and space coordinates of some body (call it $M$), as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
+Any observer stationary in reference frame $K^{(i)}$ measures the corresponding time and space coordinates of some body (call it $M$, shared across all reference frames), as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
 
 $v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (including observers) stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
 
