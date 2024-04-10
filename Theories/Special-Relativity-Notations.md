@@ -117,6 +117,8 @@ $$
 
 ### (1) Joint Einstein's first postulate and velocity-addition formula usefulness
 
+**Disproof.**
+
 Einstein's first postulate, the constancy of the speed of light *in vacuo* across reference frames, states: $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$.
 
 $$
@@ -131,6 +133,8 @@ rendering the velocity-addition formula useless. $\square$
 
 ### (2) Joint Einstein's first postulate and below-light-speed usefulness
 
+**Disproof.**
+
 In the theories of special and general relativity, Einstein's first postulate states: $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$.
 
 Assume a mass/body below light speed: $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} < c$. We obtain: 
@@ -143,4 +147,3 @@ $$
 $$
 
 rendering the theories of special and general relativity unusable in this scenario. $\square$
-
