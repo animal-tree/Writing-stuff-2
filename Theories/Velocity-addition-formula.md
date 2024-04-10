@@ -57,7 +57,7 @@ rendering the formula useless.
 
 Let $c \coloneqq 299,792,458$ be the speed of light constant *in vacuo*.
 
-Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system that is potentially in motion relative to other reference frames (coordinate systems likewise potentially in motion, for example $K^{(j)}$). A reference frame can be made of, for example, a grid of rulers and clocks.
+Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system that is potentially in motion relative to other reference frames (coordinate systems likewise potentially in motion, for example $K^{(j)}$). A reference frame can be made of, for example, a grid of mechanical rulers and clocks, or some more-sophisticated distance and time measuring technology.
 
 Any observer stationary in reference frame $K^{(i)}$ and who's using the coordinate system of reference frame $K^{(i)}$ measures the corresponding time and space coordinates respectively of some body (call it $M$, shared across all reference frames) as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$.
 
