@@ -164,3 +164,7 @@ $$
 $$
 
 rendering the theories of special and general relativity unusable in this scenario. $\square$
+
+---
+
+&#9432; **(1)** and **(2)** do not mean Einstein's first postulate or the Lorentz transformation are false. This pair of disproofs means that the theory of Einstein's first postulate cannot be attributed to any of the experimental results of the velocity-addition formula (as it is standardly done, *e.g.*, the Fizeau experiment), and many if not all of the experimental results of the Lorentz transformation. It also raises the fundamental question of how physicists didn't notice any of this that has been mentioned thus far. Finally, it leaves Einstein's first postulate in a much more precarious position, only backed by such experiments as the Michelson–Morley experiment, which measure only the averaged bidirectional speed of light.
