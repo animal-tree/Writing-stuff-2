@@ -10,9 +10,9 @@ Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system th
 
 > Leaving this out since not a necessary constraint: ~Inertial reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system that is in rectilinear (non-accelerative) motion (or stationary) relative to other inertial reference frames (other such coordinate systems, for example $K^{(j)}$).~
 
-Any observer stationary in reference frame $K^{(i)}$ measures the corresponding time and space coordinates of some body (call it $M$), as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
+Any observer stationary in reference frame $K^{(i)}$ measures the corresponding time and space coordinates of some body (call it $M$, shared across all reference frames), as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
 
-$v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (or observer) stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
+$v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (including observers) stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
 
 > Can specify $v_{t^{(i)}}^{(i, j)}$ in case of acceleration of either $K^{(i)}$ or $K^{(j)}$.
 >
@@ -115,7 +115,7 @@ $$
 
 ## Disproofs
 
-### (1) Joint Einstein's first postulate and velocity-addition formula usefulness
+### (1) Joint Einstein's first postulate and velocity-addition formula usefulness.
 
 **Disproof.**
 
@@ -131,7 +131,7 @@ $$
 
 rendering the velocity-addition formula useless. $\square$
 
-### (2) Joint Einstein's first postulate and below-light-speed usefulness
+### (2) Joint Einstein's first postulate and below-light-speed usefulness.
 
 **Disproof.**
 
