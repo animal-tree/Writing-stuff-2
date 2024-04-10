@@ -165,6 +165,7 @@ $$
 
 rendering the theories of special and general relativity unusable in this scenario. $\square$
 
----
+## Conclusion
 
-&#9432; **(1)** and **(2)** do not mean Einstein's first postulate or the Lorentz transformation are false. These disproofs mean that none of the experimental results of the velocity-addition formula can be attributed to Einstein's first postulate or used as evidence for Einstein's first postulate (as is standardly done, *e.g.*, the Fizeau experiment), and none of the experimental results that involve the body/mass traveling at below light speed, of the theories of special and general relativity, can be attributed to Einstein's first postulate, from which the theories are usually derived. It also raises the fundamental question, pertaining either to consciousness or intelligence, of how physicists didn't notice any of this ($x$ $=$ $ct$), despite the core of the disproofs following immediately from elementary-level math. 
+- Disproofs (1) and (2) mean that none of the experimental results of the velocity-addition formula (*e.g.* Fizeau experiment) can be attributed to Einstein's first postulate or used as evidence for Einstein's first postulate, and none of the experimental results of Einstein's theories of special and general relativity, that involve the body/mass traveling at below light speed (*e.g.* massive particles), can be attributed to Einstein's first postulate, from which the theories are derived. 
+- It also raises the fundamental question, pertaining either to consciousness or intelligence, of how physicists didn't notice any of this ($x$ $=$ $ct$), despite the core of the disproofs following immediately from elementary-level math. The answer to that will perhaps become clear with time.
