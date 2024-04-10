@@ -140,5 +140,5 @@ $$
 \end{align}
 $$
 
-rendering the velocity-addition formula unusable in this scenario. $\square$
+rendering the theories of special and general relativity unusable in this scenario. $\square$
 
