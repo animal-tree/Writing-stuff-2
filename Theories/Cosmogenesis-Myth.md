@@ -34,7 +34,7 @@ The "halt" can be cosmo-genocide, which we are not interested in solving. $\squa
 
 All humor intended, but the point isn't made yet.
 
-Let's derive it formally.
+Let's derive it formally after a couple related works.
 
 - The Tolkien myth of Middle Earth's cosmogenesis describes the universe Eä as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. I bring this up because there's some truth to the analogy of the universe as music, waves combining and interacting together to create beautiful compositions, and not just beautiful, but also dark, loud, tragic.
 - The Big Bang Theory deduces some of the earliest moments of the observable universe, but its cosmology doesn't include the first moment — the actual cosmogenetic origin point.
@@ -95,7 +95,7 @@ A.K.A. the existence of that which exists... exists.
 
 **Axiom 2.** Cause exists. $\exists \rightarrow$.
 
-## Nothing and The Universe
+## Nothing and the Universe
 
 **Definition 8.** Nothing.
 
@@ -115,9 +115,9 @@ $\Omega \coloneqq (\Omega^{(0)}, \Omega^{(1)}, ...)$.
 
 In other words, defined as: some sequence of numerically representable deductions from the initial nothing.
 
-> &#9432; See [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Consciousness.md) for an *ad absurdum* argument analogous to why representation and matter can't be the same thing (representation and consciousness).
+> &#9432; See [here](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) for an *ad absurdum* argument analogous to why representation and matter can't be the same thing (representation and consciousness).
 
-## Something From Nothing
+## Something from Nothing
 
 Let's now build something from nothing.
 
@@ -207,7 +207,7 @@ Another critique, I dare add, is that the cheap hack of time into equivalence ha
 
 This part isn't derived, but this document is called "Cosmogenesis Myth" after all.
 
-> [The easiest way to get there though is to not assume math as a starting point, and to instead assume the actual meanings of matter, the actual sufferings, the actual purposes — everything](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Consciousness.md), but in the actual, not representation.
+> [The easiest way to get there though is to not assume math as a starting point, and to instead assume the actual meanings of matter, the actual sufferings, the actual purposes — everything](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md), but in the actual, not representation.
 
 And that path will make the most sense in a moment.
 
@@ -219,7 +219,7 @@ Either:
    - In which case, I have done the monumental work of deriving cosmogenesis.
 2. Math and information patterns are not the sole fundamental properties of the universe.
     - In which case, I have done the monumental work of showing there must exist at least a third possibility to the fundamental properties of the universe besides math and information pattern.
-    - One might think to propose simply "matter" as the third possibility and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. The best running definition of "matter" is "particles". But information patterns are also particles (and/or interactions of particles) and particles are information patterns (defined typically by numerical quantum states). Therefore a different alternative is needed, something that cannot be defined as information pattern yet can coalesce into complexity. I propose ["singularizing-qualia"](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Consciousness.md) is the only concrete third alternative, and an alternative definition to "matter". Since that's the only running definition that doesn't reduce to information pattern, I've now done the monumental work of evidencing a kind of primordial consciousness as a basis of the physical universe for the first time deductively.
+    - One might think to propose simply "matter" as the third possibility and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. The best running definition of "matter" is "particles". But information patterns are also particles (and/or interactions of particles) and particles are information patterns (defined typically by numerical quantum states). Therefore a different alternative is needed, something that cannot be defined as information pattern yet can coalesce into complexity. I propose ["singularizing-qualia"](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) is the only concrete third alternative, and an alternative definition to "matter". Since that's the only running definition that doesn't reduce to information pattern, I've now done the monumental work of evidencing a kind of primordial consciousness as a basis of the physical universe for the first time deductively.
   
 — "at minimum wage", Josh chimes in.
 
@@ -265,7 +265,7 @@ Everything (including suffering and the choice to not be Everything) $\rightarro
 
 Why would the “Anything” produced by Everything happen to be our universe’s physics? Why not some other physics? 
 
-There are many answers. Perhaps minimalism: only 3 spatial dimensions. Perhaps efficiency, so that Everything could be finite at each discrete "something": high parallelizability via translational/rotational equivariance. Perhaps evolutionary chance.
+There are many answers. Perhaps minimalism: only 3 spatial dimensions, and a handful of particle types and interactions. Perhaps efficiency, so that Everything could be finite at each discrete "something": high parallelizability via translational/rotational equivariance. Perhaps evolutionary chance.
 
 Perhaps the simplest answer is, because the Everything loves you in the present, past, and future, loves your ancestors, loves all the people you know, and loves all the people who are yet to come — and just as you wouldn’t forget a second of memory of someone you love, nor of the grief of them — the sacredness you realize (in feeling and memory) — nor would perhaps Everything trade this “Anything” (including its future, and the memories it will hold of the present and past in the future, as well as the present and past and the memories we hold now dependent on the same physics as the future) for any other — somehow, maybe not yet but in its capacity of beings, this “Anything”, which includes the person you love most, is the best “Anything” — or, will be, some day, for future consciouses. 
 
@@ -291,7 +291,7 @@ $x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$.
 
 **Axiomatic math:**
 
-$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert h^{(n)}, n \in \mathcal{N}, \mathrm{R}, x, h^{(0)})$
+$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert h^{(n)}, n \in \mathbb{N}, \mathrm{R}, x, h^{(0)})$
 
 where $\mathrm{R}$ is the rules of math. $y$ is a theorem or theorem set, $x$ is an axiom or axiom set. $\mathrm{R}$ is Turing-complete due its rewritable memory state $h$. Ordinarily, $\mathrm{R}$'s rules are deterministic, a side effect being that the probability of a theorem $y$ is also deterministic, $1$ or $0$.
 
