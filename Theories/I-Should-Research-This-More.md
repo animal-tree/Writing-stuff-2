@@ -2,7 +2,7 @@
 
 **Question:** How does the angular acceleration of the Earth's motion around the sun affect weight?
 
-**Short answer:** The Earth's gravity and the sun's gravity balance out to pin the human comfortably on the Earth. After that, the Earth's angular acceleration adds some extra pressure to the human's feet.
+**Short answer:** The Earth's gravity and the sun's gravity balance out to pin the human comfortably on the Earth. After that, the Earth's angular acceleration adds some extra pressure to the sun-facing human's feet.
 
 And yes, that means slightly (perhaps below measurement precision levels) more perceived gravity at daytime than nighttime.
 
@@ -144,7 +144,7 @@ By perhaps imperceptibly small margins, you're a bit heavier during the day.
 
 #
 
-**Short answer:** The Earth's gravity and the sun's gravity balance out to pin the human comfortably on the Earth. After that, the Earth's angular acceleration adds some extra pressure to the human's feet.
+**Short answer:** The Earth's gravity and the sun's gravity balance out to pin the human comfortably on the Earth. After that, the Earth's angular acceleration adds some extra pressure to the sun-facing human's feet.
 
 And yes, that means slightly (perhaps below measurement precision levels) more perceived gravity at daytime than nighttime.
 
