@@ -8,7 +8,7 @@ And yes, that means slightly (perhaps below measurement precision levels) more p
 
 Yes. There’s some extra gravity-like force during daytime hours.
 
-Why? Because velocity is inertial; acceleration isn’t. Only the Earth is angularly accelerating, due to the sun's gravity, while the human is balanced heavily in the Earth's gravitational field and is not accelerating independent from the Earth (and the force from the pulling sun is almost completely negated by the Earth's gravitational field). 
+Why? Because velocity is inertial; acceleration isn’t. Only the Earth is angularly accelerating, due to the sun's gravity, while the human in the Earth's gravitational field is not accelerating independent from the Earth (and the force from the pulling sun is almost completely negated by the Earth's gravitational field). 
 
 Can derive this later. Just start with Earth and sun's gravities, add Earth's acceleration, and show it exceeds human's acceleration $\rightarrow$ therefore extra weight.
 
@@ -150,6 +150,6 @@ And yes, that means slightly (perhaps below measurement precision levels) more p
 
 Yes. There’s some extra gravity-like force during daytime hours.
 
-Why? Because velocity is inertial; acceleration isn’t. Only the Earth is angularly accelerating, due to the sun's gravity, while the human is balanced heavily in the Earth's gravitational field and is not accelerating independent from the Earth (and the force from the pulling sun is almost completely negated by the Earth's gravitational field). 
+Why? Because velocity is inertial; acceleration isn’t. Only the Earth is angularly accelerating, due to the sun's gravity, while the human in the Earth's gravitational field is not accelerating independent from the Earth (and the force from the pulling sun is almost completely negated by the Earth's gravitational field). 
 
 Can derive this later. Just start with Earth and sun's gravities, add Earth's acceleration, and show it exceeds human's acceleration $\rightarrow$ therefore extra weight.
