@@ -151,3 +151,9 @@ By perhaps imperceptibly small margins, you're a bit heavier during the day.
 - **You get to fly a little at night!**
 
 Disclaimer in case you're standing on one of the poles: move slightly in any direction for effect.
+
+The further you go from the poles, the stronger the effect.
+
+If you live on the equator, then the effect is strongest.
+
+- **If you want to change the weight of an object, all you have to do is move it!** Oh, that sounds reminiscent of something more general... No wait. More special.
