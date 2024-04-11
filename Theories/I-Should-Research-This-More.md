@@ -156,4 +156,4 @@ The further you go from the poles, the stronger the effect.
 
 If you live on the equator, then the effect is strongest.
 
-- **If you want to change the weight of an object, all you have to do is move it!** Oh, that sounds reminiscent of something more general... No wait. More special. But instead of time dilation and length contraction, we now have anisotropic weight perturbations based on latitude, and velocity is independent.
+- **If you want to change the weight of an object, all you have to do is move it!** Oh, that sounds reminiscent of something more general... No wait. More special. But instead of time dilation and length contraction, we now have anisotropic weight perturbations based on latitude (and velocity is independent).
