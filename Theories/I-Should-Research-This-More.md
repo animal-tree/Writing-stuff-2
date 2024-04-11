@@ -143,3 +143,9 @@ But on the nighttime side, well, it's the opposite.
 By perhaps imperceptibly small margins, you're a bit heavier during the day.
 
 [Insert new physics discovery flag]
+
+# Conclusions
+
+- **You're heavier at noon!** That explains this [anecdotal experience](https://qr.ae/psHxeO).
+- **Objects fall faster at noon!**
+- **You get to fly a little at night!**
