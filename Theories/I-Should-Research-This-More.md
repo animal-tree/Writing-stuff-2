@@ -1,6 +1,6 @@
-[Scroll here for resolution.](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/I-Should-Research-This-More.md#yes-theres-some-extra-gravity-like-force-during-daytime-hours) (Actually, just click).
+[Click here for resolution.](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/I-Should-Research-This-More.md#resolution) 
 
-## Debate
+# Debate
 
 ### Shouldn’t centripetal force create a stronger sense of gravity on the sun-side of the Earth?
 
