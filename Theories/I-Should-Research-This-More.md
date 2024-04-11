@@ -159,3 +159,5 @@ If you live on the equator, then the effect is strongest.
 - **If you want to change the weight of an object, all you have to do is move it!** Oh, that sounds reminiscent of something more general... No wait. More special. But instead of time dilation and length contraction, we now have anisotropic weight perturbations based on latitude and longitude (and velocity is independent).
 
 Disclaimer: there may be some weird diagonal motion along the latitudinal/longitudinal grid that would not change your weight at all, since latitudinally, moving towards the poles weakens the effect, while longitudinally, moving towards the opposite side of the Earth reverses the effect.
+
+"The further you go from the poles, the stronger the effect." - due to the angle at which you are being angularly accelerated.
