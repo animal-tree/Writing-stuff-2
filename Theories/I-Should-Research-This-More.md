@@ -149,3 +149,4 @@ By perhaps imperceptibly small margins, you're a bit heavier during the day.
 - **You're heavier at noon!** That explains this [anecdotal experience](https://qr.ae/psHxeO).
 - **Objects fall faster at noon!**
 - **You get to fly a little at night!**
+- **Unless you live on the poles!**
