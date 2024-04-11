@@ -1,17 +1,5 @@
 [Click here for resolution.](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/I-Should-Research-This-More.md#resolution) 
 
-**Question:** How does the angular acceleration of the Earth's motion around the sun affect weight?
-
-**Short answer:** The Earth's gravity and the sun's gravity balance out to pin the human comfortably on the Earth. After that, the Earth's angular acceleration adds some extra pressure to the sun-facing human's feet.
-
-And yes, that means slightly (perhaps below measurement precision levels) more perceived gravity at daytime than nighttime.
-
-Yes. There’s some extra gravity-like force during daytime hours.
-
-Why? Because velocity is inertial; acceleration isn’t. Only the Earth is angularly accelerating, due to the sun's gravity, while the human in the Earth's gravitational field is not accelerating independent from the Earth (and the force from the pulling sun is almost completely negated by the Earth's gravitational field). 
-
-Can derive this later. Just start with Earth and sun's gravities, add Earth's acceleration, and show it exceeds human's acceleration $\rightarrow$ therefore extra weight. 'Why don't we feel it?" Because [this](https://www.reddit.com/r/AskPhysics/comments/qed9rx/comment/hhs96qh/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
-
 # Debate
 
 ### Shouldn’t centripetal force create a stronger sense of gravity on the sun-side of the Earth?
