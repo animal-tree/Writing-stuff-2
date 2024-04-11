@@ -160,4 +160,4 @@ If you live on the equator, then the effect is strongest.
 
 Disclaimer: there may be some weird diagonal motion along the latitudinal/longitudinal grid that would not change your weight at all, since latitudinally, moving towards the poles weakens the effect, while longitudinally, moving towards the opposite side of the Earth reverses the effect.
 
-"The further you go from the poles, the stronger the effect." - due to the angle at which you are being angularly accelerated.
+"The further you go from the poles, the stronger the effect." - due to the angle at which you are being angularly accelerated towards or away from by the Earth.
