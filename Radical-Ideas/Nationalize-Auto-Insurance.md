@@ -7,9 +7,9 @@
     - ...okay, this is going to sound ridiculous but that are attached to my car via zip ties that were attached in a way that had sentimental value to me by a stranger when my uncle and I needed help, and removing them feels like a desecration of that good-faith unlikely synchronicity-miracle that happened involving the whole story of how I got that car (starting from the hit-and-run) and the shared journey with my uncle, and thematically broke with the bureaucratic hustle and powerlessness that followed.
     - Requiring action in order to not get punished for owning a car is also Orwellian, in addition to the spiritual point.
 - My car battery is dead and I can’t even drive the car, and I’m obligated to do all of this in order not to pay an obscene subscription fee, while unemployed after getting unjustly terminated (with student debt), just for having the used 2007 Toyota Prius that I bought in full and own, which cost less than what the car insurance agencies are trying to charge, despite… and here’s the kicker… the fact that I have never been in an accident that was my fault in my life.
-    - Update: At my apartment, we don't have a place where I can legally keep my car without license plates, so I am legally mandated to pay the insurance liability fee, for a car I can't use.
 
 So all of this might seem okay, because you might think I can get by without a car, or rather, with a car but without driving it. But don't think of me then, let's zoom out to my mom. My family is in poverty and my mom had to deal with this extortion all her time in America. 
+    - Update: At my apartment, we don't have a place where I can legally keep my car without license plates, so I am legally required to pay the insurance liability fee, for a car I can't use.
 
 These things might seem like small impositions of the state and corporate powers, but these are huge sums of money charged greedily at a flat rate to poor people and rich people alike, just for having a car. Monthly, or every 6 months, a tax for car ownership. And tons of bureaucracy.
 
