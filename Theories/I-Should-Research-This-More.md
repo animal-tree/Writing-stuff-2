@@ -8,7 +8,7 @@ And yes, that means slightly (perhaps below measurement precision levels) more p
 
 Yes. There’s some extra gravity-like force during daytime hours.
 
-Why? Because velocity is inertial; acceleration isn’t. Only the Earth is angularly accelerating since the human is balanced in the equilibrium of the Earth's gravitational field, not so much the sun's.
+Why? Because velocity is inertial; acceleration isn’t. Only the Earth is angularly accelerating, due to the sun's gravity, while the human is balanced heavily in the Earth's gravitational field, not so much the sun's.
 
 # Debate
 
@@ -148,4 +148,4 @@ And yes, that means slightly (perhaps below measurement precision levels) more p
 
 Yes. There’s some extra gravity-like force during daytime hours.
 
-Why? Because velocity is inertial; acceleration isn’t. Only the Earth is angularly accelerating since the human is balanced in the equilibrium of the Earth's gravitational field, not so much the sun's.
+Why? Because velocity is inertial; acceleration isn’t. Only the Earth is angularly accelerating, due to the sun's gravoty, while the human is balanced heavily in the Earth's gravitational field, not so much the sun's.
