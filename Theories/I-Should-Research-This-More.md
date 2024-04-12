@@ -169,7 +169,7 @@ Well, here are all accelerations present for the human and the Earth:
 
 1. Centripetal acceleration of just the Earth around just the Sun.
 2. Gravitational acceleration of just the human towards the Sun.
-3. Gravitational acceleration of just the human towards the Earth.
+3. Gravitational acceleration of just the human towards the Earth (and vice versa, but we can discount that).
 
 If 1 $\neq$ 2, then a centripetal wind exists!
 
