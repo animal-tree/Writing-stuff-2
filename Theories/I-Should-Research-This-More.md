@@ -135,7 +135,7 @@ However, the Earth's sun-directed acceleration is just the Sun's gravity, which 
  
 The Sun exerts a gravitational acceleration on the human only once, and the Earth's gravity accounts for it. However, the Sun also exerts a gravitational acceleration on the Earth, inducing the angular trajectory. That extra sun-directed acceleration is not accounted for, and so the human's weight is affected by the relative direction of that acceleration.
 
-That acceleration is the Sun's gravitational acceleration but minus the Earth's momentum acceleration-resistance in the orbit's tangent direction. That's an imperceptibly small, but physically real, amount (0.0059 m/s^2). What is that sun-directed component of acceleration called? It's distinct from "angular acceleration": centripetal acceleration.
+That acceleration is the Sun's gravitational acceleration but minus the Earth's momentum acceleration-resistance in the orbit's tangent direction. That's an imperceptibly small, but physically real, amount ($5.9e^{-3} \frac{\text{m}}{\text{s}^2}$). What is that sun-directed component of acceleration called? It's distinct from "angular acceleration". It's called centripetal acceleration.
 
 Since the Earth's gravity negates the Sun's gravitational effect on the human, the human's inertial linear velocity isn't complemented with an angular velocity (and there's no such thing as inertial angular velocity, despite the misleading use of the word "velocity"), except that which is provided by the Earth's push and pull. During daytime that push is stronger, and during nighttime that push is non-existent and only gravity keeps you tethered as the Earth moves away at an angle towards the Sun.
 
@@ -147,7 +147,7 @@ Since the Earth's gravity negates the Sun's gravitational effect on the human, t
 
 The Sun exerts a gravitational acceleration on the human only once, and the Earth's gravity accounts for it. However, the Sun also exerts a gravitational acceleration on the Earth, inducing the angular trajectory. That extra sun-directed acceleration is not accounted for, and so the human's weight is affected by the relative direction of that acceleration.
 
-That acceleration is the Sun's gravitational acceleration but minus the Earth's momentum acceleration-resistance in the orbit's tangent direction. That's an imperceptibly small, but physically real, amount (0.0059 m/s^2). What is that sun-directed component of acceleration called? It's distinct from "angular acceleration": centripetal acceleration.
+That acceleration is the Sun's gravitational acceleration but minus the Earth's momentum acceleration-resistance in the orbit's tangent direction. That's an imperceptibly small, but physically real, amount ($5.9e^{-3} \frac{\text{m}}{\text{s}^2}$). What is that sun-directed component of acceleration called? It's distinct from "angular acceleration". It's called centripetal acceleration.
 
 Since the Earth's gravity negates the Sun's gravitational effect on the human, the human's inertial linear velocity isn't complemented with an angular velocity (and there's no such thing as inertial angular velocity, despite the misleading use of the word "velocity"), except that which is provided by the Earth's push and pull. During daytime that push is stronger, and during nighttime that push is non-existent and only gravity keeps you tethered as the Earth moves away at an angle towards the Sun.
 
