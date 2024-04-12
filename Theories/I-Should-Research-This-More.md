@@ -163,6 +163,8 @@ And (1) and (2) can't be equal since the Sun's gravitational acceleration is the
 
 So the Earth's gravity is sort of pulling the human along as the human experiences a stronger weight... at night rather than day?
 
+TODO: Compute centripteal force of just Earth, then of just human, and the gravitational force of just human with respect to just Earth. Those are all forces present. 
+
 # Resolution
 
 ~~It doesn't.~~
