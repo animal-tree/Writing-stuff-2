@@ -1,4 +1,4 @@
-**Question:** How does the angular acceleration of the Earth's motion around the sun affect weight?
+**Question:** How does the centripetal acceleration of the Earth's motion around the sun affect weight?
 
 [Click here for resolution.](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/I-Should-Research-This-More.md#resolution) 
 
