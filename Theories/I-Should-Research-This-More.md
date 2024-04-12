@@ -145,6 +145,8 @@ The Sun exerts a gravitational acceleration on the human only once, and the Eart
 
 That acceleration is the Sun's gravitational acceleration but minus the Earth's momentum acceleration-resistance in the orbit's tangent direction. That's an imperceptibly small, but physically real, amount. What is that sun-directed component of acceleration called? It's distinct from "angular acceleration" I think. Maybe centripetal acceleration.
 
+Since the Earth's gravity negates the Sun's gravitational effect on the human, the human's inertial velocity isn't complemented with an angular velocity, except that which is provided by the Earth's push and pull.
+
 #
 
 **YouTube video idea:** *"Are you heavier during the day than at night?"*
