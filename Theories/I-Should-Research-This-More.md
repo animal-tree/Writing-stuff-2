@@ -151,7 +151,7 @@ The Sun's gravitational pull on the human is the same as on the Earth. And the h
 
 ### No.
 
-However, the human's linear inertia is much weaker than the Earth's (lower mass means weaker inertia). So the Sun's acceleration actually affects the human more than it does the Earth. And so the centripetal acceleration perhaps does turn out different... 
+However, the human's linear inertia is much weaker than the Earth's (lower mass means weaker inertia). So the Sun's gravitational acceleration actually affects the human more than it does the Earth. And so the centripetal acceleration perhaps does turn out different... 
 
 # Resolution
 
