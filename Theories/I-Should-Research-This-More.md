@@ -178,6 +178,8 @@ And 1 $\neq$ 2 since the Earth accelerates towards the Sun much slower than the 
 
 TODO: Compute these values and figure out the value of the centripetal wind.
 
+That net acceleration is experienced in the direction of the sun by every body on Earth. But how is that distinct from just the Sun's gravity if there was no net acceleration? I guess the effect is like a fictitious strengthening of the Sun's gravity.
+
 # Resolution
 
 ~~It doesn't.~~
