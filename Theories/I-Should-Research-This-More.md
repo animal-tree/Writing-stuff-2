@@ -114,6 +114,9 @@ And yes, that means slightly (perhaps below measurement precision levels) more p
 
 ### Yes. There’s some extra gravity-like force during daytime hours.
 
+- Suppose a human is standing on the equator at noon. Consider acceleration in the Sun direction for both the Earth and the human. The Earth's acceleration towards the Sun is $X$ amount such that its inertial velocity is captured in a stable orbital motion (exactly the Sun's gravity). The human's acceleration in the Sun's direction is negative, since the Earth's gravitational field pulls/stabilizes the human towards the Earth. Therefore the Earth's acceleration towards the Sun exceeds the human's acceleration towards the Sun, and therefore the human experiences an extra weight due to the Earth's angular acceleration. This angular acceleration is really small, veritabily $5e^{-3} \frac{m}{s^2}$, imperceptible to a human, but it means that teh human's weight is greater due to the Earth's motion.
+- This might seem confusing since the human also has an inertial velocity that corresponds with the Earth's inertial velocity tangent to the Earth's orbit. The human however doesn't have an "inertial angular acceleration" since such a thing doesn't exist.
+
 But angular velocity is distinct from angular acceleration, isn't it? Is the Earth's angular velocity inertial? Is the human's? If so, then the answer goes back to no. But the human's angular velocity around the Sun can't be inertial because the human has no angular velocity independent from the pressure of the Earth. If the ground of the Earth suddenly became ephemeral (a hole appeared), the human wouldn't keep along the same angular trajectory, but would, rather, fall through. 
 
 However, the Earth's sun-directed acceleration is just the Sun's gravity, which should be perceptible to a human if it weren't cancelled out in the Earth direction by Earth's gravity. However, there is a portion of it in the angular direction not cancelled out.
