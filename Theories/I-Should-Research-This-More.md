@@ -137,7 +137,7 @@ The Sun exerts a gravitational acceleration on the human only once, and the Eart
 
 That acceleration is the Sun's gravitational acceleration but minus the Earth's momentum acceleration-resistance in the orbit's tangent direction. That's an imperceptibly small, but physically real, amount (0.0059 m/s^2). What is that sun-directed component of acceleration called? It's distinct from "angular acceleration": centripetal acceleration.
 
-Since the Earth's gravity negates the Sun's gravitational effect on the human, the human's inertial velocity isn't complemented with an angular velocity, except that which is provided by the Earth's push and pull. During daytime that push is stronger, and during nighttime that push is non-existent and only gravity keeps you tethered as the Earth moves away at an angle towards the Sun.
+Since the Earth's gravity negates the Sun's gravitational effect on the human, the human's inertial linear velocity isn't complemented with an angular velocity (and there's no such thing as inertial angular velocity, despite the misleading use of the word "velocity"), except that which is provided by the Earth's push and pull. During daytime that push is stronger, and during nighttime that push is non-existent and only gravity keeps you tethered as the Earth moves away at an angle towards the Sun.
 
 ### Yes. There’s some extra gravity-like force during daytime hours.
 
@@ -149,7 +149,7 @@ The Sun exerts a gravitational acceleration on the human only once, and the Eart
 
 That acceleration is the Sun's gravitational acceleration but minus the Earth's momentum acceleration-resistance in the orbit's tangent direction. That's an imperceptibly small, but physically real, amount (0.0059 m/s^2). What is that sun-directed component of acceleration called? It's distinct from "angular acceleration": centripetal acceleration.
 
-Since the Earth's gravity negates the Sun's gravitational effect on the human, the human's inertial velocity isn't complemented with an angular velocity, except that which is provided by the Earth's push and pull. During daytime that push is stronger, and during nighttime that push is non-existent and only gravity keeps you tethered as the Earth moves away at an angle towards the Sun.
+Since the Earth's gravity negates the Sun's gravitational effect on the human, the human's inertial linear velocity isn't complemented with an angular velocity (and there's no such thing as inertial angular velocity, despite the misleading use of the word "velocity"), except that which is provided by the Earth's push and pull. During daytime that push is stronger, and during nighttime that push is non-existent and only gravity keeps you tethered as the Earth moves away at an angle towards the Sun.
 
 #
 
