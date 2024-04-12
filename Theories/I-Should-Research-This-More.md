@@ -155,6 +155,6 @@ The Sun's gravitational pull on the human is the same as on the Earth. And the h
 
 It doesn't.
 
-Maybe I just like imagining things accelerating. But they're boringly stable, cycling around in seasonal fashion, no stretchiness or wobbliness, except the predictable kind.
+Maybe I just like imagining things accelerating. But they're boringly stable, cycling around in seasonal fashion, no stretchiness or wobbliness, except the predictable kind. (e.g. from time to time, there's an angular acceleration by the Earth and in that case the weight does slightly change). (Predictable in concept I mean, not in whatever).
 
 "Why was I sidetracked with this?" is the real mystery.
