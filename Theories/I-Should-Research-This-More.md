@@ -130,6 +130,8 @@ The Sun exerts a gravitational acceleration on the human only once, and the Eart
 
 The Sun exerts a gravitational acceleration on the human only once, and the Earth's gravity accounts for it. However, the Sun also exerts a gravitational acceleration on the Earth, inducing the angular trajectory. That extra sun-directed acceleration is not accounted for, and so the human's weight is affected by the relative direction of that acceleration.
 
+That acceleration is the Sun's gravitational force divided by the Earth's mass: $\frac{274 \text{m/s^2}}{5.972 × 10^24 kg}$ is an imperceptibly small, but physically real, amount.
+
 #
 
 **YouTube video idea:** *"Are you heavier during the day than at night?"*
