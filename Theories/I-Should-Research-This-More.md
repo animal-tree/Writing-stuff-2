@@ -114,6 +114,8 @@ And yes, that means slightly (perhaps below measurement precision levels) more p
 
 ### Yes. There’s some extra gravity-like force during daytime hours.
 
+But angular velocity is distinct from angular acceleration, isn't it? Is the Earth's angular velocity inertial? Is the human's? If so, then the answer goes back to no. But the human's angular velocity around the Sun can't be inertial because the human has no angular velocity independent from the pressure of the Earth. If the ground of the Earth suddenly became ephemeral (a hole appeared), the human wouldn't keep along the same angular trajectory, but would, rather, fall through. 
+
 # Resolution
 
 **Short answer:** The Earth's gravity and the sun's gravity balance out to pin the human comfortably on the Earth. After that, the Earth's angular acceleration adds some extra pressure to the sun-facing human's feet.
