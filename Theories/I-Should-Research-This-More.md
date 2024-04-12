@@ -153,6 +153,10 @@ The Sun's gravitational pull on the human is the same as on the Earth. And the h
 
 However, the human's linear inertia is much weaker than the Earth's (lower mass means weaker inertia). So the Sun's gravitational acceleration actually affects the human more than it does the Earth. And so the centripetal acceleration perhaps does turn out to be different... 
 
+While all masses fall at the same rate, they don't all change inertial linear velocities at the same rate.
+
+So the human is actually falling towards the Sun faster. Meaning, the Sun-directed acceleration is greater than the Earth's from the Sun's gravity. Meanwhile, linear velocity is the same as the Earth's. So centripetal facceleration must be different between the human and the Earth. Then there is a weight change...
+
 # Resolution
 
 ~~It doesn't.~~
