@@ -184,6 +184,8 @@ My inertial linear velocity requires a pull from gravity because the Sun's centr
 
 But if every sub-mass experiences this effect equally, how would we ever know? Well, some regions, like the Earth itself, are denser than others. So the less "glued", free hanging regions, A.K.A. bodies on the surface, experience this effect more noticably the less their mass.
 
+Less massive bodies are more drawn towards the Sun.
+
 # Resolution
 
 ~~It doesn't.~~
