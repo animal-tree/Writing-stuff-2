@@ -180,16 +180,14 @@ TODO: Compute these values and figure out the value of the centripetal wind.
 
 That net acceleration is experienced in the direction of the Sun by every body on Earth. But how is that distinct from just the Sun's gravity if there was no net acceleration? I guess the effect is like a fictitious strengthening of the Sun's gravity. ~~No...~~
 
-My inertial linear velocity requires a pull from gravity because the Sun's centripetal acceleration works faster on me than it does for the Earth. That's because my mass is less than that of the Earth, and so my inertia in my linear velocity is weaker, and I am more heavily pulled into the Sun than the Earth. But the Earth's gravity offsets or adds to my faster-curving linear velocity, depending on whether it's daytime or nighttime. So depending how "glued" the body is to the Earth, the stronger this fictitious augmentation to the Sun's gravity? Or depending on the size of the cross section taken? The smaller the sub-mass, the stronger this fictitious augmentation. Then the entire Earth weighs in on the daytime hemisphere from the nighttime hemisphere.
+My inertial linear velocity requires a pull from gravity because the Sun's centripetal acceleration works faster on me than it does for the Earth. That's because my mass is less than that of the Earth, and so my inertia in my linear velocity is weaker, and I am more heavily pulled into the Sun than the Earth. But the Earth's gravity offsets or adds to my faster-curving linear velocity, depending on whether it's daytime or nighttime. So depending how "glued" the body is to the Earth, the stronger this fictitious augmentation to the Sun's gravity? Or depending on the size of the cross section taken? The smaller the sub-mass, the stronger this fictitious augmentation. Then the entire Earth weighs in slightly onto the daytime hemisphere from the nighttime hemisphere.
 
 But if every sub-mass experiences this effect equally, how would we ever know? Well, some regions, like the Earth itself, are denser than others. So the less "glued", free hanging regions, A.K.A. bodies on the surface, experience this effect more noticably the less their mass.
 
-Less massive bodies are more drawn towards the Sun.
+Less massive bodies are more drawn towards the Sun due to a net higher centripetal acceleration compared to the Earth, though their security in the Earth's gravitational field would also be stronger, so mass might not be a factor. The net centripetal acceleration towards the Sun is a factor.
 
 # Resolution
 
 ~~It doesn't.~~
 
-Still thinking about it, but I think the answer is: Less massive bodies are more drawn towards the Sun. 
-
-At midnight on the equator, they weigh more.
+Still thinking about it.
