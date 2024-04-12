@@ -114,6 +114,15 @@ And yes, that means slightly (perhaps below measurement precision levels) more p
 
 ### Yes. There’s some extra gravity-like force during daytime hours.
 
+**Short answer:** The Earth's gravity and the sun's gravity balance out to pin the human comfortably on the Earth. After that, the Earth's angular acceleration adds some extra pressure to the sun-facing human's feet.
+
+And yes, that means slightly (perhaps below measurement precision levels) more perceived gravity at daytime than nighttime.
+
+Yes. There’s some extra gravity-like force during daytime hours.
+
+Why? Because velocity is inertial; acceleration isn’t. Only the Earth is angularly accelerating, due to the sun's gravity, while the human in the Earth's gravitational field is not accelerating independent from the Earth (and the force from the pulling sun is almost completely negated by the Earth's gravitational field). 
+
+Can derive this later. Just start with Earth and sun's gravities, add Earth's acceleration, and show it exceeds human's acceleration $\rightarrow$ therefore extra weight. "Why don't we feel it?" Because [this](https://www.reddit.com/r/AskPhysics/comments/qed9rx/comment/hhs96qh/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
 - Suppose a human is standing on the equator at noon. Consider acceleration in the Sun direction for both the Earth and the human. The Earth's acceleration towards the Sun is $X$ amount such that its inertial velocity is captured in a stable orbital motion (exactly the Sun's gravity). The human's acceleration in the Sun's direction is negative, since the Earth's gravitational field pulls/stabilizes the human towards the Earth. Therefore the Earth's acceleration towards the Sun exceeds the human's acceleration towards the Sun, and therefore the human experiences an extra weight due to the Earth's angular acceleration. This angular acceleration is really small, veritabily $5e^{-3} \frac{m}{s^2}$, imperceptible to a human, but it means that teh human's weight is greater due to the Earth's motion.
 - This might seem confusing since the human also has an inertial velocity that corresponds with the Earth's inertial velocity tangent to the Earth's orbit. The human however doesn't have an "inertial angular acceleration" since such a thing doesn't exist.
 
