@@ -190,4 +190,4 @@ Less massive bodies are more drawn towards the Sun.
 
 ~~It doesn't.~~
 
-Still thinking about it.
+Still thinking about it, but I think the answer is: Less massive bodies are more drawn towards the Sun. 
