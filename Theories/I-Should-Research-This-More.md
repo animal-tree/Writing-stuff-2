@@ -165,6 +165,14 @@ So the Earth's gravity is sort of pulling the human along as the human experienc
 
 TODO: Compute centripetal force of just Earth, then of just human, and the gravitational force of just human with respect to just Earth. Those are all forces present. 
 
+Well, here are all forces present for the human and the Earth:
+
+1. Centripetal force of just the human around just the Sun.
+2. Gravitational force between just the human and just the Earth.
+3. Centripetal force of just the Earth around just the Sun.
+
+The centripetal forces account fully for the Sun's gravitational forces.
+
 # Resolution
 
 ~~It doesn't.~~
