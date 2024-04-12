@@ -5,6 +5,7 @@
 # Resolution
 
 - Suppose a human is standing on the equator at noon. Consider acceleration in the Sun direction for both the Earth and the human. The Earth's acceleration towards the Sun is $X$ amount such that its inertial velocity is captured in a stable orbital motion (exactly the Sun's gravity). This becomes its "angular velocity". The human's acceleration in the Sun's direction is negative ($Y < 0$), since the Earth's gravitational field pulls/stabilizes the human towards the Earth, accounting for both the Sun's and Earth's forces. Therefore the Earth's acceleration towards the Sun $X$ exceeds the human's acceleration towards the Sun $Y$, and therefore the human experiences an extra weight in the direction of the Earth due to the Earth's angular velocity. This sun-directed acceleration is $X$... why isn't it perceptible to a human?
+  - The Earth's sun-directed acceleration should be perceptible to a human if it weren't cancelled out in the Earth direction by Earth's gravity. However, there is a portion of it in teh angular direction not cancelled out.
 - This might seem confusing since the human also has an inertial velocity that corresponds with the Earth's inertial velocity tangent to the Earth's orbit. But the human's angular velocity around the Sun can't be inertial because the human has no angular velocity independent from the pressure of the Earth. If the ground of the Earth suddenly became ephemeral (a hole appears), the human wouldn't keep along the same angular trajectory, but would, rather, fall through.
 
 #
