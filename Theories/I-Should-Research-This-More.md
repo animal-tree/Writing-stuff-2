@@ -159,7 +159,7 @@ So the human is actually falling towards the Sun faster. Meaning, the Sun-direct
 
 There are three accelerations to consider. (1) The centripetal acceleration of the Earth around the Sun (due to the Earth's inertial linear velocity and the Sun's gravitational acceleration), (2) the centripetal acceleration of the human around the Sun (due to the human's inertial linear velocity and the Sun's gravitational acceleration), and (3) the gravitational acceleration of the human towards the Earth. If (1) and (2) are not equal, then there is an extra unaccounted for acceleration on the human experienced on the Earth besides the Earth's gravity, like a kind of centripetal wind. 
 
-And (1) and (2) can't be equal since the Sun's gravitational acceleration is the same for both the human and the Earth, but the inertial linear velocities have different inertias (different masses) for both the human and the Earth.
+And (1) and (2) can't be equal since the Sun's gravitational acceleration is the same for both the human and the Earth, but the inertial linear velocities have different inertias (different masses) for both the human and the Earth, meaning the acceleration is faster on the one with less inertia (less mass) (the human).
 
 # Resolution
 
