@@ -161,6 +161,8 @@ There are three accelerations to consider. (1) The centripetal acceleration of t
 
 And (1) and (2) can't be equal since the Sun's gravitational acceleration is the same for both the human and the Earth, but the inertial linear velocities have different inertias (different masses) for both the human and the Earth, meaning the Sun's gravitational acceleration is faster on the one with less inertia (less mass) (the human).
 
+So the Earth's gravity is sort of pulling the human along as the human experiences a stronger weight... at night rather than day?
+
 # Resolution
 
 ~~It doesn't.~~
