@@ -176,6 +176,8 @@ If 1 $\neq$ 2, then a centripetal wind exists!
 
 And 1 $\neq$ 2 since the Earth accelerates towards the Sun much slower than the human does due to its greater inertia (higher mass).
 
+TODO: Compute these values and figure out the value of the centripetal wind.
+
 # Resolution
 
 ~~It doesn't.~~
