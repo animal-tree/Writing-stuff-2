@@ -137,7 +137,7 @@ The Sun exerts a gravitational acceleration on the human only once, and the Eart
 
 The Sun exerts a gravitational acceleration on the human only once, and the Earth's gravity accounts for it. However, the Sun also exerts a gravitational acceleration on the Earth, inducing the angular trajectory. That extra sun-directed acceleration is not accounted for, and so the human's weight is affected by the relative direction of that acceleration.
 
-That acceleration is the Sun's gravitational acceleration but minus the Earth's momentum acceleration-resistance in the orbit's tangent direction. In other words, the Earth's angular acceleration around the Sun. That's an imperceptibly small, but physically real, amount.
+That acceleration is the Sun's gravitational acceleration but minus the Earth's momentum acceleration-resistance in the orbit's tangent direction. That's an imperceptibly small, but physically real, amount. What is that sun-directed component of acceleration called? It's distinct from "angular acceleration" I think.
 
 #
 
