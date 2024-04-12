@@ -165,15 +165,15 @@ So the Earth's gravity is sort of pulling the human along as the human experienc
 
 TODO: Compute centripetal force of just Earth, then of just human, and the gravitational force of just human with respect to just Earth. Those are all forces present. 
 
-Well, here are all forces present for the human and the Earth:
+Well, here are all accelerations present for the human and the Earth:
 
-1. Centripetal force of just the human around just the Sun.
-2. Gravitational force between just the human and just the Earth.
-3. Centripetal force of just the Earth around just the Sun.
+1. Centripetal acceleration of just the Earth around just the Sun.
+2. Gravitational acceleration of just the human towards the Sun.
+3. Gravitational acceleration of just the human towards the Earth.
 
-(The centripetal forces account fully for the Sun's gravitational forces).
+If 1 $\neq$ 2, then a centripetal wind exists!
 
-If 1 $\neq$ 3, then a centripetal wind exists!
+And 1 $\neq$ 2 since the accelerates towards the Sun much slower than the human does due to its greater inertia (higher mass).
 
 # Resolution
 
