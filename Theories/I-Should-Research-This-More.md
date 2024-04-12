@@ -126,6 +126,8 @@ However, the Earth's sun-directed acceleration is just the Sun's gravity, which 
  
 The Sun exerts a gravitational acceleration on the human only once, and the Earth's gravity accounts for it. However, the Sun also exerts a gravitational acceleration on the Earth, inducing the angular trajectory. That extra sun-directed acceleration is not accounted for, and so the human's weight is affected by the relative direction of that acceleration.
 
+### Yes. There’s some extra gravity-like force during daytime hours.
+
 # Resolution
 
 - Suppose a human is standing on the equator at noon. Consider acceleration in the Sun direction for both the Earth and the human. The Earth's acceleration towards the Sun is $X$ amount such that its inertial velocity is captured in a stable orbital motion (exactly the Sun's gravity). This motion becomes its "angular velocity". The human's acceleration in the Sun's direction is negative ($Y < 0$), since the Earth's gravitational field pulls/stabilizes the human towards the Earth. $Y$ accounts for both the Sun's and Earth's forces on the human. The Sun's component is also $X$ on the human since all masses are accelerated by the same gravitational source the same, and the human shares the Earth's inertial velocity tangent to the motion of orbit, so the human and Earth are in one inertial angular orbit.
