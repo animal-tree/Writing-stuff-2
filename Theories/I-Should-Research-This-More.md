@@ -180,6 +180,8 @@ TODO: Compute these values and figure out the value of the centripetal wind.
 
 That net acceleration is experienced in the direction of the Sun by every body on Earth. But how is that distinct from just the Sun's gravity if there was no net acceleration? I guess the effect is like a fictitious strengthening of the Sun's gravity. No...
 
+My inertial linear velocity requires a pull from gravity because the Sun's centripetal acceleration works faster on me than it does for the Earth.
+
 # Resolution
 
 ~~It doesn't.~~
