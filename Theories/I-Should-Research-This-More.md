@@ -121,8 +121,6 @@ But angular velocity is distinct from angular acceleration, isn't it? Is the Ear
 
 However, the Earth's sun-directed acceleration is just the Sun's gravity, which should be perceptible to a human if it weren't cancelled out in the Earth direction by Earth's gravity. However, there is a portion of it in the angular direction not cancelled out.
 
-**New Question:** How does the angular velocity of the Earth's motion around the sun affect weight?
-
 - Suppose a human is standing on the equator at noon. Consider acceleration in the Sun direction for both the Earth and the human. The Earth's acceleration towards the Sun is $X$ amount such that its inertial velocity is captured in a stable orbital motion (exactly the Sun's gravity). This motion becomes its "angular velocity". The human's acceleration in the Sun's direction is negative ($Y < 0$), since the Earth's gravitational field pulls/stabilizes the human towards the Earth. $Y$ accounts for both the Sun's and Earth's forces on the human. The Sun's component is also $X$ on the human since all masses are accelerated by the same gravitational source the same I think, and the human shares the Earth's inertial velocity tangent to the motion of orbit, so the human and Earth are in one inertial angular orbit.
   - But if the Earth disapeared, the human wouldn't keep along its "inertial velocity". The human would fall into the Sun. The inertial velocity of the human is due to the human being attached to the Earth via the Earth's gravity, which is not a velocity inducing force. In other words, that gravity doesn't pull the human towards that inertial frame, just locks the human into it. And then the Earth revolves around the Sun at an angle due to the Sun's gravity, but it has already accounted for the Sun's gravity on the part of the human. Therefore the human experiences an additional force.
  
@@ -131,6 +129,8 @@ The Sun exerts a gravitational acceleration on the human only once, and the Eart
 ### Yes. There’s some extra gravity-like force during daytime hours.
 
 # Resolution
+
+**Question:** How does the angular velocity of the Earth's motion around the sun affect weight?
 
 - Suppose a human is standing on the equator at noon. Consider acceleration in the Sun direction for both the Earth and the human. The Earth's acceleration towards the Sun is $X$ amount such that its inertial velocity is captured in a stable orbital motion (exactly the Sun's gravity). This motion becomes its "angular velocity". The human's acceleration in the Sun's direction is negative ($Y < 0$), since the Earth's gravitational field pulls/stabilizes the human towards the Earth. $Y$ accounts for both the Sun's and Earth's forces on the human. The Sun's component is also $X$ on the human since all masses are accelerated by the same gravitational source the same, and the human shares the Earth's inertial velocity tangent to the motion of orbit, so the human and Earth are in one inertial angular orbit.
   - But if the Earth disapeared, the human wouldn't keep along its "inertial velocity". The human would fall into the Sun. The inertial velocity of the human is due to the human being attached to the Earth via the Earth's gravity, which is not a velocity inducing force. In other words, that gravity doesn't pull the human towards that inertial frame, just locks the human into it. And then the Earth revolves around the Sun at an angle due to the Sun's gravity, but it has already accounted for the Sun's gravity on the part of the human. Therefore the human experiences an additional force.
