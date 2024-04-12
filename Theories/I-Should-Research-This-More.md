@@ -171,7 +171,9 @@ Well, here are all forces present for the human and the Earth:
 2. Gravitational force between just the human and just the Earth.
 3. Centripetal force of just the Earth around just the Sun.
 
-The centripetal forces account fully for the Sun's gravitational forces.
+(The centripetal forces account fully for the Sun's gravitational forces).
+
+If 1 $\neq$ 3, then a centripetal wind exists!
 
 # Resolution
 
