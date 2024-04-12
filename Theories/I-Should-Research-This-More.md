@@ -173,7 +173,7 @@ Well, here are all accelerations present for the human and the Earth:
 
 If 1 $\neq$ 2, then a centripetal wind exists!
 
-And 1 $\neq$ 2 since the accelerates towards the Sun much slower than the human does due to its greater inertia (higher mass).
+And 1 $\neq$ 2 since the Earth accelerates towards the Sun much slower than the human does due to its greater inertia (higher mass).
 
 # Resolution
 
