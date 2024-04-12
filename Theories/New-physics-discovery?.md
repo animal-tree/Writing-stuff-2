@@ -1,9 +1,11 @@
-**Question:** How does the angular acceleration of the Earth's motion around the sun affect weight?
+[thought process in progress]
+
+**Question:** How does the angular velocity of the Earth's motion around the sun affect weight?
 
 # Resolution
 
-- Suppose a human is standing on the equator at noon. Consider acceleration in the Sun direction for both the Earth and the human. The Earth's acceleration towards the Sun is $X$ amount such that its inertial velocity is captured in a stable orbital motion (exactly the Sun's gravity). The human's acceleration in the Sun's direction is negative ($Y < 0$), since the Earth's gravitational field pulls/stabilizes the human towards the Earth. Therefore the Earth's acceleration towards the Sun $X$ exceeds the human's acceleration towards the Sun $Y$, and therefore the human experiences an extra weight in the direction of the Earth due to the Earth's angular acceleration. This angular acceleration is really small, veritabily $5e^{-3} \frac{m}{s^2}$, imperceptible to a human, but it means that the human's weight is officially greater due to the Earth's motion.
-- This might seem confusing since the human also has an inertial velocity that corresponds with the Earth's inertial velocity tangent to the Earth's orbit. The human however doesn't have an "inertial angular acceleration" since such a thing doesn't exist.
+- Suppose a human is standing on the equator at noon. Consider acceleration in the Sun direction for both the Earth and the human. The Earth's acceleration towards the Sun is $X$ amount such that its inertial velocity is captured in a stable orbital motion (exactly the Sun's gravity). This becomes its "angular velocity". The human's acceleration in the Sun's direction is negative ($Y < 0$), since the Earth's gravitational field pulls/stabilizes the human towards the Earth, accounting for both the Sun's and Earth's forces. Therefore the Earth's acceleration towards the Sun $X$ exceeds the human's acceleration towards the Sun $Y$, and therefore the human experiences an extra weight in the direction of the Earth due to the Earth's angular velocity. This sun-directed acceleration is $X$... why isn't it perceptible to a human?
+- This might seem confusing since the human also has an inertial velocity that corresponds with the Earth's inertial velocity tangent to the Earth's orbit. But the human's angular velocity around the Sun can't be inertial because the human has no angular velocity independent from the pressure of the Earth. If the ground of the Earth suddenly became ephemeral (a hole appears), the human wouldn't keep along the same angular trajectory, but would, rather, fall through.
 
 #
 
