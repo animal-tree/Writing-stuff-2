@@ -6,7 +6,7 @@
 
 Let $c \coloneqq 299,792,458$ be the speed of light constant *in vacuo*.
 
-Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system that is potentially in motion relative to other reference frames (coordinate systems likewise potentially in motion, for example $K^{(j)}$).
+Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system that is potentially in motion relative to other reference frames (coordinate systems likewise potentially in motion, for example $K^{(j)}$). We consider only the domain of reference frames whose origins intersect.
 
 > Leaving this out since not a necessary constraint: ~Inertial reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system that is in rectilinear (non-accelerative) motion (or stationary) relative to other inertial reference frames (other such coordinate systems, for example $K^{(j)}$).~
 
