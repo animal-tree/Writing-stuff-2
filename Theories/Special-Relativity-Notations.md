@@ -10,7 +10,7 @@ Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system th
 
 > Leaving this out since not a necessary constraint: ~Inertial reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system that is in rectilinear (non-accelerative) motion (or stationary) relative to other inertial reference frames (other such coordinate systems, for example $K^{(j)}$).~
 
-Any observer stationary in reference frame $K^{(i)}$ and who's using the coordinate system of reference frame $K^{(i)}$ measures the corresponding time and space coordinates of some body (call it $M$, shared across all reference frames), as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
+Any observer stationary in reference frame $K^{(i)}$ and using reference frame $K^{(i)}$ measures the corresponding time and space coordinates of body $\mathrm{B}$, as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
 
 $v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (including observers) stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
 
@@ -40,7 +40,7 @@ $x_{t^{(j)}}^{(j)} = \mathcal{X}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$.
 
 $t^{(j)} = \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$.
 
-The Lorentz transformation describes a transformation of a body's corresponding space and time coordinates across reference frames in physical spacetime.
+The Lorentz transformation describes a transformation of the body $\mathrm{B}$'s corresponding space and time coordinates across reference frames in physical spacetime.
 
 ### (2) Mutual velocity perspective.
 
@@ -60,11 +60,15 @@ As assumed in most experimentally tested setups, e.g., Fizeau.
 
 ### (3) Uniform motion.
 
-$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constant, or equivalently, $\frac{\partial^2 x_{t^{(i)}}^{(i)}}{\partial {t^{(i)}}^2} = 0$.
+The body $\mathrm{B}$ travels uniformly.
+
+In other words, $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constant, or equivalently, $\frac{\partial^2 x_{t^{(i)}}^{(i)}}{\partial {t^{(i)}}^2} = 0$.
 
 Since average velocity is equal to displacement over time, a necessary consequence of constant $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is:
 
-$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} = \frac{x_{t_2^{(i)}}^{(i)} - x_{t_1^{(i)}}^{(i)}}{t_2^{(i)} - t_1^{(i)}}$.
+$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} = \frac{x_{t_2^{(i)}}^{(i)} - x_{t_1^{(i)}}^{(i)}}{t_2^{(i)} - t_1^{(i)}}$
+
+for any time interval $t_2^{(i)} > t_1^{(i)}$.
 
 ### (4) $x_{0}^{(i)} = 0$.
 
@@ -78,7 +82,7 @@ $x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0 \rightarrow x_{
 
 $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}})$.
 
-The velocity-addition formula describes a transformation of a body's velocity across reference frames in physical spacetime.
+The velocity-addition formula describes a transformation of the body $\mathrm{B}$'s velocity across reference frames in physical spacetime.
 
 **Proof.**
 
@@ -137,12 +141,13 @@ rendering the velocity-addition formula useless. $\square$
 
 In the theories of special and general relativity, Einstein's first postulate states: $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$.
 
-Assume a mass/body below light speed: $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} < c$. We obtain: 
+Assume body $\mathrm{B}$ below light speed: $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} < c$. We obtain: 
 
 $$
 \begin{align}
 &x_{t^{(i)}}^{(i)} = ct^{(i)} \quad\quad \text{(Einstein's first postulate)} \\
-&\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = c,
+&\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = c\\ 
+&\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ < c,  \quad\quad \text{(Below-light-speed assumption)}
 \end{align}
 $$
 
