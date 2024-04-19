@@ -10,7 +10,7 @@ Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system th
 
 > Leaving this out since not a necessary constraint: ~Inertial reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system that is in rectilinear (non-accelerative) motion (or stationary) relative to other inertial reference frames (other such coordinate systems, for example $K^{(j)}$).~
 
-Any observer stationary in reference frame $K^{(i)}$ and using reference frame $K^{(i)}$ measures the corresponding time and space coordinates of body $\mathrm{B}$, as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
+Any observer stationary in reference frame $K^{(i)}$ measures the corresponding time and space coordinates of body $\mathrm{B}$, as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
 
 $v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (including observers) stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
 
