@@ -6,4 +6,5 @@
 - Machinations of God through Quantum Statistical Divergence [and Imperceptible Controlled Evolutions within Physics]
 - Mechanism of Deus Ex Machina: Imperceptible Controllable Evolutions within Physics via Quantum Statistical Divergences
 - Animism as Math and Physics: Consciousness Theory as Quantum Singularization Demonstrated with in-Simulation Double-Slit Diffraction Experiments
-  - of Molecules/Composite Particles with Detectors 
+  - of Molecules/Composite Particles with Detectors
+  - via Heads and Threads
