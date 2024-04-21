@@ -63,7 +63,7 @@ Any observer stationary in reference frame $K^{(i)}$ measures the corresponding 
 
 $v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (including observers) stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
 
-### (2) Multiple measurements and spacetime displacements.
+### (2) Multiple measurements, and spacetime displacements.
 
 Since multiple measurements may be taken, let $t_k^{(i)} \in \mathbb{R}$ represent each measured constant of the variable $t^{(i)}$, where $k \in \mathbb{N}$ represents the unique index across all reference frames for each taken measurement, as measured by an observer stationary in reference frame $K^{(i)}$. For convenience, allow $t_2^{(i)} > t_1^{(i)}$. 
 
