@@ -24,7 +24,7 @@ Polarities of neutrinos scaled by proximity-weighted average of amplitudes=frequ
 
 ---
 
-> Later/other stuff in notes includes local and Markovian multi-slit diffraction via photon memory traces, and more. Neutrinos as prototypical mass. 
+> Later/other stuff in notes includes local and Markovian multi-slit diffraction via photon memory traces and/or multi-heads, and more. Neutrinos as prototypical mass. 
 > 
 > Newton's 3rd law doesn't hold between photons and mass.
 >
