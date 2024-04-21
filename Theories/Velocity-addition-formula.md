@@ -57,9 +57,11 @@ rendering the formula useless.
 
 Let $c \coloneqq 299,792,458$ be the speed of light constant *in vacuo*.
 
-Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system that is potentially in motion relative to other reference frames (coordinate systems likewise potentially in motion, for example $K^{(j)}$).
+Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system that is in motion relative to other reference frames  $K^{(j)}$ (for any $i \neq j \in \mathbb{N}$).
 
-Any observer stationary in reference frame $K^{(i)}$ and using reference frame $K^{(i)}$ measures the corresponding time and space coordinates of body $\mathrm{B}$, as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
+Any observer stationary in reference frame $K^{(i)}$ measures the corresponding time and space coordinates of body $\mathrm{B}$, as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
+
+Since multiple measurements may be taken, let $T_k^{(i)} \in \mathbb{R}$ represent each measured constant of the variable $t^{(i)}$, where $k \in \mathbb{N}$ represents the unique index across all reference frames for each taken measurement, as measured by an observer stationary in reference frame $K^{(i)}$. 
 
 $v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (including observers) stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
 
@@ -67,11 +69,11 @@ $v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (including observers) st
 
 $\mathcal{X}(X, T, V) \coloneqq \frac{X - VT}{\sqrt{1 - \frac{V^2}{c^2}}}$.
 
-$\mathcal{T}(X, T, V) \coloneqq \frac{T - \frac{XV}{c^2}}{\sqrt{1 - \frac{V^2}{c^2}}}$.
+$\mathcal{T}(X, T, V) \coloneqq \frac{T - \frac{VX}{c^2}}{\sqrt{1 - \frac{V^2}{c^2}}}$.
 
 ### (3) Velocity-addition formula.
 
-$\mathcal{V}(V, W) \coloneqq \frac{W + V}{1 + \frac{V}{c^2}W}$.
+$\mathcal{V}(V, W) \coloneqq \frac{W - V}{1 - \frac{V}{c^2}W}$.
 
 ## Assumptions
 
@@ -91,9 +93,9 @@ In other words, $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constan
 
 Since average velocity is equal to displacement over time, a necessary consequence of constant $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is:
 
-$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} = \frac{x_{t_2^{(i)}}^{(i)} - x_{t_1^{(i)}}^{(i)}}{t_2^{(i)} - t_1^{(i)}}$
+$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} = \frac{x_{T_2^{(i)}}^{(i)} - x_{T_1^{(i)}}^{(i)}}{T_2^{(i)} - T_1^{(i)}},$
 
-for any time interval $t_2^{(i)} > t_1^{(i)}$.
+for any time interval $T_2^{(i)} > T_1^{(i)}$.
 
 ## Theorems
 
@@ -108,21 +110,21 @@ The velocity-addition formula describes a transformation of the body $\mathrm{B}
 $$
 \begin{align}
 \quad \quad \quad \quad \quad \text{ } \text{ } \text{ } \text{ } \text{ } \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} &= \frac{\Delta x_{t^{(j)}}^{(j)}}{\Delta t^{(j)}} \quad\quad \text{(Assumption 2)} \\
-&= \frac{x_{t_2^{(j)}}^{(j)} - x_{t_1^{(j)}}^{(j)}}{t_2^{(j)} - t_1^{(j)}} \\
-&= \frac{\mathcal{X}(x_{t_2^{(i)}}^{(i)}, t_2^{(i)}, v^{(i, j)}) - \mathcal{X}(x_{t_1^{(i)}}^{(i)}, t_1^{(i)}, v^{(i, j)})}{\mathcal{T}(x_{t_2^{(i)}}^{(i)}, t_2^{(i)}, v^{(i, j)}) - \mathcal{T}(x_{t_1^{(i)}}^{(i)}, t_1^{(i)}, v^{(i, j)})} \quad\quad \text{(Assumption 1)}\\
+&= \frac{x_{T_2^{(j)}}^{(j)} - x_{T_1^{(j)}}^{(j)}}{T_2^{(j)} - T_1^{(j)}} \\
+&= \frac{\mathcal{X}(x_{T_2^{(i)}}^{(i)}, T_2^{(i)}, v^{(i, j)}) - \mathcal{X}(x_{T_1^{(i)}}^{(i)}, T_1^{(i)}, v^{(i, j)})}{\mathcal{T}(x_{T_2^{(i)}}^{(i)}, T_2^{(i)}, v^{(i, j)}) - \mathcal{T}(x_{T_1^{(i)}}^{(i)}, T_1^{(i)}, v^{(i, j)})} \quad\quad \text{(Assumption 1)}\\
 \end{align}
 $$
 
 $$
 \begin{align}
-\quad \quad \quad \text{ } \text{ } \text{ } \text{ } \text{ } &= \frac{\Bigg(\frac{x_{t_2^{(i)}}^{(i)} - v^{(i, j)} t_2^{(i)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}} - \frac{x_{t_1^{(i)}}^{(i)} - v^{(i, j)} t_1^{(i)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)}{\Bigg(\frac{t_2^{(i)} - \frac{v^{(i, j)} x_{t_2^{(i)}}^{(i)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}} - \frac{t_1^{(i)} - \frac{v^{(i, j)} x_{t_1^{(i)}}^{(i)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)} \quad\quad \text{(Definition 2)}\\
+\quad \quad \quad \text{ } \text{ } \text{ } \text{ } \text{ } &= \frac{\Bigg(\frac{x_{T_2^{(i)}}^{(i)} - v^{(i, j)} T_2^{(i)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}} - \frac{x_{T_1^{(i)}}^{(i)} - v^{(i, j)} T_1^{(i)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)}{\Bigg(\frac{T_2^{(i)} - \frac{v^{(i, j)} x_{T_2^{(i)}}^{(i)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}} - \frac{T_1^{(i)} - \frac{v^{(i, j)} x_{T_1^{(i)}}^{(i)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)} \quad\quad \text{(Definition 2)}\\
 \end{align}
 $$
 
 $$
 \begin{align}
-&= \frac{\Bigg(x_{t_2^{(i)}}^{(i)} - v^{(i, j)} t_2^{(i)} - (x_{t_1^{(i)}}^{(i)} - v^{(i, j)} t_1^{(i)})\Bigg)}{\Bigg(t_2^{(i)} - \frac{v^{(i, j)} x_{t_2^{(i)}}^{(i)}}{c^2} - (t_1^{(i)} - \frac{v^{(i, j)} x_{t_1^{(i)}}^{(i)}}{c^2})\Bigg)} \\
-&= \frac{\Bigg((x_{t_2^{(i)}}^{(i)} - x_{t_1^{(i)}}^{(i)}) - v^{(i, j)}(t_2^{(i)} - t_1^{(i)})\Bigg)}{\Bigg((t_2^{(i)} - t_1^{(i)}) - \frac{v^{(i, j)} (x_{t_2^{(i)}}^{(i)} - x_{t_1^{(i)}}^{(i)})}{c^2}\Bigg)} \\
+&= \frac{\Bigg(x_{T_2^{(i)}}^{(i)} - v^{(i, j)} T_2^{(i)} - (x_{T_1^{(i)}}^{(i)} - v^{(i, j)} T_1^{(i)})\Bigg)}{\Bigg(T_2^{(i)} - \frac{v^{(i, j)} x_{T_2^{(i)}}^{(i)}}{c^2} - (T_1^{(i)} - \frac{v^{(i, j)} x_{T_1^{(i)}}^{(i)}}{c^2})\Bigg)} \\
+&= \frac{\Bigg((x_{T_2^{(i)}}^{(i)} - x_{T_1^{(i)}}^{(i)}) - v^{(i, j)}(T_2^{(i)} - T_1^{(i)})\Bigg)}{\Bigg((T_2^{(i)} - T_1^{(i)}) - \frac{v^{(i, j)} (x_{T_2^{(i)}}^{(i)} - x_{T_1^{(i)}}^{(i)})}{c^2}\Bigg)} \\
 &= \frac{\Delta x_{t^{(i)}}^{(i)} - v^{(i, j)} \Delta t^{(i)}}{\Delta t^{(i)} - \frac{v^{(i, j)} \Delta x_{t^{(i)}}^{(i)}}{c^2}} \\
 &= \frac{(\frac{1}{\Delta t^{(i)}})(\Delta x_{t^{(i)}}^{(i)} - v^{(i, j)} \Delta t^{(i)})}{(\frac{1}{\Delta t^{(i)}})(\Delta t^{(i)} - \frac{v^{(i, j)} \Delta x_{t^{(i)}}^{(i)}}{c^2})} \\
 \end{align}
