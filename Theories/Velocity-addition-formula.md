@@ -61,7 +61,7 @@ Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system th
 
 Any observer stationary in reference frame $K^{(i)}$ measures the corresponding time and space coordinates of body $\mathrm{B}$, as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
 
-Since multiple measurements may be taken, let $T_k^{(i)} \in \mathbb{R}$ represent each measured constant of the variable $t^{(i)}$, where $k \in \mathbb{N}$ represents the unique index across all reference frames for each taken measurement, as measured by an observer stationary in reference frame $K^{(i)}$. 
+Since multiple measurements may be taken, let $T_k^{(i)} \in \mathbb{R}$ represent each measured constant of the variable $t^{(i)}$, where $k \in \mathbb{N}$ represents the unique index across all reference frames for each taken measurement, as measured by an observer stationary in reference frame $K^{(i)}$. For convenience, allow $T_2^{(i)} > T_1^{(i)}$.
 
 $v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (including observers) stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
 
@@ -93,9 +93,7 @@ In other words, $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constan
 
 Since average velocity is equal to displacement over time, a necessary consequence of constant $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is:
 
-$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} = \frac{x_{T_2^{(i)}}^{(i)} - x_{T_1^{(i)}}^{(i)}}{T_2^{(i)} - T_1^{(i)}},$
-
-for any time interval $T_2^{(i)} > T_1^{(i)}$.
+$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} = \frac{x_{T_2^{(i)}}^{(i)} - x_{T_1^{(i)}}^{(i)}}{T_2^{(i)} - T_1^{(i)}}$.
 
 ## Theorems
 
