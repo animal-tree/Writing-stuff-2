@@ -67,7 +67,7 @@ Since multiple measurements may be taken, let $t_k^{(i)} \in \mathbb{R}$ represe
 Generating a unique index is easy in computer science, without even knowing previous or concurrent indices. Just generate an arbitrarily long random hash. The longer, the more probabilistically secure you can be that the random hash is unique, up to arbitrarily negligible uncertainty.
 -->
 
-Denote $\Delta x_{t^{(i)}}^{(i)} \coloneqq x_{t_\ell^{(i)}}^{(i)} - x_{t_k^{(i)}}^{(i)}$ and $\Delta t^{(i)} \coloneqq t_\ell^{(i)} - t_k^{(i)}$ as spacetime displacements when $t_\ell^{(i)} > t_k^{(i)}$.
+Denote $\Delta x_{t^{(i)}}^{(i)} \coloneqq x_{t_\ell^{(i)}}^{(i)} - x_{t_k^{(i)}}^{(i)}$ and $\Delta t^{(i)} \coloneqq t_\ell^{(i)} - t_k^{(i)}$ as spacetime displacements when $t_\ell^{(i)} > t_k^{(i)}$ for some $k \neq \ell \in \mathbb{N}$.
 
 $v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (including observers) stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
 
