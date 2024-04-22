@@ -63,7 +63,7 @@ Any observer stationary in reference frame $K^{(i)}$ measures the corresponding 
 
 Since multiple measurements may be taken, let $t_k^{(i)} \in \mathbb{R}$ represent each measured constant of the variable $t^{(i)}$, where $k \in \mathbb{N}$ represents the unique index across all reference frames for each taken measurement, as measured by an observer stationary in reference frame $K^{(i)}$. 
 
-Generating a unique index is easy in computer science, without even knowing previous or concurrent indices. Just generate an arbitrarily long random hash. The longer, the more probabilistically secure you can be that the random hash is unique, up to arbitrarily negligible uncertainty.
+- Generating a unique index is easy in computer science, without even knowing previous or concurrent indices. Just generate an arbitrarily long random hash. The longer, the more probabilistically secure you can be that the random hash is unique, up to arbitrarily negligible uncertainty.
 
 Denote $\Delta x_{t^{(i)}}^{(i)} \coloneqq x_{t_\ell^{(i)}}^{(i)} - x_{t_k^{(i)}}^{(i)}$ and $\Delta t^{(i)} \coloneqq t_\ell^{(i)} - t_k^{(i)}$ as spacetime displacements when $t_k^{(i)} < t_\ell^{(i)}$ for some $k \neq \ell \in \mathbb{N}$.
 
@@ -97,7 +97,7 @@ In other words, $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constan
 
 For convenience, allow $t_1^{(i)} < t_2^{(i)}$, without loss of generality. 
 
-Note: This implicitly assumes that at least two of the body $\mathrm{B}$'s positions that happen chronologically in one reference frame can be translated across all other reference frames so as to happen in the same chronological order in all other reference frames. Without loss of generality, those two are indexed 1 and 2 (any two index subscripts would work).
+- Note: This implicitly assumes that at least two of the body $\mathrm{B}$'s positions that happen chronologically in one reference frame can be translated across all other reference frames so as to happen in the same chronological order in all other reference frames. Without loss of generality, those two are indexed 1 and 2 (any two index subscripts would work).
 
 Since average velocity is equal to displacement over time, a necessary consequence of constant $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is:
 
