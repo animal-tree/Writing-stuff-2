@@ -65,7 +65,7 @@ Since multiple measurements may be taken, let $t_k^{(i)} \in \mathbb{R}$ represe
 
 - Generating a unique index $k$ for each measurement is easy, without even knowing previous or concurrent indices. Just generate an arbitrarily long random hash with a pseudo-random number generator. The longer, the more probabilistically secure you can be that the random hash is unique, up to arbitrarily negligible uncertainty. Therefore all of this is still physically tangible.
 
-Denote $\Delta x_{t^{(i)}}^{(i)} \coloneqq x_{t_\ell^{(i)}}^{(i)} - x_{t_k^{(i)}}^{(i)}$ and $\Delta t^{(i)} \coloneqq t_\ell^{(i)} - t_k^{(i)}$ as spacetime displacements when $t_k^{(i)} < t_\ell^{(i)}$ for any $k \neq \ell \in \mathbb{N}$.
+Denote $\Delta x_{t^{(i)}}^{(i)} \coloneqq x_{t_\ell^{(i)}}^{(i)} - x_{t_k^{(i)}}^{(i)}$ and $\Delta t^{(i)} \coloneqq t_\ell^{(i)} - t_k^{(i)}$ as spacetime displacements when $t_k^{(i)} < t_\ell^{(i)}$ (for any $k \neq \ell \in \mathbb{N}$).
 
 $v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (including observers) stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
 
