@@ -63,20 +63,10 @@ Any observer stationary in reference frame $K^{(i)}$ measures the corresponding 
 
 $v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (including observers) stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
 
-### (2) Multiple measurements, and spacetime displacement.
-
-Since multiple measurements may be taken, let $t_k^{(i)} \in \mathbb{R}$ represent each measured constant of the variable $t^{(i)}$, where $k \in \mathbb{N}$ represents the unique index across all reference frames for each taken measurement, as measured by an observer stationary in reference frame $K^{(i)}$. For convenience, allow $t_2^{(i)} > t_1^{(i)}$. 
+Since multiple measurements may be taken, let $t_k^{(i)} \in \mathbb{R}$ represent each measured constant of the variable $t^{(i)}$, where $k \in \mathbb{N}$ represents the unique index across all reference frames for each taken measurement, as measured by an observer stationary in reference frame $K^{(i)}$. 
 
 <!--
 Generating a unique index is easy in computer science, without even knowing previous or concurrent indices. Just generate an arbitrarily long random hash. The longer, the more probabilistically secure you can be that the random hash is unique, up to arbitrarily negligible uncertainty.
--->
-
-Denote $\Delta x_{t^{(i)}}^{(i)} \coloneqq x_{t_2^{(i)}}^{(i)} - x_{t_1^{(i)}}^{(i)}$ and $\Delta t^{(i)} \coloneqq t_2^{(i)} - t_1^{(i)}$.
-
-<!--
-Note: This implicitly assumes that at least two of the body B's positions that happen chronologically in one reference frame can be translated across all other reference frames so as to happen in the same chronological order in all other reference frames. Without loss of generality, those two are indexed 1 and 2.
-
-Maybe move the chronological spacetime displacement to assumptions.
 -->
 
 ### (3) Lorentz transformation.
@@ -99,11 +89,19 @@ $t^{(j)} = \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$.
 
 The Lorentz transformation describes a transformation of the body $\mathrm{B}$'s corresponding space and time coordinates across reference frames in physical spacetime.
 
-### (2) Uniform motion.
+### (2) Uniform motion, and spacetime displacement.
 
 The body $\mathrm{B}$ travels uniformly.
 
 In other words, $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constant, or equivalently, $\frac{\partial^2 x_{t^{(i)}}^{(i)}}{\partial {t^{(i)}}^2} = 0$.
+
+For convenience, allow $t_2^{(i)} > t_1^{(i)}$. 
+
+Denote $\Delta x_{t^{(i)}}^{(i)} \coloneqq x_{t_2^{(i)}}^{(i)} - x_{t_1^{(i)}}^{(i)}$ and $\Delta t^{(i)} \coloneqq t_2^{(i)} - t_1^{(i)}$.
+
+<!--
+Note: This implicitly assumes that at least two of the body B's positions that happen chronologically in one reference frame can be translated across all other reference frames so as to happen in the same chronological order in all other reference frames. Without loss of generality, those two are indexed 1 and 2.
+-->
 
 Since average velocity is equal to displacement over time, a necessary consequence of constant $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is:
 
@@ -122,7 +120,7 @@ The velocity-addition formula describes a transformation of the body $\mathrm{B}
 $$
 \begin{align}
 \quad \quad \quad \quad \quad \text{ } \text{ } \text{ } \text{ } \text{ } \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} &= \frac{\Delta x_{t^{(j)}}^{(j)}}{\Delta t^{(j)}} \quad\quad \text{(Assumption 2)} \\
-&= \frac{x_{t_2^{(j)}}^{(j)} - x_{t_1^{(j)}}^{(j)}}{t_2^{(j)} - t_1^{(j)}} \quad\quad \text{(Definition 2)} \\
+&= \frac{x_{t_2^{(j)}}^{(j)} - x_{t_1^{(j)}}^{(j)}}{t_2^{(j)} - t_1^{(j)}} \quad\quad \text{(Assumption 2)} \\
 &= \frac{\mathcal{X}(x_{t_2^{(i)}}^{(i)}, t_2^{(i)}, v^{(i, j)}) - \mathcal{X}(x_{t_1^{(i)}}^{(i)}, t_1^{(i)}, v^{(i, j)})}{\mathcal{T}(x_{t_2^{(i)}}^{(i)}, t_2^{(i)}, v^{(i, j)}) - \mathcal{T}(x_{t_1^{(i)}}^{(i)}, t_1^{(i)}, v^{(i, j)})} \quad\quad \text{(Assumption 1)}\\
 \end{align}
 $$
@@ -137,7 +135,7 @@ $$
 \begin{align}
 &= \frac{\Bigg(x_{t_2^{(i)}}^{(i)} - v^{(i, j)} t_2^{(i)} - (x_{t_1^{(i)}}^{(i)} - v^{(i, j)} t_1^{(i)})\Bigg)}{\Bigg(t_2^{(i)} - \frac{v^{(i, j)} x_{t_2^{(i)}}^{(i)}}{c^2} - (t_1^{(i)} - \frac{v^{(i, j)} x_{t_1^{(i)}}^{(i)}}{c^2})\Bigg)} \\
 &= \frac{\Bigg((x_{t_2^{(i)}}^{(i)} - x_{t_1^{(i)}}^{(i)}) - v^{(i, j)}(t_2^{(i)} - t_1^{(i)})\Bigg)}{\Bigg((t_2^{(i)} - t_1^{(i)}) - \frac{v^{(i, j)} (x_{t_2^{(i)}}^{(i)} - x_{t_1^{(i)}}^{(i)})}{c^2}\Bigg)} \\
-&= \frac{\Delta x_{t^{(i)}}^{(i)} - v^{(i, j)} \Delta t^{(i)}}{\Delta t^{(i)} - \frac{v^{(i, j)} \Delta x_{t^{(i)}}^{(i)}}{c^2}} \quad\quad \text{(Definition 2)} \\
+&= \frac{\Delta x_{t^{(i)}}^{(i)} - v^{(i, j)} \Delta t^{(i)}}{\Delta t^{(i)} - \frac{v^{(i, j)} \Delta x_{t^{(i)}}^{(i)}}{c^2}} \quad\quad \text{(Assumption 2)} \\
 &= \frac{(\frac{1}{\Delta t^{(i)}})(\Delta x_{t^{(i)}}^{(i)} - v^{(i, j)} \Delta t^{(i)})}{(\frac{1}{\Delta t^{(i)}})(\Delta t^{(i)} - \frac{v^{(i, j)} \Delta x_{t^{(i)}}^{(i)}}{c^2})} \\
 \end{align}
 $$
