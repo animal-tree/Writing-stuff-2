@@ -95,15 +95,13 @@ The body $\mathrm{B}$ travels uniformly.
 
 In other words, $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constant, or equivalently, $\frac{\partial^2 x_{t^{(i)}}^{(i)}}{\partial {t^{(i)}}^2} = 0$.
 
-For convenience, allow $t_1^{(i)} < t_2^{(i)}$, without loss of generality (any two index subscripts would work). 
+For convenience, allow $t_1^{(i)} < t_2^{(i)}$, without loss of generality. 
 
-<!--
-Note: This implicitly assumes that at least two of the body B's positions that happen chronologically in one reference frame can be translated across all other reference frames so as to happen in the same chronological order in all other reference frames. Without loss of generality, those two are indexed 1 and 2.
--->
+Note: This implicitly assumes that at least two of the body $\mathrm{B}$'s positions that happen chronologically in one reference frame can be translated across all other reference frames so as to happen in the same chronological order in all other reference frames. Without loss of generality, those two are indexed 1 and 2 (any two index subscripts would work).
 
 Since average velocity is equal to displacement over time, a necessary consequence of constant $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is:
 
-$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}$,
+$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}$.
 
 ## Theorems
 
