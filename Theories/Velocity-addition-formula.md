@@ -95,7 +95,7 @@ The body $\mathrm{B}$ travels uniformly.
 
 In other words, $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constant, or equivalently, $\frac{\partial^2 x_{t^{(i)}}^{(i)}}{\partial {t^{(i)}}^2} = 0$.
 
-For convenience, allow $t_2^{(i)} > t_1^{(i)}$. 
+For convenience, allow $t_2^{(i)} > t_1^{(i)}$, without loss of generality (any two index subscripts would work). 
 
 Denote $\Delta x_{t^{(i)}}^{(i)} \coloneqq x_{t_2^{(i)}}^{(i)} - x_{t_1^{(i)}}^{(i)}$ and $\Delta t^{(i)} \coloneqq t_2^{(i)} - t_1^{(i)}$ as spacetime displacements.
 
