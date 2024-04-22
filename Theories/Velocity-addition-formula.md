@@ -61,13 +61,13 @@ Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system th
 
 Any observer stationary in reference frame $K^{(i)}$ measures the corresponding time and space coordinates of body $\mathrm{B}$, as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
 
-$v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (including observers) stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
-
 Since multiple measurements may be taken, let $t_k^{(i)} \in \mathbb{R}$ represent each measured constant of the variable $t^{(i)}$, where $k \in \mathbb{N}$ represents the unique index across all reference frames for each taken measurement, as measured by an observer stationary in reference frame $K^{(i)}$. 
 
 <!--
 Generating a unique index is easy in computer science, without even knowing previous or concurrent indices. Just generate an arbitrarily long random hash. The longer, the more probabilistically secure you can be that the random hash is unique, up to arbitrarily negligible uncertainty.
 -->
+
+$v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (including observers) stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
 
 ### (2) Lorentz transformation.
 
