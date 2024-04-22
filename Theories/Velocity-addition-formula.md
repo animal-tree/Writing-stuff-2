@@ -95,7 +95,7 @@ The body $\mathrm{B}$ travels uniformly.
 
 In other words, $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constant, or equivalently, $\frac{\partial^2 x_{t^{(i)}}^{(i)}}{\partial {t^{(i)}}^2} = 0$.
 
-For convenience, allow $t_1^{(i)} < t_2^{(i)}$. 
+Allow $t_1^{(i)} < t_2^{(i)}$. 
 
 - Note: This implicitly assumes that *at least* two of the body $\mathrm{B}$'s positions that happen chronologically in one reference frame can be translated across all other (considered) reference frames so as to happen in the same chronological order in all other (considered) reference frames. 
 - Any two index subscripts would work, without loss of generality. $1$ and $2$ are chosen for convenience.
