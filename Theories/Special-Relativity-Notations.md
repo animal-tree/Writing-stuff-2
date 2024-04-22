@@ -28,6 +28,10 @@ Since multiple measurements may be taken, let $t_k^{(i)} \in \mathbb{R}$ represe
 
 Denote $\Delta x_{t^{(i)}}^{(i)} \coloneqq x_{t_2^{(i)}}^{(i)} - x_{t_1^{(i)}}^{(i)}$ and $\Delta t^{(i)} \coloneqq t_2^{(i)} - t_1^{(i)}$.
 
+<!--
+Generating a unique index is easy in computer science, without even knowing previous or concurrent indices. Just generate an arbitrarily long random hash. The longer, the more probabilistically secure you can be that the random hash is unique, up to arbitrarily negligible uncertainty.
+-->
+
 ### (3) Lorentz transformation.
 
 $\mathcal{X}(X, T, V) \coloneqq \frac{X - VT}{\sqrt{1 - \frac{V^2}{c^2}}}$.
