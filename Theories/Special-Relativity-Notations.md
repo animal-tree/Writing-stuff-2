@@ -27,13 +27,15 @@ $v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (including observers) st
 Since multiple measurements may be taken, let $t_k^{(i)} \in \mathbb{R}$ represent each measured constant of the variable $t^{(i)}$, where $k \in \mathbb{N}$ represents the unique index across all reference frames for each taken measurement, as measured by an observer stationary in reference frame $K^{(i)}$. For convenience, allow $t_2^{(i)} > t_1^{(i)}$. 
 
 <!--
-Note: This implicitly assumes that at least two of the body B's positions that happen chronologically in one reference frame can be translated across all other reference frames so as to happen in the same chronological order in all other reference frames. Without loss of generality, those two are indexed 1 and 2.
+Generating a unique index is easy in computer science, without even knowing previous or concurrent indices. Just generate an arbitrarily long random hash. The longer, the more probabilistically secure you can be that the random hash is unique, up to arbitrarily negligible uncertainty.
 -->
 
 Denote $\Delta x_{t^{(i)}}^{(i)} \coloneqq x_{t_2^{(i)}}^{(i)} - x_{t_1^{(i)}}^{(i)}$ and $\Delta t^{(i)} \coloneqq t_2^{(i)} - t_1^{(i)}$.
 
 <!--
-Generating a unique index is easy in computer science, without even knowing previous or concurrent indices. Just generate an arbitrarily long random hash. The longer, the more probabilistically secure you can be that the random hash is unique, up to arbitrarily negligible uncertainty.
+Note: This implicitly assumes that at least two of the body B's positions that happen chronologically in one reference frame can be translated across all other reference frames so as to happen in the same chronological order in all other reference frames. Without loss of generality, those two are indexed 1 and 2.
+
+Maybe move the chronological spacetime displacement to assumptions.
 -->
 
 ### (3) Lorentz transformation.
