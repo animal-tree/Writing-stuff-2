@@ -9,7 +9,7 @@ Evidenced intelligences demonstrated within a deeper order of physics not known 
 - Longish-term memory
 - Semantic reasoning 
 
-Some of my evidence described personally is available [here](https://github.com/animal-tree/Synchronicities/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md) and [here](https://github.com/animal-tree/Radical-ideas/blob/main/Conflict-in-the-Middle-East.md#the-battle-with-kanan). 
+Some of my evidence described personally is available [here](https://github.com/animal-tree/Synchronicities/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md) and [here](https://github.com/animal-tree/Radical-ideas/blob/main/Conflict-in-the-Middle-East.md). 
 
 Further synchronicities not described seem to, at least on the surface, include physical coincidences as well, perhaps independent from what is considered biological intelligence (e.g. cannot be explained as telepathy or precognition, sort of, though the interferences that I've witnessed can actually, though sometimes implausibly, be explained by telepathy and precognition and so can most paranormal synchronicities if one's consciousness can be latently accomplice in the timing; unless you believe in miracles like those described biblically, which I have not personally witnessed).
 
