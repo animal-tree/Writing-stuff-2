@@ -67,7 +67,7 @@ Since multiple measurements may be taken, let $t_k^{(i)} \in \mathbb{R}$ represe
 Generating a unique index is easy in computer science, without even knowing previous or concurrent indices. Just generate an arbitrarily long random hash. The longer, the more probabilistically secure you can be that the random hash is unique, up to arbitrarily negligible uncertainty.
 -->
 
-Denote $\Delta x_{t^{(i)}}^{(i)} \coloneqq x_{t_\ell^{(i)}}^{(i)} - x_{t_k^{(i)}}^{(i)}$ and $\Delta t^{(i)} \coloneqq t_\ell^{(i)} - t_k^{(i)}$ as spacetime displacements when $t_\ell^{(i)} > t_k^{(i)}$ for some $k \neq \ell \in \mathbb{N}$.
+Denote $\Delta x_{t^{(i)}}^{(i)} \coloneqq x_{t_\ell^{(i)}}^{(i)} - x_{t_k^{(i)}}^{(i)}$ and $\Delta t^{(i)} \coloneqq t_\ell^{(i)} - t_k^{(i)}$ as spacetime displacements when $t_k^{(i)} < t_\ell^{(i)}$ for some $k \neq \ell \in \mathbb{N}$.
 
 $v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (including observers) stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
 
@@ -97,7 +97,7 @@ The body $\mathrm{B}$ travels uniformly.
 
 In other words, $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constant, or equivalently, $\frac{\partial^2 x_{t^{(i)}}^{(i)}}{\partial {t^{(i)}}^2} = 0$.
 
-For convenience, allow $t_2^{(i)} > t_1^{(i)}$, without loss of generality (any two index subscripts would work). 
+For convenience, allow $t_1^{(i)} < t_2^{(i)}$, without loss of generality (any two index subscripts would work). 
 
 <!--
 Note: This implicitly assumes that at least two of the body B's positions that happen chronologically in one reference frame can be translated across all other reference frames so as to happen in the same chronological order in all other reference frames. Without loss of generality, those two are indexed 1 and 2.
