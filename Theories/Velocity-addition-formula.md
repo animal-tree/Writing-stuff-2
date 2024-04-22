@@ -89,7 +89,7 @@ $t^{(j)} = \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$.
 
 The Lorentz transformation describes a transformation of the body $\mathrm{B}$'s corresponding space and time coordinates across reference frames in physical spacetime.
 
-### (2) Uniform motion, and spacetime displacements.
+### (2) Uniform motion, and universally chronological pair.
 
 The body $\mathrm{B}$ travels uniformly.
 
@@ -97,15 +97,15 @@ In other words, $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constan
 
 For convenience, allow $t_2^{(i)} > t_1^{(i)}$, without loss of generality (any two index subscripts would work). 
 
-Denote $\Delta x_{t^{(i)}}^{(i)} \coloneqq x_{t_2^{(i)}}^{(i)} - x_{t_1^{(i)}}^{(i)}$ and $\Delta t^{(i)} \coloneqq t_2^{(i)} - t_1^{(i)}$ as spacetime displacements.
-
 <!--
 Note: This implicitly assumes that at least two of the body B's positions that happen chronologically in one reference frame can be translated across all other reference frames so as to happen in the same chronological order in all other reference frames. Without loss of generality, those two are indexed 1 and 2.
 -->
 
 Since average velocity is equal to displacement over time, a necessary consequence of constant $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is:
 
-$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}$.
+$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}},
+
+denoting $\Delta x_{t^{(i)}}^{(i)} \coloneqq x_{t_2^{(i)}}^{(i)} - x_{t_1^{(i)}}^{(i)}$ and $\Delta t^{(i)} \coloneqq t_2^{(i)} - t_1^{(i)}$.
 
 ## Theorems
 
