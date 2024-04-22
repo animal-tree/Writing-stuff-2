@@ -98,7 +98,7 @@ In other words, $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constan
 For convenience, allow $t_1^{(i)} < t_2^{(i)}$. 
 
 - Note: This implicitly assumes that *at least* two of the body $\mathrm{B}$'s positions that happen chronologically in one reference frame can be translated across all other (considered) reference frames so as to happen in the same chronological order in all other (considered) reference frames. 
-- Any two index subscripts would work, without loss of generality. 
+- Any two index subscripts would work, without loss of generality. $1$ and $2$ are chosen for convenience.
 
 Since average velocity is equal to displacement over time, a necessary consequence of constant $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is:
 
