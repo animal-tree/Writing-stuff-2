@@ -25,3 +25,4 @@
 ![IMG_2620](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/77452d54-c324-41ee-ad10-fc41bd04e23f)
 ![IMG_2622](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/c770c43a-3945-4ea9-8345-0a07414069df)
 ![IMG_2640](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/f22d2517-7ed9-4340-8acd-51629d8738b3)
+![IMG_2646](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/e74389e1-8b33-4474-bbb8-e3f3b65a886e)
