@@ -45,6 +45,8 @@ Might work by using a translated space where the $h \to 0$ means $h' \to 0$ beca
 >
 > Can derive this as a Corollary from the definition of reference frame velocities as being the same from all observers stationary on that reference frame, and noting that both of those terms are velocities refering from and to the same reference frames.
 
+But then $\hat{t}$ still poses a problem.
+
 ---
 
 Picking $t_2^{(j)}, t_1^{(j)}$ in a small enough range that the velocity in that range can be said to be "uniform" or constant, we have the following equivalence relationship:
