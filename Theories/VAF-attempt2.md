@@ -27,13 +27,13 @@ However, if $x_{0}^{(i)} = 0$, then the two infinitesimalities might be substitu
 $$
 \begin{align}
 \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} &= \lim\limits_{h \to 0} \frac{x_{t^{(j)} + h}^{(j)} - x_{t^{(j)}}^{(j)}}{h}\\
-&= \lim\limits_{h \to 0} \frac{\Bigg(\frac{x_{\hat{t}}^{(i)} - v^{(j, i)} \hat{t}}{\sqrt{1 - \frac{{v^{(j, i)}}^2}{c^2}}} - \frac{x_{t^{(i)}}^{(i)} - v^{(j, i)} t^{(i)}}{\sqrt{1 - \frac{{v^{(j, i)}}^2}{c^2}}}\Bigg)}{\frac{h - \frac{v^{(i,j)} x_{h}^{(i)}}{c^2}}{\sqrt{1 - \frac{{v^{(i,j)}}^2}{c^2}}}} \\
-&= \lim\limits_{h \to 0} \frac{x_{\hat{t}}^{(i)} - v^{(j, i)} \hat{t} - (x_{t^{(i)}}^{(i)} - v^{(j, i)} t^{(i)})}{h - \frac{v^{(i,j)} x_{h}^{(i)}}{c^2}} \\
+&= \lim\limits_{h \to 0} \frac{\Bigg(\frac{x_{\hat{t}}^{(i)} - v^{(j, i)} \hat{t}}{\sqrt{1 - \frac{{v^{(j, i)}}^2}{c^2}}} - \frac{x_{t^{(i)}}^{(i)} - v^{(j, i)} t^{(i)}}{\sqrt{1 - \frac{{v^{(j, i)}}^2}{c^2}}}\Bigg)}{\frac{h' - \frac{v^{(j,i)} x_{h'}^{(i)}}{c^2}}{\sqrt{1 - \frac{{v^{(j,i)}}^2}{c^2}}}} \\
+&= \lim\limits_{h \to 0} \frac{x_{\hat{t}}^{(i)} - v^{(j, i)} \hat{t} - (x_{t^{(i)}}^{(i)} - v^{(j, i)} t^{(i)})}{h' - \frac{v^{(j,i)} x_{h'}^{(i)}}{c^2}} \\
 \ldots
 \end{align}
 $$
 
-where $\hat{t} = \mathcal{T}(x_{t^{(i)} + h}^{(i)}, t^{(i)} + h, v^{(j,i)}) = \frac{t^{(i)} + h - \frac{x_{t^{(i)} + h}^{(i)} v^{(j,i)}}{c^2}}{\sqrt{1 - \frac{{v^{(j,i)}}^2}{c^2}}}$.
+where $\hat{t} = \mathcal{T}(x_{t^{(i)} + h'}^{(i)}, t^{(i)} + h', v^{(j,i)}) = \frac{t^{(i)} + h' - \frac{x_{t^{(i)} + h'}^{(i)} v^{(j,i)}}{c^2}}{\sqrt{1 - \frac{{v^{(j,i)}}^2}{c^2}}}$ is the transformation of $t^{(j)} + h$ (assuming commutativity) and $h'$ is the transformation of $h$.
 
 Might work by using a translated space where the $h \to 0$ means $h' \to 0$ because $x_{0}^{(j)} = 0$:
 
@@ -75,5 +75,4 @@ If there exists no small enough range of $t_2^{(j)}, t_1^{(j)}$ such that the ve
 ~If there exists a planck time unit however, then this can always hold since such a small enough range always exists, e.g. the time traversed one planck length.~
 
 A constant-velocity assumption or proof isn't needed if $x_{t^{(i)}}^{(i)}$ refers to an inertial reference frame, or a body stationary in an inertial reference frame, since such a reference frame or body has a constant-velocity by definition, and thus the partial derivative version of the velocity-addition formula can be derived with only the Lorentz transformation as assumption.
-
 
