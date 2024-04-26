@@ -33,7 +33,7 @@ $$
 \end{align}
 $$
 
-where $\hat{t} = \mathcal{T}(x_{t^{(i)} + h'}^{(i)}, t^{(i)} + h', v^{(j,i)}) = \frac{t^{(i)} + h' - \frac{x_{t^{(i)} + h'}^{(i)} v^{(j,i)}}{c^2}}{\sqrt{1 - \frac{{v^{(j,i)}}^2}{c^2}}}$ is the transformation of $t^{(j)} + h$ (assuming commutativity) and $h'$ is the transformation of $h$.
+where $\hat{t} = \mathcal{T}(x_{t^{(i)} + h'}^{(i)}, t^{(i)} + h', v^{(j,i)}) = \frac{t^{(i)} + h' - \frac{x_{t^{(i)} + h'}^{(i)} v^{(j,i)}}{c^2}}{\sqrt{1 - \frac{{v^{(j,i)}}^2}{c^2}}}$ is the transformation of $t^{(j)} + h$ (assuming commutativity) and $h'$ is the $K^{(i)}$ transformation of $h$.
 
 Might work by using a translated space where the $h \to 0$ means $h' \to 0$ because $x_{0}^{(j)} = 0$:
 
