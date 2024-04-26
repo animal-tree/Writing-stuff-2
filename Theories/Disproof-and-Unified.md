@@ -27,4 +27,4 @@
 ![IMG_2640](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/f22d2517-7ed9-4340-8acd-51629d8738b3)
 ![IMG_2650](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/89fe52db-ab0f-4473-9105-8cc52fef35b7)
 ![IMG_2651](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/3422d336-bcb8-49c8-9b60-56a62de12b33)
-![IMG_2652](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/96c75d8e-3c47-4115-820b-a0d1ace2959d)
+![IMG_2655](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/13d39714-eff4-4432-ab1c-32a6417ec5c7)
