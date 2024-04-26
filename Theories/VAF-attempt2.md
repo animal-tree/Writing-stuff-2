@@ -45,7 +45,7 @@ Might work by using a translated space where the $h \to 0$ means $h' \to 0$ beca
 >
 > Can derive this as a Corollary from the definition of reference frame velocities as being the same from all observers stationary on that reference frame, and noting that both of those terms are velocities refering from and to the same reference frames.
 
-But then $\hat{t}$ still poses a problem.
+But then $\hat{t}$ still poses a problem because the derivation reuires dividing the numerator and denominator by $\Delta t^{(i)} = h$, but $\hat{t} - t^{(i)}$ doesn't necessarily equal $h$.
 
 ---
 
