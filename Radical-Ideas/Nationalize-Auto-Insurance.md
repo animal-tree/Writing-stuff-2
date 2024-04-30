@@ -21,5 +21,22 @@ This should be nationalized. If the state thinks it's important, they should pay
 Auto insurance should be nationalized.
 
 - Update: I ended up getting a synchronistic phonecall and voicemail from the insurance rep from State Farm whose family member had died who'd originally offered me a good deal, despite not having contacted State Farm or informed them that I was looking for insurance, and not having gotten inquiry calls from them previously, the day after sending this document by email to my insurance rep at Allstate (who said she had no power over the rates). He offered me $452 with State Farm for 6 months (but I would've had to take a 6-hour course and have my location tracked through their Drive Save & Save app). Then I got a quote from Progressive entirely online without having to call anyone, conveniently, for $315, I paid with Apple Pay, they faxed my documents to Allstate, and I got confirmation with Allstate over the phone that they received the faxed documents and that my plan with them was cancelled, and I wouldn't be charged any additional payments, including the $748.77 that was scheduled for May 1st. The Progressive online portal was transparent about what tickets/accidents they were/weren't charging me for and how much was being charged and got the information accurate by default automatically, and even allowed me to add my insurance card digitally to Apple Wallet on my phone through their straightforward app. </br> </br>Ah, now I just got a voicemail from the rep at Allstate saying she made a mistake. I called back (it's near 5pm) and the guy who answered told me what she told me (that I shouldn't be charged on May 1st), but he couldn't tell me what the mistake was because that's all she told me too, so she'll call me back tomorrow to "rectify" the mistake. </br> </br>Most likely it's to inform me that the charging period, scheduled for May 1st, technically began from April 14th and that I would still be charged from then until the beginning of my new policy with Progressive on April 29th. Not understanding this refund policy, I'd selected April 29th beginning-date instead of April 25th (today) unfortunately.
+- My guess was correct and the rep said I wouldn't be charged more than about $40 for the 15 extra days. I did the math and it should've added up to about ~$60. When I checked the Allstate app on 04/30/24, I saw I was still being charged $748.77 and so I emailed the head of that Allstate agency. She replied:
+
+> Hi Sam,
+> You policy with Allstate has not been terminated, since progressive has not sent us the request.
+> To do this faster please email me your ID card from progressive and I will terminate your policy.
+>
+> Thank you
+
+- I replied:
+
+> Oh, apologies. Attached is a photo of the ID card.
+>
+> Also, to specify, I talked to two reps on three occasions, and not only did Progressive fax the policy, but Taylor confirmed that she received it and confirmed twice that my policy with Allstate was cancelled. She even left a voicemail and confirmed the second time that I would not be charged more than about $40.
+>
+> See attached photo of the ID card.
+
+- She hasn't replied yet.
 
 This has all been a lot of trouble for not even having a driveable car or job, and the bare minimum liability insurance. And mandatory, since I can't keep this car without a licence plate in my apartment complex, so I can't return the license plate to the DMV and cancel having insurance. And expensive. And mostly manual and redundant. For no benefit over a public nationalized auto-insurance program paid for by much smaller tax-dollars instead of insane flat-rate extortions. What if I got sick and missed the payments, or couldn't make the payments? Would they have charged me more? Would I have gone to jail? Just for owning a fully-paid-off car?
