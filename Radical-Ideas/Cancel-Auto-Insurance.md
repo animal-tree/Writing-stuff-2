@@ -37,6 +37,4 @@ Auto insurance should be nationalized.
 >
 > See attached photo of the ID card.
 
-- She hasn't replied yet.
-
 This has all been a lot of trouble for not even having a driveable car or job, and the bare minimum liability insurance. And mandatory, since I can't keep this car without a licence plate in my apartment complex, so I can't return the license plate to the DMV and cancel having insurance. And expensive, mostly manual, and redundant, full of bureaucratic landmines. For no benefit over a public nationalized auto-insurance program paid for by much smaller tax-dollars instead of insane flat-rate extortions. What if I got sick and missed the payments, or couldn't make the payments? Would they have charged me more? Would I have gone to jail? Just for owning a fully-paid-off car?
