@@ -27,5 +27,5 @@ Unit vector with a coefficient amplitude $A$, a rate of rotation $\frac{\partial
 
 - The amplitude $A$ corresponds to the frequency corresponds to the momentum corresponds to $\frac{\partial \theta_\omega}{\partial t}$.
 - A better way to visualize is a curve going into and out of space at varying orientations.
-  - I think they're just going up and down in a concealed dimension but oriented in variable "polarity" ways perpendicular to velocity.
+  - I think these "heads" are just going up and down in a concealed dimension but oriented in variable "polarity" ways perpendicular to velocity.
 - The wristwatch just visually literalizes the math of that.
