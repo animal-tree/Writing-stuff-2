@@ -28,4 +28,4 @@ Unit vector with a coefficient amplitude $A$, a rate of rotation $\frac{\partial
   - I think these "heads" are just going up and down in an independent concealed dimension and oriented in variable "polarity" ways perpendicular to velocity.
 - The wristwatch just visually literalizes the math of that.
   - It can also be described as a vibrating compass and/or $\theta_\omega$ can be replaced with a simple harmonic oscillator ($\frac{\partial^2 \omega}{\partial t^2}$ $\propto$ $-f \omega$, where $\omega$ denotes the probability-dimension magnitude).
-  - However, with these non-wristwatch descriptions the polarity-dimension magnitude (which takes into account orientation in physical space) is no longer intrinsically tied to $\omega$ the way it's expected to be in EM waves.
+- However, with these non-wristwatch descriptions the polarity-dimension magnitude (which takes into account orientation in physical space) is no longer intrinsically tied to $\omega$ the way it's expected to be in EM waves.
