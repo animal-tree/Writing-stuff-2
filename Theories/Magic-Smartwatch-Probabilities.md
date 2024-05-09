@@ -24,3 +24,5 @@ The polarity dimension is ignored and can be regarded like an imaginary dimensio
 If you like, wristwatch probabilities can be thought of as a more physical, real spinnor. Spinnors 2.0. Spinnors as physical objects in space that vote amongst each other through orientation and location dependent interference. No imaginary units. Actual orientations and phases perpendicular to velocity.
 
 Unit vector with a coefficient amplitude $A$, a rate of rotation $\frac{\partial \theta_\omega}{\partial t}$, a phase angle $\theta_\omega$ and a polarity angle $\theta_\mathrm{N}$ relative to a velocity vector $v$.
+
+(I think they're just going up and down in a concealed dimension but oriented in variable "polarity" ways perpendicular to velocity). 
