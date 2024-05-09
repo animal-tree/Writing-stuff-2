@@ -25,7 +25,7 @@ Unit vector with a coefficient amplitude $A$, a rate of rotation $\frac{\partial
 
 - The amplitude $A$ corresponds to the radius corresponds to the frequency corresponds to the momentum corresponds to $\frac{\partial \theta_\omega}{\partial t}$ ($t$ is time), in order to satisfy the common physics relations: $\lambda = \frac{h}{p} = \frac{v}{f}$, where $\lambda$ is wavelength, $h$ is [Planck's constant](https://en.wikipedia.org/wiki/Planck_constant) (any smaller units and you "walk the plank" of the universe's limits), and $p$ is momentum, which equals $mv$ for fermions, where $m$ is mass.
 - A better way to visualize is a curve going into and out of space at varying orientations.
-  - I think these "heads"[^1] are just going up and down in an independent concealed dimension and oriented in variable "polarity" ways perpendicular to velocity.
+  - I think these "heads" are just going up and down in an independent concealed dimension and oriented in variable "polarity" ways perpendicular to velocity.
 - The wristwatch just visually literalizes the math of that.
   - It can also be described as a vibrating compass and/or $\theta_\omega$ can be replaced with a simple harmonic oscillator ($\frac{\partial^2 \alpha}{\partial t^2}$ $\propto$ $-f \alpha$, where $\alpha$ denotes the probability-dimension magnitude).
 - However, with these non-wristwatch descriptions the polarity-dimension magnitude (the length of your thumb) is no longer intrinsically tied to $\alpha$ the way it's expected to be in EM waves (outward vs. inward facing direction of your thumb), by default.
