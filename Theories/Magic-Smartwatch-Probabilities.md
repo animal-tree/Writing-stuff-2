@@ -17,16 +17,14 @@ As the phase-hand turns at a given frequency, its magnitude in the probability d
 </a>
 </p>
 
-(In a more rigorous description, they will interfere differently depending on their relative orientation as well).
-
 The polarity dimension is ignored and can be regarded like an imaginary dimension for the purpose of computing probabilities. However, it will be used in a real, physical way in a moment to describe and unify the mechanisms of wave, spin, and polarization/or magnetism in particles and composite particles, as well as answer the mystery of Baryonic asymmetry.
 
-If you like, wristwatch probabilities can be thought of as a more physical, real spinnor. Spinnors 2.0. Spinnors as physical objects in space that vote amongst each other through orientation and location dependent interference. No imaginary units. Actual orientations and phases (which can be attributed angular momenta) perpendicular to velocity.
+If you like, wristwatch probabilities can be thought of as a more physical, real spinnor. Spinnors 2.0. Spinnors as physical objects in space that vote amongst each other through location dependent interference. No imaginary units. 
 
 Unit vector with a coefficient amplitude $A$, a rate of rotation $\frac{\partial \theta_\omega}{\partial t}$, a phase angle $\theta_\omega$ and a polarity angle $\theta_\mathrm{N}$ relative to a velocity vector $v$.
 
 - The amplitude $A$ corresponds to the frequency corresponds to the momentum corresponds to $\frac{\partial \theta_\omega}{\partial t}$.
 - A better way to visualize is a curve going into and out of space at varying orientations.
-  - I think these "heads" are just going up and down in a concealed dimension but oriented in variable "polarity" ways perpendicular to velocity.
+  - I think these "heads" are just going up and down in an independent concealed dimension and oriented in variable "polarity" ways perpendicular to velocity.
 - The wristwatch just visually literalizes the math of that.
   - It can also be described as a vibrating compass and/or $\theta_\omega$ can be replaced with a simple harmonic oscillator (phase acceleration = -frequency * phase).
