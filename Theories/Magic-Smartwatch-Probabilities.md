@@ -1,6 +1,6 @@
 # Magic Smartwatch Probabilities
 
-**Wristwatch probabilities** are like your wrist but able to turn in full 360° motions. Your thumb points in the "polarity". YYour arm is the velocity vector (unlike your arm, able to change size to represent the velocity magnitude).
+**Wristwatch probabilities** are like your wrist but able to turn in full 360° motions. Your thumb points in the "polarity". Your arm is the velocity vector (unlike your arm, able to change size to represent the velocity magnitude).
 
 The choice of wrist is arbritrary, but should be consistent.
 
