@@ -29,4 +29,4 @@ Unit vector with a coefficient amplitude $A$, a rate of rotation $\frac{\partial
 - The wristwatch just visually literalizes the math of that.
   - It can also be described as a vibrating compass and/or $\theta_\omega$ can be replaced with a simple harmonic oscillator ($\frac{\partial^2 \omega}{\partial t^2}$ $\propto$ $-f \omega$, where $\omega$ denotes the probability-dimension magnitude).[^1]
  
-[^1]: However, with this description the polarity-dimension magnitude (which takes into account orientation in physical space) is no longer intrinsically tied to $\omega$ the way it would be expected to be in EM waves.
+[^1]: However, with this description the polarity-dimension magnitude (which takes into account orientation in physical space) is no longer intrinsically tied to $\omega$ the same way it would be expected to be in EM waves.
