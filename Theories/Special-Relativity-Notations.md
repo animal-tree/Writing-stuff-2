@@ -76,7 +76,7 @@ $v^{(i, j)} = -v^{(j, i)}$.
 This is assumed generally as well as in Einstein's second postulate ("the principle of relativity").
 
 <!--
-**(3) Einstein's first postulate: The speed of light *in vacuo* across all reference frames is constant.**
+**(3) Einstein's second postulate: The speed of light *in vacuo* across all reference frames is constant.**
 
 $x_{t^{(i)}}^{(i)} = c t^{(i)}$
 
@@ -134,15 +134,15 @@ $$
 
 ## Disproofs
 
-### (1) Joint Einstein's first postulate and velocity-addition formula usefulness.
+### (1) Joint Einstein's second postulate and velocity-addition formula usefulness.
 
 **Disproof.**
 
-Einstein's first postulate, the constancy of the speed of light *in vacuo* across reference frames, states: $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$.
+Einstein's second postulate, the constancy of the speed of light *in vacuo* across reference frames, states: $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$.
 
 $$
 \begin{align}
-x_{t^{(i)}}^{(i)} = ct^{(i)} &\text{ and } x_{t^{(j)}}^{(j)} = ct^{(j)}  \quad\quad \text{(Einstein's first postulate)} \\
+x_{t^{(i)}}^{(i)} = ct^{(i)} &\text{ and } x_{t^{(j)}}^{(j)} = ct^{(j)}  \quad\quad \text{(Einstein's second postulate)} \\
 &\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} = c \\
 &\rightarrow c = \mathcal{V}(v^{(i, j)}, c),  \quad\quad \text{(Theorem 1)}
 \end{align}
@@ -150,17 +150,17 @@ $$
 
 rendering the velocity-addition formula useless. $\square$
 
-### (2) Joint Einstein's first postulate and below-light-speed usefulness.
+### (2) Joint Einstein's second postulate and below-light-speed usefulness.
 
 **Disproof.**
 
-In the theories of special and general relativity, Einstein's first postulate states: $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$.
+In the theories of special and general relativity, Einstein's second postulate states: $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$.
 
 Assume body $\mathrm{B}$ below light speed: $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} < c$. We obtain: 
 
 $$
 \begin{align}
-&x_{t^{(i)}}^{(i)} = ct^{(i)} \quad\quad \text{(Einstein's first postulate)} \\
+&x_{t^{(i)}}^{(i)} = ct^{(i)} \quad\quad \text{(Einstein's second postulate)} \\
 &\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = c\\ 
 &\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ < c,  \quad\quad \text{(Below-light-speed assumption)}
 \end{align}
