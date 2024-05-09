@@ -27,4 +27,4 @@ Unit vector with a coefficient amplitude $A$, a rate of rotation $\frac{\partial
 - A better way to visualize is a curve going into and out of space at varying orientations.
   - I think these "heads" are just going up and down in an independent concealed dimension and oriented in variable "polarity" ways perpendicular to velocity.
 - The wristwatch just visually literalizes the math of that.
-  - It can also be described as a vibrating compass and/or $\theta_\omega$ can be replaced with a simple harmonic oscillator ($\frac{\partial^2 \mathrm{P}}{\partial t^2}$ $\propto$ $-f \mathrm{P}$, where $\mathrm{P}$ is the probability-dimension magnitude).
+  - It can also be described as a vibrating compass and/or $\theta_\omega$ can be replaced with a simple harmonic oscillator ($\frac{\partial^2 \mathrm{P}}{\partial t^2}$ $\propto$ $-f \mathrm{P}$, where $\mathrm{P}$ is the probability-dimension magnitude). However, with this description the polarity-dimension magnitude (which takes into account orientation in physical space) is no longer intrinsically tied to $\mathrm{P}$.
