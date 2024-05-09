@@ -2,7 +2,7 @@
 
 **Wristwatch probabilities** are like your wrist but able to turn in full 360° motions. Your thumb points in the "polarity". Your arm is the velocity vector (unlike your arm, able to change size to represent the velocity magnitude).
 
-The choice of wrist is arbritrary, but should be consistent.
+The choice of left wrist or right wrist is arbritrary, but should be consistent.
 
 The phase-hand of the wristwatch on your wrist (like a minute-hand, but revolving in 360° circles at varying frequencies and with variable size representing a phase amplitude) has two dimensions: the probability dimension (from 9 o'clock to 3 o'clock) and the polarity dimension (from midnight to 6), like "x" and "y" dimensions relative to you.
 
