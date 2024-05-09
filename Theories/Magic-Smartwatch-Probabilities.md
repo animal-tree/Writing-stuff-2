@@ -23,7 +23,7 @@ If you like, wristwatch probabilities can be thought of as a more physical, real
 
 Unit vector with a coefficient amplitude $A$, a rate of rotation $\frac{\partial \theta_\omega}{\partial t}$, a phase angle $\theta_\omega$ and a polarity angle $\theta_\mathrm{N}$ relative to a velocity vector $v$.
 
-- The amplitude $A$ corresponds to the radius corresponds to the frequency corresponds to the momentum corresponds to $\frac{\partial \theta_\omega}{\partial t}$.
+- The amplitude $A$ corresponds to the radius corresponds to the frequency corresponds to the momentum corresponds to $\frac{\partial \theta_\omega}{\partial t}$, in order to satisfy $\gamma = \frac{h}{p} = \frac{v}{f}$.
 - A better way to visualize is a curve going into and out of space at varying orientations.
   - I think these "heads" are just going up and down in an independent concealed dimension and oriented in variable "polarity" ways perpendicular to velocity.
 - The wristwatch just visually literalizes the math of that.
