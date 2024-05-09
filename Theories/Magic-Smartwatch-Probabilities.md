@@ -23,8 +23,8 @@ If you like, wristwatch probabilities can be thought of as a more physical, real
 
 Unit vector with a coefficient amplitude $A$, a rate of rotation $\frac{\partial \theta_\omega}{\partial t}$, a phase angle $\theta_\omega$ and a polarity angle $\theta_\mathrm{N}$ relative to a velocity vector $v$.
 
-- The amplitude $A$ corresponds to the radius corresponds to the frequency corresponds to the momentum corresponds to $\frac{\partial \theta_\omega}{\partial t}$, in order to satisfy $\lambda = \frac{h}{p} = \frac{v}{f}$, where $\lambda$ is wavelength, $h$ is [Planck's constant](https://en.wikipedia.org/wiki/Planck_constant) (any smaller units and you "walk the plank" of the universe's limits), and $p$ is momentum, which equals $mv$ for fermions, where $m$ is mass.
+- The amplitude $A$ corresponds to the radius corresponds to the frequency corresponds to the momentum corresponds to $\frac{\partial \theta_\omega}{\partial t}$, in order to satisfy $\lambda = \frac{h}{p} = \frac{v}{f}$, where $\lambda$ is wavelength, $h$ is [Planck's constant](https://en.wikipedia.org/wiki/Planck_constant) (any smaller units and you "walk the plank" of the universe's limits), and $p$ is momentum, which equals $mv$ for fermions, where $m$ is mass. $t$ is time.
 - A better way to visualize is a curve going into and out of space at varying orientations.
   - I think these "heads" are just going up and down in an independent concealed dimension and oriented in variable "polarity" ways perpendicular to velocity.
 - The wristwatch just visually literalizes the math of that.
-  - It can also be described as a vibrating compass and/or $\theta_\omega$ can be replaced with a simple harmonic oscillator (phase acceleration $\propto$ -frequency * phase).
+  - It can also be described as a vibrating compass and/or $\theta_\omega$ can be replaced with a simple harmonic oscillator ($\frac{\partial^2 \theta_\omega}{\partial t^2} $\propto$ $-f * \theta_\omega$).
