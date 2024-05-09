@@ -21,6 +21,6 @@ As the phase-hand turns at a given frequency, its magnitude in the probability d
 
 The polarity dimension is ignored and can be regarded like an imaginary dimension for the purpose of computing probabilities. However, it will be used in a real, physical way in a moment to describe and unify the mechanisms of wave, spin, and polarization/or magnetism in particles and composite particles, as well as answer the mystery of Baryonic asymmetry.
 
-If you like, wristwatch probabilities can be thought of as a more physical, real spinnor. Spinnors 2.0. Spinnors as physical objects in space that vote amongst each other through orientation and location dependent interference. No imaginary units. Actual orientations and phases (which can combine within charges to form angular momenta and Larmor precession) perpendicular to velocity.
+If you like, wristwatch probabilities can be thought of as a more physical, real spinnor. Spinnors 2.0. Spinnors as physical objects in space that vote amongst each other through orientation and location dependent interference. No imaginary units. Actual orientations and phases perpendicular to velocity.
 
 Unit vector with a coefficient amplitude $A$, a rate of rotation $\frac{\partial \theta_\omega}{\partial t}$, a phase angle $\theta_\omega$ and a polarity angle $\theta_\mathrm{N}$ relative to a velocity vector $v$.
