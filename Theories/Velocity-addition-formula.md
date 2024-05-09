@@ -1,6 +1,6 @@
 # Practice and principle
 
-Einstein used his first postulate, the constancy of the speed of light *in vacuo* across reference frames, to derive the Lorentz transformation. This postulate states and necessitates the following:
+Einstein used his second postulate, the constancy of the speed of light *in vacuo* across reference frames, to derive the Lorentz transformation. This postulate states and necessitates the following:
 
 $x$ $=$ $ct$
 
@@ -12,15 +12,15 @@ $x' = ct'$
 
 $\rightarrow \frac{\partial x'}{\partial t'} = c$.
 
-However, for pretty much all bodies described by $x$ in experiment and application, *e.g.*, an electron, the body's velocity $\frac{\partial x}{\partial t}$ is measured or presumed below the speed of light *in vacuo* constant: $\frac{\partial x}{\partial t} < c$. These use cases cannot be valid at the same time as $x$ $=$ $ct$ is necessitated by Einstein's first postulate, since $x = ct \rightarrow \frac{\partial x}{\partial t} = c$.
+However, for pretty much all bodies described by $x$ in experiment and application, *e.g.*, an electron, the body's velocity $\frac{\partial x}{\partial t}$ is measured or presumed below the speed of light *in vacuo* constant: $\frac{\partial x}{\partial t} < c$. These use cases cannot be valid at the same time as $x$ $=$ $ct$ is necessitated by Einstein's second postulate, since $x = ct \rightarrow \frac{\partial x}{\partial t} = c$.
 
 The Fizeau experiment, for example, one of the main corroborations of the special theory of relativity, used the velocity-addition formula on a light beam's position through a tube of flowing water, describing the light beam's position in the respective reference frames of the tube and the contained flowing water medium, with $\frac{\partial x}{\partial t} \neq c$ measured, and $\frac{\partial x'}{\partial t'} \neq c$ assumed.
 
-Such applications of Einstein's theory can't be valid at the same time as Einstein's first postulate. The object in motion must be defined to travel at exactly the speed of light: $\frac{\partial x}{\partial t} = \frac{\partial x'}{\partial t'} = c$ by implication of Einstein's first postulate. Einstein's first postulate is necessary to his derivation of the Lorentz transformation, and the latter is necessary to the derivation of the velocity-addition formula.
+Such applications of Einstein's theory can't be valid at the same time as Einstein's second postulate. The object in motion must be defined to travel at exactly the speed of light: $\frac{\partial x}{\partial t} = \frac{\partial x'}{\partial t'} = c$ by implication of Einstein's second postulate. Einstein's second postulate is necessary to his derivation of the Lorentz transformation, and the latter is necessary to the derivation of the velocity-addition formula.
 
 ## Velocity-addition formula 
 
-In the first postulate, Einstein defined $x$ and $x'$ as spatial coordinates in two reference frames $K$ and $K'$ respectively such that the body whose position is represented by these spatial coordinates is always measured as traveling at speed $c$, independent to reference frame. Namely, he described a beam of light, *in vacuo*, emitting from the intersecting origins of the reference frames. The referent body of $x$ and $x'$ must have speed $c$ in both reference frames. Popularly, this principle is known as the "constancy of light", but mathematically it's known as $x$ $=$ $ct$ and $x' = ct'$. This principle's direct implication ($\frac{\partial x}{\partial t} = \frac{\partial x'}{\partial t'} = c$), together with the velocity-addition formula and its ubiquitous usage, will make this point for me, that there is a huge, ubiquitous misuse and misunderstanding between the theory in practice and principle.
+In the second postulate, Einstein defined $x$ and $x'$ as spatial coordinates in two reference frames $K$ and $K'$ respectively such that the body whose position is represented by these spatial coordinates is always measured as traveling at speed $c$, independent to reference frame. Namely, he described a beam of light, *in vacuo*, emitting from the intersecting origins of the reference frames. The referent body of $x$ and $x'$ must have speed $c$ in both reference frames. Popularly, this principle is known as the "constancy of light", but mathematically it's known as $x$ $=$ $ct$ and $x' = ct'$. This principle's direct implication ($\frac{\partial x}{\partial t} = \frac{\partial x'}{\partial t'} = c$), together with the velocity-addition formula and its ubiquitous usage, will make this point for me, that there is a huge, ubiquitous misuse and misunderstanding between the theory in practice and principle.
 
 ### Deriving the velocity-addition formula 
 
@@ -34,7 +34,7 @@ $\frac{\partial x'}{\partial t'} = \frac{\frac{\partial x - v \partial t}{\sqrt{
 
 ### Utility of the velocity-addition formula 
 
-This commonly used formula cannot in principle be usable in combination with Einstein's first postulate since the latter requires $\frac{\partial x}{\partial t}  = \frac{\partial x'}{\partial t'} = c$ always. Substituting as such the above gives us:
+This commonly used formula cannot in principle be usable in combination with Einstein's second postulate since the latter requires $\frac{\partial x}{\partial t}  = \frac{\partial x'}{\partial t'} = c$ always. Substituting as such the above gives us:
 
 $$
 \begin{align}
@@ -149,15 +149,15 @@ $$
 
 ## Disproofs
 
-### (1) Joint Einstein's first postulate and velocity-addition formula usefulness.
+### (1) Joint Einstein's second postulate and velocity-addition formula usefulness.
 
 **Disproof.**
 
-Einstein's first postulate, the constancy of the speed of light *in vacuo* across reference frames, states: $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$.
+Einstein's second postulate, the constancy of the speed of light *in vacuo* across reference frames, states: $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$.
 
 $$
 \begin{align}
-x_{t^{(i)}}^{(i)} = ct^{(i)} &\text{ and } x_{t^{(j)}}^{(j)} = ct^{(j)}  \quad\quad \text{(Einstein's first postulate)} \\
+x_{t^{(i)}}^{(i)} = ct^{(i)} &\text{ and } x_{t^{(j)}}^{(j)} = ct^{(j)}  \quad\quad \text{(Einstein's second postulate)} \\
 &\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} = c \\
 &\rightarrow c = \mathcal{V}(v^{(i, j)}, c),  \quad\quad \text{(Theorem 1)}
 \end{align}
@@ -165,17 +165,17 @@ $$
 
 rendering the velocity-addition formula useless. $\square$
 
-### (2) Joint Einstein's first postulate and below-light-speed usefulness.
+### (2) Joint Einstein's second postulate and below-light-speed usefulness.
 
 **Disproof.**
 
-In the theories of special and general relativity, Einstein's first postulate states: $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$.
+In the theories of special and general relativity, Einstein's second postulate states: $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$.
 
 Assume body $\mathrm{B}$ below light speed: $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} < c$. We obtain: 
 
 $$
 \begin{align}
-&x_{t^{(i)}}^{(i)} = ct^{(i)} \quad\quad \text{(Einstein's first postulate)} \\
+&x_{t^{(i)}}^{(i)} = ct^{(i)} \quad\quad \text{(Einstein's second postulate)} \\
 &\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = c\\ 
 &\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ < c,  \quad\quad \text{(Below-light-speed assumption)}
 \end{align}
@@ -185,5 +185,5 @@ rendering the theories of special and general relativity unusable in this scenar
 
 # Conclusion
 
-- Disproofs (1) and (2) mean that none of the experimental results of the velocity-addition formula (*e.g.* Fizeau experiment) can be attributed to Einstein's first postulate or used as evidence for Einstein's first postulate, and none of the experimental results of Einstein's theories of special and general relativity, that involve the body traveling at below light speed (*e.g.* any particles with mass), can be attributed to Einstein's first postulate, from which the theories are derived. 
+- Disproofs (1) and (2) mean that none of the experimental results of the velocity-addition formula (*e.g.* Fizeau experiment) can be attributed to Einstein's second postulate or used as evidence for Einstein's second postulate, and none of the experimental results of Einstein's theories of special and general relativity, that involve the body traveling at below light speed (*e.g.* any particles with mass), can be attributed to Einstein's second postulate, from which the theories are derived. 
 - It also raises the fundamental question, pertaining either to consciousness or intelligence, of how physicists didn't notice any of this ($x$ $=$ $ct$), despite the core of the disproofs following immediately from elementary-level math. The answer to that will perhaps become clear with time.
