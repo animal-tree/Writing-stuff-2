@@ -21,7 +21,7 @@ The polarity dimension (and angle) is ignored and can be regarded like an imagin
 
 If you like, wristwatch probabilities can be thought of as a more physical, real spinnor. Spinnors 2.0. Spinnors as physical objects in space that vote amongst each other through location dependent interference. No imaginary units. 
 
-Unit vector with a coefficient amplitude $A$, a rate of rotation $\frac{\partial \theta_\omega}{\partial t}$, a phase angle $\theta_\omega$ and a polarity angle $\theta_\mathrm{N}$ relative to a velocity vector $v$.
+Unit vector with a rate of rotation $\frac{\partial \theta_\omega}{\partial t}$, a phase angle $\theta_\omega$ and a polarity angle $\theta_\mathrm{N}$ relative to a velocity vector $v$.
 
 - The frequency corresponds to $\frac{\partial \theta_\omega}{\partial t}$ ($t$ is time), in order to satisfy the common physics relations: $\lambda = \frac{h}{p} = \frac{v}{f}$, where $\lambda$ is wavelength, $h$ is [Planck's constant](https://en.wikipedia.org/wiki/Planck_constant) (any smaller units and you "walk the plank" of the universe's limits), and $p$ is momentum, which equals $mv$ for fermions, where $m$ is mass.
 - A better way to visualize is a curve going into and out of space at varying orientations.
