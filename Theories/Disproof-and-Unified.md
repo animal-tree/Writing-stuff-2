@@ -41,5 +41,9 @@ Also: Phase-Unifying Doppler-Shifted Relativistic Jerk-Minimizing
 ![IMG_2683](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/94c0460e-30fe-4cfb-b647-595503b07969)
 ![IMG_2684](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/569a915b-132d-459d-8dd2-8ede73429a4c)
 ![IMG_2685](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/be80f46c-39be-494d-a287-1aec97a4eecf)
+![IMG_2686](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/e0f649fc-1e10-4b61-ae22-461ff04543eb)
+![IMG_2687](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/d5e39d94-b32e-4890-89db-9efeb7de7834)
+
+
 
 
