@@ -28,5 +28,5 @@ Unit vector with a rate of rotation $\frac{\partial \theta_\omega}{\partial t}$,
   - I think these "heads" are just going up and down in an independent concealed dimension and oriented in variable "polarity" ways perpendicular to velocity.
 - The wristwatch just visually literalizes the math of that.
   - Or can be described as a vibrating compass.
-  - Alternatively, the whole wristwatch ($\frac{\partial \theta_\omega}{\partial t}$, and $\theta_\omega$) can be replaced with a simple harmonic oscillator ($\frac{\partial^2 A}{\partial t^2}$ $\propto$ $-f A$, where $A$ denotes the probability and polarity amplitudes), A.K.A. just your thumb curling in and out periodically.
+  - Alternatively, the whole wristwatch ($\frac{\partial \theta_\omega}{\partial t}$, $\theta_\omega$) can be replaced with a simple harmonic oscillator ($\frac{\partial^2 A}{\partial t^2}$ $\propto$ $-f A$, where $A$ denotes the probability and polarity amplitudes), A.K.A. just your thumb curling in and out periodically.
 - "Heads" are what I call these physical spinnors, as in, "heads belonging to a wave packet."
