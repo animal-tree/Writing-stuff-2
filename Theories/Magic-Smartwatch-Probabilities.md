@@ -4,7 +4,7 @@
 
 The choice of left wrist or right wrist is arbitrary.
 
-The phase-hand of the wristwatch on your wrist (like a minute-hand, but revolving in 360° circles at variable frequencies) has two dimensions: the probability dimension (from 9 o'clock to 3 o'clock) and the polarity dimension (from midnight to 6), like "x" and "y" dimensions relative to you.
+The phase-hand of the wristwatch on your wrist (like a minute-hand, but revolving in 360° circles at varying/variable frequencies) has two dimensions: the probability dimension (from 9 o'clock to 3 o'clock) and the polarity dimension (from midnight to 6), like "x" and "y" dimensions relative to you.
 
 As the phase-hand turns at a given frequency, its magnitude in the probability dimension represents the sine wave-like nature of matter, and constructively and destructively interacts with other wristwatches that cross its location. For example, wrists (velocity vectors) intersect in space. One of them reads 1 o'clock, the other reads 7 o'clock. Together, they destructively interfere (via vector addition/averaging of their phase-hands) to create a probability of 0, even though individually they both represent a probability of $\frac{1}{3}$ (via the "probability", or relative-"x", dimension magnitude). 
 
