@@ -33,3 +33,10 @@
 Unified Theory of Quantized Memory-Persistent Sampled Multi-Headed Wave Packets
 
 Also: Phase-Unifying Doppler-Shifted Relativistic Jerk-Minimizing
+
+![IMG_2676](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/32ad4b1e-7bad-40b8-972d-d74db3644197)
+![IMG_2677](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/24e2db39-4b51-4c80-a0af-4694482645af)
+![IMG_2678](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/e18ccd51-e748-4199-9129-414aad11caad)
+
+
+
