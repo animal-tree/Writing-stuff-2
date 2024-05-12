@@ -1,3 +1,3 @@
 5g speeds with radio via neural modulation ("neural wireless fidelity"). 
 
-[towers and receivers learning model architecture description and diagram in my journal, among many other concrete AI blueprints]
+[towers and receivers learning model architecture details and diagram in my journal, among many other concrete AI blueprints]
