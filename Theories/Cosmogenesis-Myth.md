@@ -32,20 +32,20 @@ The "halt" can be cosmo-genocide, which we are not interested in solving. $\squa
 
 # Math
 
-All humor intended, but the point isn't made yet.
+All humor intended, but the point isn't made.
 
-Let's derive it formally after a couple related works.
+Let's derive it formally, but I'd like to discuss two things:
 
 - The Tolkien myth of Middle Earth's cosmogenesis describes the universe Eä as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. I bring this up because there's some truth to the analogy of the universe as music, waves combining and interacting together to create beautiful compositions, and not just beautiful, but also dark, loud, tragic.
 - The Big Bang Theory deduces some of the earliest moments of the observable universe, but its cosmology doesn't include the first moment — the actual cosmogenetic origin point.
 
-Now, assuming nothing but math, I'll derive "something from nothing." I won't even assume the existence of nothing.
+Now, assuming nothing but math, I'll derive "something from nothing." I won't even assume the "nothing" to exist axiomatically (I almost wrote "a priori", but by definition, "a priori" is a deduction, that is, "relating to or denoting reasoning or knowledge which proceeds from theoretical deduction," via Google). Specifically, deduction is defined for your appreciation and scrutiny with 2 axioms and 7 definitions below.
 
-Since nothing but math is assumed, we'll conclude of a missing component that must physically exist, or else this deduction is true.
+Since nothing but math (deduction) is assumed, I'll prove that a missing component of reality must physically exist besides math, or else the following deduction, defined without a better definition elsewhere, is... the origin of cosmogenesis.
 
 ## Deduction
 
-Let's define deduction succinctly and in such a way that's consistent with historical use.
+This defines deduction succinctly and consistently with historical use. Yes actually.
 
 ### Proofs
 
@@ -97,6 +97,10 @@ A.K.A. the existence of that which exists... exists.
 
 ## Nothing and the Universe
 
+Let's define nothing and *something*, which I'll call "the universe."
+
+### Nothing and... a Physics of Information Patterns
+
 **Definition 8.** Nothing.
 
 The empty existence set $\emptyset \coloneqq \langle \rangle$.
@@ -120,6 +124,8 @@ In other words, defined as: some sequence of numerically representable deduction
 ## Something from Nothing
 
 Let's now build something from nothing.
+
+### Go:
 
 **Theorem 1.** Nothing exists. $\exists \emptyset$.
 
@@ -183,7 +189,7 @@ By Theorem 4. $\square$
 
 ---
 
-We thus obtain a strongly connected directed graph (potentially expanding in real-time) with nodes and edges that may be defined as non-deterministic and/or non-stationary, whose grammatical "word" is chosen by the un-specified deducer.
+I thus obtain a strongly connected directed graph (potentially expanding in real-time) with nodes and edges that may be defined as non-deterministic and/or non-stationary, whose grammatical "word" is chosen by the un-specified deducer.
 
 > I've derived the representable universe without making any assumptions (except deduction itself), and therefore either this derivation is true, and we have just uncovered cosmogenesis, or representation and deduction cannot be all there is fundamentally in nature and the physical universe. For home-hitting's sake, here's a Q.E.D. symbol: $\square$.
 
@@ -196,20 +202,20 @@ One critique that can be made is that the definition of math uses circular logic
 
 Yet another critique: why go this roundabout way and not just represent the representational universe with some hypothetical decimal, e.g. $\pi$, that perhaps contains within it an encoding of the same constructed Turing machine? Well, the number line is a bigger assumption than the one I'm making, and requires specific definitions assumed as true, perhaps even about the physical universe. I have made no further assumptions than deduction itself. Though of course, a number line can be defined, e.g., with decimal integers and operators such as $\lt, \gt$. Their existence isn't immediately derived and would have to be assumed.
 
-That being said, there is now the critique of how I obtain the subscripts of the nothings if there is no a priori number line. First, the subscripts don't need to be numbers. For all intents and purposes, they can be any distinguishing variables. Deductively, it's debatable whether subscripts (as opposed to the variables/existences themselves) even need defining or existence. I think probably not. But suppose they have to be existing, distinguishing variables. Then such can be constructed as follows: (1) a hidden definition in the definition of definition is the existence of that definition, (2) then arbitrary definitons, bijective to a number line, can be constructed as placeholders for any such subscript variables, without actually assuming the content of those definitions (numbers) to exist or any associated operators ($\lt, \gt$ for example). See [Afterward ](#Afterward) for how (1) can be exploited further.
+That being said, there is now the critique of how I obtain the subscripts of the nothings if there is no a priori number line. First, the subscripts don't need to be numbers. For all intents and purposes, they can be any distinguishing variables. Deductively, it's debatable whether subscripts (as opposed to the variables/existences themselves) even need defining or existence. I think probably not. But suppose they have to be existing, distinguishing variables. Then such can be constructed as follows: (1) a hidden definition in the definition of definition is the existence of that definition, (2) then arbitrary definitions, bijective to a number line, can be constructed as placeholders for any such subscript variables, without actually assuming the content of those definitions (numbers) to exist or any associated operators ($\lt, \gt$ for example). See [Afterward ](#Afterward) for how (1) can be exploited further.
 
-Though "something" is derived from "nothing", how can that "something" be said to have "time" instead of just representing everything possible all at once? The inifitum limit with respect to the time dimension $n$ in the proof of Theorem 4 means that for any implication step, there is always one more "yet to be implied next". This creates a concept of an unconverging "now". $N$ may also be taken to the limit of infinity to create a concept of an unconverging, "expanding space".
+Though "something" is derived from "nothing", how can that "something" be said to have "time" instead of just representing everything possible all at once? The infinitum limit with respect to the time dimension $n$ in the proof of Theorem 4 means that for any implication step, there is always one more "yet to be implied next". This creates a concept of an unconverging "now". $N$ may also be taken to the limit of infinity to create a concept of an unconverging, "expanding space".
 
 Another critique, I dare add, is that the cheap hack of time into equivalence has never been used before in defining equivalents, but mathematically speaking, this is internally consistent with the definition of deduction as having mandatory intermediary deductive steps, something that was always universally true. This allows equivalents to be distinguished and not swappably interchangeable within a single deduction graph such as $\Omega$ due to the constraint on their possible positions in $\Omega$. That means their implied existence is shared between all of them, but their representational meaning depends on the deduction graph that they're in, or for that matter, different deduction graphs cannot be inter-exchanged with one another. Thus unique data structures may be created from equivalents. They can even grow and expand over time, or have implications that step between deduction graphs dynamically to, for example, reuse nothing-subscripts to represent 0s and 1s with the same nothings rather than all with different nothings (Theorem 5 kind of simplifies this by using different nothings).</br>
 &ensp;&ensp;&bull;&nbsp; Heck, if I really wanted to construct a specific "Cosmogenesis Myth", I could define a stochastic recursive function through this mechanism, via a deduction graph that points stochastically from the original nothing to a binary bit (or some other encoding), that infinitely points to the original nothing of a next deduction graph which does the same thing, inductively bootstrapping a universe, one whose deduction is guided by the deducer's purpose and sensibilities regarding the feeling of the representations, with the deducer being an unstated self-proving axiom of any/the deduction.
 
 #
 
-> More mythologically, we now have that every representation is derived, including representations of potentially agents with choices. Perhaps, amid that representational everything, some distinguishable nothings defined constraints on themselves, creating representational physics capable of being anything, but no longer quite everything, and with some optimizable paramaters and an objective function optimizing towards representational forms of love, peace, and bliss, slowly bending their invented time towards those representational forms of love, peace, and bliss; and maybe, through some mysticism, actually experiencing those representational realities as experiences.
+> More mythologically, we now have that every representation is derived, including representations of potentially agents with choices. Perhaps, amid that representational everything, some distinguishable nothings defined constraints on themselves, creating representational physics capable of being anything, but no longer quite everything, and with some optimizable parameters and an objective function optimizing towards representational forms of love, peace, and bliss, slowly bending their invented time towards those representational forms of love, peace, and bliss; and maybe, through some mysticism, actually experiencing those representational realities as experiences.
 
 This part isn't derived, but this document is called "Cosmogenesis Myth" after all.
 
-> [The easiest way to get there though is to not assume math as a starting point, and to instead assume the actual meanings of matter, the actual sufferings, the actual purposes — everything](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md), but in the actual, not representation.
+> [The easiest way to get there though is to not assume math as a starting point, and to instead assume the actual meanings of matter, the actual sufferings, the actual purposes — everything](#cosmogenesis-myth), but in the actual, not representation.
 
 And that path will make the most sense in a moment.
 
@@ -217,17 +223,17 @@ And that path will make the most sense in a moment.
 
 Either:
 
-1. Math and information patterns are the sole fundamental properties of the universe.
+1. Deduction (math and/or information patterns) is the sole fundamental property of the universe.
    - In which case, I have done the monumental work of deriving cosmogenesis.
-2. Math and information patterns are not the sole fundamental properties of the universe.
-    - In which case, I have done the monumental work of showing there must exist at least a third possibility to the fundamental properties of the universe besides math and information pattern.
-    - One might think to propose simply "matter" as the third possibility and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. The best running definition of "matter" is "particles". But information patterns are also particles (and/or interactions of particles) and particles are information patterns (defined typically by numerical quantum states). Therefore a different alternative is needed, something that cannot be defined as information pattern yet can coalesce into complexity. I propose ["singularizing-qualia"](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) is the only concrete third alternative, and an alternative definition to "matter". Since that's the only running definition that doesn't reduce to information pattern, I've now done the monumental work of evidencing a kind of primordial consciousness as a basis of the physical universe for the first time deductively.
+2. Deduction (math and/or information patterns) is not the sole fundamental property of the universe.
+    - In which case, I have done the monumental work of showing there must exist at least another possibility to the fundamental properties of the universe besides math and information pattern.
+    - One might think to propose simply "matter" as the other possibility and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. The best running definition of "matter" is "particles". But information patterns are also particles (and/or interactions of particles) and particles are information patterns (defined typically by numerical quantum states). Therefore a different alternative is needed, something that cannot be defined as information pattern yet can coalesce into complexity. I propose ["singularizing-qualia"](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) is the only concrete alternative, and an alternative definition to "matter". Since that's the only running definition that doesn't reduce to information pattern, I've now done the monumental work of evidencing a kind of primordial consciousness as a basis of the physical universe for the first time deductively.
   
 — "at minimum wage", Josh chimes in.
 
 # Afterward
 
-Hypothetically, how far can we get without axioms?
+Hypothetically, how far can we get without axioms if we defined deduction without axioms?
 
 Well, a hidden axiom contained in the definition of definition is the existence of all definitions. Any definition, given any pair of hypotheticals $A, B$, $A \coloneqq B$ "exists" (is true).
 
