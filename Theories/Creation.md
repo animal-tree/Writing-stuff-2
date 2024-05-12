@@ -22,7 +22,7 @@ Meanwhile, physics just plainly assumes elementary particles and fundamental for
 
 Is God limited? In 3D, yes, but the arc of time can bend towards anything. The universe is 4D and so, no, taking time into account, God's unlimited. "Heat death" is bologna because cyclicalities, expansion, and sufficiently separated regions can always prevent total entropic collapse, or something.
 
-So you can throw a ball in the air and call Him weak if it it doesn't leave the exosphere, but given enough time, He could probably get that ball or an identical one onto a rocket ship and propel it wherever.
+So you can throw a ball in the air and call the universe weak if it it doesn't leave the exosphere, but given enough time, the universe could probably get that ball or an identical one onto a rocket ship and propel it wherever.
 
 Why not have infinite computation power AND time? Well, maybe at that initial state of everything there were competing forces, since everything includes everything. Maybe not all of everything wanted this anything, and there were different ideas what's good and what's bad. So maybe, whatever the flux converged to was the first chance it had to be anything other than the extreme misery it was in as everything, and it took that chance and became this anything, somewhat randomly, because this anything was "good enough".
 
