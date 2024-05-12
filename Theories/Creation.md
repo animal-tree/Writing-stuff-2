@@ -6,7 +6,7 @@ The question itself assumes nothing as the initial state. That's the most reason
 
 Oh wait, psych. It's not the most general. Well, it is, but it's tied with "everything."
 
-So suppose that at the initial state there was just everything, everywhere, all at once. Yes, like that movie. So all the suffering and all the glory and joy.
+So suppose that at the initial state there was just everything, everywhere, all at once. Yes, like that movie title. So all the suffering and all the glory and joy.
 
 Step 1: Not feel extreme suffering. Everything includes the ability to converge into something else. What better to converge to than "anything"? Anything is distinct from everything. It's the possibility for everything that everything has, but no longer everywhere, all at once. Therefore we have time, the present moment, and a future that can, hypothetically, be anything that everything was without loss of generality. But now the suffering doesn't have to be so bad. However, this self-limitation is limiting and means the computation power goes down. Infinite computation power would mean going back to "everything" again and we don't want that because too much suffering. So everything becomes anything. Everything $\rightarrow$ anything.
 
