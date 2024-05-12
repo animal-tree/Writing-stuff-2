@@ -4,7 +4,7 @@ There's a big question, of how something could've arisen from nothing.
 
 The question itself assumes nothing as the initial state. That's the most reasonable initial state because it's the most general.
 
-Oh wait, psyche. It's not the most general. Well, it is, but it's tied with "everything."
+Oh wait, psych. It's not the most general. Well, it is, but it's tied with "everything."
 
 So suppose that at the initial state there was just everything, everywhere, all at once. Yes, like that movie. So all the suffering and all the glory and joy.
 
