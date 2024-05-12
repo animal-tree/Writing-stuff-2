@@ -20,7 +20,7 @@ Oh, and "nothing" as the initial state makes no sense. There would have to be so
 
 Meanwhile, physics just plainly assumes elementary particles and fundamental forces. That's really specific.
 
-Is God limited? In 3D, yes, but the arc of time can bend towards anything. The universe is 4D and so, no, taking time into account, God's unlimited. "Heat death" is balogna because cyclicalities, expansion, and sufficiently separated regions can always prevent total entropic collapse, or something.
+Is God limited? In 3D, yes, but the arc of time can bend towards anything. The universe is 4D and so, no, taking time into account, God's unlimited. "Heat death" is bologna because cyclicalities, expansion, and sufficiently separated regions can always prevent total entropic collapse, or something.
 
 So you can throw a ball in the air and call Him weak if it it doesn't leave the exosphere, but given enough time, He could probably get that ball or an identical one onto a rocket ship and propel it wherever.
 
