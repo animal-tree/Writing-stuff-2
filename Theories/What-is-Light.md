@@ -32,7 +32,7 @@ Therefore, there is a bump.
 <img width="150" src="https://github.com/animal-tree/Writing-stuff-2/assets/142250284/b6b0e528-32e4-4014-b999-4a783aafc3a8">
 </p>
 
-Light has momentum (intrinsically and independent of electric-magnetic effect. Light cannot equal electromagnetism and this is a proof.).
+Light has momentum (intrinsically and independent of electric-magnetic effect. Light cannot equal electromagnetism and if the polarizations of electromagnetic waves cancel out in unpolarized visible light, then this is a proof.).
 
 What I wrote earlier [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Disproof-and-Unified.md) (ignore the irrelevant lower third):
 
