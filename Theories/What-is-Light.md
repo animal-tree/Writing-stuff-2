@@ -8,7 +8,7 @@ If light has no momentum bump,
 
 then how do our eyes see unpolarized light? Shouldn't the momentums cancel out? Of course. The unpolarized waves destroy each other, as each polarization acts in destructive interference with each other.
 
-At the very least, it means the probability distribution (the wave function) of the light wave is independent from the polarization direction/orientation, or else visible light — which is unpolarized usually (e.g. sunlight, fire) — wouldn't be visible. The probabilities due to the interference of polarizations would cancel out (unless the probabilities conveniently normalized to a uniform distribution every time, though that should disrupt the [Fresnel diffraction](https://youtu.be/y9c8oZ49pFc?si=kSTkCh56g60vPAKk)).
+At the very least, it means the probability distribution (the wave function) of the light wave is independent from the polarization direction/orientation, or else visible light — which is unpolarized usually (e.g. sunlight, fire) — wouldn't be visible. The probabilities due to the interference of polarizations would cancel out (unless the probabilities conveniently normalized to a uniform distribution every time, though that should disrupt the [Fresnel diffraction](https://youtu.be/y9c8oZ49pFc?si=kSTkCh56g60vPAKk))[^1].
 
 And yet, even if they materialize via the wave function independent from polarization's (or the lack of it's) interference effects, how is it their electromagnetic effects compound to "push" electrons enough for our eyes to see? What other way do we have of seeing photons? This electromagnetic effect is the only attributed source of momentum, [usually](https://youtu.be/bvzr2HbbPC8?si=wyctUUwiOc5dQgfX)[^1] and standardly. 
 
@@ -48,4 +48,4 @@ What I wrote earlier [here](https://github.com/animal-tree/Writing-stuff-2/blob/
 - An alternative critique is that those fields don't interfere with each other and two superimposed photons with opposite polarizations somehow independently affect the electron, but then there's the question of "in which order do they impart their two independent effects?" Given that those electric and magnetic vibrations are conflicting, by Newton's 2nd law, the forces cancel out if they happen concurrently (and if they don't, then the question of the universe's sequential order for every single compounding interaction happening not in parallel has to be answered and why we don't notice artifacts from those time delays, since the electron would have to do a full vibration before moving on to listening to the next photon in the sequence).
 - Perhaps instead the force is some probabilistic average (expected value) of possibilities relying on the wave function, but then that average (expected value) is zero.
 
-[^1]: That channel is amazing by the way.
+[^1]: Those channels are amazing by the way.
