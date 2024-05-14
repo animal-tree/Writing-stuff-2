@@ -10,7 +10,7 @@ At the very least, it means the probability distribution (the wave function) of 
 
 And yet, even if they materialize via the wave function independent from polarization's (or the lack of it's) interference effects, how is it their electromagnetic effects compound to "push" electrons enough for our eyes to see? What other way do we have of seeing photons? This electromagnetic effect is the only attributed source of momentum, usually and standardly. 
 
-But that can't be since unpolarized electromagnetic effects are usually thought to cancel out, and experiment — the reception of EM waves by antennas — supports this — those waves interfere when destructively aligned, or at least their phases do, and the conflicting accelerations induced on electrons must similarly interfere, via Newton's third law and additive force destruction.
+But that can't be since unpolarized electromagnetic effects are usually thought to cancel out, and experiment — the reception of EM waves by antennas — supports this — those waves interfere when destructively aligned, or at least their phases do, and the conflicting accelerations induced on electrons must similarly interfere, via Newton's 2nd law and additive force destruction.
 
 Then unpolarized light might reasonably have some other source of momentum for our eyes to see. Perhaos intrinsic momentum
 
