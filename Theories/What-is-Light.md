@@ -24,7 +24,7 @@ But Newton's 3rd law is violated by photons when it comes to their interaction w
 
 So perhaps Newton's 2nd law (involving sums of forces) is also violated, but this is strange since that would imply that an electron can accelerate in two conflicting directions at once as light's polarization of two conflicting photons ($\gamma$'s) pushes it this way or that.
 
-This multi-branched non-summation sounds like quantum mechanics, where two locations and directions of acceleration are allowed, at least probabilistically via the wave function. But then this branching would literally have to happen in our eyes for our eyes to see, and traditionally that is considered a "measurement." "Quantum effects don't usually survive in wet environemnts" as it's often said about the feasibility of quantum effects in the brain. More generally, "the wave function collapses under observation." All evidence using detectors in multi-slit diffraction experiments supports this. So the eyes would not be able to see.
+This multi-branched non-summation sounds like quantum mechanics, where two locations and directions of acceleration are allowed, at least probabilistically via the wave function. But then this branching would literally have to happen in our eyes for our eyes to see, and traditionally that is considered a "measurement." "Quantum effects don't usually survive in wet environments" as it's often said about the feasibility of quantum effects in the brain. More generally, "the wave function collapses under observation." All evidence using detectors in multi-slit diffraction experiments supports this. So the eyes would not be able to see.
 
 Therefore, there is a bump.
 
