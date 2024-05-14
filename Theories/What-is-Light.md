@@ -6,7 +6,7 @@ If light has no momentum bump,
 
 then how do our eyes see unpolarized light? Shouldn't the momentums cancel out? Of course. The unpolarized waves destroy each other, as each polarization acts in destructive interference with each other.
 
-At the very least, it means the probability distribution (the wave function) of the light wave is independent from the polarization direction/orientation, or else visible light — which is unpolarized usually (e.g. sunlight, fire) — wouldn't be visible. The probabilities due to the interference of polarizations would cancel out (unless the probabilities conveniently normalize to a uniform distribution every time, though that should disrupt the Fresnel diffraction).
+At the very least, it means the probability distribution (the wave function) of the light wave is independent from the polarization direction/orientation, or else visible light — which is unpolarized usually (e.g. sunlight, fire) — wouldn't be visible. The probabilities due to the interference of polarizations would cancel out (unless the probabilities conveniently normalize to a uniform distribution every time, though that should disrupt the [Fresnel diffraction](https://youtu.be/y9c8oZ49pFc?si=kSTkCh56g60vPAKk)).
 
 And yet, even if they materialize via the wave function independent from polarization's (or the lack of it's) interference effects, how is it their electromagnetic effects compound to "push" electrons enough for our eyes to see? What other way do we have of seeing photons? This electromagnetic effect is the only attributed source of momentum, usually and standardly. 
 
