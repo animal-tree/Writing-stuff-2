@@ -6,7 +6,7 @@ If light has no momentum bump,
 
 then how do our eyes see unpolarized light? Shouldn't the momentums cancel out? Of course. The unpolarized waves destroy each other, as each polarization acts in destructive interference with each other.
 
-At the very least, it means the probability distribution (the wave function) of the light wave is independent from the polarization direction/orientation, or else visible light — which is unpolarized usually (e.g. sunlight, fire) — wouldn't be visible. The probabilities due to the interference of polarizations would cancel out.
+At the very least, it means the probability distribution (the wave function) of the light wave is independent from the polarization direction/orientation, or else visible light — which is unpolarized usually (e.g. sunlight, fire) — wouldn't be visible. The probabilities due to the interference of polarizations would cancel out (unless the probabilities conveniently normalize to a uniform distribution every time).
 
 And yet, even if they materialize via the wave function independent from polarization's (or the lack of it's) interference effects, how is it their electromagnetic effects compound to "push" electrons enough for our eyes to see? What other way do we have of seeing photons? This electromagnetic effect is the only attributed source of momentum, usually and standardly. 
 
@@ -32,7 +32,7 @@ Therefore, there is a bump.
 <img width="150" src="https://github.com/animal-tree/Writing-stuff-2/assets/142250284/b6b0e528-32e4-4014-b999-4a783aafc3a8">
 </p>
 
-Light has momentum (intrinsically and independent of electric-magnetic effect. Light cannot equal electromagnetism and if the polarizations of electromagnetic waves cancel out in unpolarized visible light, then this is a proof, of both that light $\neq$ EM and that light has a different source of momentum.).
+Light has momentum (intrinsically and independent of electric-magnetic effect. If the polarizations of electromagnetic waves cancel out in unpolarized visible light, then this is a proof, of both that light $\neq$ EM and that light has a different source of momentum.).
 
 What I wrote earlier [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Disproof-and-Unified.md) (ignore the irrelevant lower fourth):
 
