@@ -14,7 +14,7 @@ And yet, even if they materialize via the wave function independent from polariz
 
 But that can't be, since unpolarized electromagnetic effects are usually thought to cancel out, and experiment — the reception of EM waves by antennas — supports this: those waves interfere when destructively aligned, or at least their phases do, and the conflicting accelerations induced on electrons must similarly interfere, via Newton's 2nd law and additive force destruction.
 
-Then unpolarized light might reasonably have some other source of momentum for our eyes to see. Perhaos intrinsic momentum
+Then unpolarized light might reasonably have some other source of momentum for our eyes to see. Perhaps intrinsic momentum
 
 <p align="center">
 <img width="150" src="https://github.com/animal-tree/Writing-stuff-2/assets/142250284/b6b0e528-32e4-4014-b999-4a783aafc3a8">
