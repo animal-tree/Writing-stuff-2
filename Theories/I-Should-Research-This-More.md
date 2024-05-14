@@ -191,3 +191,5 @@ Less massive bodies are more drawn towards the Sun due to a net higher centripet
 # Resolution
 
 It doesn't.
+
+Gravitational acceleration is the same for small masses as large masses. Even without the Earth, a human with the same inertial velocity and distance from the sun would still maintain the same orbit as the Earth due to the same gravitational (centripetal) acceleration and inertial (tangential) velocity. Inertial (tangential) velocity is fixed once the human is at the Earth's speed. It's only during an acceleration, e.g. an angular acceleration (distinct from centripetal) or linear (tangential) acceleration, that weight is affected (or, if miraculously the sun got lighter or heavier, then centripetal... [jerk](https://en.wikipedia.org/wiki/Jerk_(physics)) I guess it would be called). Orbital stability doesn't depend on mass.
