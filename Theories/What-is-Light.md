@@ -20,7 +20,7 @@ Then unpolarized light might reasonably have some other source of momentum for o
 
 not dependent on electric-magnetic effects.
 
-But Newton's 3rd law is violated by photons when it comes to their interaction with gravity. Gravty causes photons to "react" via centripetal acceleration towards masses, but the equal and opposite reaction isn't present, meaning $\frac{\partial F_\gamma}{\partial t}$ $\neq$ $-\frac{\partial F_{e^{-}}}{\partial t}$, where $F_\gamma$ is the (e.g. gravitational) force on the photon $\gamma$ by the electron $e^{-}$, and $F_{e^{-}}$ is the force on the electron $e^{-}$ by the photon $\gamma$.
+But Newton's 3rd law is violated by photons when it comes to their interaction with gravity. Gravity causes photons to "react" via centripetal acceleration towards masses, but the equal and opposite reaction isn't present, meaning $\frac{\partial F_\gamma}{\partial t}$ $\neq$ $-\frac{\partial F_{e^{-}}}{\partial t}$, where $F_\gamma$ is the (e.g. gravitational) force on the photon $\gamma$ by the electron $e^{-}$, and $F_{e^{-}}$ is the force on the electron $e^{-}$ by the photon $\gamma$.
 
 So perhaps Newton's 2nd law (involving sums of forces) is also violated, but this is strange since that would imply that an electron can accelerate in two conflicting directions at once as light's polarization of two conflicting photons ($\gamma$'s) pushes it this way or that.
 
