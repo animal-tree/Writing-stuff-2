@@ -34,7 +34,7 @@ Therefore, there is a bump.
 
 Light has momentum (intrinsically and independent of electric-magnetic effect. Light cannot equal electromagnetism and this is a proof.).
 
-What I wrote earlier [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Disproof-and-Unified.md) (ignore the irrelevant parts):
+What I wrote earlier [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Disproof-and-Unified.md) (ignore the irrelevant lower third):
 
 <p align="center">
 <img width="300" src="https://private-user-images.githubusercontent.com/142250284/325454854-2fde3853-0e39-4b6e-ac76-bc691cd189b6.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU2NTMzMDUsIm5iZiI6MTcxNTY1MzAwNSwicGF0aCI6Ii8xNDIyNTAyODQvMzI1NDU0ODU0LTJmZGUzODUzLTBlMzktNGI2ZS1hYzc2LWJjNjkxY2QxODliNi5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDUxNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA1MTRUMDIxNjQ1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZGEyZjUzNGIzYThiNmMzZGUxNWQ2ODM4ZWU0OTAyZGZkODk1ZmUxMzk4ZDExMjkzOWUyYjcyOTkxYTJhNGY1YiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.SFjArSGkjDxzYAsOffReeJ2mniLQMkJ09_9oPTNEPXc">
