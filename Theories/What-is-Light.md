@@ -6,7 +6,7 @@ If light has no momentum bump,
 <img width="150" src="https://github.com/animal-tree/Writing-stuff-2/assets/142250284/b6b0e528-32e4-4014-b999-4a783aafc3a8">
 </p>
 
-then how do our eyes see unpolarized light? Shouldn't the momentums cancel out? Of course. The unpolarized waves destroy each other, as each polarization acts in destructive interference with each other.
+then how do our eyes see unpolarized light? Shouldn't the momenta cancel out? Of course. The unpolarized waves destroy each other, as each polarization acts in destructive interference with each other.
 
 At the very least, it means the probability distribution (the wave function) of the light wave is independent from the polarization direction/orientation, or else visible light — which is unpolarized usually (e.g. sunlight, fire) — wouldn't be visible. The probabilities due to the interference of polarizations would cancel out (unless the probabilities conveniently normalized to a uniform distribution every time, though that should disrupt the [Fresnel diffraction](https://youtu.be/y9c8oZ49pFc?si=kSTkCh56g60vPAKk)[^1]).
 
