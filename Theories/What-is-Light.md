@@ -17,7 +17,7 @@ But that can't be, since unpolarized electromagnetic effects are usually thought
 Then unpolarized light might reasonably have some other source of momentum for our eyes to see. Perhaps intrinsic momentum
 
 <p align="center">
-<img width="150" src="https://github.com/animal-tree/Writing-stuff-2/assets/142250284/b6b0e528-32e4-4014-b999-4a783aafc3a8">
+<img width="150" src="https://github.com/animal-tree/Writing-stuff-2/assets/142250284/8cb4b280-df2c-4dbf-a054-07d59571d675">
 </p>
 
 not dependent on electric-magnetic effects.
