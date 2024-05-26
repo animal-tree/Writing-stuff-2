@@ -48,4 +48,26 @@ What I wrote earlier [here](https://github.com/animal-tree/Writing-stuff-2/blob/
 - An alternative critique is that those fields don't interfere with each other and two superimposed photons with opposite polarizations somehow independently affect the electron, but then there's the question of "in which order do they impart their two independent effects?" Given that those electric and magnetic vibrations are conflicting, by Newton's 2nd law, the forces cancel out if they happen concurrently (and if they don't, then the question of the universe's sequential order for every single compounding interaction happening not in parallel has to be answered and why we don't notice artifacts from those time delays, since the electron would have to do a full vibration before moving on to listening to the next photon in the sequence).
 - Perhaps instead the force is some probabilistic average (expected value) of possibilities relying on the wave function, but then that average (expected value) is zero.
 
+#
+
+Ah, but upon more thought, this conclusion, while still holding, has a better answer than the depicted "momentum-bump" spacetime curve. Rather, replace that with a flat line: eliminate any physical imparted momentum by the photon directly.
+
+Let's return to the "proof" statement: "light $\neq$ EM and that light has a different source of momentum." There is one other way to satisfy this besides giving the photon that "momentum-bump" collision force.
+
+Instead, photons have at least one other known property besides their electromagnetic (EM) effects and that's their interaction (absorption and emission) with electrons.
+
+And that absorption and emision induces its own momentum delta. For example, when an electron transitions energy levels, its momentum also changes.
+
+Therefore, there is a subtler, more elegant alternative to imparting photons with momenta beyond just the EM effects, and that's defining/observing this absorption/emission energy-change interaction with electrons.
+
+It's that interaction, and the subsequent energy excitations of electrons in proteins called photopsins, that allows our eyes to see, and this interaction is indeed independent to the photon's polarization.
+
+So my thought experiment has a simpler resolution. The spacetime curve then becomes:
+
+<p align='center'>
+  _____________________
+</p>
+
+And the electron interaction, distinct from EM, is responsible for color perception.
+
 [^1]: Those channels are amazing by the way.
