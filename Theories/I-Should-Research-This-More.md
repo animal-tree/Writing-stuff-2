@@ -200,4 +200,4 @@ Gravitational acceleration is [the same for small masses as large masses](https:
 
 From thinking about this however, I was able to realize [this](#resolution) [To do: Upload journal note[^1]].
 
-[^1]: About solenoids and the purported flaw of Rutherford's model. That is, specifically: electrons emit photons from angular and linear accelerations, but not centripetal, as solenoids (electromagnets) pretty evidently show. Rutherford's atomic model is contradictorily criticized for centripetal accelerations proposed in the model not agreeing with the measured lack of emitted photons in experiment, something that shouldn't be expected from Rutherford's model as electromagnets show.
+[^1]: About solenoids and the purported flaw of Rutherford's model. That is, specifically: electrons emit photons from angular and linear accelerations, but not centripetal, as solenoids (electromagnets) pretty evidently show. Rutherford's atomic model is contradictorily criticized for centripetal accelerations proposed in the model not agreeing with the lack of emitted photons in practice, something that shouldn't be expected from Rutherford's model as electromagnets show.
