@@ -56,7 +56,7 @@ Let's return to the "proof" statement: "light $\neq$ EM and that light has a dif
 
 Instead, photons have at least one other known property besides their electromagnetic (EM) effects and that's their interaction (absorption and emission) with electrons.
 
-And that absorption and emission induces its own momentum delta. For example, when an electron transitions energy levels, its momentum also changes.
+And that absorption and emission induces its own momentum delta. For example, when an electron transitions energy levels due to the absorption of photons, its momentum also changes.
 
 Therefore, there is a subtler, more elegant alternative to imparting photons with momenta beyond just the EM effects, and that's defining/observing this absorption/emission energy-change interaction with electrons.
 
