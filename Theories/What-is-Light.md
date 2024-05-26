@@ -68,6 +68,6 @@ So my thought experiment has a simpler resolution. The spacetime curve then beco
   _____________________
 </p>
 
-And the electron interaction, distinct from EM, is responsible for color perception.
+and the electron interaction, distinct from EM and independent to polarization, is responsible for color perception.
 
 [^1]: Those channels are amazing by the way.
