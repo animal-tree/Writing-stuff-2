@@ -22,9 +22,9 @@ Then unpolarized light might reasonably have some other source of momentum for o
 
 not dependent on electric-magnetic effects.
 
-But Newton's 3rd law is violated by photons when it comes to their interaction with gravity. Gravity causes photons to "react" via centripetal acceleration towards masses, but the equal and opposite reaction isn't present, meaning $\frac{\partial F_\gamma}{\partial t}$ $\neq$ $-\frac{\partial F_{e^{-}}}{\partial t}$, where $F_\gamma$ is the (e.g. gravitational) force on the photon $\gamma$ by the electron $e^{-}$, and $F_{e^{-}}$ is the force on the electron $e^{-}$ by the photon $\gamma$.
+But Newton's 3rd law is violated by photons when it comes to their interaction with gravity. Gravity causes photons to "react" via centripetal acceleration towards masses, but the equal and opposite reaction isn't present, meaning $\frac{\partial F_\gamma}{\partial t}$ $\neq$ $-\frac{\partial F_{e^{-}}}{\partial t}$, where $F_\gamma$ is the (e.g. gravitational) force on the photon by the electron, and $F_{e^{-}}$ is the force on the electron by the photon .
 
-So perhaps Newton's 2nd law (involving sums of forces) is also violated, but this is strange since that would imply that an electron can accelerate in two conflicting directions at once as light's polarization of two conflicting photons ($\gamma$'s) pushes it this way or that.
+So perhaps Newton's 2nd law (involving sums of forces) is also violated, but this is strange since that would imply that an electron can accelerate in two conflicting directions at once as light's polarization of two conflicting photons pushes it this way or that.
 
 This multi-branched non-summation sounds like quantum mechanics, where two locations and directions of acceleration are allowed, at least probabilistically via the wave function. But then this branching would literally have to happen in our eyes for our eyes to see, and traditionally that is considered a "measurement." "Quantum effects don't usually survive in wet environments" as it's often said about the feasibility of quantum effects in the brain. More generally, "the wave function collapses under observation." All evidence using detectors in multi-slit diffraction experiments supports this. So the eyes would not be able to see.
 
