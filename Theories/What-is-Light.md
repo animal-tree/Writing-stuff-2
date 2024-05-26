@@ -50,7 +50,7 @@ What I wrote earlier [here](https://github.com/animal-tree/Writing-stuff-2/blob/
 
 #
 
-Ah, but upon more thought, this conclusion, while still holding, has a better answer than the depicted "momentum-bump" spacetime curve. Rather, replace that with a flat line: eliminate any physical imparted momentum by the photon directly.
+Ah, but upon more thought, this conclusion, while still holding, has a better answer than the depicted "momentum-bump" spacetime curve. Rather, replace that with a flat line: eliminate any physical momentum imparted by the photon directly.
 
 Let's return to the "proof" statement: "light $\neq$ EM and that light has a different source of momentum." There is one other way to satisfy this besides giving the photon that "momentum-bump" collision force.
 
