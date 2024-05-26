@@ -58,7 +58,7 @@ I’m not sure.
 
 I think if I hung onto that tether I’d still be drawn towards the edge of the spinning contraption. Why? Because my velocity pulls that way, and velocity is inertial; acceleration isn’t.
 
-### Therefore, I conclude physicists are dumb. There’s some extra mass during daytime hours.
+### Therefore, I conclude physicists are dumb.[^1] There’s some extra mass during daytime hours.
 
 - It *might* be offset by sun’s gravity.
 
@@ -88,7 +88,7 @@ Even if the miniature human were to hang on that string with all of their streng
 
 So even attached at the hip to that string, the miniature human would still experience an artificial gravity.
 
-### I re-conclude that physicists are dumb. But it’s tricky, and there’s some extra mass during daytime hours.
+### I re-conclude that physicists are dumb.[^1] But it’s tricky, and there’s some extra mass during daytime hours.
 
 - The human's momentum is also much smaller in the velocity direction than the Earth's (due to the lighter mass), meaning, if not for the Earth's gravity, the human would probably be sucked in by the sun (pulled in by the violent tether). The Earth meanwhile has a perfect balance of resistance due to its mass and velocity to keep a stable orbit. In other words, that centripital action is quite heavily offset by the sun's gravity due to a human's much smaller momentum, with only the Earth serving as the centripital and gravitational actor and the sun violently pulling inwards.
 
@@ -188,10 +188,16 @@ Less massive bodies are more drawn towards the Sun due to a net higher centripet
 
 ### No. Acceleration is the same for small masses as large masses. Even without the Earth, a human with the same inertial velocity and distance from the sun would still maintain the same orbit as the Earth due to the same gravitational (centripetal) acceleration. Orbital stability doesn't depend on mass.
 
+If miraculously the sun got lighter or heavier, then that would be a centripetal... "jerk" I guess it would be called, and that would result in an angular acceleration as well, though *perhaps* a loss of meaning of tangential/inertial velocity as the body goes into freefall into the sun due to a positive centripetal jerk or escapes orbit due to negative centripetal jerk (in both cases, converting to linear velocity, and perhaps changing value, e.g., increasing the closer it gets to the sun as it accelerates more), though in both cases the angular velocity might just be converted directly to linear velocity of the same value as the original tangential/inertial velocity (though in the freefall case, this is hard to imagine unless that conversion finishes at exactly the moment of the crash) — this opens a new debate, the unresolved question of how the resulting linear velocity relates to the original tangential velocity, after centripetal jerk. But that's an altogether different consideration.
+
+Oh, I think it's simpler than this. During orbit, the linear velocity can stay constant. Once a centripetal jerk disrupts the orbit, the linear velocity, which is the same as "tangential" or "inertial", no longer accelerates/decelerates with respect to direction only, but starts actually giving or absorbing some magnitude, depending on whether escaping orbit or crashing. For example, if the body is escaping orbit, it gives less in terms of direction, but more in terms of magnitude, thereby increasing in radius from the sun but decreasing in the inertial velocity, until it either re-stabilizes at a different orbit (if the directional/centripetal acceleration sufficiently captures it) or escapes.
+
 # Resolution
 
 It doesn't.
 
-Gravitational acceleration is [the same for small masses as large masses](https://en.wikipedia.org/wiki/Galileo%27s_Leaning_Tower_of_Pisa_experiment). Even without the Earth, a human with the same inertial velocity and distance from the sun would still maintain the same orbit as the Earth due to the same gravitational (centripetal) acceleration and inertial (tangential) velocity. Inertial (tangential) velocity is fixed once the human is at the Earth's speed. It's only during an acceleration, e.g. an angular acceleration (distinct from centripetal) due to linear (tangential) acceleration, that weight is affected (or, if miraculously the sun got lighter or heavier, then centripetal... [jerk](https://en.wikipedia.org/wiki/Jerk_(physics)) I guess it would be called, and that would result in an angular acceleration as well, though not a tangential one). Orbital stability doesn't depend on the orbiting body's mass.
+Gravitational acceleration is [the same for small masses as large masses](https://en.wikipedia.org/wiki/Galileo%27s_Leaning_Tower_of_Pisa_experiment). Even without the Earth, a human with the same inertial velocity and distance from the sun would still maintain the same orbit as the Earth due to the same gravitational (centripetal) acceleration and inertial (tangential) velocity. Inertial (tangential) velocity is fixed once the human is at the Earth's speed. It's only during an acceleration, e.g. an angular acceleration (distinct from centripetal) due to linear (tangential) acceleration, that weight is affected (or, if miraculously the sun got lighter or heavier, then centripetal... [jerk](https://en.wikipedia.org/wiki/Jerk_(physics)) I guess it would be called, and that would result in an angular acceleration as well, as well as eventually a linear/tangential one). Orbital stability doesn't depend on the orbiting body's mass.
 
-From thinking about this however, I was able to realize [this](#resolution) [To do: Upload journal note].
+From thinking about this however, I was able to realize [this](#resolution) [To do: Upload journal note[^1]].
+
+[^1]: About solenoids and the purported flaw of Rutherford's model.
