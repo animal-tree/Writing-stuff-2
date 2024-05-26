@@ -62,7 +62,7 @@ Therefore, there is a subtler, more elegant alternative to imparting photons wit
 
 It's that interaction, and the subsequent energy excitations of electrons in proteins called photopsins, that allows our eyes to see, and this interaction is indeed independent to the photon's polarization.
 
-So my thought experiment has a simpler resolution. The spacetime curve then becomes:
+So my thought experiment has a simpler[^2] resolution. The spacetime curve then becomes:
 
 <p align='center'>
   _____________________
@@ -75,3 +75,4 @@ and the electron interaction, distinct from EM and independent to polarization, 
 More speculatively, frequency might have one other momentum-like effect that isn't reproducible via [electromagnetic push](https://youtu.be/bvzr2HbbPC8?si=wyctUUwiOc5dQgfX). Higher frequency should perhaps correspond to more resistance in light's bending towards centripetal accelerations/forces such as gravity, if the analogy to momentum is really taken to its extreme, while still respecting the constancy of the speed of light in its linear/inertial speed. I can regard this momentum of light then as an "inner velocity," by which centripetal forces are resisted. This inner velocity in my opinion likely determines the absorption or emission of the photon by the electron.
 
 [^1]: Those channels are amazing by the way.
+[^2]: However, a more thorough resolution can include both the electron interaction and the "momentum-bump," and answer Baryonic asymmetry.
