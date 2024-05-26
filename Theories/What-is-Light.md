@@ -70,4 +70,8 @@ So my thought experiment has a simpler resolution. The spacetime curve then beco
 
 and the electron interaction, distinct from EM and independent to polarization, is responsible for color perception.
 
+#
+
+More speculatively, frequency might have one other momentum-like effect that isn't reproducible via [electromagnetic push](https://youtu.be/bvzr2HbbPC8?si=wyctUUwiOc5dQgfX). Higher frequency should perhaps correspond to more resistance in light's bending towards centripetal accelerations/forces, if the analogy to momentum is really taken to its extreme, while still respecting the constancy of the speed of light in its linear/inertial speed. I can regard this momentum as an "inner velocity," by which centripetal forces are resisted. This inner velocity in my opinion likely determines the absorption or emission of the photon by the electron.
+
 [^1]: Those channels are amazing by the way.
