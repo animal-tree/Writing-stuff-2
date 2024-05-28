@@ -12,7 +12,7 @@ This is hard to summarize, but the point is that there are different scopes of t
 
 The challenge of accepting that is, well firstly, the premise itself, if data for any sort of non-local communications and physics interventions isn't presented, but supposing I satisfied the reader's skepticism in presenting that data, there's the second challenge of contemplating how big the scope of such a God would/could be, since the universe is so big.
 
-As DarkMatter2535 shows, our planet spatially is an infinitesimal blip, with a human-centric temporal scope that can be regarded as less than the blink of an eye.
+As DarkMatter2525 shows, our planet spatially is an infinitesimal blip, with a human-centric temporal scope that can be regarded as less than the blink of an eye.
 
 And while that scrutiny can be answered by proposing that God's attention is prioritized towards complexity, in particular the complexity of sophisticated and rich relative consciousness experiences...
 
