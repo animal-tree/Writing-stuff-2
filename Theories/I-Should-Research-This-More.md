@@ -196,6 +196,8 @@ There's also debate among experts more generally ([e.g. this was a possibly-wron
 
 Since electrons in Bohr's model move at less than $1$% the speed of light around the atom, and since "synchrotron radiation" happens at relativistic speeds (meaning, near the speed of light), the evidence from synchrotrons doesn't really apply. But non-relativistic ["cyclotrons"](https://en.wikipedia.org/wiki/Cyclotron_radiation#:~:text=Cyclotron%20radiation%20is%20emitted%20by,information%20about%20distant%20magnetic%20fields.) still emit photons, though I'm not sure if the electrons are ever measured emitting photons at below $1$% the speed of light.
 
+[I am still awaiting an answer on this.](https://qr.ae/pscSsZ)
+
 I'm also pretty bothered by the lack of distinction between centripetal acceleration due to attraction (like with gravity) and centripetal acceleration due to repulsion (like with artifical gravity, as in, ["it is the radial force provided by the spacecraft's hull that acts as centripetal force"](https://en.wikipedia.org/wiki/Artificial_gravity)), but I guess this is good since I can derive a better model for the universe's physics by taking these intuitions of mine seriously instead of thinking there are experts who know better.
 
 # Resolution
