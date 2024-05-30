@@ -45,7 +45,7 @@ The (archetype of the) Alderman prides himself in Auto Insurance. It’s a servi
 
 What can happen really is atrocious. And here is a case study from which some of the worst scenarios that this system creates can be extrapolated.
 
-Say I own a car that I fully paid-off. Say I keep that car in the apartment complex where I live. Say my insurance, due to some freak ambiguous accident, charges me $1200 for the next 6-month policy. Say my mom is poor, I have thousands of dollars of college student debt that would default to her if I died, and I recently became unemployed, was suicidal, and sick. Say I can’t afford to pay that $1200 fee and there are no significantly better options. Say the car I own is un-drivable, but is repairable and worth too much to dispose. And say my apartment complex prohibits cars without license plates from being parked there. Say the law requires that license plates be returned to the DMV for any uninsured cars.
+Say I own a car that I fully paid-off. Say I keep that car in the apartment complex where I live. Say my insurance, due to some freak ambiguous accident, charges me $1200 for the next 6-month policy. Say my mom is poor, I have thousands of dollars of college student debt that would default to her if I died, and I recently became unemployed, was suicidal, and sick. Say I can’t afford to pay that $1200 fee and there are no significantly better options. Say the car I own is un-drivable, but is repairable and worth too much to dispose or sell, especially while sick. And say my apartment complex prohibits cars without license plates from being parked there. Say the law requires that license plates be returned to the DMV for any uninsured cars.
 
 Question: What happens to me for owning that car?
 
