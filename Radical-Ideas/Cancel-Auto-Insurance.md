@@ -39,7 +39,7 @@ Auto insurance should be nationalized.
 
 This has all been a lot of trouble for not even having a driveable car or job, and the bare minimum liability insurance. And mandatory, since I can't keep this car without a licence plate in my apartment complex, so I can't return the license plate to the DMV and cancel having insurance. And expensive, mostly manual, and redundant, full of bureaucratic landmines. For no benefit over a public nationalized auto-insurance program paid for by much smaller tax-dollars instead of insane flat-rate extortions. What if I got sick and missed the payments, or couldn't make the payments? Would they have charged me more? Would I have gone to jail? Just for owning a fully-paid-off (un-drivable) car?
 
-#
+# Overview
 
 The archetypal Alderman prides himself in Auto Insurance. It’s a service that gives people what they need, right? There’s a whole system around it. “Everybody” agrees it’s not just paramount but also morally important. And yet, inspecting closer, it’s literally a flat tax to poor people that costs them oftentimes as much as their paychecks. The immorality is so extreme, considering that those poor people might actually *own* the car that they are being charged a subscription fee for, that it can’t even be described in this one paragraph.
 
