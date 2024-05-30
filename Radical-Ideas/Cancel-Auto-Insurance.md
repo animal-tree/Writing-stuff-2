@@ -45,14 +45,16 @@ The (archetype of the) Alderman prides himself in Auto Insurance. It’s a servi
 
 What can happen really is atrocious. And here is a case study from which some of the worst scenarios that this system creates can be extrapolated.
 
-Say I own a car that I fully paid-off. Say I keep that car in the apartment complex where I live. Say my insurance, due to some freak ambiguous accident, charges me $1200 for the next 6-month policy. Say my mom is poor, I have thousands of dollars of college student debt that would default to her if I died, and I recently became unemployed, was suicidal, and sick. Say I can’t afford to pay that $1200 fee and there are no significantly better options. Say the car I own is un-drivable, but is repairable and worth too much to dispose or sell, especially while sick. And say my apartment complex prohibits cars without license plates from being parked there. Say the law requires that license plates be returned to the DMV for any uninsured cars.
+Say I own a car that I fully paid-off. Say I keep that car in the apartment complex where I live. Say my insurance, due to some freak ambiguous accident, charges me $1200 for the next 6-month policy. Say my mom is poor, I have thousands of dollars of college student debt that would default to her if I died, and I recently became unemployed, was suicidal, and sick. Say I can’t afford to pay that $1200 fee and there are no significantly better options. Say the car I own is un-drivable, but is repairable and worth too much to dispose or sell. Say I'm also incapacitated or hospitalized for some time due to being sick. And say my apartment complex prohibits cars without license plates from being parked there. Say the law requires that license plates be returned to the DMV for any uninsured cars.
 
 Question: What happens to me for owning that car?
 
-Answer: I get arrested.
+Answer: I get evicted, arrested, or even-more fined.
 
 Question: What might happen to my mom, who is poor, if, upon learning this threat, I commit suicide and she goes into debt?
 
 Answer: She gets arrested.
 
 It is feasibly possible for the existing law to arrest my mom for doing absolutely nothing except being poor.
+
+In a country of 300,000,000 Americans not only is this possible, but most of it happened to me earlier this year!
