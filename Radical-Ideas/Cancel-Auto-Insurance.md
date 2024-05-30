@@ -47,13 +47,13 @@ What can happen really is atrocious. And here is a case study from which some of
 
 Say I own a car that I fully paid-off. Say I keep that car in the apartment complex where I live. Say my insurance, due to some freak ambiguous accident, charges me $1200 for the next 6-month policy. Say my mom is poor, I have thousands of dollars of college student debt that would default to her if I died, and I recently became unemployed, was suicidal, and sick. Say I can’t afford to pay that $1200 fee and there are no significantly better options. Say the car I own is un-drivable, but is repairable and worth too much to dispose or sell. Say I'm also incapacitated or hospitalized for some time due to being sick. And say my apartment complex prohibits cars without license plates from being parked there. Say the law requires that license plates be returned to the DMV for any uninsured cars.
 
-Question: What happens to me for owning that car?
+**Question:** What happens to me for owning that car?
 
-Answer: I get evicted, arrested, or even-more fined.
+**Answer:** I get evicted, arrested, or even-more fined.
 
-Question: What might happen to my mom, who is poor, if, upon me learning these unpreventable threats, I commit suicide and she goes into debt?
+**Question:** What might happen to my mom, who is poor, if, upon me learning these unpreventable threats, I commit suicide and she goes into debt?
 
-Answer: She gets arrested.
+**Answer:** She gets arrested.
 
 It is feasibly possible for the existing law to arrest my mom for doing absolutely nothing except being poor.
 
