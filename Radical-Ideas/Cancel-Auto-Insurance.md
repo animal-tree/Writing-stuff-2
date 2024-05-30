@@ -51,7 +51,7 @@ Say I own a car that I fully paid-off. Say I keep that car in the apartment comp
 
 **Answer:** I get evicted, arrested, or my car gets repossessed.
 
-**Question:** What might happen to my mom, who is poor, if, upon me learning these unpreventable threats, I commit suicide and she goes into debt?
+**Question:** What might happen to my mom, who is poor, if, upon me learning those unpreventable threats, I commit suicide and she goes into debt?
 
 **Answer:** She gets arrested.
 
