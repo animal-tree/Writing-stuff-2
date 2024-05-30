@@ -51,7 +51,7 @@ Question: What happens to me for owning that car?
 
 Answer: I get evicted, arrested, or even-more fined.
 
-Question: What might happen to my mom, who is poor, if, upon learning this threat, I commit suicide and she goes into debt?
+Question: What might happen to my mom, who is poor, if, upon me learning these unpreventable threats, I commit suicide and she goes into debt?
 
 Answer: She gets arrested.
 
