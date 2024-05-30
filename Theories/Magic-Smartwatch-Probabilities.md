@@ -17,7 +17,7 @@ As the phase-hand turns at a given frequency, its magnitude in the probability d
 </a>
 </p>
 
-(In a more rigorous description, they will interfere differently depending on their relative orientation as well).
+(In a more rigorous description, they can interfere differently depending on their relative orientation as well).
 
 The polarity dimension (and angle) is ignored and can be regarded like an imaginary dimension for the purpose of computing probabilities. However, it will be used in a real, physical way in a moment to describe and unify the mechanisms of wave, spin, and polarization/or magnetism in particles and composite particles, as well as answer the mystery of Baryonic asymmetry.
 
