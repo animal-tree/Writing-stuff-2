@@ -8,7 +8,7 @@ Say I own a car that I fully paid-off. Say I keep that car in the apartment comp
 
 **Question:** What happens to me, having not broken any laws, for owning that un-drivable car due to the auto insurance system?
 
-**Answer:** I get evicted, arrested, or my un-drivable car that has sentimental value to me gets repossessed.
+**Answer:** I get evicted, arrested, or my un-drivable car gets repossessed.
 
 **Question:** What might happen to my mom, who is poor, if, upon me learning those unpreventable threats, I commit suicide and she goes into debt?
 
