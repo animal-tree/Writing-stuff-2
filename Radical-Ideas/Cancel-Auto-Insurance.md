@@ -18,7 +18,7 @@ In a country of 300,000,000 Americans not only is this possible, but most of it 
 
 Best case scenario under all of those circumstances, the fully-owned car gets repossessed. As a result of car *insurance*. I hope that's clear. </br> &nbsp; $\square$
 
-> There is one way out of this trap and that's if people volunteered to hold onto the car, but the archetype of the Alderman only adheres to policy.
+> There is one way out of this trap and that's if people volunteered to hold onto the car. But the archetype of the Alderman only adheres to policy.
 
 ### These were the notes I took around this:
 
