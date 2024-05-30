@@ -41,7 +41,7 @@ This has all been a lot of trouble for not even having a driveable car or job, a
 
 #
 
-The (archetype of the) Alderman prides himself in Auto Insurance. It’s a service that gives people what they need, right? There’s a whole system around it. “Everybody” agrees it’s not just paramount but also morally important. And yet, inspecting closer, it’s literally a flat tax to poor people that costs them oftentimes as much as their paychecks. The immorality is so extreme, considering that those poor people might actually *own* the car that they are being charged a subscription fee for, that it can’t even be described in this one paragraph.
+The archetypal Alderman prides himself in Auto Insurance. It’s a service that gives people what they need, right? There’s a whole system around it. “Everybody” agrees it’s not just paramount but also morally important. And yet, inspecting closer, it’s literally a flat tax to poor people that costs them oftentimes as much as their paychecks. The immorality is so extreme, considering that those poor people might actually *own* the car that they are being charged a subscription fee for, that it can’t even be described in this one paragraph.
 
 What can happen really is atrocious. And here is a case study from which some of the worst scenarios that this system creates can be extrapolated.
 
