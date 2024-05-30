@@ -55,6 +55,6 @@ Say I own a car that I fully paid-off. Say I keep that car in the apartment comp
 
 **Answer:** She gets arrested.
 
-It is feasibly possible for the existing law to arrest my mom for doing absolutely nothing except being poor.
+It is feasibly possible for the existing law around auto insurance to arrest my mom for doing absolutely nothing except being poor.
 
 In a country of 300,000,000 Americans not only is this possible, but most of it happened to me earlier this year!
