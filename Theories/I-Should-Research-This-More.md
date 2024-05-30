@@ -198,7 +198,7 @@ Since electrons in Bohr's model move at less than $1$% the speed of light around
 
 [I am still awaiting an answer on this.](https://qr.ae/pscSsZ)
 
-This is synchronistically timed with "ISCO" discovery about the "innermost stable circular orbit" around blackholes (the commits in which I wrote this just preceeded [this video](https://youtu.be/49kfebgbFpA?si=MiW2TZzinGvP3Tnm) the same day). Just noting this here, not sure if semantically relevant yet beyond the linguistic overlaps, but in my journal I did point out that the innermost orbit (energy level) of Bohr's model has the fastest velocity (the electron that moves at less than $1$% the speed of light).
+This is synchronistically timed with "ISCO" discovery about the "innermost stable circular orbit" around blackholes (the commits in which I wrote this just preceeded [this video](https://youtu.be/49kfebgbFpA?si=MiW2TZzinGvP3Tnm) the same day). Just noting this here, has some semantic relevance regarding "innermost orbit" since I'd just written [this]() in my journal yesterday/today.
 
 I'm also pretty bothered by the lack of distinction between centripetal acceleration due to attraction (like with gravity) and centripetal acceleration due to repulsion (like with artifical gravity, as in, ["it is the radial force provided by the spacecraft's hull that acts as centripetal force"](https://en.wikipedia.org/wiki/Artificial_gravity)), but I guess this is good since I can derive a better model for the universe's physics by taking these intuitions of mine seriously instead of thinking there are experts who know better. Besides the gravity examples, electrons in atoms revolve by centripetal-attractions, while electrons in those accelerators perhaps revolve via magnetic centripetal-repulsions.
 
