@@ -1,3 +1,25 @@
+# Overview
+
+The archetype of the Alderman prides himself in Auto Insurance. It’s a service that gives people what they need, right? There’s a whole system around it. “Everybody” agrees it’s not just paramount but also morally important. And yet, inspecting closer, it’s literally a flat tax to poor people that costs them oftentimes as much as their paychecks. The immorality is so extreme, considering that those poor people might actually *own* the car that they are being charged a subscription fee for, that it can’t even be described in this one paragraph.
+
+What can happen really is atrocious. And here is a case study from which some of the worst scenarios that this system creates can be extrapolated.
+
+Say I own a car that I fully paid-off. Say I keep that car in the apartment complex where I live. Say my insurance, due to some freak ambiguous accident, charges me $1200 for the next 6-month policy. Say my mom is poor, I have thousands of dollars of college student debt that would default to her if I died, and I recently became unemployed, was suicidal, and sick. Say I can’t afford to pay that $1200 fee and there are no significantly better options. Say the car I own is un-drivable, but is repairable and worth too much to dispose or sell. Say I'm also incapacitated or hospitalized for some time due to being sick. And say my apartment complex prohibits cars without license plates from being parked there. Say the law requires that license plates be returned to the DMV for any uninsured cars. Say I don't have enough property that can be repossessed to pay off the insurer, other than the car for which it's insuring.
+
+**Question:** What happens to me for owning that car due to the auto insurance system?
+
+**Answer:** I get evicted, arrested, or my car gets repossessed.
+
+**Question:** What might happen to my mom, who is poor, if, upon me learning those unpreventable threats, I commit suicide and she goes into debt?
+
+**Answer:** She gets arrested.
+
+It is feasibly possible for the existing law around auto insurance to arrest my mom for doing absolutely nothing except being poor.
+
+In a country of 300,000,000 Americans not only is this possible, but most of it happened to me earlier this year!
+
+### These were the notes I took around this:
+
 - "I'm getting overcharged for an accident in 2022 where an 18-wheeler hit my car while I was parked legally on the shoulder of a road in a hit-and-run, where I broke no laws and the driver kept driving and could've killed me. My insurance policy price is more than doubled for that, but that isn't right. An 18-wheeler hit my car in a hit-and-run while I was legally parked. And since I didn't have collision at the time, my insurance (then Geico) didn't even have to pay for the damages, and my car was completely wrecked. So Geico should not be charging me any more than the baseline quote." - Sent to a Geico support bot today before being connected to an agent.
 - Actually, they quoted me for a single speeding ticket 3 years ago, minus a week or so. More than double from ~$180 to ~$540.
 - And Amica has a processing window that would’ve gone a few days over my current plan’s renewal/expiration date and only accepts covered customers. No grace period.
@@ -38,23 +60,3 @@ Auto insurance should be nationalized.
 > See attached photo of the ID card.
 
 This has all been a lot of trouble for not even having a driveable car or job, and the bare minimum liability insurance. And mandatory, since I can't keep this car without a licence plate in my apartment complex, so I can't return the license plate to the DMV and cancel having insurance. And expensive, mostly manual, and redundant, full of bureaucratic landmines. For no benefit over a public nationalized auto-insurance program paid for by much smaller tax-dollars instead of insane flat-rate extortions. What if I got sick and missed the payments, or couldn't make the payments? Would they have charged me more? Would I have gone to jail? Just for owning a fully-paid-off (un-drivable) car?
-
-# Overview
-
-The archetypal Alderman prides himself in Auto Insurance. It’s a service that gives people what they need, right? There’s a whole system around it. “Everybody” agrees it’s not just paramount but also morally important. And yet, inspecting closer, it’s literally a flat tax to poor people that costs them oftentimes as much as their paychecks. The immorality is so extreme, considering that those poor people might actually *own* the car that they are being charged a subscription fee for, that it can’t even be described in this one paragraph.
-
-What can happen really is atrocious. And here is a case study from which some of the worst scenarios that this system creates can be extrapolated.
-
-Say I own a car that I fully paid-off. Say I keep that car in the apartment complex where I live. Say my insurance, due to some freak ambiguous accident, charges me $1200 for the next 6-month policy. Say my mom is poor, I have thousands of dollars of college student debt that would default to her if I died, and I recently became unemployed, was suicidal, and sick. Say I can’t afford to pay that $1200 fee and there are no significantly better options. Say the car I own is un-drivable, but is repairable and worth too much to dispose or sell. Say I'm also incapacitated or hospitalized for some time due to being sick. And say my apartment complex prohibits cars without license plates from being parked there. Say the law requires that license plates be returned to the DMV for any uninsured cars. Say I don't have enough property that can be repossessed to pay off the insurer, other than the car for which it's insuring.
-
-**Question:** What happens to me for owning that car due to the auto insurance system?
-
-**Answer:** I get evicted, arrested, or my car gets repossessed.
-
-**Question:** What might happen to my mom, who is poor, if, upon me learning those unpreventable threats, I commit suicide and she goes into debt?
-
-**Answer:** She gets arrested.
-
-It is feasibly possible for the existing law around auto insurance to arrest my mom for doing absolutely nothing except being poor.
-
-In a country of 300,000,000 Americans not only is this possible, but most of it happened to me earlier this year!
