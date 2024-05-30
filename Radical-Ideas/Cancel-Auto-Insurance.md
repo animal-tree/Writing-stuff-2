@@ -10,7 +10,7 @@ Say I own a car that I fully paid-off. Say I keep that car in the apartment comp
 
 **Answer:** For simply existing, I get evicted, arrested, or my un-drivable car that I fully own gets repossessed. 
 
-**Question:** What might happen to my mom, who is poor, if, upon me learning those unpreventable threats, I commit suicide and my student debt defaults to her?
+**Question:** What might happen to my immigrant Russian-speaking mom, who is poor, if, upon me learning those unpreventable threats, I commit suicide and my student debt defaults to her?
 
 **Answer:** She gets arrested, or has to learn what "bankruptcy" means.
 
