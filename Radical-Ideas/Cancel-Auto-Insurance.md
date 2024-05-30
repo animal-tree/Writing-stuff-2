@@ -12,7 +12,7 @@ Say I own a car that I fully paid-off. Say I keep that car in the apartment comp
 
 **Question:** What might happen to my immigrant Russian-speaking mom, who is poor, if, upon me learning those unpreventable threats, I commit suicide and my student debt defaults to her?
 
-**Answer:** She gets arrested, or has to learn what "bankruptcy" means ["by liquidating assets to pay their debts or by creating a repayment plan."](https://www.uscourts.gov/services-forms/bankruptcy).
+**Answer:** She gets arrested, or has to learn what "bankruptcy" means [("liquidating assets to pay their debts or by creating a repayment plan")](https://www.uscourts.gov/services-forms/bankruptcy).
 
 In a country of 300,000,000 Americans not only is this possible, but most of it happened to me (thankfully not her) earlier this year!
 
