@@ -8,7 +8,7 @@ Say I own a car that I fully paid-off. Say I keep that car in the apartment comp
 
 **Question:** What happens to me, having not broken any laws, for owning that un-drivable car due to the auto insurance system?
 
-**Answer:** I get evicted, arrested, or my un-drivable car gets repossessed.
+**Answer:** For simply existing, I get evicted, arrested, or my un-drivable car gets repossessed. 
 
 **Question:** What might happen to my mom, who is poor, if, upon me learning those unpreventable threats, I commit suicide and she goes into debt?
 
@@ -17,8 +17,6 @@ Say I own a car that I fully paid-off. Say I keep that car in the apartment comp
 It is feasibly possible for the existing law around auto insurance to arrest my mom for doing absolutely nothing except being poor.
 
 In a country of 300,000,000 Americans not only is this possible, but most of it happened to me earlier this year!
-
-Note also: If the car wasn't worth more then $1200, then re-possession of it might not even be sufficient. For simply existing, I might be sentenced to death, and my mom might be imprisoned, in the worst possible extrapolation of these events.
 
 ### These were the notes I took around this:
 
