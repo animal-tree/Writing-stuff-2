@@ -18,9 +18,7 @@ It is feasibly possible for the existing law around auto insurance to arrest my 
 
 In a country of 300,000,000 Americans not only is this possible, but most of it happened to me (thankfully not her) earlier this year!
 
-Best case scenario under all of those circumstances, the car gets repossessed. As a result of car *insurance*. I hope that's clear.
-
-$\square$
+Best case scenario under all of those circumstances, the car gets repossessed. As a result of car *insurance*. I hope that's clear. &nbsp; $\square$
 
 ### These were the notes I took around this:
 
