@@ -70,7 +70,7 @@ $$m\frac{v^2}{r} = \frac{Kq_1q_2}{r^2},$$
 
 which gives us (by rearrangement):
 
-$$\rightarrow v = \sqrt{\frac{Kq_1q_2}{mr}}$$
+$$\rightarrow v = \sqrt{\frac{Kq_1q_2}{mr}} \quad\quad \text{(Coulomb's velocity equation)}$$
 
 and subsequently a new relationship:
 
@@ -118,3 +118,29 @@ $$
 $$
 
 But we can calculate the radius for each energy-level, and we do not have this contradiction, so how did the math bring us here?
+
+Well, here is the derivation for radius $r$:
+
+Setting equal "de Broglie's second velocity equation" to "Coulomb's velocity equation," we get:
+
+$$
+\begin{align}
+\frac{hn}{m2\pi r} = \sqrt{\frac{Kq_1q_2}{mr}}.
+\end{align}
+$$
+
+Then squaring both sides and dividing out shared terms:
+
+$$
+\begin{align}
+\frac{h^2n^2}{m4\pi^2 r} = Kq_1q_2.
+\end{align}
+$$
+
+Then solving for radius $r$:
+
+$$
+\begin{align}
+r = \frac{h^2n^2}{m4\pi^2 Kq_1q_2}.
+\end{align}
+$$
