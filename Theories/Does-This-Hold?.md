@@ -1,6 +1,6 @@
 The "orbit" / "shell" / "energy-level" of an atom corresponds proportionally (or rather monotonically, positively increasing) with the radius away from the nucleus of the atom. Let's write that as
 
-$$n \propo r, \text{(Relationship 1)}$$
+$$n \propto r, \text{(Relationship 1)}$$
 
 where $n \in \mathbb{N}$ is the energy-level and $r$ is the radius.
 
@@ -36,7 +36,7 @@ $$v = \frac{hn}{m2\pi r}. \text{(Second de Broglie velocity equation)}$$
 
 So now we have the following relationship:
 
-$$v \propo \frac{n}{r}. \text{(Relationship 2)}$$
+$$v \propto \frac{n}{r}. \text{(Relationship 2)}$$
 
 Finally, according to Coulomb, the centripetal force of the orbit of the electron around the nuclear ($ma_c$, where $a_c$ is the centripetal acceleration) is:
 
@@ -56,15 +56,15 @@ $$\rightarrow v = \sqrt{\frac{Kq_1q_2}{mr}}$$
 
 and subsequently a new relationship:
 
-$$v \propo \frac{1}{r}. \text{(Relationship 3)}$$
+$$v \propto \frac{1}{r}. \text{(Relationship 3)}$$
 
 So we now have three necessary relationships, if all standard assumption hold:
 
 $$
 \begin{align}
-&n \propo r \\
-&v \propo \frac{n}{r} \\
-&v \propo \frac{1}{r}
+&n \propto r \\
+&v \propto \frac{n}{r} \\
+&v \propto \frac{1}{r}
 \end{align}
 $$
 
