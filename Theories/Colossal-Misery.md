@@ -1,5 +1,6 @@
 # Theory of Colossal Misery
-## By Shimon Mikhaelovich-Rabbinovich Lerman (Sam Lerman)
+## By Shimon Mikhaelovich-Rabbinovich Lerman (Sam Lerman) 
+[^1]
 
 (There are some really good ideas in this, it's just poorly written and not meant for sharing)
 
@@ -258,3 +259,5 @@ std can go up and down and absolute value based on its period
 the truncation score can be made differentiable 
 
 $\frac{\partial D(p, i)}{\partial p_{x}^{(i)}}$ is entirely differentiable derivative of sum of wrapped Normals with respect to $x$ can be computed in closed-form
+
+ [^1]: This name ("Mikhaelovich-Rabbinovich") is very consciously mispelled for some intuitive humor effect.
