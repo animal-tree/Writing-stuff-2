@@ -60,7 +60,7 @@ $$
 
 where $q_1, q_2$ are the charges of the electron and nucleus respectively, and $K$ is Coulomb's constant. 
 
-Meanwhile, the centripetal acceleration of a circular orbit of radius $r$ [always is](https://www.britannica.com/science/centripetal-acceleration): $a_c = \frac{v^2}{r}$.
+Meanwhile, the centripetal acceleration of a circular orbit of radius $r$ [is](https://www.britannica.com/science/centripetal-acceleration): $a_c = \frac{v^2}{r}$.
 
 Plugging this into Coulomb's law, we get:
 
