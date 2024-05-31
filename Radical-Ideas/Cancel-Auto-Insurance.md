@@ -44,7 +44,7 @@ So all of this might seem okay, because you might think I can get by without a c
 
 These things might seem like small impositions of the state and corporate powers, but these are huge sums of money charged greedily at a flat rate to poor people and rich people alike, just for having a car. Monthly, or every 6 months, a tax for car ownership. And tons of bureaucracy.
 
-This should be nationalized. If the state thinks it's important, they should pay for it.
+This should be publicized and made afforfable and accountable. If the state thinks it's important, they should pay for it.
 
 Auto insurance should be nationalized.
 
