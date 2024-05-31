@@ -90,4 +90,4 @@ $$
 
 This is of course only possible if $n$ increases faster than $r$, because $v$ has to decrease when $r$ increases, and $v$ has to increase when $\frac{n}{r}$ increases. Since $n$ increments by integer values and $r$ is constrained by the size of an atom (in meters), $r$ indeed increases at much smaller than integer values per energy-level.  Therefore, this holds. However, I've reminded myself in this unecessarily long derivation that distracted me from transcribing my journal notes I wanted to transcribe that, counterintuitively, velocity decreases with energy-level. In other words, kinetic energy decreases with energy-level. I'll now transcribe the original notes I meant to below I guess:
 
-Actually no I'm maki
+[Actually no I'm making a new document for this. Hold up.]()
