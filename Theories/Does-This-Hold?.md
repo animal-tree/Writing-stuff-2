@@ -10,7 +10,7 @@ where $n \in \mathbb{N}$ is the energy-level and $r$ is the radius.
 
 According to de Broglie,
 
-$$p = \frac{h}{\lambda}$$
+$$p = \frac{h}{\lambda}.$$
 
 Then:
 
