@@ -168,4 +168,4 @@ $$
 \end{align}
 $$
 
-[^1]: And it is like that for planetary orbits too due to the analogous derivation from Newton's law for gravitational acceleration as the one here from Coulomb's law.
+[^1]: And it is like that for planetary orbits too due to the analogous derivation from Newton's law for gravitational acceleration as the one from Coulomb's law.
