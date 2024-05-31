@@ -78,7 +78,7 @@ v \propto \frac{1}{r}. \quad\quad \text{(Relationship 3)}
 \end{align}
 $$
 
-So we now have three necessary relationships, if all standard assumption hold:
+So we now have three necessary relationships, if all standard assumptions hold:
 
 $$
 \begin{align}
