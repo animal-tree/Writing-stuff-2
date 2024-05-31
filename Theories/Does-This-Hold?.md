@@ -2,7 +2,7 @@ The "orbit" / "shell" / "energy-level" of an atom corresponds proportionally (or
 
 $$
 \begin{align}
-n \propto r, \text{(Relationship 1)}
+n \propto r, \quad\quad \text{(Relationship 1)}
 \end{align}
 $$
 
@@ -40,13 +40,13 @@ $$2\pi r = n\lambda.$$
 
 Rewriting this equation for $\lambda$ and plugging it into the "First de Broglie velocity equation," you get:
 
-$$v = \frac{hn}{m2\pi r}. \text{(Second de Broglie velocity equation)}$$
+$$v = \frac{hn}{m2\pi r}. \quad\quad \text{(Second de Broglie velocity equation)}$$
 
 So now we have the following relationship:
 
 $$
 \begin{align}
-v \propto \frac{n}{r}. \text{(Relationship 2)}
+v \propto \frac{n}{r}. \quad\quad \text{(Relationship 2)}
 \end{align}
 $$
 
@@ -54,7 +54,7 @@ Finally, according to Coulomb, the centripetal force of the orbit of the electro
 
 $$
 \begin{align}
-ma_c = \frac{Kq_1q_2}{r^2}, \text{(Coulomb's law)}
+ma_c = \frac{Kq_1q_2}{r^2}, \quad\quad \text{(Coulomb's law)}
 \end{align}
 $$
 
@@ -74,7 +74,7 @@ and subsequently a new relationship:
 
 $$
 \begin{align}
-v \propto \frac{1}{r}. \text{(Relationship 3)}
+v \propto \frac{1}{r}. \quad\quad \text{(Relationship 3)}
 \end{align}
 $$
 
