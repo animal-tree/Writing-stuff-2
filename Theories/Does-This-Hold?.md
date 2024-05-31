@@ -100,7 +100,7 @@ When $r$ increases, $v$ must decrease (Relationship 3). Then $\frac{n}{r}$ decre
 
 Then $r$ can increase faster than $n$, which contradicts "the reality of the radial size of an atom."
 
-That means something about the standard assumptions must be wrong. ($\square$?)
+That means something about the standard assumptions must be wrong. ($\square$ ?)
 
 #
 
@@ -113,7 +113,7 @@ $$
 &\implies (\downarrow \frac{n}{r}, \uparrow r, \uparrow n) \quad\quad \text{(Relationship 1)} \\
 &\implies \text{($n$ must increase slower than $r$)} \\
 &\implies \text{($r$ must increase faster than $n$)} \\
-&\implies \text{(Contradiction to ``the reality of the radial size of an atom.")} \quad\quad\quad \square\text{?} \\
+&\implies \text{(Contradiction to ``the reality of the radial size of an atom.")} \quad\quad\quad \square\text{ ?} \\
 \end{align}
 $$
 
