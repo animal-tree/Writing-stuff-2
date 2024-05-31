@@ -93,3 +93,11 @@ So $v$ has to decrease when $r$ increases, and $v$ has to increase when $\frac{n
 Since $n$ increments by integer values and $r$ is constrained by the size of an atom (in meters), $r$ has to increase much slower than $n$ since $n$ increases by 1 per energy-level and $r$ increases at much smaller fractions of 1 (in meters) per energy-level.
 
 Is there a contradiction here?
+
+When $r$ increases, $v$ must decrease. However, somehow, when $\frac{n}{r}$ increases, $v$ doesn't decrease. That means $\frac{n}{r}$ must increase proportionally to $r$. How is that possible? Only if $n$ is a function of $r$, say $n = f(r)$ such that: 
+
+$$\frac{f(r)}{r} \propto \frac{1}{r}.$$
+
+That means $f(r) = n$ must increase slower than $r$, which contradicts the reality of the radial size of an atom. 
+
+That means something about the standard assumptions must be wrong. $\square$
