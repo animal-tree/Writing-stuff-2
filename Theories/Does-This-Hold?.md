@@ -16,7 +16,7 @@ Then:
 
 $$\lambda = \frac{h}{p} = \frac{h}{mv},$$
 
-since the momentum of fermions is $p = mv$, where $m$ is the mass and $v$ is the velocity.
+since the momentum of fermions such as electrons is $p = mv$, where $m$ is the mass and $v$ is the velocity.
 
 This gives us:
 
