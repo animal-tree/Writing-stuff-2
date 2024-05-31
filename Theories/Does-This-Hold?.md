@@ -16,7 +16,7 @@ Then:
 
 $$\lambda = \frac{h}{p} = \frac{h}{mv},$$
 
-since the momentum of fermions moving at non-relativistic speeds, such as electrons in atoms (which travel at less than $1$% the speed of light, according to Bohr), is $p$ $=$ $mv$, where $m$ is the mass and $v$ is the velocity.
+since the momentum of fermions moving at non-relativistic speeds, such as electrons in atoms (which travel at less than $1$% the speed of light, according to Bohr), is $p$ $=$ $mv$, where $m$ is the mass and $v$ is the tangential velocity.
 
 This gives us:
 
@@ -60,7 +60,7 @@ $$
 
 where $q_1, q_2$ are the charges of the electron and nucleus respectively, and $K$ is Coulomb's constant. 
 
-Meanwhile, the centripetal acceleration of a circular orbit of velocity $v$ and radius $r$ [is](https://www.britannica.com/science/centripetal-acceleration): $a_c = \frac{v^2}{r}$.
+Meanwhile, the centripetal acceleration of a circular orbit of tangential velocity $v$ and radius $r$ [is](https://www.britannica.com/science/centripetal-acceleration): $a_c = \frac{v^2}{r}$.
 
 Plugging this into Coulomb's law, we get:
 
