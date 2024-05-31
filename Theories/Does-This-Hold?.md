@@ -90,7 +90,7 @@ $$
 
 So $v$ has to decrease when $r$ increases, and $v$ has to increase when $\frac{n}{r}$ increases. In other words, velocity decreases with radius, and only *increases* with respect to the quotient of energy-level and radius. Meanwhile, energy-level increases with radius.
 
-Since $n$ increments by integer values and $r$ is constrained by the size of an atom (in meters), $r$ has to increase much slower than $n$ since $n$ increases by 1 per energy-level and $r$ increases at much smaller fractions of 1 (in meters) per energy-level.
+Since $n$ increments by integer values and $r$ is constrained by the size of an atom (in meters), $r$ has to increase much slower than $n$ since $n$ increases by 1 per energy-level and $r$ increases at much smaller fractions of 1 (in meters) per energy-level. (Call this "the reality of the radial size of an atom").
 
 Is there a contradiction here?
 
@@ -98,6 +98,6 @@ When $r$ increases, $v$ must decrease. However, somehow, when $\frac{n}{r}$ incr
 
 $$\frac{f(r)}{r} \propto \frac{1}{r}.$$
 
-That means $f(r) = n$ must increase slower than $r$, which contradicts the reality of the radial size of an atom. 
+That means $f(r) = n$ must increase slower than $r$, which contradicts "the reality of the radial size of an atom."
 
 That means something about the standard assumptions must be wrong. $\square$
