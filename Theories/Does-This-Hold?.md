@@ -94,7 +94,7 @@ Since $n$ increments by integer values and $r$ is constrained by the size of an 
 
 Is there a contradiction here?
 
-When $r$ increases, $v$ must decrease. However, somehow, when $\frac{n}{r}$ increases, $v$ doesn't decrease. That means $\frac{n}{r}$ must increase proportionally to $r$. How is that possible? Only if $n$ is a function of $r$, say $n = f(r)$, such that: 
+When $r$ increases, $v$ must decrease. However, somehow, when $\frac{n}{r}$ increases, $v$ increases. That means $\frac{n}{r}$ must increase proportionally to $r$. How is that possible? Only if $n$ is a function of $r$, say $n = f(r)$, such that: 
 
 $$\frac{f(r)}{r} \propto \frac{1}{r}.$$
 
