@@ -16,7 +16,7 @@ Then:
 
 $$\lambda = \frac{h}{p} = \frac{h}{mv},$$
 
-since the momentum of fermions such as electrons is $p = mv$, where $m$ is the mass and $v$ is the velocity.
+since the momentum of fermions such as electrons is $p$ $=$ $mv$, where $m$ is the mass and $v$ is the velocity.
 
 This gives us:
 
@@ -32,7 +32,7 @@ $$2\pi r = \hat{n}\lambda,$$
 
 that is, requiring the wavelength to fit into the circumference of each energy-level $\hat{n} \in \mathbb{N}$ times.
 
-Standardly, the energy-level is assumed to be the same as the wavelength-count integer ($n = \hat{n}$ is standardly assumed).
+Standardly, the energy-level is assumed to be the same as the wavelength-count integer ($n$ $=$ $\hat{n}$ is standardly assumed).
 
 We thus standardly have:
 
@@ -50,7 +50,7 @@ v \propto \frac{n}{r}. \quad\quad \text{(Relationship 2)}
 \end{align}
 $$
 
-Finally, according to Coulomb, the centripetal force of the orbit of the electron around the nucleus ($F_c = ma_c$, where $a_c$ is the centripetal acceleration) is:
+Finally, according to Coulomb, the centripetal force of the orbit of the electron around the nucleus ($F_c$ $=$ $ma_c$, where $a_c$ is the centripetal acceleration) is:
 
 $$
 \begin{align}
