@@ -16,7 +16,7 @@ Then:
 
 $$\lambda = \frac{h}{p} = \frac{h}{mv},$$
 
-since the momentum of fermions moving at non-relativistic speeds, such as electrons in atoms (which travel at less than $1$% the speed of light), is $p$ $=$ $mv$, where $m$ is the mass and $v$ is the velocity.
+since the momentum of fermions moving at non-relativistic speeds, such as electrons in atoms (which travel at less than $1$% the speed of light, according to Bohr), is $p$ $=$ $mv$, where $m$ is the mass and $v$ is the velocity.
 
 This gives us:
 
