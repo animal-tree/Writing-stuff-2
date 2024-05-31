@@ -149,7 +149,7 @@ So let's retrace our logic from before, hopefully with a clearer answer. When an
 
 But what the previous paragraph showed that's pertinent here is that the radius increasing by a smaller *proportion* than $n$ leads to a contradiction, and that's what we arrived to before, but with one mistake. 
 
-Proportion is distinct from magnitude. So while "the reality of the radial size of an atom" definitely constrains the magnitude by which the radius $r$ can increase — it can't come anywhere near that of $n$, which increases by 1 each energy-level, and 1 meter would be far bigger than the whole atom — it does not constrain the proportion increase to being smaller for radius $r$ than for energy-level $n$. So that was the mistake in the reasoning earlier, which unfortunately distracted me from writing up my journal notes on a similar but different and somewhat larger-scope topic.
+Proportion is distinct from magnitude. So while "the reality of the radial size of an atom" definitely constrains the magnitude by which the radius $r$ can increase — it can't come anywhere near to that of $n$, which increases by 1 at each energy-level, and 1 meter would be far bigger than the whole atom — it does not constrain the proportion increase to being smaller for radius $r$ than for energy-level $n$. So that was the mistake in the reasoning earlier, which unfortunately distracted me from writing up my journal notes on a similar but different and somewhat larger-scope topic.
 
 So here is what the revised reasoning would look like:
 
