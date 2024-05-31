@@ -158,3 +158,5 @@ I just lost a lot of work because of a random tab-close. Essentially I went thro
 Also worth noting, from my un-transcribed journal notes and that earlier commit:
 
 > "that, counterintuitively, velocity decreases with energy-level. In other words, kinetic-energy decreases with energy-level."
+
+As per "Coulomb's velocity equation."
