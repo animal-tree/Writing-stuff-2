@@ -92,7 +92,7 @@ $$
 
 So $v$ has to decrease when $r$ increases, and $v$ has to increase when $\frac{n}{r}$ increases. In other words, velocity decreases with radius, and only *increases* with respect to the quotient of energy-level and radius. Meanwhile, energy-level increases with radius.
 
-Since $n$ increments by integer values and $r$ is constrained by the size of an atom (in meters), $r$ has to increase much slower than $n$ since $n$ increases by 1 per energy-level and $r$ increases at much smaller fractions of 1 (in meters) per energy-level. (Call this "the reality of the radial size of an atom").
+Since $n$ increments by integer values and $r$ is constrained by the size of an atom (in meters), $r$ has to increase much slower than $n$ [^2] since $n$ increases by 1 per energy-level and $r$ increases at much smaller fractions of 1 (in meters) per energy-level. (Call this "the reality of the radial size of an atom").
 
 Is there a contradiction here?
 
@@ -169,3 +169,5 @@ $$
 $$
 
 [^1]: And it is like that for planetary orbits too due to the analogous derivation from Newton's law for gravitational acceleration as the one from Coulomb's law.
+
+[^2]: In magnitude, not necessarily proportion.
