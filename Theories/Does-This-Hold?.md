@@ -32,7 +32,7 @@ $$2\pi r = \hat{n}\lambda,$$
 
 that is, requiring the wavelength to fit into the circumference of each energy-level $\hat{n} \in \mathbb{N}$ times.
 
-Standardly, the energy-level is assumed to be the same as the wavelength-count integer ($n$ $=$ $\hat{n}$ is standardly assumed).
+Standardly, the energy-level is assumed to be the same as the wavelength-count integer ($n$ $=$ $\hat{n}$ is standardly assumed, although sometimes $n = 2\hat{n}$ is standardly assumed, without loss of generality).
 
 We thus standardly have:
 
