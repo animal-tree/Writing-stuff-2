@@ -6,7 +6,7 @@ n \propto r, \quad\quad \text{(Relationship 1)}
 \end{align}
 $$
 
-where $n \in \mathbb{N}$ is the energy-level, $r$ is the radius, and $\propto$ represents monotonic proportionality (monotonic meaning not necessarily linear, can be a curved monotonic proportionality, or can be linear).
+where $n \in \mathbb{N}$ is the energy-level, $r$ is the radius, and $\propto$ represents monotonic proportionality (monotonic meaning not necessarily linear, can be a curved monotonic proportionality, e.g. exponential, or can be linear).
 
 According to de Broglie,
 
