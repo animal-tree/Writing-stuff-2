@@ -98,6 +98,8 @@ When $r$ increases, $v$ must decrease. However, somehow, when $\frac{n}{r}$ incr
 
 $$\frac{f(r)}{r} \propto r.$$
 
-That means $f(r) = n$ must increase slower than $r$, which contradicts "the reality of the radial size of an atom."
+That means $f(r) = n$ must increase faster than $r$, which is agrees with "the reality of the radial size of an atom."
 
-That means something about the standard assumptions must be wrong. $\square$
+Therefore, this holds (as I already [committed](https://github.com/animal-tree/Writing-stuff-2/blob/6e129c612b27e7a27be47c8af6469cbf66a7b957/Theories/Does-This-Hold%3F.md), but quadruple-guessed myself for some reason). However, I've reminded myself in this unecessarily long derivation that distracted me from transcribing my journal notes I wanted to transcribe that, counterintuitively, velocity decreases with energy-level. In other words, kinetic energy decreases with energy-level. I'll now transcribe the original notes I meant to below I guess:
+
+[Actually no I'm making a new document for this. Hold up.]()
