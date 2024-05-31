@@ -7,3 +7,5 @@ The [momentums](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theorie
 And the electromagnetic effects of proximal photons have to be proximity-averaged
 
 since both affect K.E., and their intensities (quanta) would otherwise [sum](https://qr.ae/psZKjS).
+
+This might be the case but I keep hearing everywhere that intensity is independent from K.E., meaning that increasing the brightness of a light shouldn't eventually push electrons the way doing that for frequency does.
