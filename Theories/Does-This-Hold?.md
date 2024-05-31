@@ -1,6 +1,10 @@
 The "orbit" / "shell" / "energy-level" of an atom corresponds proportionally (or rather monotonically, positively increasing) with the radius away from the nucleus of the atom. Let's write that as
 
-$$n \propto r, \text{(Relationship 1)}$$
+$$
+\begin{align}
+n \propto r, \text{(Relationship 1)}
+\end{align}
+$$
 
 where $n \in \mathbb{N}$ is the energy-level and $r$ is the radius.
 
@@ -16,7 +20,11 @@ since the momentum of fermions is $p = mv$, where $m$ is the mass and $v$ is the
 
 This gives us:
 
-$$v = \frac{h}{m\lambda}. \quad\quad \text{(First de Broglie velocity equation)}$$
+$$
+\begin{align}
+v = \frac{h}{m\lambda}. \quad\quad \text{(First de Broglie velocity equation)}
+\end{align}
+$$
 
 de Broglie also says:
 
@@ -36,11 +44,19 @@ $$v = \frac{hn}{m2\pi r}. \text{(Second de Broglie velocity equation)}$$
 
 So now we have the following relationship:
 
-$$v \propto \frac{n}{r}. \text{(Relationship 2)}$$
+$$
+\begin{align}
+v \propto \frac{n}{r}. \text{(Relationship 2)}
+\end{align}
+$$
 
 Finally, according to Coulomb, the centripetal force of the orbit of the electron around the nuclear ($ma_c$, where $a_c$ is the centripetal acceleration) is:
 
-$$ma_c = \frac{Kq_1q_2}{r^2}, \text{(Coulomb's law)}$$
+$$
+\begin{align}
+ma_c = \frac{Kq_1q_2}{r^2}, \text{(Coulomb's law)}
+\end{align}
+$$
 
 where $q_1, q_2$ are the charges of the electron and nucleus respectively, and $K$ is Coulomb's constant. 
 
@@ -48,7 +64,7 @@ Meanwhile, the centripetal acceleration of a circular orbit is: $a_c = \frac{v}{
 
 Plugging this into Coulomb's law, we get:
 
-$$m\frac{v}{r} = \frac{Kq_1q_2}{r^2}, \text{(Coulomb's law)},$$
+$$m\frac{v}{r} = \frac{Kq_1q_2}{r^2},$$
 
 which gives us (by rearrangement):
 
@@ -56,15 +72,19 @@ $$\rightarrow v = \sqrt{\frac{Kq_1q_2}{mr}}$$
 
 and subsequently a new relationship:
 
-$$v \propto \frac{1}{r}. \text{(Relationship 3)}$$
+$$
+\begin{align}
+v \propto \frac{1}{r}. \text{(Relationship 3)}
+\end{align}
+$$
 
 So we now have three necessary relationships, if all standard assumption hold:
 
 $$
 \begin{align}
-&n \propto r \\
-&v \propto \frac{n}{r} \\
-&v \propto \frac{1}{r}
+n &\propto r \\
+v &\propto \frac{n}{r} \\
+v &\propto \frac{1}{r}
 \end{align}
 $$
 
