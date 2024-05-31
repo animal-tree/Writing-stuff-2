@@ -145,7 +145,7 @@ r = \frac{h^2n^2}{m4\pi^2 Kq_1q_2}.
 \end{align}
 $$
 
-This equation has nothing to do with the answer, but it rounds out the equations. Answer is below.
+This equation has nothing to do with the answer, but it rounds out the equations. Answer is below:
 
 #
 
