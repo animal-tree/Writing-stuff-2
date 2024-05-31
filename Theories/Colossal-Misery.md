@@ -6,6 +6,8 @@
 
 I present to you notes I took unedited:
 
+(A couple months ago, see version history)
+
 ### Introduction
 
 We are on the surface of a 4D sphere (hyper-sphere). Like the Earth, every direction on that sphere leads back to itself.
