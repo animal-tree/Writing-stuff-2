@@ -149,7 +149,7 @@ This equation has nothing to do with the answer, but it rounds out the equations
 
 #
 
-So let's retrace our logic from before, hopefully with a clearer answer. When an electron jumps an energy level, its $n$ goes up by $1$. If its radius increases by a smaller proportion, then its $\frac{n}{r}$ goes up and that means, by Relationship 2, velocity $v$ goes up. So to recap, what just happened was, radius increased and velocity also increased. That's a contradiction, by Relationship 3. When radius increases, velocity should decrease, as derived directly from Coulomb's law. And that's an interesting point to note generally, that counterintuitively, velocity goes down with radius, or in other words, velocity goes down with energy-level, or in yet even more counterintuitive words, kinetic energy goes down with energy-level.[^1]
+So let's retrace our logic from before, hopefully with a clearer answer. When an electron jumps an energy level, its $n$ goes up by $1$. If its radius increases by a smaller proportion, then its $\frac{n}{r}$ goes up and that means, by Relationship 2, velocity $v$ goes up. So to recap, what just happened was, radius increased and velocity also increased. That's a contradiction, by Relationship 3. When radius increases, velocity should decrease, as derived directly from Coulomb's law. And that's an interesting point to note generally, that counterintuitively, velocity goes down with radius, or in other words, velocity goes down with energy-level[^4], or in yet even more counterintuitive words, kinetic energy goes down with energy-level.[^1]
 
 But what the previous paragraph showed that's pertinent here is that the radius increasing by a smaller *proportion* than $n$ leads to a contradiction, and that's what we arrived to before, but with one mistake. 
 
@@ -173,3 +173,5 @@ $$
 [^2]: In magnitude, not necessarily proportion.
 
 [^3]: The "Radius equation" definitely does agree with the logic that r must increase proportionally faster than n, specifically quadratically faster.
+
+[^4]: One can derive this directly by plugging the "Radius equation" into Relationship 2, dividing out the shared n, and removing the coefficient constants (since those don't affect monotonicity).
