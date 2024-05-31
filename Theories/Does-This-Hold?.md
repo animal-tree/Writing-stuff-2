@@ -90,6 +90,6 @@ $$
 
 So $v$ has to decrease when $r$ increases, and $v$ has to increase when $\frac{n}{r}$ increases. In other words, velocity decreases with radius, and only *increases* with respect to the quotient of energy-level and radius. Meanwhile, energy-level increases with radius.
 
-Since $n$ increments by integer values and $r$ is constrained by the size of an atom (in meters), $r$ increases much slower than $n$ since $n$ increases by 1 per energy-level and $r$ increases at much smaller fractions of 1 (in meters) per energy-level.
+Since $n$ increments by integer values and $r$ is constrained by the size of an atom (in meters), $r$ has to increase much slower than $n$ since $n$ increases by 1 per energy-level and $r$ increases at much smaller fractions of 1 (in meters) per energy-level.
 
 Is there a contradiction here?
