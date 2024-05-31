@@ -96,7 +96,7 @@ Since $n$ increments by integer values and $r$ is constrained by the size of an 
 
 Is there a contradiction here?
 
-When $r$ decreases, $v$ must increase. Naturally, when $\frac{n}{r}$ increases, $v$ increases, since $r$ decreasing can cause that case. But relationship 3 requires that $r$ increase when $n$ increases. How is that possible? Only if $n$ is a monotonic function of $r$, say $n = f(r)$, such that: 
+When $r$ decreases, $v$ must increase. Naturally, when $\frac{n}{r}$ increases, $v$ can increase, since $r$ decreasing can cause that case. But relationship 3 requires that $r$ increase when $n$ increases. How is that possible? Only if $n$ is a monotonic function of $r$, say $n = f(r)$, such that: 
 
 $$\frac{f(r)}{r} \propto \frac{1}{r}.$$
 
