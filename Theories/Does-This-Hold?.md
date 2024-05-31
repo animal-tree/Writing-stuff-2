@@ -102,6 +102,8 @@ Then $r$ can increase faster than $n$, which contradicts "the reality of the rad
 
 That means something about the standard assumptions must be wrong. $\square$
 
+#
+
 Here is a diagram of that logic:
 
 $$
