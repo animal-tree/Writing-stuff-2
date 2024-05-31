@@ -96,7 +96,7 @@ Since $n$ increments by integer values and $r$ is constrained by the size of an 
 
 Is there a contradiction here?
 
-When $r$ increases, $v$ must decrease (Relationship 3). Then when $\frac{n}{r}$ decreases, $v$ can decrease, since $r$ increasing can cause that case. But Relationship 1 requires that $n$ increase when $r$ increases. So $\frac{n}{r}$ must be able to decrease even when $n$ and $r$ increase. How is that possible? Only if $n$ can increase slower than $r$.
+When $r$ increases, $v$ must decrease (Relationship 3). Then $\frac{n}{r}$ decreases (Relationship 2). But Relationship 1 requires that $n$ increase when $r$ increases. So $\frac{n}{r}$ must be able to decrease even when $n$ and $r$ increase. How is that possible? Only if $n$ can increase slower than $r$.
 
 Then $r$ can increase faster than $n$, which contradicts "the reality of the radial size of an atom."
 
