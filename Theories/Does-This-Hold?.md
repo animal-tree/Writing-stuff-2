@@ -70,7 +70,11 @@ $$m\frac{v^2}{r} = \frac{Kq_1q_2}{r^2},$$
 
 which gives us (by rearrangement):
 
-$$\rightarrow v = \sqrt{\frac{Kq_1q_2}{mr}} \quad\quad \text{(Coulomb's velocity equation)}$$
+$$
+\begin{align}
+\rightarrow v = \sqrt{\frac{Kq_1q_2}{mr}} \quad\quad \text{(Coulomb's velocity equation)}
+\end{align}
+$$
 
 and subsequently a new relationship:
 
