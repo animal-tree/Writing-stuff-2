@@ -96,12 +96,8 @@ Since $n$ increments by integer values and $r$ is constrained by the size of an 
 
 Is there a contradiction here?
 
-When $r$ decreases, $v$ must increase. Naturally, when $\frac{n}{r}$ increases, $v$ can increase, since $r$ decreasing can cause that case. But relationship 3 requires that $r$ increase when $n$ increases. How is that possible? Only if $n$ is a monotonic function of $r$, say $n = f(r)$, such that: 
+When $r$ increases, $v$ must decrease (Relationship 3). Then when $\frac{n}{r}$ decreases, $v$ can decrease, since $r$ increasing can cause that case. But Relationship 1 requires that $n$ increase when $r$ increases. So $\frac{n}{r}$ must be able to decrease even when $n$ and $r$ increase. How is that possible? Only if $n$ can increase slower than $r$.
 
-$$\frac{f(r)}{r} \propto \frac{1}{r}.$$
-
-(That way $v$ can increase when  $\frac{f(r)}{r}$ increases, since $v$ increases inversely to $r$ increasing).
-
-That means $f(r) = n$ must increase slower than $r$, which contradicts "the reality of the radial size of an atom."
+Then $r$ can increase faster than $n$, which contradicts "the reality of the radial size of an atom."
 
 That means something about the standard assumptions must be wrong. $\square$
