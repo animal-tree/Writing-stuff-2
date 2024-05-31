@@ -141,11 +141,11 @@ Then solving for radius $r$:
 
 $$
 \begin{align}
-r = \frac{h^2n^2}{m4\pi^2 Kq_1q_2}.
+r = \frac{h^2n^2}{m4\pi^2 Kq_1q_2}. \quad\quad \text{(Radius equation)}
 \end{align}
 $$
 
-This equation has nothing to do with the answer, but it rounds out the equations. Answer is below:
+This equation has nothing to do with the answer, but it rounds out the equations.[^3] Answer is below:
 
 #
 
@@ -171,3 +171,5 @@ $$
 [^1]: And it is like that for planetary orbits too due to the analogous derivation from Newton's law for gravitational acceleration as the one from Coulomb's law.
 
 [^2]: In magnitude, not necessarily proportion.
+
+[^3]: The "Radius equation" definitely does agree with the logic that r must increase proportionally faster than n, specifically quadratically faster.
