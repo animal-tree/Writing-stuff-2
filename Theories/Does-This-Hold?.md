@@ -98,7 +98,7 @@ When $r$ increases, $v$ must decrease. However, somehow, when $\frac{n}{r}$ incr
 
 $$\frac{f(r)}{r} \propto \frac{1}{r}.$$
 
-(That way $v$ can increase when  $\frac{f(r)}{r}$ increases, since $v$ increases inversely to $r$ increasing.
+(That way $v$ can increase when  $\frac{f(r)}{r}$ increases, since $v$ increases inversely to $r$ increasing).
 
 That means $f(r) = n$ must increase slower than $r$, which contradicts "the reality of the radial size of an atom."
 
