@@ -178,4 +178,4 @@ $$
 
 [^3]: The "Radius equation" definitely does agree with the logic that r must increase proportionally faster than n, specifically quadratically faster.
 
-[^4]: One can derive this directly by plugging the "Radius equation" into Relationship 2, dividing out the shared n, and removing the coefficient constants (since those don't affect monotonicity). For reasons not specified here, the two charges q are both treated as positive, though if one of them was negative then the coefficient would affect monotonicity.
+[^4]: One can derive this directly by plugging the "Radius equation" into Relationship 2, dividing out the shared n, and removing the coefficient constants (since those don't affect monotonicity). For reasons not specified here, the two charges q are both treated as positive, though if one of them was negative then the coefficient would affect monotonicity. That reason, summarized quickly, is that the centripetal acceleration already assumes the "negative" direction of the nuclear charge.
