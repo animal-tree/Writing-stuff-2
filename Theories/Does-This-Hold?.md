@@ -96,7 +96,7 @@ Is there a contradiction here?
 
 When $r$ increases, $v$ must decrease. However, somehow, when $\frac{n}{r}$ increases, $v$ increases, despite the fact that $n$ must increase when $r$ increases. How is that possible? Only if $n$ is a monotonic function of $r$, say $n = f(r)$, such that: 
 
-$$\frac{f(r)}{r} \propto \frac{1}{r}.$$
+$$\frac{f(r)}{r} \propto r.$$
 
 That means $f(r) = n$ must increase slower than $r$, which contradicts "the reality of the radial size of an atom."
 
