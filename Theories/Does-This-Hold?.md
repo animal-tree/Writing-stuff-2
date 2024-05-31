@@ -1,4 +1,4 @@
-The "orbit" / "shell" / "energy-level" of an electron in an atom corresponds proportionally (or rather monotonically, positively increasing) with the radius of the electron' orbit away from the nucleus of the atom. Let's write that as
+The "orbit" / "shell" / "energy-level" of an electron in an atom corresponds proportionally (or rather monotonically, positively increasing) with the radius of the electron's orbit away from the nucleus of the atom. Let's write that as
 
 $$
 \begin{align}
