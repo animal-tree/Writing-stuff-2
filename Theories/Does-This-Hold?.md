@@ -145,7 +145,9 @@ r = \frac{h^2n^2}{m4\pi^2 Kq_1q_2}.
 \end{align}
 $$
 
-This has nothing to do with the answer, but it rounds out all the nice equations I've organized here.
+This equation has nothing to do with the answer, but it rounds out the equations. Answer below.
+
+#
 
 So let's retrace our logic from before, hopefully with a clearer answer. When an electron jumps an energy level, its $n$ goes up by $1$. If its radius increases by a smaller proportion, then its $\frac{n}{r}$ goes up and that means, by Relationship 2, velocity $v$ goes up. So to recap, what just happened was, radius increased and velocity also increased. That's a contradiction, by Relationship 3. When radius increases, velocity should decrease, as derived directly from Coulomb's law. And that's an interesting point to note generally, that counterintuitively, velocity goes down with radius, or in other words, velocity goes down with energy-level, or in yet even more counterintuitive words, kinetic energy goes down with energy-level.[^1]
 
