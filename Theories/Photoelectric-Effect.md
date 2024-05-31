@@ -8,4 +8,4 @@ And the electromagnetic effects of proximal photons have to be proximity-average
 
 since both affect K.E., and their intensities (quanta) would otherwise [sum](https://qr.ae/psZKjS).
 
-This might be the case but I keep hearing everywhere that intensity is independent from K.E., meaning that increasing the brightness of a light shouldn't eventually push electrons (increasing frequency definitely does).
+This might be the case but I keep hearing everywhere in the description of the photoelectric effect that intensity is (completely) independent from K.E., meaning that increasing the brightness of a light shouldn't ever push electrons (increasing frequency definitely does), but since momenta sum standardly, there's a contradiction of reasoning unless, for example, they proximity-average rather than sum.
