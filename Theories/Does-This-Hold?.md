@@ -50,7 +50,7 @@ v \propto \frac{n}{r}. \quad\quad \text{(Relationship 2)}
 \end{align}
 $$
 
-Finally, according to Coulomb, the centripetal force of the orbit of the electron around the nucleus ($ma_c$, where $a_c$ is the centripetal acceleration) is:
+Finally, according to Coulomb, the centripetal force of the orbit of the electron around the nucleus ($F_c = ma_c$, where $a_c$ is the centripetal acceleration) is:
 
 $$
 \begin{align}
