@@ -159,4 +159,4 @@ Also worth noting, from my un-transcribed journal notes and that earlier commit:
 
 > "that, counterintuitively, velocity decreases with energy-level. In other words, kinetic-energy decreases with energy-level."
 
-As per "Coulomb's velocity equation."
+As per "Coulomb's velocity equation" (Relationship 3). And that doesn't contradict Relationship 2 because that involves a quotient, not the energy-level by itself.
