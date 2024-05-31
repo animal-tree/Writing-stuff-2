@@ -84,9 +84,9 @@ So we now have three necessary relationships, if all standard assumptions hold:
 
 $$
 \begin{align}
-n &\propto r \\
-v &\propto \frac{n}{r} \\
-v &\propto \frac{1}{r}
+n &\propto r \quad\quad \text{(Relationship 1)} \\
+v &\propto \frac{n}{r} \quad\quad \text{(Relationship 2)} \\
+v &\propto \frac{1}{r} \quad\quad \text{(Relationship 3)}
 \end{align}
 $$
 
@@ -101,3 +101,17 @@ When $r$ increases, $v$ must decrease (Relationship 3). Then $\frac{n}{r}$ decre
 Then $r$ can increase faster than $n$, which contradicts "the reality of the radial size of an atom."
 
 That means something about the standard assumptions must be wrong. $\square$
+
+Here is a diagram of that logic:
+
+$$
+\begin{align}
+\uparrow r &\implies \downarrow v \quad\quad \text{(Relationship 3)} \\
+&\implies \downarrow \frac{n}{r} \quad\quad \text{(Relationship 2)} \\
+&\implies (\downarrow \frac{n}{r}, \uparrow r, \uparrow n) \quad\quad \text{(Relationship 1)} \\
+&\implies \text{($n$ must increase slower than $r$)} \\
+&\implies \text{($r$ must increase faster than $n$)} \\
+&\implies \text{(Contradiction to "the reality of the radial size of an atom.")} \quad\quad\quad \square \\
+\end{align}
+$$
+
