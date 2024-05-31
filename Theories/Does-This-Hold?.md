@@ -117,3 +117,4 @@ $$
 \end{align}
 $$
 
+But we can calculate the radius for each energy-level, and we do not have this contradiction, so how did the math bring us here?
