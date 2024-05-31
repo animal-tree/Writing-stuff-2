@@ -144,3 +144,13 @@ $$
 r = \frac{h^2n^2}{m4\pi^2 Kq_1q_2}.
 \end{align}
 $$
+
+But to quote myself from an [earlier commit](https://github.com/animal-tree/Writing-stuff-2/blob/9628744752c8d18956f7a200296846f31e5445d0/Theories/Does-This-Hold%3F.md), the second at that point to write this:
+
+> This is of course only possible if $n$ increases faster than $r$, because $v$ has to decrease when $r$ increases, and $v$ has to increase when $\frac{n}{r}$ increases. Since $n$ increments by integer values and $r$ is constrained by the size of an atom (in meters), $r$ indeed increases at much smaller than integer values per energy-level.  Therefore, this holds. However, I've reminded myself in this unecessarily long derivation that distracted me from transcribing my journal notes I wanted to transcribe that, counterintuitively, velocity decreases with energy-level. In other words, kinetic energy decreases with energy-level. I'll now transcribe the original notes I meant to below I guess:
+>
+> [Actually no I'm making a new document for this. Hold up.]()
+
+And I just wrote an elaboration for why this proof doesn't hold and my browser tab suddenly closed, but not after that elaboration, after I specified that it was suspicious how my brain kept fixating back to this every time I went to try to transcribe my journal, which I wanted to do soon since the "ISCO" synchronicity I mentioned [here](https://github.com/animal-tree/Writing-stuff-2/blob/9628744752c8d18956f7a200296846f31e5445d0/Theories/I-Should-Research-This-More.md) is sort of time-based.
+
+I just lost a lot of work because of a random tab-close. Essentially I went through the steps of the earlier disproof and compared them with this "Radius equation."
