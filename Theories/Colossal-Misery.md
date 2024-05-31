@@ -6,7 +6,7 @@
 
 I present to you notes I took unedited:
 
-(>2 months ago, see version history)
+(~5 months ago, see version history)
 
 ### Introduction
 
