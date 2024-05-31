@@ -111,7 +111,7 @@ $$
 &\implies (\downarrow \frac{n}{r}, \uparrow r, \uparrow n) \quad\quad \text{(Relationship 1)} \\
 &\implies \text{($n$ must increase slower than $r$)} \\
 &\implies \text{($r$ must increase faster than $n$)} \\
-&\implies \text{(Contradiction to "the reality of the radial size of an atom.")} \quad\quad\quad \square \\
+&\implies \text{(Contradiction to ``the reality of the radial size of an atom.")} \quad\quad\quad \square \\
 \end{align}
 $$
 
