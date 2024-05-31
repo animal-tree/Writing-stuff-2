@@ -153,7 +153,7 @@ But to quote myself from an [earlier commit](https://github.com/animal-tree/Writ
 
 I didn't make that new document. And I just wrote an elaboration for why this proof doesn't hold and my browser tab suddenly closed, but not after that elaboration, after I specified that it was suspicious how my brain kept fixating back to this every time I went to try to transcribe my journal, which I wanted to do soon since the "ISCO" synchronicity I mentioned [here](https://github.com/animal-tree/Writing-stuff-2/blob/9628744752c8d18956f7a200296846f31e5445d0/Theories/I-Should-Research-This-More.md) is sort of time-dependent.
 
-I just lost a lot of work because of a random tab-close. Essentially I went through the steps of the earlier disproof and compared them with this "Radius equation." The weird thing is, the browser didn't even ask about unsaved data.
+I just lost a lot of work because of a random tab-close. Essentially I went through the steps of the earlier disproof and compared them with this "Radius equation." The weird thing is, the browser didn't even ask about unsaved data. The result was mentally bottlenecked, so I'm gonna re-write it below to try to conclude it and verify, but the conclusion was etching out to be that this disproof was false, perhaps due to the quadratic scaling of $n$.
 
 Also worth noting, from my un-transcribed journal notes and that earlier commit:
 
