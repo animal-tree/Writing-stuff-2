@@ -10,13 +10,17 @@ Say I own a car that I fully paid-off. Say I keep that car in the apartment comp
 
 **Answer:** For simply existing, I get evicted, arrested, or my un-drivable car that I fully own gets repossessed. 
 
-**Question:** What might happen to my immigrant Russian-speaking mom, who is poor, if, upon me learning those unpreventable threats, I commit suicide and my student debt defaults to her?
+**Question:** What might happen to my immigrant Russian-speaking mom, who is poor, if, upon me learning those unpreventable threats, I commit suicide and my student debt defaults to her? 
 
-**Answer:** She gets arrested, or has to learn what "bankruptcy" means.
+**Answer:** She gets arrested, or has to learn what "bankruptcy" means<sup>$\text{\color{maroon}[1]}$</sup>.
 
 In a country of 300,000,000 Americans not only is this possible, but most of it happened to me (thankfully not her) earlier this year!
 
 Best case scenario under all of those circumstances, the fully-owned car gets repossessed. As a result of car *insurance*. I hope that's clear. </br> &nbsp; $\square$
+
+#
+
+$\text{\color{maroon}[1]:}$ "liquidating assets to pay [her] debts or by creating a repayment plan" ([Source](https://www.uscourts.gov/services-forms/bankruptcy)) — What exactly would a "repayment plan" mean in this scenario? She's retired and on social security, and has no assets to "liquidate" — jailtime? For her son's suicide and the moral imperative of auto insurance? (By the way, the car still gets repossessed in this scenario).
 
 ### These were the notes I took around this, in real-time:
 
