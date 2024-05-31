@@ -88,6 +88,8 @@ v &\propto \frac{1}{r}
 \end{align}
 $$
 
-This is of course only possible if $n$ increases faster than $r$, because $v$ has to decrease when $r$ increases, and $v$ has to increase when $\frac{n}{r}$ increases. Since $n$ increments by integer values and $r$ is constrained by the size of an atom (in meters), $r$ indeed increases at much smaller than integer values per energy-level.  Therefore, this holds. However, I've reminded myself in this unecessarily long derivation that distracted me from transcribing my journal notes I wanted to transcribe that, counterintuitively, velocity decreases with energy-level. In other words, kinetic energy decreases with energy-level. I'll now transcribe the original notes I meant to below I guess:
+So $v$ has to decrease when $r$ increases, and $v$ has to increase when $\frac{n}{r}$ increases. In other words, velocity decreases with radius, and only *increases* with respect to the quotient of energy-level and radius. Meanwhile, energy-level increases with radius.
 
-[Actually no I'm making a new document for this. Hold up.]()
+Since $n$ increments by integer values and $r$ is constrained by the size of an atom (in meters), $r$ increases much slower than $n$ since $n$ increases by 1 per energy-level and $r$ increases at much smaller fractions of 1 (in meters) per energy-level.
+
+Is there a contradiction here?
