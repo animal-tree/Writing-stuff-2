@@ -32,7 +32,7 @@ $$2\pi r = \hat{n}\lambda,$$
 
 that is, requiring the wavelength to fit into the circumference of each energy-level $\hat{n} \in \mathbb{N}$ times.
 
-Standardly, the energy-level is assumed to be the same as the wavelength-count integer ($n$ $=$ $\hat{n}$ is standardly assumed). Sometimes $n = 2\hat{n}$ is standardly assumed, without loss of generality when it comes to monotonic proportionality and the proportions considered in this proof, so we'll just stick with the more commonly assumed standard: $n = \hat{n}$.
+Standardly, the energy-level is assumed to be the same as the wavelength-count integer ($n$ $=$ $\hat{n}$ is standardly assumed). Sometimes $n = 2\hat{n}$ is standardly assumed. However, when it comes to monotonic proportionality and the atomic radial proportions considered in this proof, we can stick with $n = \hat{n}$ for simplicity and without loss of generality.
 
 We thus standardly have:
 
