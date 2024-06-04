@@ -47,6 +47,18 @@ Also: Phase-Unifying Doppler-Shifted Relativistic Jerk-Minimizing
 ![IMG_2686](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/e0f649fc-1e10-4b61-ae22-461ff04543eb)
 ![IMG_2687](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/d5e39d94-b32e-4890-89db-9efeb7de7834)
 
+### Unified
+
+Draft from a few days ago:
+
+![IMG_2868](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/a7d83c19-507f-4812-b3f5-e38e1d614600)
+
+Updated:
+
+![IMG_2869](https://github.com/animal-tree/Writing-stuff-2/assets/142250284/1c9bd4a3-3616-492a-9a18-08c32d25b816)
+
+
+
 
 
 
