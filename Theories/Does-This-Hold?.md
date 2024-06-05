@@ -16,7 +16,7 @@ Then:
 
 $$\lambda = \frac{h}{p} = \frac{h}{mv},$$
 
-since the momentum of fermions moving at non-relativistic speeds, such as electrons in atoms (which travel at less than $1$% the speed of light, according to Bohr), is $p$ $=$ $mv$, where $m$ is the mass and $v$ is the tangential velocity.
+since the momentum of fermions moving at non-relativistic speeds, such as electrons in atoms (which travel at less than $1$% the speed of light, according to Bohr), is $p$ $=$ $mv$, where $m$ is the mass and $v$ is the tangential velocity. $h$ is Planck's constant.
 
 This gives us:
 
@@ -25,8 +25,6 @@ $$
 v = \frac{h}{m\lambda}. \quad\quad \text{(First de Broglie velocity equation)}
 \end{align}
 $$
-
-$h$ is Planck's constant.
 
 de Broglie also says:
 
@@ -174,10 +172,10 @@ $$
 \end{align}
 $$
 
-[^1]: And it is like that for planetary orbits too due to the analogous derivation from Newton's law for gravitational acceleration as the one from Coulomb's law.
+[^1]: And it is like that for planetary orbits too due to the analogous derivation from Newton's law for gravitational acceleration as the one from Coulomb's law. The reason the "energy-level" is thought to go up is because ofthe formal increase of "potential energy" since potential energy is negative and technically increases (goes towards 0) with greater distance. 
 
 [^2]: In magnitude, not necessarily proportion.
 
 [^3]: The "Radius equation" definitely does agree with the logic that r must increase proportionally faster than n, specifically quadratically faster.
 
-[^4]: One can derive this directly by plugging the "Radius equation" into Relationship 2, dividing out the shared n, and removing the coefficient constants (since those don't affect monotonicity). For reasons not specified here, the two charges q are both treated as positive, though if one of them was negative then the coefficient would affect monotonicity. That reason, summarized quickly, is that the centripetal acceleration already assumes the "negative" direction of the nuclear charge. The reason the "energy-level" is thought to go up is because ofthe formal increase of "potential energy" since potential energy is negative and technically increases (goes towards 0) with greater distance. 
+[^4]: One can derive this directly by plugging the "Radius equation" into Relationship 2, dividing out the shared n, and removing the coefficient constants (since those don't affect monotonicity). For reasons not specified here, the two charges q are both treated as positive, though if one of them was negative then the coefficient would affect monotonicity. That reason, summarized quickly, is that the centripetal acceleration already assumes the "negative" direction of the nuclear charge. 
