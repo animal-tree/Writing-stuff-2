@@ -174,7 +174,7 @@ $$
 \end{align}
 $$
 
-[^1]: And it is like that for planetary orbits too due to the analogous derivation from Newton's law for gravitational acceleration as the one from Coulomb's law. However, the reason the "energy-level" is thought to go up (at least in the case of these atomic orbits), despite kinetic energy and effect from the nucleus going down, is because of the formal increase of "potential energy" since potential energy is negative and technically increases (goes towards 0) with greater distance. That magnitude increase turns out twice the kinetic energy decrease, so an energy-level "increase" is claimed, counterintuitively, despite all forces acting on the object being weaker and the velocity being slower.
+[^1]: And it is like that for planetary orbits too due to the analogous derivation from Newton's law for gravitational acceleration as the one from Coulomb's law. However, the reason the "energy-level" is thought to go up (at least in the case of these atomic orbits), despite kinetic energy and the nuclear attraction both going down, is because of the formal increase of "potential energy" since potential energy is negative and technically increases (goes towards 0) with greater distance. That magnitude increase turns out twice the kinetic energy decrease, so an energy-level "increase" is claimed, counterintuitively, despite all forces acting on the object being weaker and the velocity being slower.
 
 [^2]: In magnitude, not necessarily proportion.
 
