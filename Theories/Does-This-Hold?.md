@@ -12,11 +12,13 @@ According to de Broglie,
 
 $$p = \frac{h}{\lambda}.$$
 
+$h$ is Planck's constant.
+
 Then:
 
 $$\lambda = \frac{h}{p} = \frac{h}{mv},$$
 
-since the momentum of fermions moving at non-relativistic speeds, such as electrons in atoms (which travel at less than $1$% the speed of light, according to Bohr), is $p$ $=$ $mv$, where $m$ is the mass and $v$ is the tangential velocity. $h$ is Planck's constant.
+since the momentum of fermions moving at non-relativistic speeds, such as electrons in atoms (which travel at less than $1$% the speed of light, according to Bohr), is $p$ $=$ $mv$, where $m$ is the mass and $v$ is the tangential velocity. 
 
 This gives us:
 
