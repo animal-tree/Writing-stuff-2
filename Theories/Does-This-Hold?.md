@@ -16,7 +16,7 @@ Then:
 
 $$\lambda = \frac{h}{p} = \frac{h}{mv},$$
 
-since the momentum of fermions moving at non-relativistic speeds, such as electrons in atoms (which travel at less than $1$% the speed of light, according to Bohr), is $p$ $=$ $mv$, where $m$ is the mass and $v$ is the tangential velocity. $h$ is Planck's constant.
+since the momentum of fermions moving at non-relativistic speeds, such as electrons in atoms (which travel at less than $1$% the speed of light, according to Bohr), is $p$ $=$ $mv$, where $m$ is the mass and $v$ is the tangential velocity.
 
 This gives us:
 
@@ -25,6 +25,8 @@ $$
 v = \frac{h}{m\lambda}. \quad\quad \text{(First de Broglie velocity equation)}
 \end{align}
 $$
+
+$h$ is Planck's constant.
 
 de Broglie also says:
 
