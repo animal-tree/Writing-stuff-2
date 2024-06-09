@@ -22,6 +22,8 @@ Best case scenario under all of those circumstances, the fully-owned car gets re
 
 $\text{\color{maroon}[1]:}$ "liquidating assets to pay [her] debts or by creating a repayment plan" ([Source](https://www.uscourts.gov/services-forms/bankruptcy)) — What exactly would a "repayment plan" mean in this scenario? She's retired and on social security, and has no assets to "liquidate" — jailtime? For her son's suicide and the moral imperative of auto insurance? (By the way, the car still gets repossessed in this scenario).
 
+There is no advantage of private auto insurance to a public, nationalized, taxpayer-paid government auto insurance system.
+
 ### These were the notes I chronicled on GitHub, in real-time:
 
 - "I'm getting overcharged for an accident in 2022 where an 18-wheeler hit my car while I was parked legally on the shoulder of a road in a hit-and-run, where I broke no laws and the driver kept driving and could've killed me. My insurance policy price is more than doubled for that, but that isn't right. An 18-wheeler hit my car in a hit-and-run while I was legally parked. And since I didn't have collision at the time, my insurance (then Geico) didn't even have to pay for the damages, and my car was completely wrecked. So Geico should not be charging me any more than the baseline quote." - Sent to a Geico support bot today before being connected to an agent.
