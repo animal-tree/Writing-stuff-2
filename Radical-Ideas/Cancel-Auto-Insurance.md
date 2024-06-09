@@ -22,7 +22,7 @@ Best case scenario under all of those circumstances, the fully-owned car gets re
 
 $\text{\color{maroon}[1]:}$ "liquidating assets to pay [her] debts or by creating a repayment plan" ([Source](https://www.uscourts.gov/services-forms/bankruptcy)) — What exactly would a "repayment plan" mean in this scenario? She's retired and on social security, and has no assets to "liquidate" — jailtime? For her son's suicide and the moral imperative of auto insurance? (By the way, the car still gets repossessed in this scenario).
 
-There is no advantage of private auto insurance to a public, nationalized, taxpayer-paid government auto insurance system.
+Meanwhile, there is no advantage of private auto insurance to a public, nationalized, taxpayer-paid government auto insurance system.
 
 ### These were the notes I chronicled on GitHub, in real-time:
 
