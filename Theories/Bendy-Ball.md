@@ -1,6 +1,6 @@
 # The Universe as Behavior of Bodies on a Bendy 4D Space-Ball
 
-&ensp;&ensp;&ensp; $\color{#9F8170}\mathrm{Sam \ Lerman}$
+&ensp;&ensp;&ensp; $\color{green}\mathrm{Sam \ Lerman}$
 
 #
 
