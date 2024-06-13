@@ -60,7 +60,7 @@ The distance $\mathrm{d}(\cdot)$ between any two points $x_1, x_2$ then becomes:
 $$\mathrm{d}(x_1, x_2) = \lVert \cos(\frac{\Delta x}{2}) \rVert$$
 
 > [!NOTE]
-> $(0, 0, 0)$ and $(\pi, \pi, \pi)$ have max distance. $(0, 0, 0)$ and $(2\pi, 2\pi, 2\pi)$ have no distance. And $(0, 0, 0)$ and $(3\pi, 3\pi, 3\pi)$ have max distance. $(\pi, 0, 0)$ has the same distance as $(\pi, \pi, \pi)$. One can imagine a 3D sphere to verify this with 2 angle-component dimensions, $(\pi, 0)$ and $(\pi, \pi)$.
+> $(0, 0, 0)$ and $(\pi, \pi, \pi)$ have max distance. $(0, 0, 0)$ and $(2\pi, 2\pi, 2\pi)$ have no distance. And $(0, 0, 0)$ and $(3\pi, 3\pi, 3\pi)$ have max distance. $(\pi, 0, 0)$ has the same distance as $(\pi, \pi, \pi)$; one can imagine a 3D sphere to verify this with 2 angle-component dimensions, $(\pi, 0)$ and $(\pi, \pi)$.
 
 The inverse-square law on a finite spherical universe then becomes $\mathrm{d}(x_1, x_2)^{-2}$.
 
