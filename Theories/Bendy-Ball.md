@@ -21,7 +21,7 @@ It is measurably-indistinguishable by existing precision of distance measurement
 >
 > [...] It is still less satisfactory because it leads to the result that the light emitted by the stars and also individual stars of the stellar system are perpetually passing out into infinite space, never to return, and without ever again coming into interaction with other objects of nature. Such a finite material universe would be destined to become gradually but systemically impoverished.
 >
-> <sub>$\text{\color{green}1.}$ He footnotes a proof to this statement, via the compounding infinite lines of gravity that would accumulate at a point from their infinite origins as infinite densely distributed masses in an infinite universe.</sub>
+> <sub>$\text{\color{green}1.}$ He footnotes a proof to this statement, via the compounding infinite lines of gravity that would accumulate at a point from their infinite origins as infinite masses in an infinite densely-distributed universe.</sub>
 >
 > ### $``$ <sup>[^1]</sup>
 
