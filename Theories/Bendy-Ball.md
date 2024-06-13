@@ -16,9 +16,9 @@ It is measurably-indistinguishable by existing precision of distance measurement
 > The great charm resulting from this consideration lies in the recognition of the fact that *the universe of these beings is finite and yet has no limits.*
 > ### $``$ <sup>[^1]</sup>
 
-Not the least of which of the desirable properties is that, unlike in an infinite universe of densely or uniformly-distributed mass, the, say, inverse-square forces of a spherical universe of desnely or uniformly-distributed mass do not sum to infinity at any given point, which is consistent with the obvious reality.
+Not the least of which of the desirable properties is that, unlike in an infinite universe of densely-distributed mass, the, say, inverse-square forces of a spherical universe of densely-distributed mass do not sum to infinity at any given point, which is consistent with the obvious reality.
 
-Thus, a relatively dense or uniform distribution of mass — without the need to truncate its inverse-square magnitude — is possible on a spherical universe.
+Thus, a relatively uniform distribution of mass — without the need to truncate its inverse-square magnitude — is possible on a spherical universe.
 
 This is highly desirable since it does not give especially biased priority to any one absolute region of space over another, making a principle of relativity most-generally realisable, and remedying the mysterious paradox of the possibility of crashing into an edge.
 
