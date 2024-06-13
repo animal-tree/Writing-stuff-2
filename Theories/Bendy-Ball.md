@@ -43,7 +43,7 @@ But by using such coordinates, distance computations become much easier and more
 
 Therefore, it is a preferred conceptualization of the universe, without any loss of generality given a representational spherical volume of sufficient size.
 
-It is also easy to imagine in its whole by imagining one fewer dimension, and one's position in such an analogous but planular space as being like a body standing upon the Earth. Using that fantasy as bluprint, one can draw by analogy physics of position and motion of a volumetric space by a model that looks like the familiar dynamics along our home planet.
+It is also easy to imagine in its whole by imagining one fewer dimension, and one's position in such an analogous but planular space as being like a body standing upon the Earth. Using that fantasy as blueprint, one can draw by analogy physics of position and motion of a volumetric space by a model that looks like the familiar dynamics along our home planet.
 
 Similarly, as a rock rolls downhill, one can describe gravity in our volumetric universe by analogy to hills on the surface of this sphere, be it one additional dimension.
 
