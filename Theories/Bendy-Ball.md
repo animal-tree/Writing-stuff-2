@@ -62,6 +62,6 @@ The inverse-square law on a finite spherical universe then becomes $\mathrm{d}(x
 
 Note I write "on" a finite spherical universe, not "in." That's because the surface, not the inner volume, is being considered. For a planular surface, like that of the Earth, space would be 2D. But for the universe in question (ours), we may regard the sphere as 4D and therefore its surface as 3D. Declinations in this surface (merely an extra 5th amplitude dimension) give us a representation for a force's accelerative direction. That declination's steepness gives us a representation for that force's accelerative magnitude.
 
-We thereby obtain a new spacetime model for all behavior in the universe, at least relative to one body.
+I thereby obtain a new spacetime model for all behavior in the universe, at least relative to one body.
 
 [^1]: [Albert Einstein, "Relativity The Special & General Theory."](https://a.co/d/50TwgPd)
