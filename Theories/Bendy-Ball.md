@@ -6,8 +6,7 @@ As Einstein wrote, for a large enough sphere, the spherocity of the surface woul
 
 > ### $"$
 > But if this part is small indeed, they will no longer be able to demonstrate that they are on a spherical "world" and not a Euclidean plane, for a small part of a spherical surface differs only slightly from a piece of a plane of the same size. Thus if the spherical-surface beings are living on a planet of which the solar system occupies only a negligibly small part of the spherical universe, they have no means of determining whether they are living in a finite or in an infinite [spherical or not] universe [...]
-> ### $``$
-&ensp;&ensp;&ensp;&ensp;— Einstein [^1]
+> ### $``$ <sup>[^1]</sup>
 
 The same holds for a 4D sphere, except now the coordinates have 3 angle-components rather than 2.
 
@@ -15,8 +14,7 @@ It is measurably-indistinguishable by existing precision of distance measurement
 
 > ### $"$
 > The great charm resulting from this consideration lies in the recognition of the fact that *the universe of these beings is finite and yet has no limits.*
-> ### $``$
-&ensp;&ensp;&ensp;&ensp;— Einstein [^1]
+> ### $``$ <sup>[^1]</sup>
 
 Not the least of which of the desirable properties is that, unlike in an infinite universe of densely or uniformly-distributed mass, the, say, inverse-square forces of a spherical universe of desnely or uniformly-distributed mass do not sum to infinity at any given point, which is consistent with the obvious reality.
 
@@ -30,8 +28,7 @@ However, treating the universe as a 3D surface on a 4D sphere via angular coordi
 
 > ### $"$
 > On their spherical surface our flat beings would find for this ratio the value [...] smaller than $\pi$, the difference being the more considerable, the greater is the radius of the circle in comparison with the radius $R$ of the "world sphere." [...] It follows directly from this discussion, that for our sphere-beings the circumference of a circle first increases with the radius until the "circumference of the universe" is reached, and that it thenceforward gradually decreases to zero for still further increasing values of the radius.
-> ### $``$
-&ensp;&ensp;&ensp;&ensp;— Einstein [^1]
+> ### $``$ <sup>[^1]</sup>
 
 But by using such coordinates, distance computations become much easier and more elegant than if for modulus operations.
 
