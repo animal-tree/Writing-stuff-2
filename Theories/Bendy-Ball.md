@@ -1,5 +1,9 @@
 # The Universe as Behavior of Bodies on a Bendy 4D Space-Ball
 
+&ensp;&ensp;&ensp; $\color{#9F8170}\mathrm{Sam \ Lerman}$
+
+#
+
 The surface of a 3D sphere can be indexed by the angle from the center vertically and the angle from the center horizontally.
 
 As Einstein wrote, for a large enough sphere, the spherocity of the surface would be measurably-indistinguishable from a Euclidean geometry.
