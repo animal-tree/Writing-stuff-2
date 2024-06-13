@@ -29,7 +29,7 @@ It is measurably-indistinguishable by existing precision of distance measurement
 >
 > ### $``$ <sup>[^1]</sup>
 
-Not the least of which of the desirable properties is that, unlike in an infinite universe of densely-distributed mass, the, say, inverse-square forces of a spherical universe of densely-distributed mass do not sum to infinity at any given point, which is consistent with the obvious reality (see my summary of this point in the above footnote).
+Not the least of which of the desirable properties is that, unlike in an infinite universe of densely-distributed mass, the, say, inverse-square forces of a spherical universe of densely-distributed mass do not sum to infinity at any given point, which is consistent with the obvious reality (see my summary of this point in the above green footnote).
 
 Thus, a relatively uniform distribution of mass — without the need to truncate its inverse-square magnitude — is possible on a spherical universe.
 
