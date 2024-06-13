@@ -49,7 +49,7 @@ Similarly, as a rock rolls downhill, one can describe gravity in our volumetric 
 
 In doing so, the Earth's 3D dimensions gains an extra amplitude dimension, making the total representation of the planular space 4D, and our 4D volumetric surface gains an extra amplitude dimension, making the total representation of the volumetric space 5D, and in both cases permitting an accelerative direction for which gravity and thereby masses can pull.
 
-Note: It's a big synchronicity I read these relevant chapters in Einstein's "Relativity The Special & General Theory"[^1] book months *after* writing my own idea to this [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Colossal-Misery.md) in a linguistic style, no less, that seemed somewhat inspired by Einstein's own linguistic voice, resembling the "gutteral" but humorous "epic-ness" that I feel strongly characterizes his language. And this happened in a state of inspiration, where I was clearly — viscerally — receiving insight from an exterior-seeming or deeper-internal source.
+Note: It's a big synchronicity I read these relevant chapters in Einstein's "Relativity The Special & General Theory"[^1] book months *after* writing my own idea to this [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Colossal-Misery.md) in a linguistic style, no less, that seemed somewhat inspired by Einstein's own linguistic voice, resembling the "gutteral" but humorous "epic-ness" that I feel strongly characterizes his language. And this happened in a state of inspiration, where I was clearly — viscerally — receiving insight from an exterior-seeming and deeper-internal source.
 
 The distance $d(\cdot)$ between any two points $x_1, x_2$ then becomes:
 
