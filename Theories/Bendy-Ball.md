@@ -25,11 +25,11 @@ It is measurably-indistinguishable by existing precision of distance measurement
 >
 > [...The alternative] is still less satisfactory because it leads to the result that the light emitted by the stars and also individual stars of the stellar system are perpetually passing out into infinite space, never to return, and without ever again coming into interaction with other objects of nature. Such a finite material universe would be destined to become gradually but systemically impoverished.
 >
-> <sub>$\text{\color{green}1.}$ He footnotes a proof to this statement, via the compounding infinite lines of gravity that would accumulate at a point from their infinite origins as infinite masses in an infinite densely-distributed universe.</sub>
+> <sub>$\text{\color{green}1.}$ He footnotes a proof to this statement on Page 126, via the compounding infinite lines of gravity that would accumulate at a point from their infinite origins as infinite masses in an infinite densely-distributed universe.</sub>
 >
 > ### $``$ <sup>[^1]</sup>
 
-Not the least of which of the desirable properties is that, unlike in an infinite universe of densely-distributed mass, the, say, inverse-square forces of a spherical universe of densely-distributed mass do not sum to infinity at any given point, which is consistent with the obvious reality (see my summary of this point in the above green footnote).
+Not the least of which of the desirable properties is that, unlike in an infinite universe of densely-distributed mass, the, say, inverse-square forces of a spherical universe of densely-distributed mass do not sum to infinity at any given point, which is consistent with the obvious reality (see my summary of this point in the above footnote referencing Einstein's footnote).
 
 Thus, a relatively uniform distribution of mass — without the need to truncate its inverse-square magnitude — is possible on a spherical universe.
 
