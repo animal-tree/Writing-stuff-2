@@ -15,9 +15,9 @@ It is measurably-indistinguishable by existing precision of distance measurement
 > ### $"$
 > The great charm resulting from this consideration lies in the recognition of the fact that *the universe of these beings is finite and yet has no limits.* 
 >
-> [...] If we ponder over the question as to how the universe, considered as a whole, is to be regarded, the first answer that suggests itself to us is surely this: As regards to space (and time) the universe is infinite. There are stars everywhere, so that the density of matter, although very variable in detail, is nevertheless on the average everywhere the same.
+> [...] If we ponder over the question as to how the universe, considered as a whole, is to be regarded, the first answer that suggests itself to us is surely this: As regards to space (and time) the universe is infinite. There are stars everywhere, so that the density of matter, although very variable in detail, is nevertheless on the average everywhere the same. In other words: However far we might travel through space, we should find everywhere an attenuated swarm of fixed stars of approximately the same kind and density.
 > 
-> This view is not in harmony with teh theory of Newton. [...] The stellar universe ought to be a finite island in the infinite ocean of space.<sup>$\text{\color{green}1.}$</sup>
+> This view is not in harmony with the theory of Newton. [...] The stellar universe ought to be a finite island [yet with no limits] in the infinite ocean of space.<sup>$\text{\color{green}1.}$</sup>
 >
 > [...] It is still less satisfactory because it leads to the result that the light emitted by the stars and also individual stars of the stellar system are perpetually passing out into infinite space, never to return, and without ever again coming into interaction with other objects of nature. Such a finite material universe would be destined to become gradually but systemically impoverished.
 >
