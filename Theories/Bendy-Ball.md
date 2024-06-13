@@ -51,14 +51,14 @@ In doing so, the Earth's 3D dimensions gains an extra amplitude dimension, makin
 
 Note: It's a big synchronicity I read these relevant chapters in Einstein's "Relativity The Special & General Theory"[^1] book months *after* writing my own idea to this [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Colossal-Misery.md) in a linguistic style, no less, that seemed somewhat inspired by Einstein's own linguistic voice, resembling the "gutteral" but humorous "epic-ness" that I feel strongly characterizes his language. And this happened in a state of inspiration, where I was clearly — viscerally — receiving insight from an exterior-seeming and deeper-internal source.
 
-The distance $d(\cdot)$ between any two points $x_1, x_2$ then becomes:
+The distance $\mathrm{d}(\cdot)$ between any two points $x_1, x_2$ then becomes:
 
-$$d(x_1, x_2) = \lVert cos(\frac{\Delta x}{2}) \rVert$$
+$$\mathrm{d}(x_1, x_2) = \lVert \cos(\frac{\Delta x}{2}) \rVert$$
 
 > [!NOTE]
 > $(0, 0, 0)$ and $(\pi, \pi, \pi)$ have max distance. $(0, 0, 0)$ and $(2\pi, 2\pi, 2\pi)$ have no distance. And $(0, 0, 0)$ and $(3\pi, 3\pi, 3\pi)$ have max distance.
 
-The inverse-square law on a finite spherical universe then becomes $d(x_1, x_2)^{-2}$.
+The inverse-square law on a finite spherical universe then becomes $\mathrm{d}(x_1, x_2)^{-2}$.
 
 Note I write "on" a finite spherical universe, not "in." That's because the surface, not the inner volume, is being considered. For a planular surface, like that of the Earth, space would be 2D. But for the universe in question (ours), we may regard the sphere as 4D and therefore its surface as 3D. Declinations in this surface (merely an extra 5th amplitude dimension) give us a representation for a force's accelerative direction. That declination's steepness gives us a representation for that force's accelerative magnitude.
 
