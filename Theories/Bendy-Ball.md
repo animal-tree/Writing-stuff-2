@@ -5,7 +5,7 @@ The surface of a 3D sphere can be indexed by the angle from the center verticall
 As Einstein wrote, for a large enough sphere, the spherocity of the surface would be measurably-indistinguishable from a Euclidean geometry.
 
 > ### $"$
-> But if this part is small indeed, they will no longer be able to demonstrate that they are on a spherical "world" and not a Euclidean plane, for a small part of a spherical surface differs only slightly from a piece of a plane of the same size. Thus if the spherical-surface beings are living on a planet of which the solar system occupies only a negligibly small part of the spherical universe, they have no means of determining whether they are living in a finite or in an infinite [sic: spherical or not] universe [...]
+> But if this part is small indeed, they will no longer be able to demonstrate that they are on a spherical "world" and not a Euclidean plane, for a small part of a spherical surface differs only slightly from a piece of a plane of the same size. Thus if the spherical-surface beings are living on a planet of which the solar system occupies only a negligibly small part of the spherical universe, they have no means of determining whether they are living in a finite or in an infinite [spherical or not] universe [...]
 > ### $``$
 &ensp;&ensp;&ensp;&ensp;— Einstein [^1]
 
@@ -29,7 +29,7 @@ Such a universe, indexed by 3 angular coordinates, can also be described — alm
 However, treating the universe as a 3D surface on a 4D sphere via angular coordinates makes the operation almost equivalent. The only difference is that, due to the curvature, the diameter of any given circle on the sphere is slightly bigger — imperceptibly if the universe is sufficiently large — than the circumference divided by $\pi$. As Einstein described:
 
 > ### $"$
-> On their spherical surface our flat beings would find for this ratio the value [sic] smaller than $\pi$, the difference being the more considerable, the greater is the radius of the circle in comparison with the radius $R$ of the "world sphere." [...] It follows directly from this discussion, that for our sphere-beings the circumference of a circle first increases with the radius until the "circumference of the universe" is reached, and that it thenceforward gradually decreases to zero for still further increasing values of the radius.
+> On their spherical surface our flat beings would find for this ratio the value [...] smaller than $\pi$, the difference being the more considerable, the greater is the radius of the circle in comparison with the radius $R$ of the "world sphere." [...] It follows directly from this discussion, that for our sphere-beings the circumference of a circle first increases with the radius until the "circumference of the universe" is reached, and that it thenceforward gradually decreases to zero for still further increasing values of the radius.
 > ### $``$
 &ensp;&ensp;&ensp;&ensp;— Einstein [^1]
 
