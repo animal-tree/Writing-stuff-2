@@ -13,7 +13,16 @@ The same holds for a 4D sphere, except now the coordinates have 3 angle-componen
 It is measurably-indistinguishable by existing precision of distance measurement to distinguish if the universe we live in is the surface of such a very large finite 4D sphere, or different. However, as Einstein points out, such a concept has many desirable properties:
 
 > ### $"$
-> The great charm resulting from this consideration lies in the recognition of the fact that *the universe of these beings is finite and yet has no limits.*
+> The great charm resulting from this consideration lies in the recognition of the fact that *the universe of these beings is finite and yet has no limits.* 
+>
+> [...] If we ponder over the question as to how the universe, considered as a whole, is to be regarded, the first answer that suggests itself to us is surely this: As regards to space (and time) the universe is infinite. There are stars everywhere, so that the density of matter, although very variable in detail, is nevertheless on the average everywhere the same.
+> 
+> This view is not in harmony with teh theory of Newton. [...] The stellar universe ought to be a finite island in the infinite ocean of space.<sup>$\text{\color{green}1.}$</sup>
+>
+> [...] It is still less satisfactory because it leads to the result that the light emitted by the stars and also individual stars of the stellar system are perpetually passing out into infinite space, never to return, and without ever again coming into interaction with other objects of nature. Such a finite material universe would be destined to become gradually but systemically impoverished.
+>
+> <sub>$\text{\color{green}1.}$ He footnotes a proof to this statement, via the compounding infinite lines of gravity that would accumulate at a point from their infinite origins as infinite masses in an infinite (densely distributed) universe.</sub>
+>
 > ### $``$ <sup>[^1]</sup>
 
 Not the least of which of the desirable properties is that, unlike in an infinite universe of densely-distributed mass, the, say, inverse-square forces of a spherical universe of densely-distributed mass do not sum to infinity at any given point, which is consistent with the obvious reality.
