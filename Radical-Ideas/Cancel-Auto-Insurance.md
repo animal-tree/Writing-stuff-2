@@ -8,7 +8,7 @@ Say I own a car that I fully paid-off. Say I keep that car in the apartment comp
 
 **Question:** What happens to me, having not broken any laws, for simply existing, due to the auto insurance system?
 
-**Answer:** For simply existing, I get evicted, arrested, or my un-drivable car that I fully own gets repossessed. 
+**Answer:** For simply existing, I get evicted, arrested, or my un-drivable car that I fully own gets repossessed. This isn't exaggeration. Under the described scenario, one of these three things happens.
 
 **Question:** What might happen to my immigrant Russian-speaking mom, who is poor, if, upon me learning those unpreventable threats, I commit suicide and my student debt defaults to her? 
 
