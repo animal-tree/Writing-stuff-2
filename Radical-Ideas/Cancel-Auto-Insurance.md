@@ -63,9 +63,7 @@ Also, car insurance should pay for all car damages for people, including, e.g., 
 
 - I replied:
 
-> Oh, apologies. Attached is a photo of the ID card.
->
-> Also, to specify, I talked to two reps on three occasions, and not only did Progressive fax the policy, but [name anonymized] confirmed that she received it and confirmed twice that my policy with Allstate was cancelled. She even left a voicemail and confirmed the second time that I would not be charged more than about $40.
+> I talked to two reps on three occasions, and not only did Progressive fax the policy, but [name anonymized] confirmed that she received it and confirmed twice that my policy with Allstate was cancelled. She even left a voicemail and confirmed the second time that I would not be charged more than about $40.
 >
 > See attached photo of the ID card.
 
