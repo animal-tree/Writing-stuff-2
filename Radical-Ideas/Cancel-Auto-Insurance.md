@@ -16,7 +16,9 @@ Say I own a car that I fully paid-off. Say I keep that car in the apartment comp
 
 In a country of 300,000,000 Americans not only is this possible, but most of it happened to me (thankfully not her) earlier this year (not counting the 18-wheeler hit-and-run)!
 
-Best case scenario under all of those circumstances, the fully-owned car gets repossessed. As a result of car *insurance*. I hope that's clear. </br> &nbsp; $\square$
+Best case scenario under all of those circumstances, the fully-owned car gets repossessed. As a result of car *insurance*. I hope that's clear. 
+
+To reiterate: In each scenario, the best-possible-outcome is that the insured car gets repossessed due only to its being insured. That's a contradiction to insurance. </br> &nbsp; $\square$
 
 #
 
