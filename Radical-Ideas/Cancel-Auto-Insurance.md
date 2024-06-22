@@ -10,7 +10,7 @@ Say I own a car that I fully paid-off. Say I keep that car in the apartment comp
 
 **Answer:** For simply existing, I get evicted, arrested, or my un-drivable car that I fully own gets repossessed. This isn't exaggeration. Under the described scenario, one of these three things happens.
 
-**Question:** What happens to my immigrant Russian-speaking mom, who is poor, if I'm the victim of a car accident that kills me (say, my car gets side-swiped by an 18-wheeler in a hit-and-run while I'm in it and parked on the shoulder of a bridge), and my student debt defaults to her? 
+**Question:** What happens to my immigrant Russian-speaking mom, who is poor, if an 18-wheeler runs me over and kills me, and my student debt defaults to her? 
 
 **Answer:** She gets arrested, or has to learn what "bankruptcy" means<sup>$\text{\color{maroon}[1]}$</sup>.
 
