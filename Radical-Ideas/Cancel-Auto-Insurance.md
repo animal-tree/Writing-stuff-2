@@ -10,7 +10,7 @@ Say I own a car that I fully paid-off. Say I keep that car in the apartment comp
 
 **Answer:** She gets arrested, or has to learn what "bankruptcy" means<sup>$\text{\color{maroon}[1]}$</sup>, maybe the car insurance pays for the damage to the car, but the car still has to get repossessed since she can't afford to pay for the mandatory car insurance, or get evicted since she still can't keep the car at the apartment complex without a license plate. Also, if she doesn't somehow get rid of it (the fully-owned car), and the repossession doesn't happen, she gets arrested for not paying the auto insurance.
 
-In a country of 300,000,000 Americans not only is this possible, but most of it happened to me (thankfully not her) earlier this year (except for the 18-wheeler hit-and-run — that happened to me in early 2022)!
+In a country of 300,000,000 Americans not only is this possible, but most of it happened to me (thankfully not her) earlier this year (except for the 18-wheeler hit-and-run — that happened to me in early 2022).
 
 Best case scenario under all of those circumstances, the fully-owned car gets repossessed. As a result of car *insurance*. I hope that's clear. </br> &nbsp; $\square$
 
