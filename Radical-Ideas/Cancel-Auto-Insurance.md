@@ -20,7 +20,7 @@ $\text{\color{maroon}[1]:}$ "liquidating assets to pay [her] debts or by creatin
 
 Meanwhile, there is no advantage of private auto insurance to a public, nationalized, taxpayer-paid government auto insurance program (e.g. AutoInsuranceForAll).
 
-To reiterate: In every scenario, the best-possible-outcome is that the insured car gets repossessed due only to its being insured. That's a contradiction to insurance. </br> &nbsp; $\square$
+To reiterate: In every scenario, the best-possible-outcome is that the insured car gets repossessed due only to its being insured. That's a contradiction to insurance. 
 
 #
 
