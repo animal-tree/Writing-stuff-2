@@ -1,24 +1,26 @@
 # Overview
 
-The archetype of the Alderman prides himself in Auto Insurance. It’s a service that gives people what they need, right? There’s a whole system around it. “Everybody” agrees it’s not just paramount but also morally important. And yet, inspecting closer, it’s literally a flat tax to poor people that costs them oftentimes as much as their paychecks. The immorality is so extreme, considering that those poor people might actually *own* the car that they are being charged a subscription fee for, that it can’t even be described in this one paragraph.
-
-What can happen really is atrocious. And here is a case study from which some of the worst scenarios that this system creates can be extrapolated:
-
-Say I own a car that I fully paid-off. Say I keep that car in the apartment complex where I live. Say my insurance, due to some freak ambiguous accident, charges me $1200 for the next 6-month policy. Say my mom is poor, I have thousands of dollars of college student debt that would default to her if I died, and I recently became unemployed. Say I can’t afford to pay that $1200 fee and there are no significantly better options. Say the car I own is un-drivable due to a broken part (say, dead battery). Say my apartment complex prohibits cars without license plates from being parked there. Say the law requires that license plates be returned to the DMV for any uninsured cars. Say I don't have enough property that can be repossessed to pay off the insurer, except perhaps the car that it's insuring. 
+Say I own a car that I fully paid-off. Say I keep that car in the apartment complex where I live. Say my insurance, due to some freak ambiguous accident, charges me $1200 for the next 6-month policy. Say my mom is poor, I have thousands of dollars of college student debt that would default to her if I died, and I recently became unemployed, was suicidal, and sick. Say I can’t afford to pay that $1200 fee and there are no significantly better options. Say the car I own is un-drivable due to a broken part (say, dead battery), but is repairable and worth too much to dispose of or sell, and has sentimental value to me. Say I'm also incapacitated or hospitalized for some time due to being sick. And say my apartment complex prohibits cars without license plates from being parked there. Say I live with my mom there. Say the law requires that license plates be returned to the DMV for any uninsured cars. Say I don't have enough property that can be repossessed to pay off the insurer, except perhaps the car that it's insuring. Say English isn't my mom's primary language and we immigrated here legally as Jewish refugees from Uzbekistan.
 
 **Question:** What happens to me, having not broken any laws, for simply existing, due to the auto insurance system?
 
-**Answer:** For simply existing, I get evicted, arrested, or my un-drivable car that I fully own gets repossessed. This isn't exaggeration. Under the described scenario, one of these three things happens.
+**Answer:** For simply existing, I get evicted, arrested, or my un-drivable car that I fully own gets repossessed. 
 
-**Question:** What happens to my mom, who is poor, if an 18-wheeler runs me over and kills me in a hit-and-run, and my student debt defaults to her? 
+**Question:** What might happen to my immigrant Russian-speaking mom, who is poor, if I'm the victim of a car accident that kills me (say, my car gets side-swiped by an 18-wheeler while I'm in it and parked on the shoulder of a bridge), and my student debt defaults to her? 
 
-**Answer:** She gets arrested, or has to learn what "bankruptcy" means<sup>$\text{\color{maroon}[1]}$</sup>.
+**Answer:** She gets arrested, or has to learn what "bankruptcy" means<sup>$\text{\color{maroon}[1]}$, maybe the car insurance pays for the damage to the car, but the car still has to get repossessed since she can't afford to pay for the mandatory car insurance, or get evicted since she and I live in the same apartment.</sup>.
 
-In a country of 300,000,000 Americans not only is this possible, but most of it happened to me (thankfully not her) earlier this year (not counting the 18-wheeler hit-and-run)!
+In a country of 300,000,000 Americans not only is this possible, but most of it happened to me (thankfully not her) earlier this year!
 
-Best case scenario under all of those circumstances, the fully-owned car gets repossessed. As a result of car *insurance*. I hope that's clear. 
+Best case scenario under all of those circumstances, the fully-owned car gets repossessed. As a result of car *insurance*. I hope that's clear. </br> &nbsp; $\square$
 
-To reiterate: In each scenario, the best-possible-outcome is that the insured car gets repossessed due only to its being insured. That's a contradiction to insurance. </br> &nbsp; $\square$
+#
+
+$\text{\color{maroon}[1]:}$ "liquidating assets to pay [her] debts or by creating a repayment plan" ([Source](https://www.uscourts.gov/services-forms/bankruptcy)) — What exactly would a "repayment plan" mean in this scenario? She's retired and on social security, and has no assets to "liquidate" — jailtime? For her son's suicide and the moral imperative of auto insurance? (By the way, the car still gets repossessed in this scenario).
+
+Meanwhile, there is no advantage of private auto insurance to a public, nationalized, taxpayer-paid government auto insurance program (e.g. AutoInsuranceForAll).
+
+To reiterate: In every scenario, the best-possible-outcome is that the insured car gets repossessed due only to its being insured. That's a contradiction to insurance. </br> &nbsp; $\square$
 
 #
 
@@ -43,7 +45,7 @@ So all of this might seem okay, because you might think I can get by without a c
 - Update: I can't legally keep my car without license plates in my apartment complex, so I'm legally required to pay the insurance liability fee or else get evicted, for a car I can't use.
     - The fee I end up having to pay, to AllState, if I don't change insurance companies by tomorrow, most likely includes a charge for the hit-and-run I was in that wasn't my fault (and could've killed me), since it's $748.77 with them having removed all coverages and only keeping the bare-minimum liability fee. Geico in comparison quoted me ~$540, and Amica, which has a one week processing period, ~$440. I can either (1) let AllState charge me for a month, get some money refunded, and then switch to Amica, or (2) switch to Geico by tomorrow. No matter what, the extortions are insane. These are labor-and-expense requirements put on an unemployed person... on unusable property that the unemployed person fully paid off.
     - My eczema got really severe for a time, and so I did a prolonged fast that I’m coming off of now.
-    	- Edit: My eczema was severe for another [N months] (ongoing) due to persisting stress and other invented responsibilities.
+    	- Edit: My eczema was severe for another [N months] (ongoing) due to persisting stress and other externally invented responsibilities.
     - Had I died from that hit-and-run, and if I didn’t have savings, my mom, who is poor, would've been charged with all of my student debt, as a punishment for the driver of that 18-wheeler's hit-and-run, and no insurance company or government institution or religious organization or charity would exist to help.
 
 These things might seem like small impositions of the state and corporate powers, but these are huge sums of money charged greedily at a flat rate to poor people and rich people alike, just for having a car. Monthly, or every 6 months, a tax for car ownership. And tons of bureaucracy.
