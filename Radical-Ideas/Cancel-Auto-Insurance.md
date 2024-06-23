@@ -8,7 +8,7 @@ Say I own a car that I fully paid-off. Say I keep that car in the apartment comp
 
 **Question:** Say the car wasn't un-driveable because I repaired it (which I did later). What might happen to my mom, who is poor, if I was the victim of a car accident that kills me (say, my car gets side-swiped by an 18-wheeler while I'm in it and parked on the shoulder of a bridge), and my student debt defaults to her? 
 
-**Answer:** She gets arrested, or has to learn what "bankruptcy" means<sup>$\text{\color{maroon}[1]}$</sup>, maybe the car insurance pays for the damage to the car, but the car still has to get repossessed since she can't afford to pay for the mandatory car insurance, or get evicted since she still can't keep the car at the apartment complex without a license plate. Also, if she doesn't somehow get rid of it (the fully-owned car), and the repossession doesn't happen, she gets arrested for not paying the auto insurance.
+**Answer:** She gets arrested, or has to learn what "bankruptcy" means<sup>$\text{\color{maroon}[1]}$</sup>, maybe the car insurance pays for the damage to the car, but the car still has to get repossessed since she can't afford to pay for the mandatory car insurance, or get evicted since she still can't keep the car at the apartment without a license plate. Also, if she doesn't somehow get rid of it (the fully-owned car), and the repossession doesn't happen, she gets arrested for not paying the auto insurance.
 
 In a country of 300,000,000 Americans not only is this possible, but most of it happened to me (thankfully not her) earlier this year (except for the 18-wheeler hit-and-run — that happened to me in early 2022).
 
