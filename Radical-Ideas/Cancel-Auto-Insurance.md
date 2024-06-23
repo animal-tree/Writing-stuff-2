@@ -22,7 +22,7 @@ Meanwhile, there is no advantage of private auto insurance to a public, national
 
 To reiterate: In every scenario, the best-possible-outcome is that the insured car gets repossessed due only to its being insured. That's a contradiction with no sense or justification. 
 
-### These were the notes I chronicled about these events on GitHub, as they happened in real-time:
+## These were the notes I chronicled about these events on GitHub, as they happened in real-time:
 
 - "I'm getting overcharged for an accident in 2022 where an 18-wheeler hit my car while I was parked legally on the shoulder of a road in a hit-and-run, where I broke no laws and the driver kept driving and could've killed me. My insurance policy price is more than doubled for that, but that isn't right. An 18-wheeler hit my car in a hit-and-run while I was legally parked. And since I didn't have collision at the time, my insurance (then Geico) didn't even have to pay for the damages, and my car was completely wrecked. So Geico should not be charging me any more than the baseline quote." - Sent to a Geico support bot today before being connected to an agent.
 - Actually, it turned out they quoted me for a single speeding ticket 3 years ago, minus a week or so. More than double from ~$180 to ~$540 over their would-be baseline quote. But I was just trying to get a quote from Geico. My car insurance is Allstate.
