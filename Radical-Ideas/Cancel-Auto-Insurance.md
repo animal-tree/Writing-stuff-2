@@ -13,7 +13,7 @@
 
 **Answer:** For simply existing, I get evicted, I get arrested, or my un-drivable car that I fully own gets repossessed, as their fee for providing auto insurance. 
 - I can't bring the license plate to the DMV because of my apartment, so I can't cancel the auto insurance. 
-- I can't move the car anywhere else due to the dead battery, and perhaps wouldn't have anywhere else to move it either way.
+- I can't move the car anywhere else due to the dead battery, and perhaps wouldn't have anywhere else to move it anyway.
 - I have to pay for auto insurance somehow.
 
 #
