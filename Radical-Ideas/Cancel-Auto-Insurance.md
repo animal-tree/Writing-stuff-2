@@ -1,26 +1,33 @@
 # Overview
 
-Say I own a car that I fully paid-off. Say I keep that car in the apartment complex where I live. Say my insurance, due to some freak ambiguous accident, charges me $1200 for the next 6-month policy. Say my mom is poor, I have thousands of dollars of college student debt that would default to her if I died, and I recently became unemployed. Say I can’t afford to pay that $1200 fee and there are no significantly better options. Say the car I own is un-drivable due to a broken part (say, dead battery), but is repairable. And say my apartment complex prohibits cars without license plates from being parked there. Say I live with my mom there. Say the law requires that license plates be turned in to the DMV for any uninsured cars. Say I don't have enough property that can be repossessed to pay off the insurer, except perhaps the car that it's insuring. Say English isn't my mom's primary language and we immigrated here legally as Jewish refugees from Uzbekistan.
+The archetype of the Alderman prides himself in Auto Insurance. It’s a service that gives people what they need, right? There’s a whole system around it. “Everybody” agrees it’s not just paramount but also morally important. And yet, inspecting closer, it’s literally a flat tax to poor people that costs them oftentimes as much as their paychecks. The immorality is so extreme, considering that those poor people might actually *own* the car that they are being charged a subscription fee for, that it can’t even be described in this one paragraph.
+
+What can happen really is atrocious. And here is a case study from which some of the worst scenarios that this system creates can be extrapolated:
+
+- Say I own a car that I fully paid-off.
+- Say insurance companies charge me exorbitant prices for a 6-month policy due a to a speeding ticket from a little less than 3 years ago.
+- Say my mom and I are poor, I recently became unemployed, and we can’t afford to pay those prices.
+- Say the car I own is un-drivable due to a broken part (say, dead battery), but is repairable.
+- Say I keep that car in the apartment complex where my mom and I live.
+- Say my apartment complex prohibits cars without license plates from being parked there.
+- And say the law requires that license plates be turned in to the DMV for any uninsured cars. 
+- Say I don't have enough property that can be repossessed to pay off the insurer, except perhaps the car that it's insuring. 
 
 **Question:** What happens to me, having not broken any laws, for simply existing, due to the auto insurance system?
 
 **Answer:** For simply existing, my mom and I get evicted, I get arrested, or my un-drivable car that I fully own gets repossessed. 
 
-**Question:** Say the car wasn't un-driveable because I repaired it (which I did later). What might happen to my mom, who is poor, if I was the victim of a car accident that kills me (say, my car gets side-swiped by an 18-wheeler while I'm in it and parked on the shoulder of a bridge), and my student debt defaults to her? 
+**Question:** Say the car wasn't un-driveable because I repaired it (which I did later). What might happen to my mom, who is poor, if I was the victim of a car accident that kills me (say, my car gets side-swiped by an 18-wheeler while I'm in it), and the car goes to my mom. Does my mom at least get to keep the car that her son fully paid off?
 
-**Answer:** She gets arrested, or has to learn what "bankruptcy" means<sup>$\text{\color{maroon}[1]}$</sup>, maybe the car insurance pays for the damage to the car, but the car still has to get repossessed since she can't afford to pay for the mandatory car insurance, or get evicted since she still can't keep the car at the apartment without a license plate. Also, if she doesn't somehow get rid of it (the fully-owned car), and the repossession doesn't happen, she gets arrested for not paying the auto insurance.
+**Answer:** Maybe the car insurance pays for the damages to the car, but the car still has to get repossessed since she can't afford to pay for the mandatory car insurance, or get evicted since she still can't keep the car at the apartment without a license plate. Also, if she doesn't get rid of it (the fully-owned car), she gets arrested for not paying the auto insurance.
 
-In a country of 300,000,000 Americans not only is this possible, but most of it happened to me (thankfully not her) earlier this year (except for the 18-wheeler hit-and-run while parked on the shoulder of a bridge — that happened to me in early 2022, and my insurance at the time didn't pay for the damages/car since my mom and I only had the mandatory liability insurance and not collision, since collision coverage is expensive and it was my mom's Geico insurance at the time, and my car by the way was completely wrecked from that 18-wheeler's hit-and-run).
-
-Best case scenario under all of those circumstances, the fully-owned car gets repossessed. As a result of car *insurance*. I hope that's clear. </br> &nbsp; $\square$
-
-#
-
-$\text{\color{maroon}[1]:}$ "liquidating assets to pay [her] debts or by creating a repayment plan" ([Source](https://www.uscourts.gov/services-forms/bankruptcy)) — What exactly would a "repayment plan" mean in this scenario? She's retired and on social security, and has no assets to "liquidate" — jailtime? For her son's suicide and the moral imperative of auto insurance? (By the way, the car still gets repossessed in this scenario).
+Best case scenario under all of those circumstances, we lose the fully-owned car. As a result of car *insurance*. 
 
 Meanwhile, there is no advantage of private auto insurance to a public, nationalized, taxpayer-paid government auto insurance program (e.g. AutoInsuranceForAll).
 
-To reiterate: In every scenario, the best-possible-outcome is that the insured car gets repossessed. That's a contradiction to car insurance with no sense or justification. 
+To reiterate: In every scenario, the best-possible-outcome is that we lose the insured car. That's a contradiction to car insurance with no sense or justification. 
+
+In a country of 300,000,000 Americans not only is this possible, but most of it happened to me (thankfully not her) earlier this year (except for the 18-wheeler hit-and-run while parked on the shoulder of a bridge — that happened to me in early 2022, and my insurance at the time didn't pay for the damages/car since my mom and I only had the mandatory liability insurance and not collision, since collision coverage is expensive and it was my mom's Geico insurance at the time, and my car by the way was completely wrecked from that 18-wheeler's hit-and-run).
 
 ## These were the notes I chronicled about these events on GitHub, as they happened in real-time:
 
