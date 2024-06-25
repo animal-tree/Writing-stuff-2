@@ -2,7 +2,7 @@
 
 - Say I own a car that I fully paid-off.
 - Say insurance companies charge me exorbitant prices due to a speeding ticket from a little less than 3 years ago.
-- Say I'm poor, I recently became unemployed, and I can’t afford to pay those prices.
+- Say I recently became unemployed, and can’t afford to pay those prices.
 - Say the car I own is un-drivable due to a broken part (say, dead battery), but is repairable.
 - Say I keep that car in the apartment complex where my I live.
 - Say my apartment complex prohibits cars without license plates from being parked there.
