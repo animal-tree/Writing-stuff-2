@@ -19,7 +19,7 @@ What can happen really is atrocious. And here is a case study from which some of
 
 **Question:** Say the car wasn't un-driveable because I repaired it (which I did later). What might happen to my mom, who is poor, if I was the victim of a car accident that kills me (say, my car gets side-swiped by an 18-wheeler while I'm in it), and the car goes to my mom. Does my mom at least get to keep the car that her son fully paid off?
 
-**Answer:** Maybe the car insurance pays for the damages to the car, but the car still has to get repossessed since she can't afford to pay for the mandatory car insurance, or get evicted since she still can't keep the car at the apartment without a license plate. She then becomes responsible for selling a car under a deadline amid grieving her son's death, at the threat of getting arrested or having the potentially-valuable car repossessed otherwise, due to auto insurance.
+**Answer:** Maybe the car insurance pays for the damages to the car, but the car still has to be disposed of since she can't afford to pay for the mandatory car insurance, or get evicted since she still can't keep the car at the apartment without a license plate. She then becomes responsible for selling a car under a deadline amid grief for her son at the threat of getting arrested or having the potentially-valuable car repossessed otherwise, due to auto insurance. If the car is valuable and she doesn't manage to sell it by herself, the auto insurance system ends up just robbing a grieving mom, who's not in debt, of a valuable car that was fully owned, potentially with sentimental value.
 
 #
 
