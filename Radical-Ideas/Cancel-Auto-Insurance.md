@@ -27,7 +27,7 @@ Best case scenario under all of those circumstances, the fully-owned car is lost
 
 Meanwhile, there is no advantage of private auto insurance to a public, nationalized, taxpayer-paid government auto insurance program (e.g. AutoInsuranceForAll) since both require mandatory fees, except the private version extorts customers, charges flat rates regardless of economic class, doesn't cover reasonable damages like broken parts nor (unless extra fees are paid) collisions, and is also extremely bureaucratic, with worse bureaucracy than what government programs have (see [below](#these-were-the-notes-i-chronicled-about-these-events-on-github-as-they-happened-in-real-time) for details).
 
-To reiterate: In every scenario, the best-possible-outcome is that we lose the insured car. That's a contradiction to car insurance with no sense or justification, especially since the car is fully owned. 
+To reiterate: In every scenario, the best-possible-outcome is that we lose the insured car. That's a contradiction to car insurance with no sense or justification, especially since the car is fully-owned. 
 
 In a country of 300,000,000 Americans not only is this possible, but most of it happened to me (thankfully not my mom) earlier this year (except for the 18-wheeler hit-and-run while parked on the shoulder of a bridge — that happened to me in early 2022, and my insurance at the time didn't pay for the damages/car since my mom and I only had the mandatory liability insurance and not collision, since collision coverage is expensive and I was under my mom's Geico insurance at the time, and my car by the way was completely wrecked from that 18-wheeler's hit-and-run).
 
