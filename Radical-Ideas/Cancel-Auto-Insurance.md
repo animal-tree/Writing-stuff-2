@@ -73,6 +73,6 @@ Also, car insurance should pay for all car damages for people, including, e.g., 
 >
 > See attached photo of the ID card.
 
-After this, they finally terminated my policy, and otherwise would've charged me $748.77 with decreasing refund amounts. Also, their warning that they would charge me ~$40 couldn't even be relied on, because they ended up charging $68.39. 
+After this, they finally terminated my policy, and otherwise would've charged me $748.77 with decreasing refund amounts. Also, their warning that they would charge me ~$40 for the extra days couldn't even be relied on, because they ended up charging $68.39. 
 
 The existing privatized auto insurance system is expensive, requires a bizarre amount of manual labor, and redundant, full of bureaucratic landmines. For no benefit over a public nationalized auto-insurance program paid for by much smaller tax-dollars instead of insane flat-rate extortions. What if I got sick and missed the payments, or couldn't make the payments? Would they have charged me more? Would I have gone to jail? Just for owning a fully-paid-off (un-drivable) car?
