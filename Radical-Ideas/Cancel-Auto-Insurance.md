@@ -23,7 +23,7 @@ What can happen really is atrocious. And here is a case study from which some of
 
 #
 
-Best case scenario under all of those circumstances, we lose the fully-owned car. As a result of car *insurance*. 
+Best case scenario under all of those circumstances, the fully-owned car is lost. As a result of car *insurance*. 
 
 Meanwhile, there is no advantage of private auto insurance to a public, nationalized, taxpayer-paid government auto insurance program (e.g. AutoInsuranceForAll).
 
