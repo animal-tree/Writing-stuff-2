@@ -25,7 +25,7 @@ What can happen really is atrocious. And here is a case study from which some of
 
 Best case scenario under all of those circumstances, the fully-owned car is lost. As a result of car *insurance*. 
 
-Meanwhile, there is no advantage of private auto insurance to a public, nationalized, taxpayer-paid government auto insurance program (e.g. AutoInsuranceForAll).
+Meanwhile, there is no advantage of private auto insurance to a public, nationalized, taxpayer-paid government auto insurance program (e.g. AutoInsuranceForAll) since both require mandatory fees, except the privatized ones extort customers and charge flat rates and don't even cover reasonable damages like dead batteries or, unless extra fees are paid, collisions.
 
 To reiterate: In every scenario, the best-possible-outcome is that we lose the insured car. That's a contradiction to car insurance with no sense or justification, especially since the car is fully owned. 
 
