@@ -1,9 +1,5 @@
 # Overview
 
-The archetype of the Alderman prides himself in Auto Insurance. It’s a service that gives people what they need, right? There’s a whole system around it. “Everybody” agrees it’s not just paramount but also morally important. And yet, inspecting closer, it’s literally a flat tax to poor people that costs them oftentimes as much as their paychecks. The immorality is so extreme, considering that those poor people might actually *own* the car that they are being charged a subscription fee for, that it can’t even be described in this one paragraph.
-
-What can happen really is atrocious. And here is a case study from which some of the worst scenarios that this system creates can be extrapolated:
-
 - Say I own a car that I fully paid-off.
 - Say insurance companies charge me exorbitant prices for a 6-month policy due to a speeding ticket from a little less than 3 years ago.
 - Say my mom and I are poor, I recently became unemployed, and we can’t afford to pay those prices.
@@ -16,10 +12,6 @@ What can happen really is atrocious. And here is a case study from which some of
 **Question:** What happens to me, having not broken any laws, for simply existing, due to the auto insurance system?
 
 **Answer:** For simply existing, my mom and I get evicted, I get arrested, or my un-drivable car that I fully own gets repossessed. 
-
-**Question:** Say the car wasn't un-driveable because I repaired it (which I did later). What might happen to my mom, who is poor, if I was the victim of a car accident that kills me (say, my car gets side-swiped by an 18-wheeler while I'm in it), and the car goes to my mom. Does my mom at least get to keep the car that her son fully paid off?
-
-**Answer:** Maybe the car insurance pays for the damages to the car, but the car still has to be disposed of since she can't afford to pay for the mandatory car insurance, or get evicted since she still can't keep the car at the apartment without a license plate. She then becomes responsible for selling a car under a deadline amid grief for her son at the threat of getting arrested or having the potentially-valuable car repossessed otherwise, due to auto insurance. If the car is valuable and she doesn't manage to sell it by herself, the auto insurance system ends up just robbing a grieving mom, who's not in debt, of a valuable car that was fully-owned, potentially with sentimental value, as their fee for providing auto insurance.
 
 #
 
