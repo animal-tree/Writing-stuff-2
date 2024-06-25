@@ -5,7 +5,7 @@ The archetype of the Alderman prides himself in Auto Insurance. It’s a service
 What can happen really is atrocious. And here is a case study from which some of the worst scenarios that this system creates can be extrapolated:
 
 - Say I own a car that I fully paid-off.
-- Say insurance companies charge me exorbitant prices for a 6-month policy due a to a speeding ticket from a little less than 3 years ago.
+- Say insurance companies charge me exorbitant prices for a 6-month policy due to a speeding ticket from a little less than 3 years ago.
 - Say my mom and I are poor, I recently became unemployed, and we can’t afford to pay those prices.
 - Say the car I own is un-drivable due to a broken part (say, dead battery), but is repairable.
 - Say I keep that car in the apartment complex where my mom and I live.
