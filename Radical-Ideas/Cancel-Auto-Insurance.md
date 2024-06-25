@@ -20,7 +20,7 @@
 
 Best case scenario under all of those circumstances, the fully-owned car is lost. As a result of car *insurance*. 
 
-Meanwhile, there is no advantage of privatized auto insurance to a public, nationalized, taxpayer-paid government auto insurance program (e.g. AutoInsuranceForAll) since both require mandatory fees, except the privatized version extorts customers, charges flat rates regardless of economic class, doesn't cover reasonable damages like broken parts nor (unless extra fees are paid) collisions, and is also extremely bureaucratic, with worse bureaucracy than what government programs have (see [below](#these-were-the-notes-i-chronicled-this-year-about-these-events-on-github-in-real-time-as-i-dealt-with-the-insurance-companies) for details).
+Meanwhile, there is no advantage of private auto insurance to a public, nationalized, taxpayer-paid government auto insurance program (e.g. AutoInsuranceForAll) since both require mandatory fees, except the private version extorts customers, charges flat rates regardless of economic class, doesn't cover reasonable damages like broken parts nor (unless extra fees are paid) collisions, and is also extremely bureaucratic, with worse bureaucracy than what government programs have (see [below](#these-were-the-notes-i-chronicled-this-year-about-these-events-on-github-in-real-time-as-i-dealt-with-the-insurance-companies) for details).
 
 ## These were the notes I chronicled this year about these events on GitHub, in real-time as I dealt with the insurance companies:
 
@@ -66,4 +66,4 @@ Also, car insurance should pay for all car damages for people, including, e.g., 
 
 After this, they finally terminated my policy, and otherwise would've charged me $748.77 with decreasing refund amounts. Also, their warning that they would charge me ~$40 for the extra days couldn't even be relied on, because they ended up charging $68.39. 
 
-The existing privatized auto insurance system is expensive, requires a bizarre amount of manual labor, and redundant, full of bureaucratic landmines. For no benefit over a public nationalized auto-insurance program paid for by much smaller tax-dollars instead of insane flat-rate extortions. What if I got sick and missed the payments, or couldn't make the payments? Would they have charged me more? Would I have gone to jail? Just for owning a fully-paid-off (un-drivable) car?
+The existing private auto insurance system is expensive, requires a bizarre amount of manual labor, and redundant, full of bureaucratic landmines. For no benefit over a public nationalized auto-insurance program paid for by much smaller tax-dollars instead of insane flat-rate extortions. What if I got sick and missed the payments, or couldn't make the payments? Would they have charged me more? Would I have gone to jail? Just for owning a fully-paid-off (un-drivable) car?
