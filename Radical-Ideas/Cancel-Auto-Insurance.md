@@ -20,7 +20,7 @@
 
 Best case scenario under all of those circumstances, the fully-owned car is lost. As a result of car *insurance*. 
 
-Meanwhile, there is no advantage of private auto insurance to a public, nationalized, taxpayer-paid government auto insurance program (e.g. AutoInsuranceForAll) since both require mandatory fees, except the private version extorts customers, charges flat rates regardless of economic class, doesn't cover reasonable damages like broken parts nor (unless extra fees are paid) collisions, and is also extremely bureaucratic, with worse bureaucracy than what government programs have (see [below](#these-were-the-notes-i-chronicled-this-year-about-these-events-on-github-in-real-time-as-i-dealt-with-the-insurance-companies) for details).
+Meanwhile, there is no advantage of privatized auto insurance to a public, nationalized, taxpayer-paid government auto insurance program (e.g. AutoInsuranceForAll) since both require mandatory fees, except the private version extorts customers, charges flat rates regardless of economic class, doesn't cover reasonable damages like broken parts nor (unless extra fees are paid) collisions, and is also extremely bureaucratic, with worse bureaucracy than what government programs have (see [below](#these-were-the-notes-i-chronicled-this-year-about-these-events-on-github-in-real-time-as-i-dealt-with-the-insurance-companies) for details).
 
 ## These were the notes I chronicled this year about these events on GitHub, in real-time as I dealt with the insurance companies:
 
