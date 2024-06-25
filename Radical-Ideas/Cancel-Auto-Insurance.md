@@ -21,6 +21,8 @@ What can happen really is atrocious. And here is a case study from which some of
 
 **Answer:** Maybe the car insurance pays for the damages to the car, but the car still has to get repossessed since she can't afford to pay for the mandatory car insurance, or get evicted since she still can't keep the car at the apartment without a license plate. Also, if she doesn't get rid of it (the fully-owned car), she gets arrested for not paying the auto insurance.
 
+#
+
 Best case scenario under all of those circumstances, we lose the fully-owned car. As a result of car *insurance*. 
 
 Meanwhile, there is no advantage of private auto insurance to a public, nationalized, taxpayer-paid government auto insurance program (e.g. AutoInsuranceForAll).
