@@ -11,7 +11,7 @@
 
 **Question:** What happens to me, having not broken any laws, for simply existing, due to the auto insurance system?
 
-**Answer:** For simply existing, my mom and I get evicted, I get arrested, or my un-drivable car that I fully own gets repossessed. 
+**Answer:** For simply existing, my mom and I get evicted, I get arrested, or my un-drivable car that I fully own gets repossessed, as their fee for providing auto insurance. 
 
 #
 
