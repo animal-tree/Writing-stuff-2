@@ -27,7 +27,7 @@ Best case scenario under all of those circumstances, we lose the fully-owned car
 
 Meanwhile, there is no advantage of private auto insurance to a public, nationalized, taxpayer-paid government auto insurance program (e.g. AutoInsuranceForAll).
 
-To reiterate: In every scenario, the best-possible-outcome is that we lose the insured car. That's a contradiction to car insurance with no sense or justification. 
+To reiterate: In every scenario, the best-possible-outcome is that we lose the insured car. That's a contradiction to car insurance with no sense or justification, especially since the car is fully owned. 
 
 In a country of 300,000,000 Americans not only is this possible, but most of it happened to me (thankfully not her) earlier this year (except for the 18-wheeler hit-and-run while parked on the shoulder of a bridge — that happened to me in early 2022, and my insurance at the time didn't pay for the damages/car since my mom and I only had the mandatory liability insurance and not collision, since collision coverage is expensive and it was my mom's Geico insurance at the time, and my car by the way was completely wrecked from that 18-wheeler's hit-and-run).
 
