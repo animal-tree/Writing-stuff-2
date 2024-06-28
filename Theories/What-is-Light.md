@@ -78,7 +78,11 @@ So my thought experiment has a simpler[^2] resolution. The spacetime curve then 
 
 and the electron interaction, distinct from EM and independent to polarization, is responsible for color perception.
 
-A simple experiment to test this is whether the constructively interfering portions of a diffraction pattern from unpolarized light exert momentum on optical rectennas placed in front of the projection screen. If so, then photons must have an independent source of momentum besides their EM, and besides the electron interaction which allows them to be absorbed by the projection screen (and then must have the aforementioned bump).
+A simple experiment to test this is whether unpolarized light in a double-slit experiment exerts momentum on optical rectennas placed in front of the constructively interfering portions of the projection screen. If so, then photons must have an independent source of momentum besides their EM, and besides the electron interaction which allows them to be absorbed by the projection screen, and then must also have the aforementioned bump:
+
+<p align="center">
+<img width="150" src="https://github.com/animal-tree/Writing-stuff-2/assets/142250284/b6b0e528-32e4-4014-b999-4a783aafc3a8">
+</p>
 
 #
 
