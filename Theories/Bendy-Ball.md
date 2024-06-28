@@ -21,7 +21,7 @@ It is measurably-indistinguishable by existing precision of distance measurement
 >
 > [...] so that the density of matter, although very variable in detail, is nevertheless on the average everywhere the same. In other words: However far we might travel through space, we should find everywhere an attenuated swarm of fixed stars of approximately the same kind and density.
 > 
-> This view is not in harmony [unless:] The stellar universe ought to be a finite island [yet with no limits] in the [cycling] ocean of space [without infinitely compounding gravitational effects, as is satisfied by the surface of a sphere, but not by a non-cycling geometry consisting of uniform density mass due to the infinite compounding gravity that would arise at any point from such mass].<sup>$\text{\color{green}1.}$</sup>
+> This view is not in harmony [unless:] The stellar universe ought to be a finite island [yet with no limits] in the [cycling] ocean of space [without infinitely compounding gravitational effects, as is satisfied by the surface of a sphere whose largest inverse-square distance is hemispherically truncated automatically, but not by a non-cycling geometry consisting of uniform density mass due to the infinite compounding gravity that would arise at any point from such mass].<sup>$\text{\color{green}1.}$</sup>
 >
 > [...The alternative solution of a finite island in a non-cycling ocean is] less satisfactory because it leads to the result that the light emitted by the stars and also individual stars of the stellar system are perpetually passing out into infinite space, never to return, and without ever again coming into interaction with other objects of nature. Such [a universe] would be destined to become gradually but systemically impoverished.
 >
