@@ -16,10 +16,6 @@
 - I can't move the car anywhere else due to the dead battery, and perhaps wouldn't have anywhere else to move it anyway.
 - I have to pay for the auto insurance somehow.
 
-<p align="center">
-&ensp;&ensp;&ensp;&ensp; $\square$
-</p>
-
 #
 
 Best case scenario under all of those circumstances, the fully-owned car is lost. As a result of car *insurance*. 
