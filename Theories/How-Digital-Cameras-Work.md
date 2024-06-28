@@ -8,4 +8,4 @@ Same as film, photodiodes rely on the light's absorption by electrons, not anten
 
 Color filters can be used to filter which colors get through to excite said atoms/electrons.
 
-The different voltages (from the conducting electrons) for adjacent red, green, and blue spectrum-biasing color filters can be digitally interpolated to digitally infer what color of light arrived at that pixel, same as what photospins do in the eyes. Each pixel corresponds to a location on the image.
+The different voltages (from the conducting electrons) for red, green, and blue spectrum-biasing color filters can be digitally interpolated to digitally infer what color of light arrived at that pixel, same as photospins in our eyes. Each pixel corresponds to a location on the image.
