@@ -78,6 +78,8 @@ So my thought experiment has a simpler[^2] resolution. The spacetime curve then 
 
 and the electron interaction, distinct from EM and independent to polarization, is responsible for color perception.
 
+A simple experiment to test this is whether the constructively interfering portions of a diffraction pattern from unpolarized light exert momentum on optical rectennas placed in front of the projection screen. If so, then photons must have an independent source of momentum besides their EM, and besides the electron interaction which allows them to be absorbed by the projection screen (and then must have the aforementioned bump).
+
 #
 
 More speculatively, frequency might have one other momentum-like effect that isn't reproducible via [electromagnetic push](https://youtu.be/bvzr2HbbPC8?si=wyctUUwiOc5dQgfX). Higher frequency should perhaps correspond to more resistance in light's bending towards centripetal accelerations/forces such as gravity, if the analogy to momentum is really taken to its extreme, while still respecting the constancy of the speed of light in its linear/inertial speed. I can regard this momentum of light then as an "inner velocity," by which centripetal forces are resisted. This inner velocity in my opinion likely determines the absorption or emission mechanics of the photon by the electron.
