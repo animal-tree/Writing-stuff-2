@@ -6,7 +6,7 @@
 
 The surface of a 3D sphere can be indexed by the angle from the center vertically and the angle from the center horizontally.
 
-As Einstein wrote, for a large enough sphere, the spherocity of the surface would be measurably-indistinguishable from a Euclidean geometry.
+As Einstein wrote, for a large enough sphere, the sphericity of the surface would be measurably-indistinguishable from a Euclidean geometry.
 
 > ### $"$
 > But if this part is small indeed, they will no longer be able to demonstrate that they are on a spherical "world" and not a Euclidean plane, for a small part of a spherical surface differs only slightly from a piece of a plane of the same size. Thus if the spherical-surface beings are living on a planet of which the solar system occupies only a negligibly small part of the spherical universe, they have no means of determining whether they are living in a finite or in an infinite [spherical or not] universe [...]
