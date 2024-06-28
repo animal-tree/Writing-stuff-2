@@ -37,7 +37,7 @@ This is highly desirable since it does not give especially biased priority to an
 
 Such a universe, indexed by 3 angular coordinates, can also be described — almost equivalently — as a modulus universe. Rather than describing a 3D surface on a 4D sphere, one can describe a standard Euclidean 3D space whose "edges" just extend into their opposite Euclidean counterpart via a modulus operation. For example, a universe of diameter $10$ would have coordinates $(1, 11, 1)$ modulus to $(1, 11$ % $10, 1) = (1, 1, 1)$.
 
-However, treating the universe as a 3D surface on a 4D sphere via angular coordinates makes the operation almost equivalent. The only difference is that, due to the curvature, the diameter of any given circle on the sphere is slightly bigger — imperceptibly if the universe is sufficiently large — than the circumference divided by $\pi$. As Einstein described:
+However, treating the universe as a 3D surface on a 4D sphere via angular coordinates makes the operation almost equivalent. The only difference is that, due to the curvature, the diameter of any given circle on the sphere is slightly bigger — imperceptibly/unmeasurably if the universe is sufficiently large — than the circumference divided by $\pi$. As Einstein described:
 
 > ### $"$
 > On their spherical surface our flat beings would find for this ratio the value [...] smaller than $\pi$, the difference being the more considerable, the greater is the radius of the circle in comparison with the radius $R$ of the "world sphere."
