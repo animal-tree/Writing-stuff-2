@@ -42,7 +42,7 @@ Therefore, there is a bump.
 
 Light has momentum (intrinsically and independent of electric-magnetic effect. If the polarizations of electromagnetic waves cancel out in unpolarized visible light, then this is a proof, of both that light $\neq$ EM and that light has a different source of momentum.).
 
-This is a proof of something bigger as well — though understated above — that the probability distribution (the wave function) of the light wave is independent from the polarization direction/orientation. The proof of this iss simply that unpolarized light is visible. If the direction/orientation of its EM wave got summed in the computation of a photon's probability wave, then the probability waves of unpolarized light waves would always sum to 0 (destructivey interfere) where they would normally constructively interfere. However, in diffraction experiments, unpolarized light constructively and destructively interferes.
+This is a proof of something else as well — though understated above, and not further discussed below — that the probability distribution (the wave function) of the light wave is independent from the polarization direction/orientation. The proof of this iss simply that unpolarized light is visible. If the direction/orientation of its EM wave got summed in the computation of a photon's probability wave, then the probability waves of unpolarized light waves would always sum to 0 (destructivey interfere) where they would normally constructively interfere. However, in diffraction experiments, unpolarized light constructively and destructively interferes.
 
 What I wrote earlier [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Disproof-and-Unified.md) (ignore the irrelevant lower fourth):
 
