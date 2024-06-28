@@ -29,7 +29,7 @@ It is measurably-indistinguishable by existing precision of distance measurement
 >
 > ### $``$ <sup>[^1]</sup>
 
-Not the least of which of the desirable properties is that, if matter density is approximately uniformly distributed in our universe, then adding up the gravitational (or other inverse-square magnitude) effects of every piece of matter in the standard idea of a non-cycling universe (where uniformly distributed would imply infinitely distributed) would lead to an infinite force of acceleration at every given point in space, which we know isn't the case for our universe, whereas a spherical universe allows the possibility of our universe having an approximately uniformly distributed mass density, which Einstein agrees is more desirable.
+Not the least of which of the desirable properties is that, if matter density is approximately uniformly distributed in our universe, then adding up the gravitational (or other inverse-square magnitude) effects of every piece of matter in the standard idea of a non-cycling universe (where uniformly distributed would imply infinitely distributed) would lead to an infinite force of acceleration at every given point in space, which we know isn't the case for our universe, whereas a spherical universe allows the possibility of our universe possessing an approximately uniformly distributed mass density, which Einstein agrees is more desirable (and due to the risk of impoverishment of the alternative, necessary).
 
 Thus, a relatively uniform distribution of mass — without the need to truncate its inverse-square magnitude — is possible on a spherical universe.
 
