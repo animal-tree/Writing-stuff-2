@@ -25,7 +25,7 @@ It is measurably-indistinguishable by existing precision of distance measurement
 >
 > [...The alternative is] less satisfactory because it leads to the result that the light emitted by the stars and also individual stars of the stellar system are perpetually passing out into infinite space, never to return, and without ever again coming into interaction with other objects of nature. Such [a universe] would be destined to become gradually but systemically impoverished.
 >
-> <sub>$\text{\color{green}1.}$ He footnotes a proof to this statement on Page 126, via the compounding infinite lines of gravity that would accumulate at a point from their infinite origins in an infinite universe of infinitely and uniformly distributed mass density.</sub>
+> <sub>$\text{\color{green}1.}$ He footnotes a proof to this statement on Page 126, via the compounding infinite lines of gravity that would accumulate at a point from their infinite origins in an infinite universe of infinitely and uniformly distributed mass density, thereby contradicting the reality of our universe by subjecting each point in space to an infinite gravitational acceleration.</sub>
 >
 > ### $``$ <sup>[^1]</sup>
 
