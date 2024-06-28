@@ -19,7 +19,7 @@ It is measurably-indistinguishable by existing precision of distance measurement
 > ### $"$
 > The great charm resulting from this consideration lies in the recognition of the fact that *the universe of these beings is finite and yet has no limits.* 
 >
-> [...] If we ponder over the question as to how the universe, considered as a whole, is to be regarded, the first answer that suggests itself to us is surely this: As regards to space (and time) the universe is infinite. There are stars everywhere, so that the density of matter, although very variable in detail, is nevertheless on the average everywhere the same. In other words: However far we might travel through space, we should find everywhere an attenuated swarm of fixed stars of approximately the same kind and density.
+> [...] If we ponder over the question as to how the universe, considered as a whole, is to be regarded, the first answer that suggests itself to us is surely this: [...] There are stars everywhere, so that the density of matter, although very variable in detail, is nevertheless on the average everywhere the same. In other words: However far we might travel through space, we should find everywhere an attenuated swarm of fixed stars of approximately the same kind and density.
 > 
 > This view is not in harmony [...] The stellar universe ought to be a finite island [yet with no limits] in the infinite ocean of space.<sup>$\text{\color{green}1.}$</sup>
 >
