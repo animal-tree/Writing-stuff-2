@@ -23,7 +23,7 @@ It is measurably-indistinguishable by existing precision of distance measurement
 > 
 > This view is not in harmony [unless:] The stellar universe ought to be a finite island [yet with no limits] in the infinite ocean of space [as is satisfied by the surface of a sphere].<sup>$\text{\color{green}1.}$</sup>
 >
-> [...The alternative] is still less satisfactory because it leads to the result that the light emitted by the stars and also individual stars of the stellar system are perpetually passing out into infinite space, never to return, and without ever again coming into interaction with other objects of nature. Such [a universe] would be destined to become gradually but systemically impoverished.
+> [...The alternative is] less satisfactory because it leads to the result that the light emitted by the stars and also individual stars of the stellar system are perpetually passing out into infinite space, never to return, and without ever again coming into interaction with other objects of nature. Such [a universe] would be destined to become gradually but systemically impoverished.
 >
 > <sub>$\text{\color{green}1.}$ He footnotes a proof to this statement on Page 126, via the compounding infinite lines of gravity that would accumulate at a point from their infinite origins as infinite masses in an infinite densely-distributed universe.</sub>
 >
