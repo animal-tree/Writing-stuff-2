@@ -40,7 +40,7 @@ Such a universe, indexed by 3 angular coordinates, can also be described — alm
 However, treating the universe as a 3D surface on a 4D sphere via angular coordinates makes the operation almost equivalent. The only difference is that, due to the curvature, the diameter of any given circle on the sphere is slightly bigger — imperceptibly if the universe is sufficiently large — than the circumference divided by $\pi$. As Einstein described:
 
 > ### $"$
-> On their spherical surface our flat beings would find for this ratio the value [...] smaller than $\pi$, the difference being the more considerable, the greater is the radius of the circle in comparison with the radius $R$ of the "world sphere." [...] It follows directly from this discussion, that for our sphere-beings the circumference of a circle first increases with the radius until the "circumference of the universe" is reached, and that it thenceforward gradually decreases to zero for still further increasing values of the radius.
+> On their spherical surface our flat beings would find for this ratio the value [...] smaller than $\pi$, the difference being the more considerable, the greater is the radius of the circle in comparison with the radius $R$ of the "world sphere."
 > ### $``$ <sup>[^1]</sup>
 
 But by using such coordinates, distance computations become much easier and more elegant than if for modulus operations.
