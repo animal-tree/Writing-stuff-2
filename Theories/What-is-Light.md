@@ -1,5 +1,9 @@
 # What is Light
 
+&ensp;&ensp;&ensp; $\color{green}\mathrm{Sam \ Lerman}$
+
+#
+
 If light has no momentum bump,
 
 <p align="center">
