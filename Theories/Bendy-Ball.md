@@ -28,6 +28,7 @@ It is measurably-indistinguishable by existing precision of distance measurement
 > <sub>$\text{\color{green}1.}$ He footnotes a proof to this statement on Page 126, via the compounding infinite lines of gravity that would accumulate at a point from their infinite origins in a non-cycling universe of infinitely and uniformly distributed mass density, thereby contradicting the reality of our universe by subjecting each spatial point to an infinite gravitational acceleration.</sub>
 >
 > ### $``$ <sup>[^1]</sup>
+> (paraphrased)
 
 Not the least of which of the desirable properties is that, if matter density is approximately uniformly distributed in our universe, then adding up the gravitational (or other inverse-square magnitude) effects of every piece of matter in the standard idea of a non-cycling universe (where uniformly distributed would imply infinitely distributed) would lead to an infinite force of acceleration at every given point in space, which we know isn't the case for our universe, whereas a spherical universe allows the possibility of our universe possessing an approximately uniformly distributed mass density, which Einstein agrees is more desirable (and due to the risk of impoverishment of the alternative, necessary).
 
