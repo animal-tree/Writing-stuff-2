@@ -35,7 +35,7 @@ Thus, a relatively uniform distribution of mass — without the need to truncate
 
 This is highly desirable since it does not give especially biased priority to any one absolute region of space over another, making a principle of relativity most-generally realisable, and remedying the mysterious paradox of the possibility of crashing into an edge.
 
-Such a universe, indexed by 3 angular coordinates, can also be described — almost equivalently — as a modulus universe. Rather than describing a 3D surface on a 4D sphere, one can describe a standard Euclidean 3D space whose "edges" just extend into their opposite Euclidean counterpart via a modulus operation. For example, a universe of diameter $10$ would have coordinates $(1, 11, 1)$ modulus to $(1, 11$ % $10, 1) = (1, 1, 1)$.
+Such a universe, indexed by 3 angular coordinates, can also be described — almost equivalently — as a modulus universe. Rather than describing a 3D surface on a 4D sphere, one can describe a standard Euclidean 3D space whose "edges" just extend into their opposite Euclidean counterpart via a modulus operation. For example, a universe of diameter $10$ would have coordinates $(1, 11, 1)$ modulus to $(1, 11$ % $10, 1) = (1, 1, 1)$. And the distance between $(1, 11, 1)$ and $(1, 1, 1)$ would be $0$.
 
 However, treating the universe as a 3D surface on a 4D sphere via angular coordinates makes the operation almost equivalent. The only difference is that, due to the curvature, the diameter of any given circle on the sphere is slightly bigger — imperceptibly/unmeasurably if the universe is sufficiently large — than the circumference divided by $\pi$. As Einstein described:
 
