@@ -19,7 +19,7 @@ It is measurably-indistinguishable by existing precision of distance measurement
 > ### $"$
 > The great charm resulting from this consideration lies in the recognition of the fact that *the universe of these beings is finite and yet has no limits.* 
 >
-> [...] There are stars everywhere, so that the density of matter, although very variable in detail, is nevertheless on the average everywhere the same. In other words: However far we might travel through space, we should find everywhere an attenuated swarm of fixed stars of approximately the same kind and density.
+> [...] so that the density of matter, although very variable in detail, is nevertheless on the average everywhere the same. In other words: However far we might travel through space, we should find everywhere an attenuated swarm of fixed stars of approximately the same kind and density.
 > 
 > This view is not in harmony [unless:] The stellar universe ought to be a finite island [yet with no limits] in the [cycling] ocean of space [without infinitely compounding gravitational effects, as is satisfied by the surface of a sphere, but not by a non-cycling geometry consisting of uniform density mass due to the infinite compounding gravity that would arise at any point from such mass].<sup>$\text{\color{green}1.}$</sup>
 >
