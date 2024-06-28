@@ -21,9 +21,9 @@ It is measurably-indistinguishable by existing precision of distance measurement
 >
 > [...] If we ponder over the question as to how the universe, considered as a whole, is to be regarded, the first answer that suggests itself to us is surely this: As regards to space (and time) the universe is infinite. There are stars everywhere, so that the density of matter, although very variable in detail, is nevertheless on the average everywhere the same. In other words: However far we might travel through space, we should find everywhere an attenuated swarm of fixed stars of approximately the same kind and density.
 > 
-> This view is not in harmony with the theory of Newton. [...] The stellar universe ought to be a finite island [yet with no limits] in the infinite ocean of space.<sup>$\text{\color{green}1.}$</sup>
+> This view is not in harmony [...] The stellar universe ought to be a finite island [yet with no limits] in the infinite ocean of space.<sup>$\text{\color{green}1.}$</sup>
 >
-> [...The alternative] is still less satisfactory because it leads to the result that the light emitted by the stars and also individual stars of the stellar system are perpetually passing out into infinite space, never to return, and without ever again coming into interaction with other objects of nature. Such a finite material universe would be destined to become gradually but systemically impoverished.
+> [...The alternative] is still less satisfactory because it leads to the result that the light emitted by the stars and also individual stars of the stellar system are perpetually passing out into infinite space, never to return, and without ever again coming into interaction with other objects of nature. Such [...] would be destined to become gradually but systemically impoverished.
 >
 > <sub>$\text{\color{green}1.}$ He footnotes a proof to this statement on Page 126, via the compounding infinite lines of gravity that would accumulate at a point from their infinite origins as infinite masses in an infinite densely-distributed universe.</sub>
 >
