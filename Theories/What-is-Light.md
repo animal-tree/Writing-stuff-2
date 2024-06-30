@@ -1,8 +1,32 @@
-# What is Light
+# 3 Proofs
 
 &ensp;&ensp;&ensp; $\color{green}\mathrm{Sam \ Lerman}$
 
 #
+
+### (1)
+
+Newton's 3rd law is violated by photons when it comes to their interaction with gravity. Gravity causes photons to "react" via centripetal acceleration towards masses, but the equal and opposite reaction isn't present (since photons don't have mass and therefore don't exert a force of gravity on masses such as electrons), meaning $\frac{\partial F_\gamma}{\partial t}$ $\neq$ $-\frac{\partial F_{e^{-}}}{\partial t}$, where $F_\gamma$ is the (e.g., gravitational) force on the photon by the electron, and $F_{e^{-}}$ is the force on the electron by the photon. 
+
+Quick proof, since this requires considering a photon's momentum as "bending": the force on the photon, $F_\gamma$ $=$ $\frac{\partial p}{\partial t}$ $=$ $\frac{\partial \frac{hf}{c}}{\partial t}$, where $p$ is momentum, $t$ is time, $h$ is Planck's constant, $f$ is the frequency of the photon, and $c$ is the speed (or, in this case, arguably, since momentum is a vector quantity, velocity) of light, is non-zero because despite the usual scalar computation, the photon's momentum is a vector quantity (the direction of its velocity), so this value does not equal zero $\frac{\partial p}{\partial t}$ $\neq$ $0$ when the force of gravity bending it is applied (and therefore changing its velocity direction), and since this bend accelerates with proximity to mass (e.g., according to the inverse-square law or general relativity), we have $0$ $\neq$ $\frac{\partial^2 p}{\partial t^2}$ $=$ $\frac{\partial F_\gamma}{\partial t}$ $\neq$ $-\frac{\partial F_{e^{-}}}{\partial t}$ $=$ $0$, violating Newton's 3rd law, which requires $\frac{\partial F_\gamma}{\partial t}$ $=$ $-\frac{\partial F_{e^{-}}}{\partial t}$.
+
+### (2)
+
+EM $\neq$ light, and the probability distribution (the "wave function") of a photon is independent from its polarization orientation. 
+
+The proof of this is simply that unpolarized light produces the usual double-slit diffraction interference pattern. If the orientation of its EM wave got summed in the computation of a photon's probability wave, then the probability waves of unpolarized light would always sum to 0 (destructively interfere, on account of arriving in all possible polarization orientations) where they would normally constructively interfere. However, in diffraction experiments, unpolarized light constructively and destructively interferes. Therefore, the polarization orientation is independent from the probability interference. This validates its current discarding in the Schrödinger equation, but also clarifies a common misconception: often EM waves are portrayed as probability waves, but the way the EM waves interfere isn't and can't be the way the probability waves interfere.
+
+This means EM $\neq$ light. The probability waves are not the EM waves.
+
+### (3)
+
+If the polarizations of electromagnetic waves cancel out in unpolarized visible light yet those photons still exert momentum even when not absorbed, then not only does light $\neq$ EM, but that light has a different source of momentum other than EM (e.g., a collision force).
+
+The proof of this is that, if EM forces are canceled out, then the momentum standardly attributed to them must have a different source.
+
+A simple experiment to test this is whether unpolarized light in a double-slit experiment exerts momentum on optical rectennas placed in front of the constructively interfering portions of the projection screen. If so, then photons must have an independent source of momentum besides their EM, and besides the electron interaction which allows them to be absorbed by the projection screen, and then must also have the aforementioned bump (since the diffraction pattern confirms that the waves interfere and the unpolarized light gaurentees that the interfering waves have randomly conflicting EM forces, and so the latter on average must become negligible as the source for any momentum effects on an optical rectenna):
+
+# What is Light
 
 If light has no momentum bump,
 
@@ -28,7 +52,7 @@ not dependent on electromagnetic forces.
 
 But Newton's 3rd law is violated by photons when it comes to their interaction with gravity. Gravity causes photons to "react" via centripetal acceleration towards masses, but the equal and opposite reaction isn't present (since photons don't have mass and therefore don't exert a force of gravity on masses such as electrons), meaning $\frac{\partial F_\gamma}{\partial t}$ $\neq$ $-\frac{\partial F_{e^{-}}}{\partial t}$, where $F_\gamma$ is the (e.g., gravitational) force on the photon by the electron, and $F_{e^{-}}$ is the force on the electron by the photon. 
 
-Quick proof, since this requires considering a photon as "bending": the force on the photon, $F_\gamma$ $=$ $\frac{\partial p}{\partial t}$ $=$ $\frac{\partial \frac{hf}{c}}{\partial t}$, where $p$ is momentum, $h$ is Planck's constant, $f$ is the frequency of the photon, and $c$ is the speed (or, in this case, arguably, since momentum is a vector quantity, velocity) of light, is non-zero because despite the usual scalar computation, the photon's momentum is a vector quantity (the direction of its velocity), so this value does not equal zero $\frac{\partial p}{\partial t}$ $\neq$ $0$ when the force of gravity bending it is applied (and therefore changing its velocity direction), and since this bend accelerates with proximity to mass (e.g., according to the inverse-square law or general relativity), we have $0$ $\neq$ $\frac{\partial^2 p}{\partial t^2}$ $=$ $\frac{\partial F_\gamma}{\partial t}$ $\neq$ $-\frac{\partial F_{e^{-}}}{\partial t}$ $=$ $0$, violating Newton's 3rd law, which requires $\frac{\partial F_\gamma}{\partial t}$ $=$ $-\frac{\partial F_{e^{-}}}{\partial t}$. (Either way, note, this is a tangent to the larger point).
+Quick proof, since this requires considering a photon's momentum as "bending": the force on the photon, $F_\gamma$ $=$ $\frac{\partial p}{\partial t}$ $=$ $\frac{\partial \frac{hf}{c}}{\partial t}$, where $p$ is momentum, $t$ is time, $h$ is Planck's constant, $f$ is the frequency of the photon, and $c$ is the speed (or, in this case, arguably, since momentum is a vector quantity, velocity) of light, is non-zero because despite the usual scalar computation, the photon's momentum is a vector quantity (the direction of its velocity), so this value does not equal zero $\frac{\partial p}{\partial t}$ $\neq$ $0$ when the force of gravity bending it is applied (and therefore changing its velocity direction), and since this bend accelerates with proximity to mass (e.g., according to the inverse-square law or general relativity), we have $0$ $\neq$ $\frac{\partial^2 p}{\partial t^2}$ $=$ $\frac{\partial F_\gamma}{\partial t}$ $\neq$ $-\frac{\partial F_{e^{-}}}{\partial t}$ $=$ $0$, violating Newton's 3rd law, which requires $\frac{\partial F_\gamma}{\partial t}$ $=$ $-\frac{\partial F_{e^{-}}}{\partial t}$. (Either way, note, this is a tangent to the larger point).
 
 So perhaps Newton's 2nd law (involving sums of forces) is also violated, but this'd be strange since that would imply that forces can accelerate in two conflicting directions without canceling each other out, as conflicting polarizations of two in-phase photons directs the electric and magnetic forces this way or that.
 
