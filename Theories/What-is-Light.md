@@ -62,7 +62,7 @@ What I wrote earlier [here](https://github.com/animal-tree/Writing-stuff-2/blob/
 
 Ah, but upon more thought, this conclusion, while still holding, has a better answer than the depicted "momentum-bump" spacetime curve. Rather, replace that with a flat line: eliminate any physical momentum imparted by the photon directly.
 
-Let's return to the "proof" statement: "light $\neq$ EM and that light has a different source of momentum." There is one other way to satisfy this besides giving the photon that "momentum-bump" collision force.
+Let's return to the 2nd proof statement (out of 3): "If the polarizations of electromagnetic waves cancel out in unpolarized visible light yet those photons still exert momentum even when not absorbed, then this is a proof, of both that light $\neq$ EM and that light has a different source of momentum (e.g., that bump)." There is one other way to satisfy this besides giving the photon that "momentum-bump" collision force.
 
 Instead, photons have at least one other known property besides their electromagnetic (EM) effects and that's their interaction (absorption and emission) with electrons.
 
