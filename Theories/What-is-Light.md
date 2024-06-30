@@ -44,6 +44,8 @@ If the polarizations of electromagnetic waves cancel out in unpolarized visible 
 
 This is a proof of something else as well, regardless of any condition statement — though understated above, and not further discussed below — that the probability distribution (the "wave function") of the light wave is independent from the polarization orientation. The proof of this is simply that unpolarized light produces the usual double-slit diffraction interference pattern. If the orientation of its EM wave got summed in the computation of a photon's probability wave, then the probability waves of unpolarized light would always sum to 0 (destructively interfere, on account of arriving in all possible polarization orientations) where they would normally constructively interfere. However, in diffraction experiments, unpolarized light constructively and destructively interferes. Therefore, the polarization direction/orientation is independent from the probability interference. This validates its current discarding in the Schrödinger equation, but also clarifies a common misconception: often EM waves are portrayed as probability waves, but the way the EM waves interfere isn't and can't be the way the probability waves interfere.
 
+This means EM $\neq$ light. The probability waves are not the EM waves.
+
 What I wrote earlier [here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Disproof-and-Unified.md) (ignore the irrelevant lower fourth):
 
 <p align="center">
