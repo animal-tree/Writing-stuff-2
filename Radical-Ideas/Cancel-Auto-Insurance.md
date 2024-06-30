@@ -1,4 +1,4 @@
-# Cancel Auto Insurance
+# Overview
 
 - Say I own a car that I fully paid-off.
 - Say insurance companies charge me exorbitant prices due to a speeding ticket from a little less than 3 years ago.
