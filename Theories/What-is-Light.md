@@ -26,6 +26,8 @@ The proof of this is that, if EM forces are canceled out, then the momentum stan
 
 A simple experiment to test this is whether unpolarized light in a double-slit experiment exerts momentum on optical rectennas placed in front of the constructively interfering portions of the projection screen. If so, then photons must have an independent source of momentum besides their EM, and besides the electron interaction which allows them to be absorbed by the projection screen, and then must also have the aforementioned bump (since the diffraction pattern confirms that the waves interfere and the unpolarized light gaurentees that the interfering waves have randomly conflicting EM forces, and so the latter on average must become negligible as the source for any momentum effects on an optical rectenna).
 
+One piece of evidence for this, is that since EM $\neq$ light (as proven), how does unpolarized visible light exert momentum on electrons? Perhaps an alternative answer is that the electrons absorb and perhaps re-emit the photons, and that causes momentum force exerted on them, not the standardly attributed EM-caused momentum (summarized [here](https://youtu.be/bvzr2HbbPC8?si=wyctUUwiOc5dQgfX)).
+
 # What is Light
 
 If light has no momentum bump,
