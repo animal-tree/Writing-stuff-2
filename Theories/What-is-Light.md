@@ -38,7 +38,7 @@ If light has no momentum bump,
 <img width="150" src="https://github.com/animal-tree/Writing-stuff-2/assets/142250284/b6b0e528-32e4-4014-b999-4a783aafc3a8">
 </p>
 
-then how does matter get "pushed" by unabsorbed unpolarized light? Shouldn't the momenta cancel out? Of course. The unpolarized waves destroy each other, as each polarization acts in destructive interference with each other.
+then how does matter get "pushed" by unabsorbed unpolarized light (if it does)? Shouldn't the momenta cancel out? Of course. The unpolarized waves destroy each other, as each polarization acts in destructive interference with each other.
 
 At the very least, it means the probability distribution (the wave function) of the light wave is independent from the polarization direction/orientation, or else visible light — which is unpolarized usually (e.g., sunlight, fire) — wouldn't produce interference patterns. The probabilities due to the interference of polarizations would cancel out. Diffraction grating experiments show this isn’t the case.
 
