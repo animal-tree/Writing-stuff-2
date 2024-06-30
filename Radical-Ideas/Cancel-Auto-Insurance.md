@@ -1,4 +1,4 @@
-# Overview
+# Cancel Auto Insurance
 
 - Say I own a car that I fully paid-off.
 - Say insurance companies charge me exorbitant prices due to a speeding ticket from a little less than 3 years ago.
@@ -38,31 +38,35 @@ So all of this might seem okay, because you might think I can get by without a c
 - Update: I can't legally keep my car without license plates in my apartment complex, so I'm legally required to pay the insurance liability fee or else get evicted, for a car I can't use.
     - The fee I end up having to pay, to AllState, if I don't change insurance companies by tomorrow, most likely includes a charge for the hit-and-run I was in that wasn't my fault (and could've killed me), since it's $748.77 with them having removed all coverages and only keeping the bare-minimum liability fee. Geico in comparison quoted me ~$540, and Amica, which has a one week processing period, ~$440. I can either (1) let AllState charge me for a month, get some money refunded, and then switch to Amica, or (2) switch to Geico by tomorrow. No matter what, the extortions are insane. These are labor-and-expense requirements put on an unemployed person... on unusable property that the unemployed person fully paid off. And the coverage at that minimum-liability price doesn't even cover collisions.
     - My eczema got really severe for a time, and so I did a prolonged fast that I’m coming off of now.
-    	- Edit: My eczema was severe for another [N months] (ongoing) due to persisting stress and other externally invented responsibilities.
+    	- Edit: My eczema was severe for another [N months] (ongoing) due to persisting stress and other external interpositions.
     - Had I died from that hit-and-run, and if I didn’t have savings, my mom, who is poor, would've been charged with all of my student debt, as a punishment for the driver of that 18-wheeler's hit-and-run, and no insurance company or government institution or religious organization or charity would exist to help.
 
 These things might seem like small impositions of the state and corporate powers, but these are huge sums of money charged greedily at a flat rate to poor people and rich people alike, just for having a car. Monthly, or every 6 months, a tax for car ownership. And tons of bureaucracy.
 
 This should be publicized and made affordable and accountable. If the state thinks it's important, they should pay for it.
 
-Auto insurance should be nationalized.
+Auto insurance should be publicly owned since the state requires car owners and leasers to pay for car insurance in order to hold onto their own property.
 
-Also, car insurance should pay for all car damages for people, including, e.g., dead batteries.
+Also, car insurance (at least private, perhaps even public) should pay for all car damages for people, including, e.g., dead batteries, since the purpose of car insurance is to insure cars.
 
 - Update: State Farm offered me $452 for 6 months (but I would've had to take a 6-hour course and have my location tracked through their Drive Save & Save in-car device). Then I got a quote from Progressive entirely online without having to call anyone, conveniently, for $315, I paid with Apple Pay, they faxed my documents to Allstate, and I got confirmation with Allstate over the phone that they received the faxed documents and that my plan with them was cancelled, and I wouldn't be charged any additional payments, including the $748.77 that was scheduled for May 1st. The Progressive online portal was transparent about what tickets/accidents they were/weren't charging me for and how much was being charged ($315) and got the information accurate by default automatically, and even allowed me to add my insurance card digitally to Apple Wallet on my phone through their straightforward app. </br> </br>Ah, now I just got a voicemail from the rep at Allstate saying she made a mistake. I called back (it's near 5pm) and the guy who answered told me what she told me (that I shouldn't be charged on May 1st), but he couldn't tell me what the mistake was because that's all she told me too, so she'll call me back tomorrow to rectify the mistake. </br> </br>Most likely it's to inform me that the charging period, scheduled for May 1st, technically began from April 14th and that I would still be charged from then until the beginning of my new policy with Progressive on April 29th. Not understanding this refund policy, I'd selected April 29th beginning-date instead of April 25th (today) unfortunately.
 - My guess was correct and the rep said I wouldn't be charged more than about $40 for the 15 extra days. I did the math and it should've added up to about ~$60. When I checked the Allstate app on 04/30/24, I saw I was still being charged $748.77 and so I emailed the head of that Allstate agency. She replied:
 
+> ### $"$
 > Hi Sam,
 > You policy with Allstate has not been terminated, since progressive has not sent us the request.
 > To do this faster please email me your ID card from progressive and I will terminate your policy.
 >
 > Thank you
+> ### $``$
 
-- I replied:
+I replied:
 
+> ### $"$
 > I talked to two reps on three occasions, and not only did Progressive fax the policy, but [name anonymized] confirmed that she received it and confirmed twice that my policy with Allstate was cancelled. She even left a voicemail and confirmed the second time that I would not be charged more than about $40.
 >
 > See attached photo of the ID card.
+> ### $``$
 
 After this, they finally terminated my policy, and otherwise would've charged me $748.77 with decreasing refund amounts. Also, their warning that they would charge me ~$40 for the extra days couldn't even be relied on, because they ended up charging $68.39. 
 
