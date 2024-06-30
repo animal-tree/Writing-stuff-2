@@ -60,11 +60,7 @@ What I wrote earlier [here](https://github.com/animal-tree/Writing-stuff-2/blob/
 
 #
 
-Ah, but upon more thought, this conclusion, while still holding, has a better answer than the depicted "momentum-bump" spacetime curve. Rather, replace that with a flat line: eliminate any physical momentum imparted by the photon directly.
-
-Let's return to the 2nd proof statement (out of 3): "If the polarizations of electromagnetic waves cancel out in unpolarized visible light yet those photons still exert momentum even when not absorbed, then this is a proof, of both that light $\neq$ EM and that light has a different source of momentum (e.g., that bump)." There is one other way to satisfy this besides giving the photon that "momentum-bump" collision force.
-
-Instead, photons have at least one other known property besides their electromagnetic (EM) effects and that's their interaction (absorption and emission) with electrons.
+Photons have at least one other known property besides their electromagnetic (EM) effects and that's their interaction (absorption and emission) with electrons.
 
 And that absorption and emission induces its own momentum delta. For example, when an electron transitions energy levels due to the absorption of photons, its momentum also changes.
 
@@ -72,7 +68,7 @@ Therefore, there is a subtler, more elegant alternative to imparting photons wit
 
 It's that interaction, and the subsequent energy excitations of electrons in proteins called photopsins, that allows our eyes to see, and this interaction is indeed independent to the photon's polarization.
 
-So my thought experiment has a simpler[^2] resolution. The spacetime curve then becomes:
+So when it comes to visual perception of photons, this has a simpler[^2] resolution. The spacetime curve then becomes:
 
 <p align='center'>
   _____________________
