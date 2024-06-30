@@ -1,9 +1,5 @@
 # 3 Proofs
 
-&ensp;&ensp;&ensp; $\color{green}\mathrm{Sam \ Lerman}$
-
-#
-
 ### (1)
 
 Newton's 3rd law is violated by photons when it comes to their interaction with gravity. Gravity causes photons to "react" via centripetal acceleration towards masses, but the equal and opposite reaction isn't present (since photons don't have mass and therefore don't exert a force of gravity on masses such as electrons), meaning $\frac{\partial F_\gamma}{\partial t}$ $\neq$ $-\frac{\partial F_{e^{-}}}{\partial t}$, where $F_\gamma$ is the (e.g., gravitational) force on the photon by the electron, and $F_{e^{-}}$ is the force on the electron by the photon. 
@@ -20,7 +16,11 @@ This means EM $\neq$ light. The probability waves are not the EM waves.
 
 ### (3)
 
-If the polarizations of electromagnetic waves cancel out in unpolarized visible light yet those photons still exert momentum even when not absorbed, then not only does light $\neq$ EM, but that light has a different source of momentum other than EM (e.g., a collision force).
+If the polarizations of electromagnetic waves cancel out in unpolarized visible light yet those photons still exert momentum even when not absorbed, then not only does light $\neq$ EM, but that light has a different source of momentum other than EM (e.g., a collision force):
+
+<p align="center">
+<img width="150" src="https://github.com/animal-tree/Writing-stuff-2/assets/142250284/b6b0e528-32e4-4014-b999-4a783aafc3a8">
+</p>
 
 The proof of this is that, if EM forces are canceled out, then the momentum standardly attributed to them must have a different source.
 
