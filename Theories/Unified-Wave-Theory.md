@@ -1,5 +1,9 @@
 # A Unified Wave Theory of Light and General Relativity
 
+&ensp;&ensp;&ensp; $\color{green}\mathrm{Sam \ Lerman}$
+
+#
+
 $`K`$ $`\in`$ $`\mathbb{Z}`$. 
 
 $`N, M, L, n, m \in \mathbb{N}`$. 
