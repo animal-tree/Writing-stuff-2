@@ -64,7 +64,7 @@ $`m^{(K,t,x)} = \lVert \sum\limits_{i,j,k} \sum\limits_{T=0}^n \gamma_1^T s(x, \
 
 $`s(x,b) = \mathrm{ReLU}(-f \mathrm{d}(x, b_\mathrm{x}) + 1) \langle \cos^{-1}(b_\varphi), \sin^{-1}(b_\varphi) \rangle`$ multiplies a scalar by a vector in $`[-1, 1]^2`$. 
 
-$`\mathrm{d}(\cdot)`$ is a distance function. For example, Euclidean distance: $`\mathrm{d}(x_1, x_2) = \lVert x_1 - x_2 \rVert`$.
+$`\mathrm{d}(x_1, x_2)`$ is the distance between two points $x_1, x_2$. For example, Euclidean distance: $`\mathrm{d}(x_1, x_2) = \lVert x_1 - x_2 \rVert`$.
 
 $`\mathrm{\hat{h}_x}^{(K,t,i,j,k)} = \mathrm{\hat{h}_x}^{(K,t-1,i,j,k)} + \mathrm{\hat{h}_v}^{(K,t,i,j,k)}`$.
 
