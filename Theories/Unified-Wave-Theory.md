@@ -54,7 +54,7 @@ $`\mathrm{\hat{h}}_{\mathrm{p}^{(t)}}^{(K,t,i,j,k)} = \mathcal{N}(\mathrm{\hat{h
 
 $`\mathcal{B}(b \in H \bigm| H) = \frac{m^{(b_\mathrm{K}, b_\mathrm{t}, b_\mathrm{x})}}{\sum\limits_{g \in H} m^{(g_\mathrm{K}, g_\mathrm{t}, g_\mathrm{x})}}`$.
 
-$`m^{(K,t,x)} = \lVert \sum\limits_{i,j,k} \sum\limits_{T=0}^n \gamma_1^T s(x, \mathrm{\hat{h}}^{(K,t,i,j,k)}) \rVert`$.
+$`m^{(K,t,x)} = \lVert \sum\limits_{i,j,k} \sum\limits_{T=0}^n \gamma_1^T s(x, \mathrm{\hat{h}}^{(K,t - T,i,j,k)}) \rVert`$.
 
 $`s(x,b) = \mathrm{ReLU}(-f \lVert x - b_\mathrm{x} \rVert + 1) \langle \cos^{-1}(b_\varphi), \sin^{-1}(b_\varphi) \rangle \in [-1, 1]^2`$.
 
