@@ -1,6 +1,6 @@
 # A Unified Wave Theory of Light and General Relativity
 
-$`K \in \mathbb{Z}`$. 
+$`K`$ $`\in`$ $`\mathbb{Z}`$. 
 
 $`N, M, L, n, m \in \mathbb{N}`$. 
 
