@@ -28,9 +28,9 @@ $`\mathcal{S}^{(K, t, i)} = \langle b \sim \mathbf{P}(\mathcal{G}^{(K, t, i)}) \
 
 $`\mathcal{G}^{(K, t, i)} = \langle \hat{\mathrm{h}}^{(K,t,i,j',k')} \bigm| \forall j' \in 1, 2, ..., M, \forall k' \in 1,2, ..., L \rangle`$.
 
-$`D(\mathrm{p}, \mathrm{h}, K, t, i, j) = \sum\limits_{q \in \mathrm{p_i}^{(K, t, i)}} \mathrm{p_\omega}^{(K,t,q)}(\mathrm{h_x}^{(K,t,i,j)})`$.
+$`D(\mathrm{p}, \mathrm{h}, K, t, i, j) = \sum\limits_{q = 1}^{N} \mathrm{p_\omega}^{(K,t,q)}(\mathrm{h_x}^{(K,t,i,j)})`$.
 
-$`\mathrm{p_\omega}^{(K,t,q)}(\cdot)`$ depends on $`\mathrm{p_x}`$ (inverse square laws and momentum, e.g., [the wavelets described here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Bendy-Ball.md)).
+$`\mathrm{p_\omega}^{(K,t,q)}(\cdot)`$ depends on $`\mathrm{p_x}^{(K,t,q)}`$ (inverse square laws and momentum, e.g., [the wavelets described here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Bendy-Ball.md)). 
 
 $`\mathrm{\hat{h}_a}^{(K,t,i,j,k)} = - \nabla_{\mathrm{h_x}^{(K,t,i,j)}} D(\mathrm{p}, \mathrm{h}, K, t, i, j)`$.
 
