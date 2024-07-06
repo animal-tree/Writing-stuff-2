@@ -32,7 +32,7 @@ $`D(\mathrm{p}, \mathrm{h}, K, t, i, j) = \sum\limits_{q \in \mathrm{p_i}^{(K, t
 
 $`\mathrm{p_\omega}^{(K,t,q)}(\cdot)`$ depends on $`\mathrm{p_x}`$ (inverse square laws and momentum, e.g., [the wavelets described here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Bendy-Ball.md)).
 
-$`\mathrm{\hat{h}_a}^{(K,t,i,j,k)} = -\frac{\partial D(\mathrm{p}, \mathrm{h}, K, t, i, j)}{\partial\mathrm{h_x}^{(K,t,i,j)}}`$.
+$`\mathrm{\hat{h}_a}^{(K,t,i,j,k)} = - \nabla_{\mathrm{h_x}^{(K,t,i,j)}} D(\mathrm{p}, \mathrm{h}, K, t, i, j)`$.
 
 Note: these are element-wise vector operations.
 
