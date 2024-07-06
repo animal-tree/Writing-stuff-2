@@ -38,7 +38,7 @@ $`\mathrm{p_\omega}^{(K,t,q)}(\cdot)`$ depends on $`\mathrm{p_x}^{(K,t,q)}`$ (in
 
 $`\mathrm{\hat{h}_a}^{(K,t,i,j,k)} = - \nabla_{\mathrm{h_x}^{(K,t,i,j)}} D(\mathrm{p}, \mathrm{h}, K, t, i, j)`$.
 
-Note: these are element-wise vector operations.
+Note: these are element-wise vector operations:
 
 $`\mathrm{\hat{h}_\hat{v}}^{(K, t, i, j, k)} = \mathrm{h_v}^{(K, t-1, i, j)} + \mathrm{\hat{h}_a}^{(K, t-1,i,j,k)}`$.
 
