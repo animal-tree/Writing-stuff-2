@@ -40,7 +40,9 @@ $`\mathrm{\hat{h}_\hat{v}}^{(K, t, i, j, k)} = \mathrm{h_v}^{(K, t-1, i, j)} + \
 
 $`\mathrm{\hat{h}_\mu}^{(K,t,i,j,k)} = \frac{\mathrm{\hat{h}_\hat{v}}}{\lVert \mathrm{\hat{h}_\hat{v}}^{(K,t,i,j,k)} \rVert}`$.
 
-$`\mathrm{\hat{h}_d}^{(K,t,i,j,k)} \sim \mathcal{N}(\mathrm{\hat{h}_\mu}^{(K,t,i,j,k)}, \sigma)`$.
+$`\mathrm{\hat{h}_d}^{(K,t,i,j,k)} \sim \mathbf{N}(\mathrm{\hat{h}_\mu}^{(K,t,i,j,k)}, \sigma)`$.
+
+$`\mathbf{N}`$ is the Gaussian distribution.
 
 $`\mathrm{\hat{h}_K}^{(K,t,i,j,k)} = K, \mathrm{\hat{h}_t}^{(K,t,i,j,k)} = t, \mathrm{\hat{h}_i}^{(K,t,i,j,k)} = i`$.
 
@@ -50,9 +52,9 @@ $`\mathrm{\hat{h}_\varphi}^{(K,t,i,j,k)} = \sin(ft)`$.
 
 $`\mathrm{\hat{h}_x}^{(K,t,i,j,k)} = \mathrm{\hat{h}_x}^{(K,t-1,i,j,k)} + \mathrm{\hat{h}_v}^{(K,t,i,j,k)}`$.
 
-$`\mathrm{\hat{h}}_{\mathrm{p}^{(t)}}^{(K,t,i,j,k)} = \mathcal{N}(\mathrm{\hat{h}_d}^{(K,t,i,j,k)} \bigm| \mathrm{\hat{h}_\mu}^{(K,t,i,j,k)}, \sigma)\mathcal{B}(\mathrm{\hat{h}}^{(K,t,i,j,k)} \bigm| \mathcal{G}^{(K, t, i)})`$.
+$`\mathrm{\hat{h}}_{\mathrm{p}^{(t)}}^{(K,t,i,j,k)} = \mathbf{N}(\mathrm{\hat{h}_d}^{(K,t,i,j,k)} \bigm| \mathrm{\hat{h}_\mu}^{(K,t,i,j,k)}, \sigma)\mathbf{B}(\mathrm{\hat{h}}^{(K,t,i,j,k)} \bigm| \mathcal{G}^{(K, t, i)})`$.
 
-$`\mathcal{B}(b \in H \bigm| H) = \frac{m^{(b_\mathrm{K}, b_\mathrm{t}, b_\mathrm{x})}}{\sum\limits_{g \in H} m^{(g_\mathrm{K}, g_\mathrm{t}, g_\mathrm{x})}}`$.
+$`\mathbf{B}(b \in H \bigm| H) = \frac{m^{(b_\mathrm{K}, b_\mathrm{t}, b_\mathrm{x})}}{\sum\limits_{g \in H} m^{(g_\mathrm{K}, g_\mathrm{t}, g_\mathrm{x})}}`$.
 
 $`m^{(K,t,x)} = \lVert \sum\limits_{i,j,k} \sum\limits_{T=0}^n \gamma_1^T s(x, \mathrm{\hat{h}}^{(K,t - T,i,j,k)}) \rVert`$ sums over vectors in $`[-1, 1]^2`$, then norms.
 
