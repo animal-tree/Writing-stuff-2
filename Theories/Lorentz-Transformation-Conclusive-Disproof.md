@@ -21,7 +21,7 @@ t^{(4)} &= \mathcal{T}(\hat{x}^{(i)}, \hat{t}^{(i)}, v^{(i, 4)})
 \end{align}
 $$
 
-for some $\hat{x}^{(i)}, \hat{t}^{(i)}$ in reference frame $K^{(i)}$. Due to relativity of simultaneity, $x^{(i)}$ is not necessarily $\hat{x}^{(i)}$ and $t^{(i)}$ is not necessarily $\hat{t}^{(i)}$.
+for some $\hat{x}^{(i)}, \hat{t}^{(i)}$ in reference frame $K^{(i)}$. Due to relativity of simultaneity, $x^{(i)}$ is not necessarily $\hat{x}^{(i)}$ and $t^{(i)}$ is not necessarily $\hat{t}^{(i)}$, except when $i = 4$.
 
 We then have
 
