@@ -56,7 +56,7 @@ $`\mathrm{\hat{h}_\varphi}^{(K,t,i,j,k)} = \sin(ft)`$.
 
 $`\mathrm{\hat{h}_x}^{(K,t,i,j,k)} = \mathrm{\hat{h}_x}^{(K,t-1,i,j,k)} + \mathrm{\hat{h}_v}^{(K,t,i,j,k)}`$.
 
-$`\mathrm{\hat{h}}_{\mathrm{p}^{(t)}}^{(K,t,i,j,k)} = \mathbf{N}(\mathrm{\hat{h}_d}^{(K,t,i,j,k)} \bigm| \mathrm{\hat{h}_\mu}^{(K,t,i,j,k)}, \sigma)\mathbf{B}(\mathrm{\hat{h}}^{(K,t,i,j,k)} \bigm| \mathcal{G}^{(K, t, i)})`$.
+$`\mathrm{\hat{h}}_{\mathrm{p}^{(T)}}^{(K,t,i,j,k)} = \mathbf{N}(\mathrm{\hat{h}_d}^{(K,t,i,j,k)} \bigm| \mathrm{\hat{h}_\mu}^{(K,t,i,j,k)}, \sigma)\mathbf{B}(\mathrm{\hat{h}}^{(K,t,i,j,k)} \bigm| \mathcal{G}^{(K, t, i)})`$, where $T = t$.
 
 $`\mathbf{B}(b \in H \bigm| H) = \frac{m^{(b_\mathrm{K}, b_\mathrm{t}, b_\mathrm{x})}}{\sum\limits_{g \in H} m^{(g_\mathrm{K}, g_\mathrm{t}, g_\mathrm{x})}}`$.
 
