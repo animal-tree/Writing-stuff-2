@@ -24,7 +24,8 @@ $`\mathrm{h_x}^{(0,0,i,j)}, \mathrm{h_v}^{(0,0,i,j)} \in \mathbb{R}^3`$ and $`\m
 
 $`\mathrm{p}^{(K, t, i)} \sim \mathbf{P}(\mathcal{W}^{(K, t, i)})`$.
 
-Denoting sets as $\langle \rangle$ since GitHub's LaTeX doesn't support { } brackets. All elements in a set are unique.
+> [!NOTE]
+> Denote sets as $\langle \rangle$ since GitHub's LaTeX doesn't support { } brackets. All elements in a set are unique.
 
 $`\mathcal{W}^{(K, t, i)} = \langle h^{(K, t, i, j')} \bigm| \forall j' \in 1,2,..., M \rangle`$.
 
