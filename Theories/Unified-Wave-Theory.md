@@ -22,9 +22,9 @@ $`k \in 1,2, ..., L`$.
 
 $`\mathrm{h_x}^{(0,0,i,j)}, \mathrm{h_v}^{(0,0,i,j)} \in \mathbb{R}^3`$ and $`\mathrm{h_\varphi}^{(0,0,i,j)} \in [0, 2\pi)`$.
 
-$`\mathrm{p}^{(K, t, i)} \sim \mathbf{P}(\mathcal{W}^{(K, t, i)})`$.
+$`\mathrm{p}^{(K, t-1, i)} \sim \mathbf{P}(\mathcal{W}^{(K, t-1, i)})`$.
 
-$`\mathcal{W}^{(K, t, i)} = \langle h^{(K, t, i, j')} \bigm| \forall j' \in 1,2,..., M \rangle`$.
+$`\mathcal{W}^{(K, t-1, i)} = \langle h^{(K, t-1, i, j')} \bigm| \forall j' \in 1,2,..., M \rangle`$.
 
 $`\mathrm{h}^{(K, t, i, j)} = \mathcal{S}_j^{(K, t, i)}`$.
 
@@ -34,11 +34,11 @@ Note: Sets, denoted by $\langle \rangle$, only contain unique elements.
 
 $`\mathcal{G}^{(K, t, i)} = \langle \hat{\mathrm{h}}^{(K,t,i,j',k')} \bigm| \forall j' \in 1, 2, ..., M, \forall k' \in 1,2, ..., L \rangle`$.
 
-$`D(\mathrm{p}, \mathrm{h}, K, t, i, j) = \sum\limits_{q = 1}^{N} \mathrm{p_\omega}^{(K,t,q)}(\mathrm{h_x}^{(K,t,i,j)})`$.
+$`D(\mathrm{p}, \mathrm{h}, K, t-1, i, j) = \sum\limits_{q = 1}^{N} \mathrm{p_\omega}^{(K,t-1,q)}(\mathrm{h_x}^{(K,t-1,i,j)})`$.
 
-$`\mathrm{p_\omega}^{(K,t,q)}(\cdot)`$ depends on $`\mathrm{p_x}^{(K,t,q)}`$ (inverse square laws and momentum, e.g., [the wavelets described here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Bendy-Ball.md)). 
+$`\mathrm{p_\omega}^{(K,t-1,q)}(\cdot)`$ depends on $`\mathrm{p_x}^{(K,t-1,q)}`$ (inverse square laws and momentum, e.g., [the wavelets described here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Bendy-Ball.md)). 
 
-$`\mathrm{\hat{h}_a}^{(K,t,i,j,k)} = - \nabla_{\mathrm{h_x}^{(K,t-1,i,j)}} D(\mathrm{p}, \mathrm{h}, K, t, i, j)`$.
+$`\mathrm{\hat{h}_a}^{(K,t,i,j,k)} = - \nabla_{\mathrm{h_x}^{(K,t-1,i,j)}} D(\mathrm{p}, \mathrm{h}, K, t-1, i, j)`$.
 
 Note: these are element-wise vector operations:
 
