@@ -12,13 +12,13 @@ $`\sigma, f \in \mathbb{R}`$.
 
 $`\gamma_1, \gamma_2 \in [0, 1]`$.
 
-$`t \in \mathbb{N}`$.
+$`\forall t \in \mathbb{N}`$:
 
-$`i \in 1, 2, ..., N`$.
+$`\forall i \in 1, 2, ..., N`$:
 
-$`j \in 1, 2, ..., M`$.
+$`\forall j \in 1, 2, ..., M`$:
 
-$`k \in 1,2, ..., L`$.
+$`\forall k \in 1,2, ..., L`$:
 
 $`\mathrm{h_x}^{(0,0,i,j)}, \mathrm{h_v}^{(0,0,i,j)} \in \mathbb{R}^3`$ and $`\mathrm{h_\varphi}^{(0,0,i,j)} \in [0, 2\pi)`$.
 
