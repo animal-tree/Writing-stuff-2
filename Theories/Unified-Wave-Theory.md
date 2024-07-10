@@ -26,11 +26,11 @@ $`\mathrm{p}^{(K, t, i)} \sim \mathbf{P}(\mathcal{W}^{(K, t, i)})`$.
 
 $`\mathcal{W}^{(K, t, i)} = \langle h^{(K, t, i, j')} \bigm| \forall j' \in 1,2,..., M \rangle`$.
 
-Note: Sets, denoted by $\langle \rangle$, only contain unique elements. GitHub's LaTeX doesn't support {}.
-
 $`\mathrm{h}^{(K, t, i, j)} = \mathcal{S}_j^{(K, t, i)}`$.
 
 $`\mathcal{S}^{(K, t, i)} = \langle b \sim \mathbf{P}(\mathcal{G}^{(K, t, i)}) \bigm| |\mathcal{S}^{(K,t,i)}| = M \rangle`$.
+
+Note: Sets, denoted by $\langle \rangle$, only contain unique elements. GitHub's LaTeX doesn't support {}.
 
 $`\mathcal{G}^{(K, t, i)} = \langle \hat{\mathrm{h}}^{(K,t,i,j',k')} \bigm| \forall j' \in 1, 2, ..., M, \forall k' \in 1,2, ..., L \rangle`$.
 
