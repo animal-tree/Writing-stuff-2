@@ -44,17 +44,15 @@ $`\mathrm{\hat{h}_d}^{(K,t,i,j,k)} \sim \mathbf{N}(\mathrm{\hat{h}_\mu}^{(K,t,i,
 
 $`\mathbf{N}`$ is the Gaussian distribution,
 
+$`\mathrm{\hat{h}_v}^{(K,t,i,j,k)} = \frac{\mathrm{\hat{h}_d}^{(K, t, i, j, k)} \lVert \mathrm{\hat{h}_\hat{v}}^{(K,t,i,j,k)} \rVert}{\lVert \mathrm{\hat{h}_d}^{(K,t,i,j,k)} \rVert}`$,
+
+$`\mathrm{\hat{h}_x}^{(K,t,i,j,k)} = \mathrm{h_x}^{(K,t-1,i,j)} + \mathrm{\hat{h}_v}^{(K,t,i,j,k)}`$,
+
 $`\mathrm{\hat{h}_K}^{(K,t,i,j,k)} = K`$, 
 
 $`\mathrm{\hat{h}_t}^{(K,t,i,j,k)} = t`$, 
 
-$`\mathrm{\hat{h}_i}^{(K,t,i,j,k)} = i`$,
-
-$`\mathrm{\hat{h}_v}^{(K,t,i,j,k)} = \frac{\mathrm{\hat{h}_d}^{(K, t, i, j, k)} \lVert \mathrm{\hat{h}_\hat{v}}^{(K,t,i,j,k)} \rVert}{\lVert \mathrm{\hat{h}_d}^{(K,t,i,j,k)} \rVert}`$,
-
 $`\mathrm{\hat{h}_\varphi}^{(K,t,i,j,k)} = \sin(ft)`$,
-
-$`\mathrm{\hat{h}_x}^{(K,t,i,j,k)} = \mathrm{h_x}^{(K,t-1,i,j)} + \mathrm{\hat{h}_v}^{(K,t,i,j,k)}`$,
 
 $`\mathrm{\hat{h}}_{\mathrm{p}^{(T)}}^{(K,t,i,j,k)} = \mathrm{h}_{\mathrm{p}^{(T)}}^{(K,t-1,i,j)}, \ \forall T \in 1, 2, ..., t - 1`$,
 
