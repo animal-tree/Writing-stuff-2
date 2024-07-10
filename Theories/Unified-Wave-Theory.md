@@ -64,13 +64,13 @@ $`\mathrm{\hat{h}}_{\mathrm{p}^{(T)}}^{(K,t,i,j,k)} = \mathbf{N}(\mathrm{\hat{h}
 
 $`\mathbf{B}(b \in H \bigm| H) = \frac{m^{(b_\mathrm{K}, b_\mathrm{t}, b_\mathrm{x})}}{\sum\limits_{g \in H} m^{(g_\mathrm{K}, g_\mathrm{t}, g_\mathrm{x})}}`$,
 
-$`m^{(K,t,x)} = \lVert \sum\limits_{i,j,k} \sum\limits_{T=0}^n \gamma_1^T s(x, \mathrm{\hat{h}}^{(K,t - T,i,j,k)}) \rVert`$ sums over vectors in $`[-1, 1]^2`$, then norms,
+$`m^{(K,t,x)} = \lVert \sum\limits_{i,j,k} \sum\limits_{T=0}^{\mathrm{min}(n, t)} \gamma_1^T s(x, \mathrm{\hat{h}}^{(K,t - T,i,j,k)}) \rVert`$ sums over vectors in $`[-1, 1]^2`$, then norms,
 
 $`s(x,b) = \mathrm{ReLU}(-f \mathrm{d}(x, b_\mathrm{x}) + 1)\langle \cos^{-1}(b_\varphi), \sin^{-1}(b_\varphi) \rangle`$ multiplies a scalar, by a vector in $`[-1, 1]^2`$,
 
 $`\mathrm{d}(x_1, x_2)`$ is the distance between any two points $x_1, x_2$. For example, Euclidean distance: $`\mathrm{d}(x_1, x_2) = \lVert x_1 - x_2 \rVert`$,
 
-$`\mathbf{P}(b \in H \bigm| H) = \frac{\sum\limits_{T=0}^{m} \gamma_2^T b_{\mathbb{p}^{(b_\mathrm{t} - T)}}}{\sum\limits_{g \in H} \sum\limits_{T=0}^{m} \gamma_2^T g_{\mathbb{p}^{(b_\mathrm{t} - T)}}}`$,
+$`\mathbf{P}(b \in H \bigm| H) = \frac{\sum\limits_{T=0}^{\min(m, t)} \gamma_2^T b_{\mathbb{p}^{(b_\mathrm{t} - T)}}}{\sum\limits_{g \in H} \sum\limits_{T=0}^{\min(m, t)} \gamma_2^T g_{\mathbb{p}^{(b_\mathrm{t} - T)}}}`$,
 
 $`\forall i \in 1, 2, ..., N`$, 
 
