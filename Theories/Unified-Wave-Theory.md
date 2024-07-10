@@ -66,7 +66,7 @@ $`m^{(K,t,x)} = \lVert \sum\limits_{i,j,k} \sum\limits_{T=0}^{\mathrm{min}(n, t)
 
 $`s(x,b) = \mathrm{ReLU}(-f \mathrm{d}(x, b_\mathrm{x}) + 1)\langle \cos^{-1}(b_\varphi), \sin^{-1}(b_\varphi) \rangle`$ multiplies a scalar, by a vector in $`[-1, 1]^2`$,
 
-$`\mathrm{d}(x_1, x_2)`$ is the distance between any two points $x_1, x_2$. For example, Euclidean distance: $`\mathrm{d}(x_1, x_2) = \lVert x_1 - x_2 \rVert`$,
+$`\mathrm{d}(x_1, x_2)`$ is the distance between any two points $x_1, x_2$ (for example, Euclidean distance: $`\mathrm{d}(x_1, x_2) = \lVert x_1 - x_2 \rVert`$),
 
 $`\mathbf{P}(b \in H \bigm| H) = \frac{\sum\limits_{T=0}^{\min(m, t)} \gamma_2^T b_{\mathbb{p}^{(b_\mathrm{t} - T)}}}{\sum\limits_{g \in H} \sum\limits_{T=0}^{\min(m, t)} \gamma_2^T g_{\mathbb{p}^{(b_\mathrm{t} - T)}}}`$,
 
