@@ -76,5 +76,5 @@ $`\forall j \in 1, 2, ..., M`$,
 
 $`\forall k \in 1,2, ..., L`$, 
 
-$`\forall t \in \mathbb{N}`$.
+and $`\forall t \in \mathbb{N}`$.
 
