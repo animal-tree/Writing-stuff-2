@@ -70,7 +70,7 @@ $`\mathrm{d}(x_1, x_2)`$ is the distance between any two points $x_1, x_2$. For 
 
 $`\mathbf{P}(b \in H \bigm| H) = \frac{\sum\limits_{T=0}^{\min(m, t)} \gamma_2^T b_{\mathbb{p}^{(b_\mathrm{t} - T)}}}{\sum\limits_{g \in H} \sum\limits_{T=0}^{\min(m, t)} \gamma_2^T g_{\mathbb{p}^{(b_\mathrm{t} - T)}}}`$,
 
-$`\forall K`$ $`\in`$ $`\mathbb{Z}`$,
+$`\forall K \in \mathbb{Z}`$,
 
 $`\forall i \in 1, 2, ..., N`$, 
 
