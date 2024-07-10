@@ -73,5 +73,5 @@ $`\mathrm{\hat{h}_x}^{(K,t,i,j,k)} = \mathrm{\hat{h}_x}^{(K,t-1,i,j,k)} + \mathr
 $`\mathbf{P}(b \in H \bigm| H) = \frac{\sum\limits_{T=0}^{m} \gamma_2^T b_{\mathbb{p}^{(b_\mathrm{t} - T)}}}{\sum\limits_{g \in H} \sum\limits_{T=0}^{m} \gamma_2^T g_{\mathbb{p}^{(b_\mathrm{t} - T)}}}`$.
 
 [^1]: GitHub's LaTeX doesn't support {}, so sets are denoted here by <>.
-[^2]: Sets only contain unique elements.
+[^2]: Note: Sets only contain unique elements.
 
