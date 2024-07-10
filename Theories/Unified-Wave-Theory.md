@@ -68,7 +68,7 @@ $`\mathrm{d}(x_1, x_2)`$ is the distance between any two points $x_1, x_2$ (for 
 
 $`\mathbf{P}(b \in H \bigm| H) = \frac{\sum\limits_{T=0}^{\min(m, t)} \gamma_2^T b_{\mathbb{p}^{(b_\mathrm{t} - T)}}}{\sum\limits_{g \in H} \sum\limits_{T=0}^{\min(m, t)} \gamma_2^T g_{\mathbb{p}^{(b_\mathrm{t} - T)}}}`$,
 
-$`\forall K \in \mathbb{Z}`$ when I define the reference frame transformations, $K = 0$ otherwise,
+$`\forall K \in \mathbb{Z}`$ with the reference frame transformations added, $K = 0$ in the meantime,
 
 $`\forall i \in 1, 2, ..., N`$, 
 
