@@ -36,11 +36,11 @@ $`D(\mathrm{p}, \mathrm{h}, K, t, i, j) = \sum\limits_{q = 1}^{N} \mathrm{p_\ome
 
 $`\mathrm{p_\omega}^{(K,t,q)}(\cdot)`$ depends on $`\mathrm{p_x}^{(K,t,q)}`$ (inverse square laws and momentum, e.g., [the wavelets described here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Bendy-Ball.md)). 
 
-$`\mathrm{\hat{h}_a}^{(K,t,i,j,k)} = - \nabla_{\mathrm{h_x}^{(K,t,i,j)}} D(\mathrm{p}, \mathrm{h}, K, t, i, j)`$.
+$`\mathrm{\hat{h}_a}^{(K,t,i,j,k)} = - \nabla_{\mathrm{h_x}^{(K,t-1,i,j)}} D(\mathrm{p}, \mathrm{h}, K, t, i, j)`$.
 
 Note: these are element-wise vector operations:
 
-$`\mathrm{\hat{h}_\hat{v}}^{(K, t, i, j, k)} = \mathrm{h_v}^{(K, t-1, i, j)} + \mathrm{\hat{h}_a}^{(K, t-1,i,j,k)}`$.
+$`\mathrm{\hat{h}_\hat{v}}^{(K, t, i, j, k)} = \mathrm{h_v}^{(K, t-1, i, j)} + \mathrm{\hat{h}_a}^{(K, t,i,j,k)}`$.
 
 $`\mathrm{\hat{h}_\mu}^{(K,t,i,j,k)} = \frac{\mathrm{\hat{h}_\hat{v}}}{\lVert \mathrm{\hat{h}_\hat{v}}^{(K,t,i,j,k)} \rVert}`$.
 
@@ -54,9 +54,9 @@ $`\mathrm{\hat{h}_v}^{(K,t,i,j,k)} = \frac{\mathrm{\hat{h}_d}^{(K, t, i, j, k)} 
 
 $`\mathrm{\hat{h}_\varphi}^{(K,t,i,j,k)} = \sin(ft)`$.
 
-$`\mathrm{\hat{h}_x}^{(K,t,i,j,k)} = \mathrm{\hat{h}_x}^{(K,t-1,i,j,k)} + \mathrm{\hat{h}_v}^{(K,t,i,j,k)}`$.
+$`\mathrm{\hat{h}_x}^{(K,t,i,j,k)} = \mathrm{h_x}^{(K,t-1,i,j)} + \mathrm{\hat{h}_v}^{(K,t,i,j,k)}`$.
 
-$`\mathrm{\hat{h}}_{\mathrm{p}^{(T)}}^{(K,t,i,j,k)} = \mathrm{h}_{\mathrm{p}^{(T)}}^{(K,t,i,j)}, \ \forall T \in 1, 2, ..., t - 1`$.
+$`\mathrm{\hat{h}}_{\mathrm{p}^{(T)}}^{(K,t,i,j,k)} = \mathrm{h}_{\mathrm{p}^{(T)}}^{(K,t-1,i,j)}, \ \forall T \in 1, 2, ..., t - 1`$.
 
 $`\mathrm{\hat{h}}_{\mathrm{p}^{(T)}}^{(K,t,i,j,k)} = \mathbf{N}(\mathrm{\hat{h}_d}^{(K,t,i,j,k)} \bigm| \mathrm{\hat{h}_\mu}^{(K,t,i,j,k)}, \sigma)\mathbf{B}(\mathrm{\hat{h}}^{(K,t,i,j,k)} \bigm| \mathcal{G}^{(K, t, i)})`$, when $T = t$.
 
@@ -67,8 +67,6 @@ $`m^{(K,t,x)} = \lVert \sum\limits_{i,j,k} \sum\limits_{T=0}^n \gamma_1^T s(x, \
 $`s(x,b) = \mathrm{ReLU}(-f \mathrm{d}(x, b_\mathrm{x}) + 1)\langle \cos^{-1}(b_\varphi), \sin^{-1}(b_\varphi) \rangle`$ multiplies a scalar, by a vector in $`[-1, 1]^2`$. 
 
 $`\mathrm{d}(x_1, x_2)`$ is the distance between any two points $x_1, x_2$. For example, Euclidean distance: $`\mathrm{d}(x_1, x_2) = \lVert x_1 - x_2 \rVert`$.
-
-$`\mathrm{\hat{h}_x}^{(K,t,i,j,k)} = \mathrm{\hat{h}_x}^{(K,t-1,i,j,k)} + \mathrm{\hat{h}_v}^{(K,t,i,j,k)}`$.
 
 $`\mathbf{P}(b \in H \bigm| H) = \frac{\sum\limits_{T=0}^{m} \gamma_2^T b_{\mathbb{p}^{(b_\mathrm{t} - T)}}}{\sum\limits_{g \in H} \sum\limits_{T=0}^{m} \gamma_2^T g_{\mathbb{p}^{(b_\mathrm{t} - T)}}}`$.
 
