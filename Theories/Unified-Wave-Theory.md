@@ -12,14 +12,6 @@ $`\sigma, f \in \mathbb{R}`$.
 
 $`\gamma_1, \gamma_2 \in [0, 1]`$.
 
-$`\forall t \in \mathbb{N}`$:
-
-$`\forall i \in 1, 2, ..., N`$:
-
-$`\forall j \in 1, 2, ..., M`$:
-
-$`\forall k \in 1,2, ..., L`$:
-
 $`\mathrm{h_x}^{(0,0,i,j)}, \mathrm{h_v}^{(0,0,i,j)} \in \mathbb{R}^3`$ and $`\mathrm{h_\varphi}^{(0,0,i,j)} \in [0, 2\pi)`$.
 
 $`\mathrm{p}^{(K, t-1, i)} \sim \mathbf{P}(\mathcal{W}^{(K, t-1, i)})`$.
@@ -71,4 +63,6 @@ $`s(x,b) = \mathrm{ReLU}(-f \mathrm{d}(x, b_\mathrm{x}) + 1)\langle \cos^{-1}(b_
 $`\mathrm{d}(x_1, x_2)`$ is the distance between any two points $x_1, x_2$. For example, Euclidean distance: $`\mathrm{d}(x_1, x_2) = \lVert x_1 - x_2 \rVert`$.
 
 $`\mathbf{P}(b \in H \bigm| H) = \frac{\sum\limits_{T=0}^{m} \gamma_2^T b_{\mathbb{p}^{(b_\mathrm{t} - T)}}}{\sum\limits_{g \in H} \sum\limits_{T=0}^{m} \gamma_2^T g_{\mathbb{p}^{(b_\mathrm{t} - T)}}}`$.
+
+$`\forall i \in 1, 2, ..., N; \ \forall j \in 1, 2, ..., M; \ \forall k \in 1,2, ..., L; \ \forall t \in \mathbb{N}`$.
 
