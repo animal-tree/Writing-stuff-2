@@ -30,8 +30,6 @@ $`\mathrm{h}^{(K, t, i, j)} = \mathcal{S}_j^{(K, t, i)}`$.
 
 $`\mathcal{S}^{(K, t, i)} = \langle b \sim \mathbf{P}(\mathcal{G}^{(K, t, i)}) \bigm| |\mathcal{S}^{(K,t,i)}| = M \rangle`$.
 
-Sets only contain unique elements.
-
 $`\mathcal{G}^{(K, t, i)} = \langle \hat{\mathrm{h}}^{(K,t,i,j',k')} \bigm| \forall j' \in 1, 2, ..., M, \forall k' \in 1,2, ..., L \rangle`$.
 
 $`D(\mathrm{p}, \mathrm{h}, K, t, i, j) = \sum\limits_{q = 1}^{N} \mathrm{p_\omega}^{(K,t,q)}(\mathrm{h_x}^{(K,t,i,j)})`$.
