@@ -16,8 +16,6 @@ $`\mathrm{h_x}^{(0,0,i,j)}, \mathrm{h_v}^{(0,0,i,j)} \in \mathbb{R}^3`$,
 
 $`\mathrm{h_\varphi}^{(0,0,i,j)} \in [0, 2\pi)`$,
 
-$`\mathrm{h_{p^{(0)}}}^{(0,0,i,j)} = 0`$,
-
 $`\mathrm{p}^{(K, t-1, i)} \sim \mathbf{P}(\mathcal{W}^{(K, t-1, i)})`$ represents the $i\text{th}$ sampled particle,
 
 $`\mathcal{W}^{(K, t-1, i)} = \langle h^{(K, t-1, i, j')} \bigm| \forall j' \in 1,2,..., M \rangle`$,
@@ -60,7 +58,7 @@ $`\mathrm{\hat{h}_\varphi}^{(K,t,i,j,k)} = \sin(ft)`$,
 
 $`\mathrm{\hat{h}_x}^{(K,t,i,j,k)} = \mathrm{h_x}^{(K,t-1,i,j)} + \mathrm{\hat{h}_v}^{(K,t,i,j,k)}`$,
 
-$`\mathrm{\hat{h}}_{\mathrm{p}^{(T)}}^{(K,t,i,j,k)} = \mathrm{h}_{\mathrm{p}^{(T)}}^{(K,t-1,i,j)}, \ \forall T \in 1, 2, ..., t - 1`$,
+$`\mathrm{\hat{h}}_{\mathrm{p}^{(T)}}^{(K,t,i,j,k)} = \mathrm{h}_{\mathrm{p}^{(T)}}^{(K,t-1,i,j)}, \ \forall T \in 2, 3, ..., t - 1`$,
 
 $`\mathrm{\hat{h}}_{\mathrm{p}^{(T)}}^{(K,t,i,j,k)} = \mathbf{N}(\mathrm{\hat{h}_d}^{(K,t,i,j,k)} \bigm| \mathrm{\hat{h}_\mu}^{(K,t,i,j,k)}, \sigma)\mathbf{B}(\mathrm{\hat{h}}^{(K,t,i,j,k)} \bigm| \mathcal{G}^{(K, t, i)})`$, when $T = t$,
 
