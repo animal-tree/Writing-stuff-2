@@ -67,7 +67,7 @@ $`m^{(K,t,x)} = \lVert \sum\limits_{i,j,k} \sum\limits_{T=0}^{\mathrm{min}(n, t)
 
 $`s(x,b) = \mathrm{ReLU}(-f \mathrm{d}(x, b_\mathrm{x}) + 1)\langle \cos^{-1}(b_\varphi), \sin^{-1}(b_\varphi) \rangle`$ multiplies a scalar, by a vector in $`[-1, 1]^2`$,
 
-$`\mathrm{ReLU}`$ is the rectified linear unit function,
+$`\mathrm{ReLU}(\cdot)`$ is the rectified linear unit function,
 
 $`\mathrm{d}(x_1, x_2)`$ is the distance between any two points $x_1, x_2$ (for example, Euclidean distance: $`\mathrm{d}(x_1, x_2) = \lVert x_1 - x_2 \rVert`$),
 
