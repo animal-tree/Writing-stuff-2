@@ -23,7 +23,7 @@ $`\mathrm{h}^{(K, t, i, j)} = \mathcal{S}_j^{(K, t, i)}`$,
 $`\mathcal{S}^{(K, t, i)} = \langle b \sim \mathbf{P}(\mathcal{G}^{(K, t, i)}) \bigm| |\mathcal{S}^{(K,t,i)}| = M \rangle`$,
 
 > [!NOTE]
-> Sets, denoted by $\langle \rangle$, only contain unique elements.
+> Sets, denoted by $\langle \rangle$, only contain unique elements. Also, GitHub's LaTeX doesn't support { } notation.
 
 $`\mathcal{G}^{(K, t, i)} = \langle \hat{\mathrm{h}}^{(K,t,i,j',k')} \bigm| \forall j' \in 1, 2, ..., M, \forall k' \in 1,2, ..., L \rangle`$,
 
