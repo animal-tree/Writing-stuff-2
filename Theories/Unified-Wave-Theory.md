@@ -59,7 +59,7 @@ $`\mathrm{\hat{h}}_{\mathrm{p}^{(T)}}^{(K,t,i,j,k)} = \mathrm{h}_{\mathrm{p}^{(T
 $`\mathrm{\hat{h}}_{\mathrm{p}^{(T)}}^{(K,t,i,j,k)} = \mathbf{N}(\mathrm{\hat{h}_d}^{(K,t,i,j,k)} \bigm| \mathrm{\hat{h}_\mu}^{(K,t,i,j,k)}, \sigma)\mathbf{B}(\mathrm{\hat{h}}^{(K,t,i,j,k)} \bigm| \mathcal{G}^{(K, t, i)})`$, when $T = t$,
 
 > [!NOTE]
-> In only the usage immediately above, $`\mathrm{\hat{h}}_{\mathrm{p}^{(t)}}^{(K,t,i,j,k)}`$ does not yet belong to the $`\mathrm{\hat{h}}^{(K,t,i,j,k)}`$ element of $`\mathcal{G}^{(K, t, i)}`$, since $`\mathrm{\hat{h}}_{\mathrm{p}^{(t)}}^{(K,t,i,j,k)}`$ was not yet defined. All necessary elements of $`\mathrm{\hat{h}}^{(K,t,i,j,k)}`$ of $`\mathcal{G}^{(K, t, i)}`$ for this usage were/are defined.
+> In only the usage immediately above, $`\mathrm{\hat{h}}_{\mathrm{p}^{(t)}}^{(K,t,i,j,k)}`$ does not yet belong to the $`\mathrm{\hat{h}}^{(K,t,i,j,k)}`$ element of $`\mathcal{G}^{(K, t, i)}`$, since $`\mathrm{\hat{h}}_{\mathrm{p}^{(t)}}^{(K,t,i,j,k)}`$ isn't yet defined. All necessary elements of $`\mathrm{\hat{h}}^{(K,t,i,j,k)}`$ of $`\mathcal{G}^{(K, t, i)}`$ for this usage are defined.
 
 $`\mathbf{B}(b \in H \bigm| H) = \frac{m^{(b_\mathrm{K}, b_\mathrm{t}, b_\mathrm{x})}}{\sum\limits_{g \in H} m^{(g_\mathrm{K}, g_\mathrm{t}, g_\mathrm{x})}}`$,
 
