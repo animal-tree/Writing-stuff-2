@@ -29,7 +29,7 @@ $`\mathcal{G}^{(K, t, i)} = \langle \hat{\mathrm{h}}^{(K,t,i,j',k')} \bigm| \for
 
 $`D(\mathrm{p}, \mathrm{h}, K, t-1, i, j) = \sum\limits_{q = 1}^{N} \mathrm{p_\omega}^{(K,t-1,q)}(\mathrm{h_x}^{(K,t-1,i,j)})`$,
 
-$`\mathrm{p_\omega}^{(K,t-1,q)}(\cdot)`$ depends on $`\mathrm{p_x}^{(K,t-1,q)}`$ (inverse square laws and momentum, e.g., [the wavelets described here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Bendy-Ball.md)),
+$`\mathrm{p_\omega}^{(K,t-1,i)}(\cdot)`$ depends on $`\mathrm{p_x}^{(K,t-1,i)}`$ (inverse square laws and momentum, e.g., [the wavelets described here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Bendy-Ball.md)),
 
 $`\mathrm{\hat{h}_a}^{(K,t,i,j,k)} = - \nabla_{\mathrm{h_x}^{(K,t-1,i,j)}} D(\mathrm{p}, \mathrm{h}, K, t-1, i, j)`$,
 
