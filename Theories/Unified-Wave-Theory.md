@@ -27,11 +27,11 @@ $`\mathcal{S}^{(K, t, i)} = \langle b \sim \mathbf{P}(\mathcal{G}^{(K, t, i)}) \
 
 $`\mathcal{G}^{(K, t, i)} = \langle \hat{\mathrm{h}}^{(K,t,i,j',k')} \bigm| \forall j' \in 1, 2, ..., M, \forall k' \in 1,2, ..., L \rangle`$,
 
-$`D(\mathrm{p}, x, K, t-1, i, j) = \sum\limits_{q = 1}^{N} \mathrm{p_\omega}^{(K,t-1,q)}(x)`$,
+$`D(\mathrm{p}, K, t-1, x) = \sum\limits_{q = 1}^{N} \mathrm{p_\omega}^{(K,t-1,q)}(x)`$,
 
 $`\mathrm{p_\omega}^{(K,t-1,i)}(\cdot)`$ depends on $`\mathrm{p_x}^{(K,t-1,i)}`$ (inverse square laws and momentum, e.g., [the wavelets described here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Bendy-Ball.md)),
 
-$`\mathrm{\hat{h}_a}^{(K,t,i,j,k)} = - \nabla_{\mathrm{h_x}^{(K,t-1,i,j)}} D(\mathrm{p}, \mathrm{h_x}^{(K,t-1,i,j)}, K, t-1, i, j)`$,
+$`\mathrm{\hat{h}_a}^{(K,t,i,j,k)} = - \nabla_{\mathrm{h_x}^{(K,t-1,i,j)}} D(\mathrm{p}, K, t-1, \mathrm{h_x}^{(K,t-1,i,j)})`$,
 
 > [!NOTE]
 > Below are element-wise vector operations.
