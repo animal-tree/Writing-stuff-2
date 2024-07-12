@@ -31,7 +31,7 @@ $`\mathcal{S}^{(K, t, i)} = \langle b \sim \mathbf{P}(\mathcal{G}^{(K, t, i)}) \
 
 $`\mathcal{G}^{(K, t, i)} = \langle \hat{\mathrm{h}}^{(K,t,i,j',k')} \bigm| \forall j' \in 1, 2, ..., M, \forall k' \in 1,2, ..., L \rangle`$,
 
-$`D(b) = \sum\limits_{q = 1}^{N+1} \mathrm{p_\omega}^{(b_\mathrm{K},b_\mathrm{t},q)}(b_\mathrm{x})`$,
+$`D(b) = \sum\limits_{q = 1}^{N+1} \mathrm{p_\omega}^{(b_\mathrm{K},b_\mathrm{t},q)}(b)`$,
 
 $`\mathrm{p_\omega}^{(K,t-1,i)}(\cdot)`$ depends on $`\mathrm{p_x}^{(K,t-1,i)}`$ (inverse square laws and momentum, e.g., [the wavelets described here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Bendy-Ball.md)),
 
