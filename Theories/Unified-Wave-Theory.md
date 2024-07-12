@@ -14,9 +14,9 @@ $`\mathrm{h_x}^{(0,0,i,j)}, \mathrm{h_v}^{(0,0,i,j)} \in \mathbb{R}^3`$,
 
 $`\mathrm{h_\varphi}^{(0,0,i,j)} \in [0, 2\pi)`$,
 
-$`\mathrm{h_K}^{(0,0,i,j)} = K`$, 
+$`\mathrm{h_K}^{(0,0,i,j)} = 0`$, 
 
-$`\mathrm{h_t}^{(0,0,i,j)} = t`$, 
+$`\mathrm{h_t}^{(0,0,i,j)} = 0`$, 
 
 $`\mathrm{p}^{(K, t-1, i)} \sim \mathbf{P}(\mathcal{W}^{(K, t-1, i)})`$ represents the $i\text{th}$ sampled particle,
 
