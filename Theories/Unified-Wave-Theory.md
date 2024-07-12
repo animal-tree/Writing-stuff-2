@@ -31,7 +31,7 @@ $`\mathcal{S}^{(K, t, i)} = \langle b \sim \mathbf{P}(\mathcal{G}^{(K, t, i)}) \
 
 $`\mathcal{G}^{(K, t, i)} = \langle \hat{\mathrm{h}}^{(K,t,i,j',k')} \bigm| \forall j' \in 1, 2, ..., M, \forall k' \in 1,2, ..., L \rangle`$,
 
-$`D(b) = \sum\limits_{q = 1}^{N} \mathrm{p_\omega}^{(b_\mathrm{K},b_\mathrm{t},q)}(b_\mathrm{x})`$,
+$`D(b) = \sum\limits_{q = 1}^{N+1} \mathrm{p_\omega}^{(b_\mathrm{K},b_\mathrm{t},q)}(b_\mathrm{x})`$,
 
 $`\mathrm{p_\omega}^{(K,t-1,i)}(\cdot)`$ depends on $`\mathrm{p_x}^{(K,t-1,i)}`$ (inverse square laws and momentum, e.g., [the wavelets described here](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Bendy-Ball.md)),
 
@@ -67,7 +67,7 @@ $`\mathrm{\hat{h}}_{\mathrm{p}^{(T)}}^{(K,t,i,j,k)} = \mathbf{N}(\mathrm{\hat{h}
 
 $`\mathbf{B}(b \in H \bigm| H) = \frac{m^{(b_\mathrm{K}, b_\mathrm{t}, b_\mathrm{x})}}{\sum\limits_{g \in H} m^{(g_\mathrm{K}, g_\mathrm{t}, g_\mathrm{x})}}`$,
 
-$`m^{(K,t,x)} = \lVert \sum\limits_{i,j,k} \sum\limits_{T=0}^{\mathrm{min}(n, t)} \gamma_1^T s(x, \mathrm{\hat{h}}^{(K,t - T,i,j,k)}) \rVert`$ sums over vectors in $`[-1, 1]^2`$, then norms,
+$`m^{(K,t,x)} = \lVert \sum\limits_{k'=1}^{L+1} \sum\limits_{j'=1}^{M+1} \sum\limits_{i'=1}^{N+1} \sum\limits_{T=0}^{\mathrm{min}(n, t)} \gamma_1^T s(x, \mathrm{\hat{h}}^{(K,t - T,i',j',k')}) \rVert`$ sums over vectors in $`[-1, 1]^2`$, then norms,
 
 $`s(x,b) = \max(0, -f \mathrm{d}(x, b_\mathrm{x}) + 1)\langle \cos^{-1}(b_\varphi), \sin^{-1}(b_\varphi) \rangle`$ multiplies a scalar, by a vector in $`[-1, 1]^2`$,
 
