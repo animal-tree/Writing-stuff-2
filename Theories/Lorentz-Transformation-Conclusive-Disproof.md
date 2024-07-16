@@ -76,6 +76,6 @@ $\rightarrow$ Then can solve for $\hat{t}^{(i)}$.
 
 $\rightarrow$ Then can solve for $t^{(4)}$ (which equals $\hat{t}^{(4)}$) via Lorentz transformation from any one of the reference frames $K^{(1)}, K^{(2)}, K^{(3)}$.
 
-$\rightarrow$ Do this for two reference frames and show that their required $t^{(4)}$, the time measured by the observer stationary in reference frame $K^{(4)}$, disagree. This is not allowed, since the prediction is of a specific measurement (which can be communicated for example via cellular transmissions between the reference frames). Conclusive disproof. &ensp; $\square$
+$\rightarrow$ Do this for two reference frames and show that their required $t^{(4)}$, the time measured by the observer stationary in reference frame $K^{(4)}$, disagree. This is not allowed, since the prediction is of a specific measurement (which can be communicated for example via cellular transmissions, encoded in binary, between the reference frames). Conclusive disproof. &ensp; $\square$
 
 $\rightarrow$ Can just plug in values numerically to show the contradiction.
