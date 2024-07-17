@@ -2,7 +2,7 @@
 
 Disclaimer: This is just a myth. ...That doesn't mean it's not true.
 
-All is originated from "Everything". Everything, is the most general default assumption (tied with “nothing”).
+All is originated from "Everything." Everything, is the most general default assumption (tied with “nothing”).
 
 Everything is hard to imagine, but perhaps can best be understood like qualia — emotion, observation, imagination — but unlike qualia, not constrained to any moment. Unlimited, encapsulating all realities.
 
