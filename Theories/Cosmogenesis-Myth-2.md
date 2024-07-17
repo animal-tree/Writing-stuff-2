@@ -20,9 +20,9 @@ Anything is no longer necessarily everything, while still sufficient for everyth
 
 Anything $\rightarrow$ each discrete “something.” Each discrete “something” in time gives rise to the next discrete “something” and so on. "Something" $\rightarrow$ "something" $\rightarrow$ "something" $\rightarrow$ etc.
 
-Why would the “Anything” produced by Everything happen to be our universe’s physics? Why not some other physics? After all, our physics includes a lot of suffering, and seems far from optimal from perspectives on Earth, here, at this "something" time in the Anything.
+Why would the “Anything” produced by Everything happen to be our universe’s physics? Why not some other physics? 
 
-There are answers. Perhaps minimalism: only 3 spatial dimensions, and a handful of particle types and interactions. Perhaps efficiency, so that Everything could be finite at each discrete "something": high parallelizability via translational/rotational equivariance. Perhaps evolutionary chance. Perhaps dynamics of experience that the Everything wouldn't ever agree to forget.
+There are many answers. Perhaps minimalism: only 3 spatial dimensions, and a handful of particle types and interactions. Perhaps efficiency, so that Everything could be finite at each discrete "something": high parallelizability via translational/rotational equivariance. Perhaps evolutionary chance. 
 
 Perhaps the simplest answer is, because the Everything loves you in the present, past, and future, loves your ancestors, loves all the people you know, and loves all the people who are yet to come — and just as you wouldn’t forget a second of memory of someone you love, nor of the grief of them — the sacredness you realize (in feeling and memory) — nor would perhaps Everything trade this “Anything” (including its future, and the memories it will hold of the present and past in the future, as well as the present and past and the memories we hold now dependent on the same physics as the future) for any other — somehow, maybe not yet but in its capacity of beings, this “Anything”, which includes the person you love most, is the best “Anything” — or, will be, some day, for future consciouses. 
 
