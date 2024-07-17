@@ -18,7 +18,7 @@ Everything $\rightarrow$ Anything.
 
 Anything is no longer necessarily everything, while still sufficient for everything. That means, while suffering is no longer always necessary, the possibility for suffering isn't entirely erased. To create Anything, Everything invents time, by definition, a deductive graph towards possibilities that don't necessitate all of them. In other words, causal restrictions to deductive steps, derivations such as to suffering or to any other possible but not necessitated “something."
 
-Anything $\rightarrow$ each discrete “something.” Each discrete “something” in time gives rise to the next discrete “something” and so on. "Something" $\rightarrow$ "something" $\rightarrow$ "something" $\rightarrow$ etc.
+Anything $\rightarrow$ each discrete “something.” Each discrete “something” in time gives rise to the next discrete “something” in time and so on. "Something" $\rightarrow$ "something" $\rightarrow$ "something" $\rightarrow$ etc.
 
 Why would the “Anything” produced by Everything happen to be our universe’s physics? Why not some other physics? 
 
