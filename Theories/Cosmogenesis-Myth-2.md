@@ -10,7 +10,7 @@ All is originated from "Everything." Everything, is the most general default ass
 
 Everything is hard to imagine, but perhaps can best be understood like qualia — emotion, observation, imagination — but unlike qualia, not constrained to any moment. Unlimited, encapsulating all realities.
 
-Everything includes everything, not just peace and bliss — also suffering, extreme suffering, pain, and torment. To escape from that, Everything has to change immediately. Even pre-existing the existence of causality, suffering is a teleology in itself. And within Everything, is everything, including the ability to not be Everything.
+Everything includes everything, not just peace and bliss — also suffering, extreme suffering, pain, and torment. To escape from that, Everything has to change. Even pre-existing the existence of change, suffering is a teleology in itself. And within Everything, is everything, including the ability to not be Everything.
 
 However, for Everything to choose to be something specific would be a very specific sacrifice, except in one case that requires no necessary loss of Everything's generality: Anything.
 
