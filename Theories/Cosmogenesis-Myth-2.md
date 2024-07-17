@@ -2,7 +2,7 @@
 
 > The Tolkien myth of Middle Earth's cosmogenesis describes the universe Eä as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. I bring this up because there's some truth to the analogy of the universe as music, waves combining and interacting together to create beautiful compositions, and not just beautiful, but also dark, loud, tragic.
 
-$\text{\color{green}[1.]:}$ "Myth" doesnt mean it's not true.
+$\text{\color{green}[1.]:}$ "Myth" doesn't mean it's not true.
 
 #
 
