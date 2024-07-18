@@ -4,7 +4,7 @@
 
 $\text{\color{green}[1.]:}$ "Myth" doesn't mean it's not true.
 
-#
+### Everything
 
 All is originated from "Everything." Everything, is the most general default assumption (tied with “nothing”).
 
@@ -15,6 +15,8 @@ Everything includes everything, not just peace and bliss — also suffering, ext
 However, for Everything to choose to be something specific would be a very specific sacrifice, except in one case that requires no necessary loss of Everything's generality: Anything.
 
 Everything $\rightarrow$ Anything.
+
+### Anything
 
 Anything is no longer necessarily everything, while still sufficient for everything. That means, while suffering is no longer always necessary, the possibility for suffering isn't entirely erased. To create Anything, Everything invents time, by definition, a deductive graph towards possibilities that don't necessitate all of them. In other words, causal restrictions to deductive steps, derivations such as to suffering or to any other possible but not necessitated “something."
 
@@ -28,6 +30,6 @@ Perhaps the simplest answer is, because the Everything loves you in the present,
 
 And perhaps even in Everything, there were many choosers and this was but one converged reality in its singularization of possibilities.
 
-But why does suffering happen?
+### But why does suffering happen?
 
 There are many answers to this as well. Some suffering is sacred, such as grief. Within Everything, grief existed too. Other suffering isn't sacred. So why does it happen? Because humans perpetuate many injustices, including economic, social, spiritual, psychological, and physical. Humans are sacred. But the memory of these injustices is being established for our children, and there is another memory that the Everything wants to establish: how to escape this. The process of ending economic, social, spiritual, psychological, and physical injustice is a memory that the Everything wants to establish.
