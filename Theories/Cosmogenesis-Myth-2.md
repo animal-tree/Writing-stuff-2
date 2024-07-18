@@ -22,7 +22,7 @@ Anything is no longer necessarily everything, while still sufficient for everyth
 
 Anything $\rightarrow$ each discrete “something.” Each discrete “something” in time gives rise to the next discrete “something” in time and so on. "Something" $\rightarrow$ "something" $\rightarrow$ "something" $\rightarrow$ etc.
 
-Why would the “Anything” produced by Everything happen to be our universe’s physics? Why not some other physics? 
+### Why would the “Anything” produced by Everything happen to be our universe’s physics? Why not some other physics? 
 
 There are many answers. Perhaps minimalism: only 3 spatial dimensions, and a handful of particle types and interactions. Perhaps efficiency, so that Everything could be finite at each discrete "something": high parallelizability via translational/rotational equivariance. Perhaps evolutionary chance. 
 
