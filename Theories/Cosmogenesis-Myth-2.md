@@ -10,7 +10,7 @@ Everything is hard to imagine, but perhaps can best be understood like qualia �
 
 Everything includes everything, not just peace and bliss — also suffering, extreme suffering, pain, and torment. To escape from that, Everything had to not be Everything. Even without the existence of causality, suffering is a teleology. And within Everything, is everything, including the ability to not be Everything. 
 
-However, for Everything to choose to be something specific would be a very specific sacrifice, except in one case that requires no necessary loss of Everything's generality: Anything. “Anything” is the best of all possible transitions, since it sacrifices no possibilities, but eliminates the necessity of the suffering.
+However, for Everything to choose to be something specific would be a very specific sacrifice, except in one case that requires no necessary loss of Everything's generality: Anything. 
 
 Everything $\rightarrow$ Anything.
 
@@ -18,7 +18,7 @@ Anything is no longer necessarily everything, while still sufficient for everyth
 
 Anything $\rightarrow$ each discrete “something.” Each discrete “something” in time gives rise to the next discrete “something” in time and so on. "Something" $\rightarrow$ "something" $\rightarrow$ "something" $\rightarrow$ etc.
 
-There are many answers. Perhaps minimalism: only 3 spatial dimensions, and a handful of particle types and interactions. Perhaps efficiency, so that Everything could be finite at each discrete "something": high parallelizability via translational/rotational equivariance. Perhaps evolutionary chance. Perhaps our physics — including all of space and the conscious experiences of people — suffices to reproduce “Anything,” and does so better than or equally well to any other physics capable of the same.
+There are many answers. Perhaps minimalism: only 3 spatial dimensions, and a handful of particle types and interactions. Perhaps efficiency, so that Everything could be finite at each discrete "something": high parallelizability via translational/rotational equivariance. Perhaps evolutionary chance. 
 
 Perhaps the simplest answer is, because the Everything loves you in the present, past, and future, loves your ancestors, loves all the people you know, and loves all the people who are yet to come — and just as you wouldn’t forget a second of memory of someone you love, nor of the grief of them — the sacredness you realize (in feeling and memory) — nor would perhaps Everything trade this “Anything” (including its future, and the memories it will hold of the present and past in the future, as well as the present and past and the memories we hold now dependent on the same physics as the future) for any other — somehow, maybe not yet but in its capacity of beings, this “Anything”, which includes the person you love most, is the best “Anything” — or, will be, some day, for future consciouses. 
 
