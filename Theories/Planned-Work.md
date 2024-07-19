@@ -46,9 +46,9 @@ Earlier plans, including:
 
 1. UnifiedML: A Unified Framework for Intelligence Training 
 
-minihydra / leviathan, Generalists, BittleBot, long-term memory, different RL algorithms.
+minihydra / leviathan, Generalists, BittleBot, long-term memory, different RL algorithms, applications.
 
-Differentiable Universe… 
+Differentiable universe… 
 
 1. Broken Wisdoms 
 
