@@ -26,6 +26,6 @@ The collective subconscious somehow relates to the Wernicke and Broca's areas of
 
 Here's how "God" works: via stochastic modulations directly from Nature in the standard deviation leeway of quantum physics, which is inherently probabilistic, not via the determined, e.g., gravity, laws of physics.
 
-God's not capable of causing injustice, but everything else is.
+God's not capable of causing injustice, but everything else is, including those gravity-type physics.
 
 Systems of nature, and those Pantheons / Angels and Demons of the collective consciousness (not sure if they belong to superconscious or subconscious, or both, e.g., intermediating, or depends), in good equilibrium, have a checks and balances that prevents any one power from gaining too much disproportionate influence, in the sense of being able to cause injustice, which the physics of the universe (God's), aren't (directly), nor in all likelihood the collective superconscious that is the *direct* influence of those physics (God) on biological life, but everything below, can.
