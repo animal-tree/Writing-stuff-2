@@ -8,7 +8,7 @@ Then there is maybe a collective subconscious, which is the network of automated
 
 Then there is the conscious. 
 
-Then there is the subconscious, which perhaps includes a vague sense of the collective superconscious and subconscious, includes body language, tone, and other symbolism or idiosyncrasies including linguistic and phonetic, which are perhaps also influenced by the collective superconscious and/or subconscious. 
+Then there is the subconscious, which perhaps includes a vague sense of the collective superconscious and subconscious, includes body language, tone, and other symbolism or idiosyncrasies including linguistic and phonetic, which are perhaps also influenced by the collective superconscious and/or subconscious, or used by the latter to do cryptic communication. 
 
 Then there are systems that have a life of their own, such as ecosystems, economic, or religious. Some have a lot of innate wisdoms, others largely do not. Both — since such systems are automated — can influence the collective subconcious in such a way that something like "demons" or "the Devil" can be attributed as them — collective subconcious operations.
 
