@@ -20,4 +20,4 @@ Then there are systems that have a life of their own, such as ecosystems, econom
 
 The collective subconscious maybe exists, but is redundant to the collective superconscious if people become conscious of its existence or are themselves intelligent.
 
-> One bug in this system is that, when the automated intelligence of human systems have more power over a person's psychology and behaviors, including via education systems, it is possible, depending on teh systems, for some consciouses to be more wise and intelligent than the collective subconscious.
+> One bug in this system is that, when the automated intelligence of human systems have more power over a person's psychology and behaviors, including via education systems, it is possible, depending on the systems, for some consciouses to be more wise and intelligent than the collective subconscious.
