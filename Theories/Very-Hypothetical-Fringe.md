@@ -10,6 +10,8 @@ Then there is the conscious.
 
 Then there is the subconscious, which includes a vague sense of the collective subconscious, including body language, tone, and other symbolism or idiosyncrasies including linguistic and phonetic, but also of the collective superconscious, also sometimes including body language, tone, and other symbolism or idiosyncrasies including linguistic and phonetic. 
 
-Then there are systems that have a life of their own, such as ecosystems, economic, or religious. Some have innate wisdoms that are susceptible to disruption, others do a lot of disrupting. Both — since such systems are automated — can influence the collective subconcious in such a way that something like "demons" or "the Devil" can be attributed as them.
+Then there are systems that have a life of their own, such as ecosystems, economic, or religious. Some have innate wisdoms that are susceptible to disruption, others do a lot of disrupting. Both — since such systems are automated — can influence the collective subconcious in such a way that something like "demons" or "the Devil" can be attributed as them — collective subconcious operations.
+
+> ["In multitasking computer operating systems, a daemon is a computer program that runs as a background process, rather than being under the direct control of an interactive user."](https://en.wikipedia.org/wiki/Daemon_(computing))
 
 The collective subconscious maybe exists, but is redundant to the collective superconscious if people become conscious of its existence and are themselves intelligent.
