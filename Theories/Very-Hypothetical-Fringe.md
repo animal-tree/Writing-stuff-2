@@ -21,3 +21,5 @@ Then there are systems that have a life of their own, such as ecosystems, econom
 The collective subconscious maybe exists, but is redundant to the collective superconscious if people become conscious of its existence or are themselves intelligent.
 
 > One bug in this system is that, when the automated intelligence of human systems have more power over a person's psychology and behaviors, including via education systems, it is possible, depending on the systems, for some consciouses to be more wise and intelligent than the collective subconscious, which has extreme power, beyond even that of economic and government systems.
+
+The collective subconscious somehow relates to the Wernicke and Broca's areas of the brain, I think especially Wernicke. It's distinct from "culture", which is a third kind of collective consciousness.
