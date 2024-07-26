@@ -16,6 +16,6 @@ Then there are systems that have a life of their own, such as ecosystems, econom
 >
 > "In multitasking computer operating systems, a daemon is a computer program that runs as a background process, rather than being under the direct control of an interactive user." - [Daemon (computing), Wikipedia](https://en.wikipedia.org/wiki/Daemon_(computing))
 >
-> Note: to be under direct control does not mean to control.
+> Note: "being under the direct control" does not mean to control.
 
 The collective subconscious maybe exists, but is redundant to the collective superconscious if people become conscious of its existence and are themselves intelligent.
