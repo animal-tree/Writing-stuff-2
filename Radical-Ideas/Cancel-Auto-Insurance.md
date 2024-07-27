@@ -24,9 +24,7 @@ Meanwhile, there is no advantage of private auto insurance to a public, national
 
 #
 
-In conclusion, **I have disproven the following statement:** “You are required to have auto insurance if and only if you have a car.”
-
-It is possible to not have a car if you are required to have car insurance. &nbsp; $\square$
+Therefore, it's possible to have to sell a car because you are required to insure that car, and then once that car is lost, no longer needing to have sold that car in order to pay for car insurance. &nbsp; $\square$
 
 ## These were the notes I chronicled this year about these events on GitHub, in real-time as I dealt with the insurance companies:
 
