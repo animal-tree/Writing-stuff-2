@@ -1,3 +1,5 @@
+> This starts disingenuously stupid and becomes smart.
+
 I’m just going to try to organize my thoughts. How do we know that germs cause disease? Germs and disease coincide at the same time and location, and therefore we know with high probability that germs cause disease. The coinciding relationship between germs and disease is not just measured once, but reproducibly and consistently every time disease is measured. Where we find disease, we find germs. Those germs perhaps move around in specific patterns and coincide with “reactions” where our measuring tools measure a transformation from one pattern to another, in a sequence that coincides with the measurement of disease. That’s how we know germs cause disease. It is worth noting that this isn’t deductively derived from mathematic axioms. It’s these consistent coincidences of measurement that define our meaning of “causality.”
 
 In math, we can have two postulates, such as A=B and B=C. From that we can derive A=C. This sort of deductive causality is called implication. Strangely enough, the fact that germs cause disease is not derived from formal implication.
