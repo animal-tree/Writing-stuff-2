@@ -22,6 +22,12 @@ Best case scenario under all of those circumstances, the fully-owned car is lost
 
 Meanwhile, there is no advantage of private auto insurance to a public, nationalized, taxpayer-paid government auto insurance program (e.g. AutoInsuranceForAll) since both require mandatory fees, except the private version extorts customers, charges flat rates regardless of economic class, doesn't cover reasonable damages like broken parts (e.g., dead batteries) nor (unless extra fees are paid) collisions, and is also extremely bureaucratic, with worse bureaucracy than what government programs have (see [below](#these-were-the-notes-i-chronicled-this-year-about-these-events-on-github-in-real-time-as-i-dealt-with-the-insurance-companies) for details).
 
+#
+
+In conclusion, **I have disproven the following statement:** “You are required to have auto insurance if and only if you have a car.”
+
+It is possible to not have a car if you are required to have car insurance. &nbsp; $\square$
+
 ## These were the notes I chronicled this year about these events on GitHub, in real-time as I dealt with the insurance companies:
 
 - "I'm getting overcharged for an accident in 2022 where an 18-wheeler hit my car while I was parked legally on the shoulder of a road in a hit-and-run, where I broke no laws and the driver kept driving and could've killed me. My insurance policy price is more than doubled for that, but that isn't right. An 18-wheeler hit my car in a hit-and-run while I was legally parked. And since I didn't have collision at the time, my insurance (then Geico) didn't even have to pay for the damages, and my car was completely wrecked. So Geico should not be charging me any more than the baseline quote." - Sent to a Geico support bot today before being connected to an agent.
