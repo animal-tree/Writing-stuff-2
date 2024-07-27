@@ -24,7 +24,7 @@ Meanwhile, there is no advantage of private auto insurance to a public, national
 
 #
 
-Therefore, it's possible to have to sell a car because you are required to insure that car, in order to pay for the car insurance that you no longer need. &nbsp; $\square$
+Therefore, it's possible to have to sell a car because you are required to insure that car, in order to pay for the car insurance that you no longer need, while still having to pay them that money. &nbsp; $\square$
 
 ## These were the notes I chronicled this year about these events on GitHub, in real-time as I dealt with the insurance companies:
 
