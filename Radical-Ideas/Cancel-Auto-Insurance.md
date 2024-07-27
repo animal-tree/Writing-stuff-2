@@ -24,7 +24,7 @@ Meanwhile, there is no advantage of private auto insurance to a public, national
 
 #
 
-Therefore, it's possible to owe your car insurer money becase you are required to insure that car, have to sell your car in order to insure that car and pay for the car insurance that you no longer need, and then paying the car insurance money that they required you to sell your car to get. &nbsp; $\square$
+Therefore, it's possible to owe your car insurer money becase you have a car that you are required to insure, have to sell that car in order to pay for the car insurance that you no longer need, and then paying the car insurance that money that had cost you your car in exchange for the services that they provided. &nbsp; $\square$
 
 ## These were the notes I chronicled this year about these events on GitHub, in real-time as I dealt with the insurance companies:
 
