@@ -1,10 +1,6 @@
-## Cosmogenesis Myth<sup>$\text{\color{green}[1.]}$</sup>
+## Cosmogenesis Myth
 
-> The Tolkien myth of Middle Earth's cosmogenesis describes the universe Eä as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. I bring this up because there's some truth to the analogy of the universe as music, waves combining and interacting together to create beautiful compositions, and not just beautiful, but also dark, loud, tragic.
-
-$\text{\color{green}[1.]:}$ "Myth" doesn't mean it's not true.
-
-#
+Disclaimer: This is just a myth. ...That doesn't mean it's not true.
 
 All is originated from "Everything." Everything, is the most general default assumption (tied with “nothing”).
 
