@@ -10,6 +10,8 @@ Everything includes everything, not just peace and bliss — also suffering, ext
 
 However, for Everything to choose to be something specific would be a very specific sacrifice, except in one case that requires no necessary loss of Everything's generality: Anything.
 
+What better transition is there?
+
 Everything $\rightarrow$ Anything.
 
 Anything is no longer necessarily everything, while still sufficient for everything. That means, while suffering is no longer always necessary, the possibility for suffering isn't entirely erased. To create Anything, Everything invents time, by definition, a deductive graph towards possibilities that don't necessitate all of them. In other words, causal restrictions to deductive steps, derivations such as to suffering or to any other possible but not necessitated “thing."
