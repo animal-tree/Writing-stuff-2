@@ -96,7 +96,8 @@ But assuming everything gives us a path forward. With this intrinsic qualia bein
 
 ### Cosmogenesis Myth<sup>$\text{\color{green}[1.]}$</sup>
 
-> The Tolkien myth of Middle Earth's cosmogenesis describes the universe Eä as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. I bring this up because there's some truth to the analogy of the universe as music, waves combining and interacting together to create beautiful compositions, and not just beautiful, but also dark, loud, tragic.
+> - The Tolkien myth of Middle Earth's cosmogenesis describes the universe Eä as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. I bring this up because there's some truth to the analogy of the universe as music, waves combining and interacting together to create beautiful compositions, and not just beautiful, but also dark, loud, tragic.
+> - The Big Bang Theory deduces some of the earliest moments of the observable universe, but its cosmology doesn't include the first moment — the actual cosmogenetic origin point.
 
 $\text{\color{green}[1.]:}$ "Myth" doesn't mean it's not true.
 
