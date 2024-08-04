@@ -8,7 +8,7 @@
 6. Then one more point is made about how assuming consciousness as a fundamental property of the universe leads to a new answer to the mystery of cosmogenesis. That answer is specified.
 7. Finally, all of this together paints a strongly evidenced theory of consciousness, as well as cosmogenesis, whose alternatives have much less justification. 
 
-## Possibility 1. The standard view
+## First possibility: the standard view
 
 The brain's neural patterns sufficiently encode the complexity of consciousness experience, and from that information representation, which can take many forms — distributed, recurrent, centralized with respect to specific regions sometimes —  emerges the illusion of a singularized observer for which consciousness is interpreted.
 
@@ -24,7 +24,7 @@ To summarize this possibility in one sentence: Consciousness is information patt
 
 This view also opens the room for representing such "life" in artificial neural networks for example, or other realistic simulations of the brain, solely by their representative capability, and connects to the longstanding question of whether computers, including GPUs running modern artificial neural networks, can be conscious, if representation really is what consciousness is.
 
-## Possibility 2. Consciousness as the singularization of a many into one
+## Second possibility: consciousness as the singularization of a many into one
 
 Possibility 2. Consciousness is literally the singularization of the many into one — meaning, of a single observer, though potentially of multiple experience phenomena — not just as an illusion — as an actual singularization in physics. Somehow, all of those neurons become one "thing" that attributably exists besides just that distribution of disconnected matter.
 
@@ -78,7 +78,7 @@ I can provide one more unusually strong argument to that point (and then yet one
 
 The simplest answer is the panpsychist answer, that it begins from the elementary particles of the universe. And, more concretely as I propose, that it singularizes via a literal entanglement process that I call "threading," coherence states where the qualia of the divisible — base and perhaps neutral — singularizes into the complex, fires and dances of biological experience (or molecules), perhaps mediated strongly by bosons as well since those propagate through the grey matter composite of the brain intersecting quantum states. Somehow this conglomerate of interactions threads at the qualia level to produce more than just information communication, as what a paper flipbook could do by one's hand-drawings, or a domino machine, but singularized consciousness, capable of "feeling" those neural representational encodings.
 
-## Reinforced by and reinforcing an answer to the mystery of cosmogenesis
+### Reinforced by and reinforcing an answer to the mystery of cosmogenesis
 
 Finally, there is the mystery why the universe has these qualia and entanglement ("threading") property and function.
 
@@ -94,7 +94,7 @@ One might posit different origins besides "nothing" and "everything" equally gen
 
 But assuming everything gives us a path forward. With this intrinsic qualia being ever present in the universe's foundations, the earlier reasoning can both be answered in its high-level and reenforced. How? By hypothesizing qualia — emotion, observation, imagination — at the root of the universe's nature, as well as the ability for that qualia to compose into orchestrations such as the singularized consciousness humans experience, [to answer the mystery of cosmogenesis](#cosmogenesis-myth) (See Cosmogenesis Myth).
 
-## Cosmogenesis
+### Cosmogenesis
 
 Disclaimer: This is just a myth. ...That doesn't mean it's not true.
 
