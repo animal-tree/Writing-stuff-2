@@ -10,7 +10,7 @@
 
 ## First possibility: the standard view
 
-The brain's neural patterns sufficiently encode the complexity of consciousness experience, and from that information representation, which can take many forms — distributed, recurrent, centralized with respect to specific regions sometimes —  emerges the illusion of a singularized observer for which consciousness is interpreted.
+According to this first possibility, the brain's neural patterns sufficiently encode the complexity of consciousness experience, and from that information representation, which can take many forms — distributed, recurrent, centralized with respect to specific regions sometimes —  emerges the illusion of a singularized observer for which consciousness is interpreted.
 
 In this view, consciousness is the many (neurons and all that compose the brain), not singularized into one, interacting as independent bodies within a circuit-type system that produces the observable experience of consciousness.
 
@@ -94,9 +94,15 @@ One might posit different origins besides "nothing" and "everything" equally gen
 
 But assuming everything gives us a path forward. With this intrinsic qualia being ever present in the universe's foundations, the earlier reasoning can both be answered in its high-level and reenforced. How? By hypothesizing qualia — emotion, observation, imagination — at the root of the universe's nature, as well as the ability for that qualia to compose into orchestrations such as the singularized consciousness humans experience, [to answer the mystery of cosmogenesis](#cosmogenesis-myth) (See Cosmogenesis Myth).
 
-### Cosmogenesis myth
+### Cosmogenesis Myth<sup>$\text{\color{green}[1.]}$</sup>
 
-Disclaimer: This is just a myth. ...That doesn't mean it's not true.
+> The Tolkien myth of Middle Earth's cosmogenesis describes the universe Eä as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. I bring this up because there's some truth to the analogy of the universe as music, waves combining and interacting together to create beautiful compositions, and not just beautiful, but also dark, loud, tragic.
+
+$\text{\color{green}[1.]:}$ "Myth" doesn't mean it's not true.
+
+#
+
+#### Everything
 
 All is originated from "Everything." Everything, is the most general default assumption (tied with "nothing").
 
@@ -110,11 +116,13 @@ What better transition is there?
 
 Everything $\rightarrow$ Anything.
 
+#### Anything
+
 Anything is no longer necessarily everything, while still sufficient for everything. That means, while suffering is no longer always necessary, the possibility for suffering isn't entirely erased. To create Anything, Everything invents time, by definition, a deductive graph towards possibilities that don't necessitate all of them. In other words, causal restrictions to deductive steps, derivations such as to suffering or to any other possible but not necessitated "something."
 
 Anything $\rightarrow$ each discrete "something." Each discrete "something" in time gives rise to the next discrete "something" in time and so on. "Something" $\rightarrow$ "something" $\rightarrow$ "something" $\rightarrow$ etc.
 
-Why would the "Anything" produced by Everything happen to be our universe’s physics? Why not some other physics? 
+#### Why would the "Anything" produced by Everything happen to be our universe’s physics? Why not some other physics? 
 
 There are many answers. Perhaps minimalism: only 3 spatial dimensions, and a handful of particle types and interactions. Perhaps efficiency, so that Everything could be finite at each discrete "something": high parallelizability via translational/rotational equivariance. Perhaps evolutionary chance. 
 
@@ -122,6 +130,6 @@ Perhaps the simplest answer is, because the Everything loves you in the present,
 
 And perhaps even in Everything, there were many choosers and this was but one converged reality in its singularization of possibilities.
 
-But why does suffering happen?
+#### But why does suffering happen?
 
 There are many answers to this as well. Some suffering is sacred, such as grief. Within Everything, grief existed too. Other suffering isn't sacred. So why does it happen? Because humans perpetuate many injustices, including economic, social, spiritual, psychological, and physical. Humans are sacred. But the memory of these injustices is being established for our children, and there is another memory that the Everything wants to establish: how to escape this. The process of ending economic, social, spiritual, psychological, and physical injustice is a memory that the Everything wants to establish.
