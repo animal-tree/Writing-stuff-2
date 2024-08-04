@@ -30,7 +30,7 @@ So the question is, at what point does this information communication become a p
 
 If the physical material didn't matter, we could simulate your consciousness with a domino chain. Or even with a human centipede/jamboree obeying the exact algorithm of your brain's dance of interactions.
 
-Whether or not consciousness singularizes — and that does remain the most plausible explanation, or else how could non-local physically separated matter with firmaments be observable by a single observer? — what this thought experiment shows, contra to which would truly be absurdity, is that consciousness does not arise simply from representation, and the physical matter, matters (or else paper and pen would suffice). 
+Whether or not consciousness singularizes — and that does remain the most plausible explanation, or else how could the complex emotion represented by non-local physically separated matter with firmaments be observable by a single observer? — what this thought experiment shows, contra to which would truly be absurdity, is that consciousness does not arise simply from representation, and the physical matter, matters (or else paper and pen would suffice). 
 
 If representation doesn’t suffice, as that flipbook thought experiment shows it doesn’t, at least up to the point of absurdity, then the only other possibility is that there’s specific physical matter and their specific modes of interaction that produce consciousness. Simply paper and pen, or silicon chip and electrons, probably don't. 
 
