@@ -40,7 +40,7 @@ Perhaps when the bosons intersect quantum states, they thread together some kind
 
 However, these technologies are communication exchanges via light patterns, which is more in line with possibility 1 than possibility 2. The notion of "threading" however, as in "they thread together some kind of singularization," is one I'll return to later with more of an argument, and one that's not dependent specifically on bosons but any matter generally.
 
-## Absurdity of possibility 1
+## Absurdity of first possibility
 
 Possibility 1 comes into a fallacy.
 
@@ -66,7 +66,7 @@ If representation doesn’t suffice, as that flipbook thought experiment shows i
 
 In any case, by the flipbook analogy, we've boiled down the credit for human consciousness to physical matter itself, not just its analogy of representations at the surface-level (whose flipbook-like representational sequences can't be, without absurdity, the source of consciousness). Now we have to ask: (1) where does the physicalness of consciousness begin, and (2) how, mechanically, does it entangle so as to be one consciousness?
 
-## Physics of possibility 2
+## Physics of second possibility
 
 Much like the word "fermion" synchronistically (meaning, possibly-coincidentally but still meaningfully) connects to the word "firmament," I’ll point out that "grey matter" — the matter that composes the brain — and "matter" more generally — matter (as in, they matter). The synchronicity of the word is that matter shouldn’t be regarded as just information or representation, but as being composed of something more that matters, whether the panpsychist notion of consciousness itself, or whether as inherently possessing some base, neutral qualia "elements" — the atomic/quantum units for qualia (emotion, feeling, observation) — or a singularization physics — a magic force in physics that threads together matter to make it matter, more. In this notion, those entanglements then become the singularized experience of one’s consciousness, literally weaving within the universe’s physics one’s neurons wherein the individual non-local divisions — always forced apart by firmaments — are then harmonized into a single "one," literally, to create consciousness not as illusion but by such physics.
 
