@@ -103,7 +103,7 @@ $\text{\color{green}[1.]:}$ "Myth" doesn't mean it's not true.
 
 #
 
-#### Everything
+#### "Everything"
 
 All is originated from "Everything." Everything, is the most general default assumption (tied with "nothing").
 
@@ -117,7 +117,7 @@ What better transition is there?
 
 Everything $\rightarrow$ Anything.
 
-#### Anything
+#### "Anything"
 
 Anything is no longer necessarily everything, while still sufficient for everything. That means, while suffering is no longer always necessary, the possibility for suffering isn't entirely erased. To create Anything, Everything invents time, by definition, a deductive graph towards possibilities that don't necessitate all of them. In other words, causal restrictions to deductive steps, derivations such as to suffering or to any other possible but not necessitated "something."
 
