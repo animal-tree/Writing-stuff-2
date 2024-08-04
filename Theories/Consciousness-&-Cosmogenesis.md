@@ -1,3 +1,5 @@
+# Consciousness & Cosmogenesis
+
 ## Consciousness
 
 The way I see it, there are two possibilities for how consciousness might work. One of them is that it’s some magic thing where somehow all the brain activity and whatnot “singularize” into a literally-single experience — meaning, of a single observer, though potentially of multiple experience phenomena — not just as an illusion, but as an actual singularization. Like, somehow, all of those neurons become one “thing” that attributably exists besides just that distribution of disconnected matter. 
