@@ -94,7 +94,7 @@ One might posit different origins besides "nothing" and "everything" equally gen
 
 But assuming everything gives us a path forward. With this intrinsic qualia being ever present in the universe's foundations, the earlier reasoning can both be answered in its high-level and reenforced. How? By hypothesizing qualia — emotion, observation, imagination — at the root of the universe's nature, as well as the ability for that qualia to compose into orchestrations such as the singularized consciousness humans experience, [to answer the mystery of cosmogenesis](#cosmogenesis-myth) (See Cosmogenesis Myth).
 
-## Cosmogenesis
+## Cosmogenesis Myth
 
 Disclaimer: This is just a myth. ...That doesn't mean it's not true.
 
