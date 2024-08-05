@@ -14,7 +14,7 @@ According to this first possibility, the brain's neural patterns sufficiently en
 
 In this view, consciousness is the many (neurons and all that compose the brain), not singularized into one, interacting as independent bodies within a circuit-type system that produces the observable experience of consciousness.
 
-So under this framework, singular experience is an illusion, and actually the distributed neural encodings — their information patterns — suffice to create consciousness because of their representation of consciousness experience.
+So under this framework, singular experience is an illusion, and actually the distributed neural encodings — their information patterns — suffice to create consciousness because of their representation of consciousness experience, and the singular experience is a described part of that representation.
 
 There doesn’t exist any notion of a singularizing force in the fields of physics or neurology. Instead, the commonly held view in agreement with the existing knowledge of those fields is that the encodings of the brain, via those patterns of activity, via the neurons firing, produce a sufficient representation for experience that we just interpret as consciousness, but it’s not literally a new singular "thing." It’s a bunch of many-things with specific information attributed to them, even though our observation of the many phenomena appears singular to us.
 
