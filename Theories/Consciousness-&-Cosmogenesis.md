@@ -36,6 +36,8 @@ Such a notion doesn't exist in chemistry either. Atom, molecule, or — take a s
 
 ### Different from bosons
 
+The intersection of boson quantum states depends on shared position.
+
 Perhaps when the bosons intersect quantum states, they thread together some kind of singularization — however, this is not a standard concept and is an original concept proposed solely for providing one example to ground the idea in — and the brain is composed of voltages, emitting bosons carrying the electromagnetic force throughout the brain, to such an extent that those signals can even be picked up in quite precise detail by EEGs even beyond the skull, even so much so with today’s artificial neural network-based technology as to reverse engineer the approximate neural firing patterns, and, for example, operate like a telepathic remote control for a TV (and that technology is in development and works quite well today — even the reverse, of modulating neural activity via transcranial magnetic stimulation, affecting those same voltages, works, too — perhaps hypothetically even permitting sensitivity for some communication exchange at longer distances).
 
 However, these technologies are communication exchanges via light patterns, which is more in line with possibility 1 than possibility 2. The notion of "threading" however, as in "they thread together some kind of singularization," is one I'll return to later with more of an argument, and one that's not dependent specifically on bosons but any matter generally.
