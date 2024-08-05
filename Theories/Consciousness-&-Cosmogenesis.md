@@ -36,7 +36,7 @@ Such a notion doesn't exist in chemistry either. Atom, molecule, or — take a s
 
 ### Different from bosons
 
-The intersection of boson quantum states depends on shared position.
+The intersection of boson quantum states depends on shared position wave functions.
 
 Perhaps when the bosons intersect quantum states, they thread together some kind of singularization — however, this is not a standard concept and is an original concept, and isn't precisely/necessarily what I'm proposing.
 
