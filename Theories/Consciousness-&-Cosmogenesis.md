@@ -66,7 +66,7 @@ If the physical material didn't matter, we could simulate your consciousness wit
 
 Whether or not consciousness singularizes — and that does remain the most plausible explanation, or else how could the complex emotion represented by non-local physically separated matter with firmaments be observable by a single observer? — what this thought experiment shows, contra to which would truly be absurdity, is that consciousness does not arise simply from representation, and the physical matter, matters (or else paper and pen would suffice).
 
-If representation doesn’t suffice, as that flipbook thought experiment shows it doesn’t, at least up to the point of absurdity, then the only other possibility is that there’s specific physical matter and their specific modes of interaction that produce consciousness. Simply paper and pen, or silicon chip and electrons, probably don't.
+If representation doesn’t suffice, as that flipbook thought experiment shows it doesn’t, at least up to the point of absurdity, then the only other possibility is that there’s specific physical matter undergoing specific modes of interaction that produce consciousness. Simply paper and pen, or silicon chip and electrons, probably don't.
 
 In any case, by the flipbook analogy, we've boiled down the credit for human consciousness to physical matter itself, not just its analogy of representations at the surface-level (whose flipbook-like representational sequences can't be, without absurdity, the source of consciousness). Now we have to ask: (1) where does the physicalness of consciousness begin, and (2) how, mechanically, does it entangle so as to be one consciousness?
 
