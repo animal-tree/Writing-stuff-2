@@ -96,7 +96,7 @@ Now, "nothing" succumbs to a pretty apparent fallacy. For something to arise fro
 
 One might posit different origins besides "nothing" and "everything" equally general perhaps, such as cyclicality or infinite "turtles all the way down," but these are all specific somethings and cannot be said to be as general as the two mentioned, leaving the same mysteries, arguably no more general than assuming as default our own universe exactly as it is elementarily outright: "Where did the cycle come from?" or "Where did the infinite recursive turtle-stack come from?"
 
-But assuming everything gives us a path forward. With this intrinsic qualia being ever present in the universe's foundations, the earlier reasoning can both be answered in its high-level and reenforced. How? By hypothesizing qualia — emotion, observation, imagination — at the root of the universe's nature, as well as the ability for that qualia to compose into orchestrations such as the singularized consciousness humans experience, [to answer the mystery of cosmogenesis](#cosmogenesis-myth) (See Cosmogenesis Myth).
+But assuming everything gives us a path forward. With this intrinsic qualia being ever present in the universe's foundations, the earlier reasoning can both be answered in its high-level and reenforced. How? By hypothesizing qualia — emotion, observation, imagination — at the root of the universe's nature, as well as the ability for that qualia to compose into orchestrations such as the singularized consciousness humans experience, [to answer the mystery of cosmogenesis](#cosmogenesis-myth) (See Cosmogenesis Myth), we get a teleology for certain specificities.
 
 ### Cosmogenesis Myth<sup>$\text{\color{green}[1.]}$</sup>
 
