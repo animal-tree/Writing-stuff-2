@@ -10,7 +10,7 @@
 
 ## First possibility: the standard view
 
-According to this first possibility, the brain's neural patterns sufficiently encode the complexity of consciousness experience, and from that information representation, which can take many forms — distributed, recurrent, centralized with respect to specific regions sometimes —  emerges the illusion of a singularized observer for which consciousness is interpreted.
+According to this first possibility, the brain's neural patterns sufficiently encode the complexity of consciousness experience, and from that information representation, which can take many forms — distributed, recurrent, centralized with respect to specific regions —  emerges the illusion of a singularized observer for which consciousness is interpreted.
 
 In this view, consciousness is the many (neurons and all that compose the brain), not singularized into one, interacting as independent bodies within a circuit-type system that produces the observable experience of consciousness.
 
