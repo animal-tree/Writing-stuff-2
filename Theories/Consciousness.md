@@ -12,7 +12,7 @@ So the question is, at what point does this information communication become a p
 
 Well, for one, the physical material matters. That's why it's called matter. It matters. Or else we could simulate your consciousness with a domino chain. Or even with a human centipede/jamboree obeying the exact algorithm of your brain's dance of interactions.
 
-So the "grey matter" as it's called that composes your brain is not merely a representation machine, or an optional circuitry, but crucial to the singularization that is consciousness.
+So the *grey matter* as it's called that composes your brain is not merely a representation machine, or an optional circuitry, but crucial to the singularization that is consciousness.
 
 And once we've boiled down the credit for human consciousness to physical matter itself, not just its analogy of representations at the surface-level, we have to ask: (1) where does the physicalness of consciousness begin, and (2) how, mechanically, does it entangle so as to be one consciousness?
 
