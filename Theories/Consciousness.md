@@ -70,6 +70,15 @@ But why does suffering happen?
 
 There are many answers to this as well. Some suffering is sacred, such as grief. Within Everything, grief existed too. Other suffering isn't sacred. So why does it happen? Because humans perpetuate many injustices, including economic, social, spiritual, psychological, and physical. Humans are sacred. But the memory of these injustices is being established for our children, and there is another memory that the Everything wants to establish: how to escape this. The process of ending economic, social, spiritual, psychological, and physical injustice is a memory that the Everything wants to establish.
 
+#
+
+<p align='center'>* * *</p>
+
+> ### $\Huge &#8220;$
+> I think there's a shamanic temperament, which is a person who craves knowledge, knowledge in the Greek sense of gnosis. In other words, knowledge not of the sort where you subscribe to Scientific American and it validates what you believe. But cosmologies constructed out of immediate experience, that are found always to be applicable.
+> ### $\Huge &#8221;$
+> &ensp;&ensp;- **Terence McKenna**
+  
 ### Telomeres Question
 
 Asked this to my friend last year, after remembering I asked him a similar thing 7 years ago and had to look up what structure he mentioned that satisfied this. I didn't find it in our message history, but after some research got to "telomeres." Can't say what structure, if any, or if telomeres are that structure.
