@@ -14,7 +14,7 @@ Now when you rub them together hard and long enough with enough friction, you ca
 
 So you rub two sticks together, say, using the bow-drill method (for fire making), and you rupture those hydrocarbons into hydrogens and carbons. Now the hydrogen will bond with the oxygen (if you’re lucky), that is, in the air, and the carbon will bond with the oxygen (if you’re unlucky), and this all-around combo-reconfiguration-of-bonding<sup>TM</sup> tends to leave excess energy that shoots off like knives into your eyes (or rather specific colors of light emitted by those accelerated/reconfigured electrons) — and also potentially into other atoms and hydrocarbons. So now that emission is what you see. It’s a spark!
 
-If enough hydrocarbons are hanging around, say you put the ember in some tinder, now those little hailstorms will trigger a chain reaction. Like knives, they’ll cut through the other hydrocarbons present, creating instability — and more shooting photons and re-configuring electrons. 
+If enough hydrocarbons are hanging around, say you put the ember in some tinder, now those little hailstorms will trigger a chain reaction. Like knives, they’ll cut through the other hydrocarbons present, creating instability — and more shooting photons and accelerating/re-configuring electrons. 
 
 Meanwhile, those broken off hydrogens bonded to oxygen — you know what they are? Water! Water vapor technically. Steam, if you like, with its composition of oxygen and hydrogen amidst a hailstorm of photons and electrons. That “electricity water” is fire. 
 
