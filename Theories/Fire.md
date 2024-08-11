@@ -6,7 +6,7 @@ Therefore, below we will more or less prove that fire is water. Fire, actually, 
 
 For fun. Let’s begin.
 
-Fire is a result of compounds breaking in such a way that their fragments bond with oxygen in the air and their rupture releases a hailstorm of photons, accelerative like knives, triggering a chain reaction of more such compounds breaking up.
+Fire is a result of compounds breaking in such a way that their fragments bond with oxygen in the air and their rupture releases a hailstorm of bumping electrons and photons, accelerative like knives, triggering a chain reaction of more such compounds breaking up.
 
 Those compounds are called hydrocarbons, in the case of, for example, wood. Wood is hydrocarbons. Hydrogen and carbon. Paired together in holy divorcable matrimony.
 
@@ -32,7 +32,7 @@ That swarm of photon-electron dances keeps the reaction going. It's why it feels
 
 ---
 
-But if the fire is hot enough, as in magnesium fires, then you need something really dry, that isn't water or CO2, like copper, to separate the reactants from the oxygen frenzying it. In that case, water can actually fuel it. Though in fires like that, water doesn't come into the picture and we're just dealing with magnesium and all the pollution needed to get it burning to such a hot degree. Unless, for example, that temperature were reached by the energy of the sun, whose hydrogens "fuse" into helium, or by the rupture of the atom e.g. uranium or plutonium as in the controlled atomic bomb power of nuclear fission, combined sometimes with fusion as in the hydrogen bomb, or man-induced fusion: via the use of deuterium ("heavy water"). That is, water with one extra neutron, whose, and I say this with caution, knife-cut can act a bit like the photons in causing some disarray, if misused — that, a far deviation from the innocent days of nature.[^1]
+But if the fire is hot enough, as in magnesium fires, then you need something really dry, that isn't water or CO2, like copper, to separate the reactants from the oxygen frenzying it. In that case, water can actually fuel it. Though in fires like that, water doesn't come into the picture and we're just dealing with magnesium and all the pollution needed to get it burning to such a hot degree. Unless, for example, that temperature were reached by the energy of the sun, whose hydrogens "fuse" into helium, or by the rupture of the atom e.g. uranium or plutonium as in the controlled atomic bomb power of nuclear fission, combined sometimes with fusion as in the hydrogen bomb, or man-induced fusion: via the use of deuterium ("heavy water"). That is, water with one extra neutron, whose, and I say this with caution, knife-cut can act a bit like the bumping electrons and photons in causing some disarray, if misused — that, a far deviation from the innocent days of nature.[^1]
 
 Unlike fission, fusion, and unrenewable energy sources, "fire" in the primitive sense of our ancestor-paleolithic days in nature, is, vaporized regular H20, with no-neutrons, water (enchanted) by the power of electrons. With residue and sustainable levels of CO2 that the trees can breathe.
 
