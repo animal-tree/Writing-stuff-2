@@ -1,6 +1,6 @@
 The idea of saying everything is one is counterintuitive to most people.
 
-It’s like saying “fire is water.”
+It’s like saying "fire is water."
 
 Therefore, below we will more or less prove that fire is water. Fire, actually, is water.
 
@@ -16,13 +16,13 @@ So you rub two sticks together, say, using the bow-drill method (for fire making
 
 If enough hydrocarbons are hanging around, say you put the ember in some tinder, now those little hailstorms will trigger a chain reaction. Like knives, they’ll cut through the other hydrocarbons present, creating instability — and more shooting photons and accelerating/re-configuring electrons. 
 
-Meanwhile, those broken off hydrogens bonded to oxygen — you know what they are? Water! Water vapor technically. Steam, if you like, with its composition of oxygen and hydrogen amidst a hailstorm of photons and electrons. That “electricity water” is fire. 
+Meanwhile, those broken off hydrogens bonded to oxygen — you know what they are? Water! Water vapor technically. Steam, if you like, with its composition of oxygen and hydrogen amidst a hailstorm of photons and electrons. That "electricity water" is fire. 
 
 Now the carbons on the other hand can also bond with oxygen. And that creates CO2. Meanwhile, some non-combustible elements in the mix (since non-charcoal wood for example is composed combustibly of more than just hydrocarbons) create ash and, its rising form, lifted by those rising gasses and water, smoke. 
 
 (But does that mean fire is also CO2? Depending on the composition, maybe, [though not necessarily](https://www.quora.com/Can-you-burn-something-without-producing-CO2) and [varies](https://theconversation.com/curious-kids-if-steam-contains-water-what-does-smoke-from-fire-contain-172505))
 
-“Electriquey steam with some residue” — FIRE — in 5 words.
+"Electriquey steam with some residue" — FIRE — in 5 words.
 
 So fire is water? Yes, electricity water. It is possible. It’s water with some electrons creating a photoelectric rainbow of red and blue and yellow in your survival-expert-tool-wielding human eyes.
 
@@ -36,6 +36,6 @@ But if the fire is hot enough, as in magnesium fires, then you need something re
 
 Unlike fission, fusion, and unrenewable energy sources, "fire" in the primitive sense of our ancestor-paleolithic days in nature, is, vaporized regular H20, with no-neutrons, water (enchanted) by the power of electrons. With residue and sustainable levels of CO2 that the trees can breathe.
 
-That is the Null Hypothesis by which I define words. [There was a time by the way when "blue" didn't exist](https://lethbridgenewsnow.com/2021/02/09/the-curious-case-of-the-missing-color-blue/#:~:text=It%20turns%20out%20the%20color,see”%20blue%20until%20modern%20times!).
+That is the Null Hypothesis by which I define words. [There was a time by the way when "blue" didn't exist](https://lethbridgenewsnow.com/2021/02/09/the-curious-case-of-the-missing-color-blue/#:~:text=It%20turns%20out%20the%20color,see"%20blue%20until%20modern%20times!).
 
-[^1]: [the garden of eden](https://en.wikipedia.org/wiki/Garden_of_Eden), [now grown to](https://translate.google.com/?sl=sa&tl=en&text=कालोऽस्मि%20लोकक्षयकृत्प्रवृद्धो&op=translate) the modern [time, the destroyer of worlds](https://scroll.in/article/1053670/now-i-am-become-death-the-destroyer-of-worlds-truth-and-lies-in-oppenheimers-gita-moment#:~:text=Verse%2011.32%20of%20the%20Gita,here%20to%20annihilate%20the%20worlds.”), emblazed
+[^1]: [the garden of eden](https://en.wikipedia.org/wiki/Garden_of_Eden), [now grown to](https://translate.google.com/?sl=sa&tl=en&text=कालोऽस्मि%20लोकक्षयकृत्प्रवृद्धो&op=translate) the modern [time, the destroyer of worlds](https://scroll.in/article/1053670/now-i-am-become-death-the-destroyer-of-worlds-truth-and-lies-in-oppenheimers-gita-moment#:~:text=Verse%2011.32%20of%20the%20Gita,here%20to%20annihilate%20the%20worlds."), emblazed
