@@ -235,7 +235,7 @@ What are the quantum properties of a lens that allow light to be focused from a 
 
 Note that light can reach many or all parts of the lens from the same originating direction.
 
-## Bring Back Plasma TVs
+## Bring Back Plasma TVs, or "QD-OLEDs Seem Like They Might Be Cool"
 
 Eyesight in children is deteriorating. The percentage of children who depend on glasses has gone up _ since _. The percentage of adults who depend on glasses has gone up _ since _. 
 
