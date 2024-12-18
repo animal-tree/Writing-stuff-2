@@ -287,7 +287,7 @@ https://www.lg.com/in/oled-tvs/2021/eyecomfort-ecofriendly/#:~:text=LG%20OLED%20
 
 QLEDs also use polarizers, are like LEDs bit with QDs just added 
 
-Testing of hypothesis:
+## Testing of Hypothesis
 
 Though both plasmas and OLEDs are marketed as easier on the eyes, the latter also less linearly polarized than LEDs, intense polarization has not yet been researched in control studies as an optically dangerous property of the visible light spectrum, which is a higher frequency and has a stronger electromagnetic field than radio waves, making this hypothesis somewhat—though not entirely—independent from concerns over 5g, which are also polarized wave signals, but at a much lower frequency, though perhaps higher intensity. The increase in eye damage over the last couple of decades and the study data that screen technologies are deleterious to vision make this hypothesis more of concern to optometry. A simple study to falsify this hypothesis is to put volunteers in an environment to practice a blue flower meditation—staring at a blue flower in the sun or under an ordinary incandescent lamp for prolonged periods of time, perhaps days or weeks—and compare the reported eye strain, itchiness, dryness, and other symptoms to the same but for a screen image of a blue flower with a different cohort. Lighting conditions can be normalized so that the real-world flower is as illuminated as the on-screen one, by comparing still photographic images of the two so to achieve equal perceptual intensity of the flowers, natural and digital, and then lux meter intensity can also be measured and equalized.
 
