@@ -81,12 +81,27 @@ In logic, definitely no. [More elaboration here](Consciousness.md#cosmogenesis-m
 
 I described that path with some more specifics [here](Consciousness.md#cosmogenesis-myth).
 
-<!--
+
 ### Logic
 
-In logic, one can’t assume “no assumption.” “No assumption” would also be an assumption. One can only assume the axioms that incur the least loss in generality. “Nothing” is not the lack of an axiom, but an axiom. “Everything” is not the lack of an axiom, but an axiom. Both are defined only in relation to each other, as opposites. One cannot exist without the other, no more than the backward direction can if there’s no forward direction. “Nothing” is distinct from empty space—it’s undefinable without an “everything” in reference to it.
+> To do: Maybe something more formal deduction-based: In logic, one can’t assume “no assumption.” “No assumption” would also be an assumption. One can only assume the axioms that incur the least loss in generality. “Nothing” is not the lack of an axiom, but an axiom. “Everything” is not the lack of an axiom, but an axiom. Both are defined only in relation to each other, as opposites. One cannot exist without the other, no more than the backward direction can if there’s no forward direction. “Nothing” is distinct from empty space—it’s undefinable without an “everything” in reference to it.
+>
+> An assumption/axiom is always "a loss in generality," and the latter is always an assumption/axiom.
 
-In fact, an assumption/axiom can be defined as "a loss in generality."
--->
+### The Huge Value of Atheism and Skepticism
 
 > To do: Add something like this: I was an argumentative atheist, without two experiences atheists are most right, the first being an explanation for how it’s possible—but that’s not enough because billions of miles away there could be an alien planet of Amazon warriors; that doesn’t mean it’s true—and the experience of telepathy and synchronicities, the consciousness depth, no anxiety, transcendence I was experiencing in the House on May St. when I also realized, through my studies of artificial intelligence, not any religious person’s reasoning, how it’s possible. Religious people, like Job’s friends who argued with him and thought he was blaspheming, are more wrong because their justifications for their views are wrong. They bring injustice to just conclusions. Atheists have decisions based on all of physics to contend with and the observed consistency of that physics, gravity and electromagnetism not being really up for rational debate. A skeptic is useful for their ability to answer specifics, and justly
+
+### Why Not a More Pleasant Universe Where, Instead of Our Physics, is Just Happiness?
+
+> To do: Also add some point, on the question of why not create a universe of only pleasure, about given the choice to have a morphine drip, and Eternal Sunshine of the Spotless Mind, a movie where Jim Carrey forgets all of his pain, and forget your grandparents, and parents, and griefs and heartaches and rejections, and have a morphine drip for the rest of your life, starting today, would you do it? Would your highest wisdom do it? So if not, perhaps for the same reason, the universe was not chosen as a morphine drip only
+
+> And if haven't enough already, specify how the intelligent super being can interact with universe through limited statistical divergence of quantum particle sampling, without breaking the known and observed laws of nature (that sufficiently explains it, "limited statistical divergence of quantum particle sampling")
+
+### So God is Avoiding Preferentialism?
+
+> To do: Maybe another reason for consistency of physics, is so that history and memory can be perennial. The dumbest example I can think of, is so that TV shows from the 1900s and 2000s stay relevant in the 3000s and so on. 
+>
+> There might be deeper patterns that construct the "monomyth," the structures at the root of stories and psychological meaning, from archetypes to specific transitions/transformations, and perhaps poetic symmetry between those and physics—people/social patterns as images of physics, not just abstractly-God, and for that perennial story to exist yesterday, today, and tomorrow might have a stricter divergence limit constraint, than would be justified by "avoiding preferrentialism" and "biases" alone.
+
+> And need to point out how many interactions there are to account for, and why divided experiences are better than just a singular one, resulting in those many interaction problems
